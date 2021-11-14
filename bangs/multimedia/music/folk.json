@@ -1,0 +1,17 @@
+[
+  {
+    "bang": "abc",
+    "name": "abcnotation",
+    "url": "http://abcnotation.com/searchTunes?q={{{s}}}"
+  },
+  {
+    "bang": "folktunefinder",
+    "name": "folktunefinder",
+    "url": "http://www.folktunefinder.com/tunes?text={{{s}}}"
+  },
+  {
+    "bang": "session",
+    "name": "The Session",
+    "url": "https://thesession.org/search?where=&q={{{s}}}"
+  }
+]

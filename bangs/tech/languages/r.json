@@ -1,0 +1,47 @@
+[
+  {
+    "bang": "cran",
+    "name": "cran.r-project.org",
+    "url": "http://finzi.psych.upenn.edu/cgi-bin/namazu.cgi?query={{{s}}}&max=100&result=normal&sort=score&idxname=functions&idxname=vignettes&idxname=views"
+  },
+  {
+    "bang": "rdocs",
+    "name": "RDocumentation",
+    "url": "https://www.rdocumentation.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "rdocu",
+    "name": "RDocumentation",
+    "url": "https://www.rdocumentation.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "rdo",
+    "name": "R Documentation",
+    "url": "https://www.rdocumentation.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "rdrr",
+    "name": "rdrr.io",
+    "url": "https://rdrr.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "rseek",
+    "name": "RSeek",
+    "url": "http://www.rseek.org/?cx=010923144343702598753:boaz1reyxd4&newwindow=1&q={{{s}}}&sa=Search+functions,+lists,+and+more&cof=FORID:11&siteurl=www.rseek.org"
+  },
+  {
+    "bang": "rso",
+    "name": "R questions on Stack Overflow",
+    "url": "http://stackoverflow.com/search?q=[r]+{{{s}}}"
+  },
+  {
+    "bang": "rstats",
+    "name": "R Documentation",
+    "url": "https://www.rdocumentation.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "sor",
+    "name": "Stack Overflow - R",
+    "url": "http://stackoverflow.com/search?q=[r]+{{{s}}}"
+  }
+]

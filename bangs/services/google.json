@@ -1,0 +1,1472 @@
+[
+  {
+    "bang": "ar2en",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#ar/en/{{{s}}}"
+  },
+  {
+    "bang": "bla",
+    "name": "blackle",
+    "url": "http://blackle.com/results/?cx=partner-pub-8993703457585266%3A4862972284&cof=FORID%3A10&ie=UTF-8&q= {{{s}}}&sa=+#gsc.tab=0&gsc.q= {{{s}}}&gsc.page=1"
+  },
+  {
+    "bang": "boingboing",
+    "name": "boingboing",
+    "url": "http://www.google.com/cse?cx=partner-pub-2170174688585464:d58nno-rqp8&ie=ISO-8859-1&q={{{s}}}&sa=GO&siteurl=www.boingboing.net"
+  },
+  {
+    "bang": "brave",
+    "name": "Brave Search",
+    "url": "https://search.brave.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "c2e",
+    "name": "Google Translate (Czech to English)",
+    "url": "https://translate.google.com/#cs/en/{{{s}}}"
+  },
+  {
+    "bang": "cached",
+    "name": "Google Cache",
+    "url": "https://webcache.googleusercontent.com/search?q=cache:{{{s}}}"
+  },
+  {
+    "bang": "cachedview",
+    "name": "Google Cached Pages",
+    "url": "http://webcache.googleusercontent.com/search?q=cache:{{{s}}}"
+  },
+  {
+    "bang": "cache",
+    "name": "Google Cache",
+    "url": "https://webcache.googleusercontent.com/search?q=cache:{{{s}}}"
+  },
+  {
+    "bang": "calendar",
+    "name": "Google Calendar",
+    "url": "https://www.google.com/calendar/b/0/render?q={{{s}}}"
+  },
+  {
+    "bang": "che",
+    "name": "Chrome Web Store Extensions",
+    "url": "https://chrome.google.com/webstore/search/{{{s}}}?_category=extensions"
+  },
+  {
+    "bang": "compose",
+    "name": "Compose Email (Gmail)",
+    "url": "https://mail.google.com/mail/?view=cm&to=&su={{{s}}}"
+  },
+  {
+    "bang": "contacts",
+    "name": "Google Contacts",
+    "url": "https://contacts.google.com/search/{{{s}}}"
+  },
+  {
+    "bang": "cyen",
+    "name": "Google Translate - Welsh to English",
+    "url": "https://translate.google.com/#cy/en/{{{s}}}"
+  },
+  {
+    "bang": "de2fr",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#de/fr/{{{s}}}"
+  },
+  {
+    "bang": "debianfr",
+    "name": "Debian Pages (French)",
+    "url": "http://www.google.com/cse?cx=007724375775369850404%3Ajwpah_hbbjk&ie=UTF-8&q={{{s}}}&sa=Rechercher&siteurl=www.google.com%2Fcse%2Fhome%3Fcx%3D007724375775369850404%3Ajwpah_hbbjk"
+  },
+  {
+    "bang": "dehu",
+    "name": "Google Translate de-hu",
+    "url": "http://translate.google.com/#de/hu/{{{s}}}"
+  },
+  {
+    "bang": "drive",
+    "name": "Google Drive",
+    "url": "https://drive.google.com/drive/search?q={{{s}}} "
+  },
+  {
+    "bang": "e2c",
+    "name": "Google Translate (English to Czech)",
+    "url": "https://translate.google.com/#en/cs/{{{s}}}"
+  },
+  {
+    "bang": "earth",
+    "name": "Google Earth",
+    "url": "https://earth.google.com/web/search/{{{s}}}"
+  },
+  {
+    "bang": "elen",
+    "name": "Google translate el-en",
+    "url": "http://translate.google.com/#el/en/{{{s}}}"
+  },
+  {
+    "bang": "emacs",
+    "name": "EmacsWiki",
+    "url": "https://duckduckgo.com/?q=site:emacswiki.org+{{{s}}}"
+  },
+  {
+    "bang": "en2ar",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#en/ar/{{{s}}}"
+  },
+  {
+    "bang": "en2fa",
+    "name": "Google translate En to Fa",
+    "url": "https://translate.google.com/#en/fa/{{{s}}}"
+  },
+  {
+    "bang": "en2zh",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#en/zh-CN/{{{s}}}"
+  },
+  {
+    "bang": "ency",
+    "name": "Google Translate - English to Welsh",
+    "url": "https://translate.google.com/#en/cy/{{{s}}}"
+  },
+  {
+    "bang": "ende",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#en/de/{{{s}}}"
+  },
+  {
+    "bang": "enel",
+    "name": "Google translate en-el",
+    "url": "http://translate.google.com/#en/el/{{{s}}}"
+  },
+  {
+    "bang": "enes",
+    "name": "Google translate en-es",
+    "url": "http://translate.google.com/#en/es/{{{s}}}"
+  },
+  {
+    "bang": "enfr",
+    "name": "Google translate en-fr",
+    "url": "http://translate.google.com/#en/fr/{{{s}}}"
+  },
+  {
+    "bang": "enhe",
+    "name": "Google translate",
+    "url": "https://translate.google.com/#en/iw/{{{s}}}"
+  },
+  {
+    "bang": "enhu",
+    "name": "Google Translate en-hu",
+    "url": "http://translate.google.com/#en/hu/{{{s}}}"
+  },
+  {
+    "bang": "enit",
+    "name": "Google translate en-it",
+    "url": "http://translate.google.com/#en/it/{{{s}}} "
+  },
+  {
+    "bang": "enkr",
+    "name": "Google Translate English-Korean",
+    "url": "https://translate.google.com/#en/ko/{{{s}}}"
+  },
+  {
+    "bang": "enlt",
+    "name": "Google Translate English to Lithuanian",
+    "url": "http://translate.google.com/#en/lt/{{{s}}}"
+  },
+  {
+    "bang": "ennl",
+    "name": "Google translate",
+    "url": "https://translate.google.com/#en/nl/{{{s}}}"
+  },
+  {
+    "bang": "enno",
+    "name": "Google Translate en-no",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=en&tl=no&text={{{s}}}"
+  },
+  {
+    "bang": "enpt",
+    "name": "google translate en-pt",
+    "url": "http://translate.google.com/#en/pt/{{{s}}} "
+  },
+  {
+    "bang": "ensl",
+    "name": "Google Translate en-sl",
+    "url": "http://translate.google.com/#en/sl/{{{s}}}"
+  },
+  {
+    "bang": "ensv",
+    "name": "Google Translator (English -> Swedish)",
+    "url": "https://translate.google.com/#en/sv/{{{s}}}"
+  },
+  {
+    "bang": "esen",
+    "name": "Google translate es-en",
+    "url": "http://translate.google.com/#es/en/{{{s}}}"
+  },
+  {
+    "bang": "esfr",
+    "name": "Google translate es-fr",
+    "url": "http://translate.google.com/#es/fr/{{{s}}}"
+  },
+  {
+    "bang": "eshu",
+    "name": "Google Translate es-hu",
+    "url": "https://translate.google.hu/#es/hu/{{{s}}}"
+  },
+  {
+    "bang": "esit",
+    "name": "Google translate es-it",
+    "url": "http://translate.google.com/#es/it/{{{s}}}"
+  },
+  {
+    "bang": "espt",
+    "name": "Google Translate Spanish-Portuguese",
+    "url": "https://translate.google.com/#es/pt/{{{s}}}"
+  },
+  {
+    "bang": "fa2en",
+    "name": "Google translate Fa to En",
+    "url": "https://translate.google.com/#fa/en/{{{s}}}"
+  },
+  {
+    "bang": "faces",
+    "name": "Google Images (Faces)",
+    "url": "https://www.google.com/search?tbm=isch&tbs=itp:face&q={{{s}}}"
+  },
+  {
+    "bang": "fr2en",
+    "name": "GoogleTraduction",
+    "url": "http://translate.google.com/#fr/en/{{{s}}}"
+  },
+  {
+    "bang": "fren",
+    "name": "Google translate fr-en",
+    "url": "http://translate.google.com/#fr/en/{{{s}}}"
+  },
+  {
+    "bang": "fres",
+    "name": "Google translate fr-es",
+    "url": "http://translate.google.com/#fr/es/{{{s}}}"
+  },
+  {
+    "bang": "frru",
+    "name": "Google Translate FR-RU",
+    "url": "https://translate.google.com/#fr/ru/{{{s}}}"
+  },
+  {
+    "bang": "g24",
+    "name": "Google (Past 24h)",
+    "url": "http://www.google.com/search?q={{{s}}}&tbs=qdr:d"
+  },
+  {
+    "bang": "g2year",
+    "name": "Google ( Past 2 Years)",
+    "url": "https://www.google.com/search?tbs=qdr:y2&q={{{s}}}&safe=off&ie=utf-8&oe=utf-8"
+  },
+  {
+    "bang": "g6month",
+    "name": "Google (Past 6 Months)",
+    "url": "https://www.google.com/search?tbs=qdr:m6&q={{{s}}}&safe=off&ie=utf-8&oe=utf-8"
+  },
+  {
+    "bang": "gaccess",
+    "name": "Google Accessible",
+    "url": "http://www.google.com/cse?ie=UTF-8&cx=000183394137052953072%3Azc1orsc6mbq&q={{{s}}}t&btnG=Search"
+  },
+  {
+    "bang": "gae",
+    "name": "Google AE",
+    "url": "http://www.google.ae/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gaen",
+    "name": "Google Translate",
+    "url": "http://translate.google.com/#ga/en/{{{s}}}"
+  },
+  {
+    "bang": "galerts",
+    "name": "google alerts",
+    "url": "https://www.google.com/alerts?q={{{s}}}"
+  },
+  {
+    "bang": "gar",
+    "name": "Google AR",
+    "url": "http://www.google.com.ar/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gas",
+    "name": "Google American Samoa",
+    "url": "http://www.google.as/search?q={{{s}}}"
+  },
+  {
+    "bang": "gat",
+    "name": "Google AT",
+    "url": "http://www.google.at/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gau",
+    "name": "Google AU",
+    "url": "http://www.google.com.au/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gba",
+    "name": "Gmail by account",
+    "url": "https://mail.google.com/mail/u/{{{s}}}"
+  },
+  {
+    "bang": "gbe",
+    "name": "Google BE",
+    "url": "http://www.google.be/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gbg",
+    "name": "Google BG",
+    "url": "http://www.google.bg/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gbk",
+    "name": "Google Bookmarks",
+    "url": "https://www.google.com/bookmarks/l#!q={{{s}}}"
+  },
+  {
+    "bang": "gbm",
+    "name": "Google Bookmarks",
+    "url": "https://www.google.com/bookmarks/find?q={{{s}}}"
+  },
+  {
+    "bang": "gbr",
+    "name": "Google BR",
+    "url": "http://www.google.com.br/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gca",
+    "name": "Google CA",
+    "url": "http://www.google.ca/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gcal",
+    "name": "Google Calendar",
+    "url": "https://calendar.google.com/calendar/b/0/r/search?q={{{s}}}"
+  },
+  {
+    "bang": "gcat",
+    "name": "Google Catalan",
+    "url": "http://www.google.cat/#q={{{s}}}"
+  },
+  {
+    "bang": "gc",
+    "name": "Google Contacts",
+    "url": "https://contacts.google.com/search/{{{s}}}"
+  },
+  {
+    "bang": "gch",
+    "name": "Google CH",
+    "url": "http://www.google.ch/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gcl",
+    "name": "Google CL",
+    "url": "http://www.google.cl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gcn",
+    "name": "Google CN",
+    "url": "http://www.google.cn/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gcode",
+    "name": "Google Code",
+    "url": "https://code.google.com/hosting/search?q={{{s}}}"
+  },
+  {
+    "bang": "gco",
+    "name": "Google CO",
+    "url": "http://www.google.com.co/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gcontact",
+    "name": "Google Contacts",
+    "url": "https://contacts.google.com/search/{{{s}}}"
+  },
+  {
+    "bang": "gcro",
+    "name": "Google",
+    "url": "https://www.google.hr/#q={{{s}}}&*"
+  },
+  {
+    "bang": "gcs",
+    "name": "Google Cloud Search",
+    "url": "https://cloudsearch.google.com/cloudsearch/search?q={{{s}}}"
+  },
+  {
+    "bang": "gcu",
+    "name": "Google Cuba",
+    "url": "https://www.google.com/search?q={{{s}}}&source=lnt&tbs=ctr:countryCU&cr=countryCU"
+  },
+  {
+    "bang": "gcultinst",
+    "name": "Google Cultural Institute",
+    "url": "https://www.google.com/culturalinstitute/browse/{{{s}}}"
+  },
+  {
+    "bang": "gcy",
+    "name": "Google Cyprus",
+    "url": "https://www.google.com.cy/search?q={{{s}}}"
+  },
+  {
+    "bang": "gcz",
+    "name": "Google CZ",
+    "url": "http://www.google.cz/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gday",
+    "name": "Google (Past Day)",
+    "url": "http://www.google.com/search?q={{{s}}}&tbs=qdr:d"
+  },
+  {
+    "bang": "gdeen",
+    "name": "Google Translate de->en",
+    "url": "https://translate.google.com/#de/en/{{{s}}}"
+  },
+  {
+    "bang": "gdef",
+    "name": "Google define",
+    "url": "https://www.google.com/search?hl=en&q=define+{{{s}}}"
+  },
+  {
+    "bang": "gde",
+    "name": "Google DE",
+    "url": "http://www.google.de/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gdevs",
+    "name": "Google Developers",
+    "url": "https://developers.google.com/s/results/?q={{{s}}}"
+  },
+  {
+    "bang": "gd",
+    "name": "Google Docs",
+    "url": "https://docs.google.com/document/u/0/?q={{{s}}}"
+  },
+  {
+    "bang": "gdk",
+    "name": "Google DK",
+    "url": "http://www.google.dk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gdomains",
+    "name": "Google Domains",
+    "url": "https://domains.google.com/registrar?s={{{s}}}"
+  },
+  {
+    "bang": "gdoms",
+    "name": "Google Domains",
+    "url": "https://domains.google.com/registrar?s={{{s}}}"
+  },
+  {
+    "bang": "gdrive",
+    "name": "Google Drive",
+    "url": "https://drive.google.com/drive/search?q={{{s}}}"
+  },
+  {
+    "bang": "gdv",
+    "name": "Google Docs viewer",
+    "url": "https://docs.google.com/viewer?url={{{s}}}"
+  },
+  {
+    "bang": "gecuador",
+    "name": "Google Ecuador",
+    "url": "https://www.google.com.ec/search?safe=active&q={{{s}}} "
+  },
+  {
+    "bang": "gee",
+    "name": "Google EE",
+    "url": "http://www.google.ee/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "geen",
+    "name": "Google Translate German to English",
+    "url": "https://translate.google.com/#ge/en/{{{s}}}"
+  },
+  {
+    "bang": "ge",
+    "name": "Google Encrypted",
+    "url": "https://google.com/#q={{{s}}}"
+  },
+  {
+    "bang": "ges",
+    "name": "Google Spain",
+    "url": "https://www.google.es/search?q={{{s}}} "
+  },
+  {
+    "bang": "gf",
+    "name": "Google Finance",
+    "url": "http://finance.google.com/?q={{{s}}}&sa=N&tab=fe"
+  },
+  {
+    "bang": "gfi",
+    "name": "Google finland",
+    "url": "https://www.google.fi/search?q={{{s}}}"
+  },
+  {
+    "bang": "gfinance",
+    "name": "Google Finance",
+    "url": "http://finance.google.com/?q={{{s}}}&sa=N&tab=fe"
+  },
+  {
+    "bang": "gfl",
+    "name": "Google Flights",
+    "url": "https://www.google.com/flights/#search;t={{{s}}}"
+  },
+  {
+    "bang": "gfont",
+    "name": "Google font",
+    "url": "https://fonts.google.com/?query={{{s}}}"
+  },
+  {
+    "bang": "gforums",
+    "name": "Google Forums",
+    "url": "https://productforums.google.com/forum/#!topicsearch/{{{s}}}"
+  },
+  {
+    "bang": "gfr",
+    "name": "Google FR",
+    "url": "http://www.google.fr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "ggd",
+    "name": "Google Guadeloupe",
+    "url": "https://www.google.gp/?gws_rd=ssl#q= {{{s}}} "
+  },
+  {
+    "bang": "gg",
+    "name": "Google Groups",
+    "url": "http://groups.google.com/groups/search?q={{{s}}}&qt_s=Search+Groups"
+  },
+  {
+    "bang": "g",
+    "name": "Google",
+    "url": "https://www.google.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ggr",
+    "name": "Google GR",
+    "url": "http://www.google.gr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "ggroups",
+    "name": "Google Groups",
+    "url": "http://groups.google.com/groups/search?q={{{s}}}&qt_s=Search+Groups"
+  },
+  {
+    "bang": "ghk",
+    "name": "Google HK",
+    "url": "http://www.google.com.hk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "ghour",
+    "name": "Google Past Hour Search ",
+    "url": "https://google.com/search?q={{{s}}}&tbs=qdr:h"
+  },
+  {
+    "bang": "ghu",
+    "name": "Google HU",
+    "url": "http://www.google.hu/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "giau",
+    "name": "Google Images Australia",
+    "url": "https://www.google.com.au/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "bang": "gic",
+    "name": "Google Images Classic",
+    "url": "https://www.google.com/search?q={{{s}}}&tbm=isch&sout=1"
+  },
+  {
+    "bang": "gid",
+    "name": "Google ID",
+    "url": "http://www.google.co.id/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gie",
+    "name": "Google IE",
+    "url": "http://www.google.ie/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gifl",
+    "name": "Google: I'm Feeling Lucky",
+    "url": "http://google.com/search?btnI=1&q={{{s}}}"
+  },
+  {
+    "bang": "gi",
+    "name": "Google Images",
+    "url": "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "bang": "gik",
+    "name": "Google IL",
+    "url": "http://www.google.co.il/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gil",
+    "name": "Google Israel",
+    "url": "https://www.google.co.il/#q={{{s}}}"
+  },
+  {
+    "bang": "gimages",
+    "name": "Google Images",
+    "url": "http://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "bang": "gimg",
+    "name": "Google Images",
+    "url": "https://www.google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "bang": "gim",
+    "name": "Google Images",
+    "url": "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "bang": "gin",
+    "name": "Google India",
+    "url": "https://www.google.co.in/#q={{{s}}}"
+  },
+  {
+    "bang": "gisafeoff",
+    "name": "Google Images (Safe Off)",
+    "url": "http://www.google.com/images?safe=off&q={{{s}}}"
+  },
+  {
+    "bang": "gis",
+    "name": "Google Image Search",
+    "url": "https://www.google.com/search?site=imghp&tbm=isch&q={{{s}}}"
+  },
+  {
+    "bang": "gisoff",
+    "name": "Google Images (Safe Off)",
+    "url": "http://www.google.com/images?safe=off&q={{{s}}}"
+  },
+  {
+    "bang": "gitl",
+    "name": "Google IT",
+    "url": "http://www.google.it/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "giuk",
+    "name": "Google Images UK",
+    "url": "http://www.google.co.uk/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "bang": "gj",
+    "name": "Google Japan",
+    "url": "http://www.google.co.jp/search?q={{{s}}}"
+  },
+  {
+    "bang": "gjp",
+    "name": "Google JP",
+    "url": "http://www.google.co.jp/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gkr",
+    "name": "Google KR",
+    "url": "http://www.google.co.kr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "glatest",
+    "name": "Google Latest",
+    "url": "http://www.google.com/search?q={{{s}}}&tbs=rltm:1"
+  },
+  {
+    "bang": "glink",
+    "name": "Google",
+    "url": "http://www.google.com/search?as_lq={{{s}}}&hl=en&btnG=Search"
+  },
+  {
+    "bang": "glk",
+    "name": "Google LK",
+    "url": "https://www.google.lk/search?q={{{s}}}"
+  },
+  {
+    "bang": "glocal",
+    "name": "Google Local",
+    "url": "http://local.google.com/maps?f=q&source=s_q&geocode=&q={{{s}}}"
+  },
+  {
+    "bang": "glt",
+    "name": "Google LT",
+    "url": "http://www.google.lt/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gluck",
+    "name": "Google Feeling Lucky",
+    "url": "http://www.google.com/search?q={{{s}}}&btnI"
+  },
+  {
+    "bang": "glu",
+    "name": "Google Luxembourg",
+    "url": "https://www.google.lu/search?q={{{s}}}"
+  },
+  {
+    "bang": "glv",
+    "name": "Google LV",
+    "url": "http://www.google.lv/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gma",
+    "name": "Gmail",
+    "url": "https://mail.google.com/mail/u/0/#search/{{{s}}}"
+  },
+  {
+    "bang": "gmail",
+    "name": "GMail.com",
+    "url": "https://mail.google.com/mail/#search/{{{s}}}"
+  },
+  {
+    "bang": "gmailh",
+    "name": "Gmail",
+    "url": "https://mail.google.com/mail/u/0/h/?s=q&q={{{s}}}&nvp_site_mail=Search%20Mail"
+  },
+  {
+    "bang": "gmap",
+    "name": "Google Maps",
+    "url": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "bang": "gmaps",
+    "name": "Google Maps",
+    "url": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "bang": "gmat",
+    "name": "Google Maps Austria",
+    "url": "https://www.google.at/maps/search/{{{s}}}"
+  },
+  {
+    "bang": "gmil",
+    "name": "Google Maps Israel",
+    "url": "https://www.google.co.il/maps/search/{{{s}}}/?hl=iw"
+  },
+  {
+    "bang": "gmit",
+    "name": "Google Maps",
+    "url": "https://www.google.it/maps/place/{{{s}}}"
+  },
+  {
+    "bang": "gmjp",
+    "name": "Google Maps JP",
+    "url": "https://www.google.co.jp/maps/place/{{{s}}}"
+  },
+  {
+    "bang": "gmob",
+    "name": "Google (mobile site viewer)",
+    "url": "http://www.google.com/gwt/x?u={{{s}}}"
+  },
+  {
+    "bang": "gmonth",
+    "name": "Google (Past Month)",
+    "url": "http://www.google.com/search?q={{{s}}}&tbs=qdr:m"
+  },
+  {
+    "bang": "gmusic",
+    "name": "Google Music",
+    "url": "http://music.google.com/music/listen?#{{{s}}}_sr"
+  },
+  {
+    "bang": "gmx",
+    "name": "Google",
+    "url": "https://www.google.com.mx/#q={{{s}}}"
+  },
+  {
+    "bang": "gmy",
+    "name": "Google MY",
+    "url": "http://www.google.com.my/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gncr",
+    "name": "Google No Country Redirect",
+    "url": "https://www.google.com/search?gws_rd=cr&gl=us&hl=en&num=20&q={{{s}}}"
+  },
+  {
+    "bang": "gnfr",
+    "name": "Google News French",
+    "url": "http://www.google.fr/search?aq=f&hl=fr&gl=fr&tbm=nws&btnmeta_news_search=1&q={{{s}}} "
+  },
+  {
+    "bang": "gnl",
+    "name": "Google NL",
+    "url": "http://www.google.nl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gnm",
+    "name": "Google News (mobile)",
+    "url": "http://www.google.com/m/search?site=news&q={{{s}}}"
+  },
+  {
+    "bang": "gno",
+    "name": "Google NO",
+    "url": "http://www.google.no/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gnz",
+    "name": "Google New Zealand",
+    "url": "http://www.google.co.nz/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "googlebe",
+    "name": "Google Belgium",
+    "url": "https://www.google.be/#q={{{s}}}"
+  },
+  {
+    "bang": "googlech",
+    "name": "Google Suisse/Schweiz/Switzerland",
+    "url": "https://www.google.ch/search?q={{{s}}}"
+  },
+  {
+    "bang": "googlefonts",
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com/?query={{{s}}}"
+  },
+  {
+    "bang": "googlefr",
+    "name": "Google France",
+    "url": "https://www.google.fr/#q={{{s}}}"
+  },
+  {
+    "bang": "google",
+    "name": "Google",
+    "url": "https://www.google.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "googleimages",
+    "name": "Google Images",
+    "url": "http://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "bang": "googlein",
+    "name": "duckduckgo",
+    "url": "https://www.google.co.in/search?q={{{s}}}"
+  },
+  {
+    "bang": "googlejp",
+    "name": "Google Japan",
+    "url": "https://www.google.co.jp/search?q={{{s}}}"
+  },
+  {
+    "bang": "google.kr",
+    "name": "Google Korea",
+    "url": "https://www.google.co.kr/?gws_rd=cr&ei=GEnlVfT8BMOJuQT8tLPYDg={{{s}}}"
+  },
+  {
+    "bang": "googlemap",
+    "name": "Google Maps",
+    "url": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "bang": "googlemaps",
+    "name": "Google Maps",
+    "url": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "bang": "googlepl",
+    "name": "Google poland",
+    "url": "https://www.google.pl/#q={{{s}}}"
+  },
+  {
+    "bang": "googlept",
+    "name": "Google Portugal",
+    "url": "https://www.google.pt/search?hl=pt_pt&q={{{s}}}"
+  },
+  {
+    "bang": "googlese",
+    "name": "Google Sweden",
+    "url": "http://google.se/?q={{{s}}}"
+  },
+  {
+    "bang": "googleuk",
+    "name": "Google UK",
+    "url": "http://www.google.co.uk/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "goog",
+    "name": "unencrypted google search",
+    "url": "http://www.google.com/?q={{{s}}}"
+  },
+  {
+    "bang": "gosv",
+    "name": "Google El Salvador",
+    "url": "https://www.google.com.sv/#q={{{s}}}"
+  },
+  {
+    "bang": "gpa",
+    "name": "Google Play Apps",
+    "url": "https://play.google.com/store/search?q={{{s}}}&c=apps"
+  },
+  {
+    "bang": "gpat",
+    "name": "Google Patents",
+    "url": "http://www.google.com/patents?q={{{s}}}&btnG=Search+Patents"
+  },
+  {
+    "bang": "gpe",
+    "name": "Google PE",
+    "url": "http://www.google.com.pe/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gph",
+    "name": "Google Philippines",
+    "url": "https://www.google.com.ph/search?hl=en&q={{{s}}}&tbs=ctr:countryPH&cr=countryPH "
+  },
+  {
+    "bang": "gplay",
+    "name": "Google Play Store",
+    "url": "https://play.google.com/store/search?q={{{s}}} "
+  },
+  {
+    "bang": "gpl",
+    "name": "Google PL",
+    "url": "http://www.google.pl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gplus",
+    "name": "Google Plus",
+    "url": "https://plus.google.com/s/{{{s}}}"
+  },
+  {
+    "bang": "gplusp",
+    "name": "Google Plus",
+    "url": "http://www.google.com/search?tbs=prfl:e&q={{{s}}}"
+  },
+  {
+    "bang": "gpt",
+    "name": "Google PT",
+    "url": "https://www.google.pt/search?q={{{s}}}"
+  },
+  {
+    "bang": "gro",
+    "name": "Google RO",
+    "url": "http://www.google.ro/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "grs",
+    "name": "Google RS",
+    "url": "https://www.google.rs/search?q={{{s}}}"
+  },
+  {
+    "bang": "gru",
+    "name": "Google RU",
+    "url": "https://google.ru/search?hl=ru&q={{{s}}}"
+  },
+  {
+    "bang": "gsafe",
+    "name": "Google (all&safe)",
+    "url": "https://www.google.com/search?hl=all&safe=on&pws=0&q={{{s}}}"
+  },
+  {
+    "bang": "gsc",
+    "name": "Google Scholar",
+    "url": "http://scholar.google.com/scholar?q={{{s}}}&btnG=Search&as_sdt=800000000001&as_sdtp=on"
+  },
+  {
+    "bang": "gscholar",
+    "name": "Google Scholar",
+    "url": "http://scholar.google.com/scholar?q={{{s}}}&btnG=Search&as_sdt=800000000001&as_sdtp=on"
+  },
+  {
+    "bang": "gse",
+    "name": "Google SE",
+    "url": "http://www.google.se/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gsg",
+    "name": "Google SG",
+    "url": "http://www.google.com.sg/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gs",
+    "name": "Google Shopping",
+    "url": "http://www.google.com/products?q={{{s}}}&sa=N&tab=pf"
+  },
+  {
+    "bang": "gsheet",
+    "name": "Google Spreadsheets",
+    "url": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}"
+  },
+  {
+    "bang": "gsheets",
+    "name": "Google Sheets",
+    "url": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}"
+  },
+  {
+    "bang": "gsh",
+    "name": "Google Spreadsheets",
+    "url": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}"
+  },
+  {
+    "bang": "gshopping",
+    "name": "Google Shopping",
+    "url": "https://www.google.com/products?q={{{s}}}&sa=N&tab=pf"
+  },
+  {
+    "bang": "gsi",
+    "name": "Google SI",
+    "url": "https://www.google.si/search?q={{{s}}}"
+  },
+  {
+    "bang": "gsk",
+    "name": "Google SK",
+    "url": "http://www.google.sk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gsl",
+    "name": "Google SL",
+    "url": "http://www.google.com.sl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gslides",
+    "name": "Google Slides",
+    "url": "https://slides.google.com/presentation/u/0/?q={{{s}}}"
+  },
+  {
+    "bang": "gspreadsheets",
+    "name": "Google Spreadsheets",
+    "url": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}"
+  },
+  {
+    "bang": "gssl",
+    "name": "Google with SSL",
+    "url": "https://google.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gsupport",
+    "name": "Google Support",
+    "url": "https://support.google.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gsv",
+    "name": "Google Swedish",
+    "url": "https://google.com/search?hl=sv&q={{{s}}}"
+  },
+  {
+    "bang": "gtcz",
+    "name": "Detect language to Czech",
+    "url": "https://translate.google.com/#auto/cs/{{{s}}}"
+  },
+  {
+    "bang": "gtenga",
+    "name": "Google Translate en-ga",
+    "url": "https://translate.google.com/#en/ga/{{{s}}}"
+  },
+  {
+    "bang": "gtenit",
+    "name": "Google Translate en->it",
+    "url": "https://translate.google.com/#en/it/{{{s}}}"
+  },
+  {
+    "bang": "gt",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "gth",
+    "name": "Google TH",
+    "url": "http://www.google.co.th/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gtiten",
+    "name": "Google Translate it->en",
+    "url": "https://translate.google.com/#it/en/{{{s}}}"
+  },
+  {
+    "bang": "gtjp",
+    "name": "Google Translate to Japanese",
+    "url": "http://translate.google.com/#auto/ja/{{{s}}}"
+  },
+  {
+    "bang": "gtkr",
+    "name": "Google Translate to Korean",
+    "url": "http://translate.google.com/#auto/ko/{{{s}}}"
+  },
+  {
+    "bang": "gtlanl",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#la/nl/{{{s}}}"
+  },
+  {
+    "bang": "gtn",
+    "name": "Google Tunisia",
+    "url": "https://www.google.tn/search?q={{{s}}}"
+  },
+  {
+    "bang": "gt-nl-du",
+    "name": "google translate",
+    "url": "https://translate.google.com/m/translate#nl/de/{{{s}}}"
+  },
+  {
+    "bang": "gtrad",
+    "name": "Google Translate",
+    "url": "http://translate.google.com/#auto/fr/{{{s}}}"
+  },
+  {
+    "bang": "gtr",
+    "name": "Google TR",
+    "url": "http://www.google.com.tr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gtsp",
+    "name": "Google Translate to Spanish",
+    "url": "https://translate.google.com/#en/es/{{{s}}}"
+  },
+  {
+    "bang": "gtw",
+    "name": "Google TW",
+    "url": "http://www.google.com.tw/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gtzh-TW",
+    "name": "Detect language to traditional Chinese",
+    "url": "https://translate.google.com/#auto/zh-TW/{{{s}}}"
+  },
+  {
+    "bang": "gua",
+    "name": "Google UA",
+    "url": "http://www.google.com.ua/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "guk",
+    "name": "Google UK",
+    "url": "https://www.google.co.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "gus",
+    "name": "Google US",
+    "url": "http://www.google.com/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gvau",
+    "name": "Google Videos Australia",
+    "url": "https://www.google.com.au/search?tbm=vid&q={{{s}}}"
+  },
+  {
+    "bang": "gvb",
+    "name": "Google Verbatim",
+    "url": "https://google.com/search?&tbs=li:1&q={{{s}}}"
+  },
+  {
+    "bang": "gve",
+    "name": "Google VE",
+    "url": "http://www.google.co.ve/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gv",
+    "name": "Google Video",
+    "url": "https://www.google.com/search?tbm=vid&q={{{s}}}"
+  },
+  {
+    "bang": "gviewer",
+    "name": "Google Docs Viewer",
+    "url": "http://docs.google.com/viewer?url={{{s}}}"
+  },
+  {
+    "bang": "gview",
+    "name": "Google Docs Viewer",
+    "url": "http://docs.google.com/viewer?url={{{s}}}"
+  },
+  {
+    "bang": "gvn",
+    "name": "Google VN",
+    "url": "http://www.google.com.vn/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gvoice",
+    "name": "Google Voice",
+    "url": "https://www.google.com/voice#search/{{{s}}}"
+  },
+  {
+    "bang": "gweek",
+    "name": "Google (Past Week)",
+    "url": "http://www.google.com/search?q={{{s}}}&tbs=qdr:w"
+  },
+  {
+    "bang": "gwpde",
+    "name": "Google de.Wikipedia",
+    "url": "http://www.google.de/search?ie=UTF-8&sourceid=navclient&gfns=1&q=site:de.wikipedia.org+{{{s}}}"
+  },
+  {
+    "bang": "gwp",
+    "name": "Google Wikipedia",
+    "url": "http://www.google.com/search?q={{{s}}}%20site:wikipedia.org"
+  },
+  {
+    "bang": "gyear",
+    "name": "Google (Past Year)",
+    "url": "http://www.google.com/search?q={{{s}}}&tbs=qdr:y"
+  },
+  {
+    "bang": "gy",
+    "name": "Google",
+    "url": "https://google.com/search?q={{{s}}} &tbs=qdr:y"
+  },
+  {
+    "bang": "gza",
+    "name": "Google ZA",
+    "url": "http://www.google.co.za/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "bang": "gzc",
+    "name": "Google Simplified Chinese",
+    "url": "https://www.google.com/search?q={{{s}}}&lr=lang_zh-CN"
+  },
+  {
+    "bang": "hude",
+    "name": "Google Translate hu-de",
+    "url": "http://translate.google.com/#hu/de/{{{s}}}"
+  },
+  {
+    "bang": "huen",
+    "name": "Google Translate hu-en",
+    "url": "http://translate.google.com/#hu/en/{{{s}}}"
+  },
+  {
+    "bang": "hues",
+    "name": "Google Translate hu-es",
+    "url": "https://translate.google.hu/#hu/es/{{{s}}}"
+  },
+  {
+    "bang": "huit",
+    "name": "Google Translate hu-it",
+    "url": "http://translate.google.com/#hu/it/{{{s}}}"
+  },
+  {
+    "bang": "husr",
+    "name": "Google Translate: Hungarian to Serbian",
+    "url": "https://translate.google.com/#hu/sr/{{{s}}} "
+  },
+  {
+    "bang": "inbox",
+    "name": "Inbox by Gmail",
+    "url": "https://inbox.google.com/search/{{{s}}}"
+  },
+  {
+    "bang": "iten",
+    "name": "Google translate it-en",
+    "url": "http://translate.google.com/#it/en/{{{s}}} "
+  },
+  {
+    "bang": "ites",
+    "name": "Google translate it-es",
+    "url": "http://translate.google.com/#it/es/{{{s}}}"
+  },
+  {
+    "bang": "ithu",
+    "name": "Google Translate it-hu",
+    "url": "http://translate.google.com/#it/hu/{{{s}}}"
+  },
+  {
+    "bang": "ja2en",
+    "name": "Google translate",
+    "url": "https://translate.google.com/#ja/en/{{{s}}}"
+  },
+  {
+    "bang": "keep",
+    "name": "Google Keep",
+    "url": "https://keep.google.com/#search/text={{{s}}}"
+  },
+  {
+    "bang": "legal",
+    "name": "Google Scholar - Legal Opinion Section",
+    "url": "http://scholar.google.com/scholar?hl=en&q={{{s}}}&btnG=Search&as_sdt=2%2C5&as_ylo=&as_vis=0"
+  },
+  {
+    "bang": "local",
+    "name": "Google Local",
+    "url": "http://local.google.com/maps?f=q&source=s_q&geocode=&q={{{s}}}"
+  },
+  {
+    "bang": "lucky",
+    "name": "Google Feeling Lucky",
+    "url": "http://www.google.com/search?q={{{s}}}&btnI"
+  },
+  {
+    "bang": "mail",
+    "name": "Google Mail",
+    "url": "https://mail.google.com/mail/u/0/#inbox{{{s}}}:"
+  },
+  {
+    "bang": "ngramsde",
+    "name": "Google Ngram Viewer (German)",
+    "url": "https://books.google.com/ngrams/graph?content={{{s}}}&year_start=1800&year_end=2000&corpus=20&smoothing=3"
+  },
+  {
+    "bang": "nlen",
+    "name": "Google translate",
+    "url": "https://translate.google.com/#nl/en/{{{s}}}"
+  },
+  {
+    "bang": "noen",
+    "name": "Google Translate no-en",
+    "url": "https://translate.google.com/#no/en/{{{s}}}"
+  },
+  {
+    "bang": "play",
+    "name": "Google Play",
+    "url": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "bang": "playstore",
+    "name": "Google Play Store",
+    "url": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "bang": "plen",
+    "name": "Google Translate: pl-en",
+    "url": "http://translate.google.com/#pl/en/{{{s}}}"
+  },
+  {
+    "bang": "pten",
+    "name": "Google Translate - pt-en",
+    "url": "https://translate.google.com/#pt/en/{{{s}}}"
+  },
+  {
+    "bang": "ptes",
+    "name": "Google Translate Portuguese-Spanish",
+    "url": "https://translate.google.com/#pt/es/{{{s}}}"
+  },
+  {
+    "bang": "qr",
+    "name": "QR Code Search",
+    "url": "https://api.qrserver.com/v1/create-qr-code/?qzone=1&data={{{s}}}"
+  },
+  {
+    "bang": "route",
+    "name": "Google Maps Route",
+    "url": "https://www.google.de/maps/dir/{{{s}}}"
+  },
+  {
+    "bang": "rufr",
+    "name": "Google Translate RU-FR",
+    "url": "https://translate.google.com/#ru/fr/{{{s}}}"
+  },
+  {
+    "bang": "scholar",
+    "name": "Google Scholar",
+    "url": "http://scholar.google.com/scholar?q={{{s}}}&btnG=Search&as_sdt=800000000001&as_sdtp=on"
+  },
+  {
+    "bang": "scienceblogs",
+    "name": "Science Blogs",
+    "url": "http://www.google.com/cse?cx=017254414699180528062%3Auyrcvn__yd0&q={{{s}}}"
+  },
+  {
+    "bang": "site",
+    "name": "DuckDuckGo site: search operator shortcut",
+    "url": "https://duckduckgo.com/?q=site%3A{{{s}}}"
+  },
+  {
+    "bang": "srhu",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#sr/hu/{{{s}}} "
+  },
+  {
+    "bang": "svde",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#sv/de/{{{s}}}"
+  },
+  {
+    "bang": "svpt",
+    "name": "Google Translate - Swedish to Portoguese",
+    "url": "https://translate.google.se/#sv/pt/{{{s}}}"
+  },
+  {
+    "bang": "ten",
+    "name": "Google Translate to English",
+    "url": "https://translate.google.com/?hl=en&tab=TT#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "tes",
+    "name": "Google Translate to Spanish",
+    "url": "https://translate.google.com/?hl=es&tab=TT#auto/es/{{{s}}}"
+  },
+  {
+    "bang": "texture",
+    "name": "Google Images",
+    "url": "https://duckduckgo.com/?q={{{s}}}+texture&iax=images&ia=images"
+  },
+  {
+    "bang": "trans",
+    "name": "Google Translate to English",
+    "url": "https://translate.google.com/?source=osdd#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "translatede",
+    "name": "Google Translate 2DE",
+    "url": "https://translate.google.com/#auto/de/{{{s}}}"
+  },
+  {
+    "bang": "translatenl",
+    "name": "Google Translate Dutch",
+    "url": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "bang": "transnl",
+    "name": "Google Translate Dutch",
+    "url": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "bang": "trends",
+    "name": "Google Trends",
+    "url": "https://www.google.com/trends/explore#q={{{s}}}"
+  },
+  {
+    "bang": "trnl",
+    "name": "Google Translate Dutch ",
+    "url": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "bang": "vg",
+    "name": "Google",
+    "url": "https://google.com/search?hl=en&q={{{s}}}&tbs=li:1"
+  },
+  {
+    "bang": "voice",
+    "name": "Google Voice",
+    "url": "https://www.google.com/voice#search/{{{s}}}"
+  },
+  {
+    "bang": "wallpaper",
+    "name": "Google Images",
+    "url": "http://google.com/search?tbm=isch&imgsz=xxlarge&gbv=2&safe=off&q={{{s}}}+wallpaper&btnG=Search+Images&tbs=imgo:1"
+  },
+  {
+    "bang": "ytmx",
+    "name": "YouTube (MX)",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}&gl=MX"
+  },
+  {
+    "bang": "ytus",
+    "name": "YouTube (US)",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}&gl=US"
+  },
+  {
+    "bang": "\u03b3",
+    "name": "https://www.google.gr/?gws_rd=ssl",
+    "url": "https://www.google.gr/?gws_rd=ssl#q={{{s}}}"
+  },
+  {
+    "bang": "\u0433",
+    "name": "Google Ru",
+    "url": "https://google.com/search?hl=ru&q={{{s}}}"
+  },
+  {
+    "bang": "\u0433\u0431\u0433",
+    "name": "Google BG",
+    "url": "https://www.google.bg/search?source=hp&q={{{s}}}"
+  },
+  {
+    "bang": "\u0433\u043a",
+    "name": "Google Images Russian",
+    "url": "https://www.google.ru/search?q={{{s}}}&tbm=isch"
+  },
+  {
+    "bang": "\u043f",
+    "name": "google.com",
+    "url": "https://www.google.com/search?q={{{s}}}"
+  }
+]

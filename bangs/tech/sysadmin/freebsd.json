@@ -1,0 +1,22 @@
+[
+  {
+    "bang": "bsdman",
+    "name": "FreeBSD",
+    "url": "http://www.freebsd.org/cgi/man.cgi?query={{{s}}}"
+  },
+  {
+    "bang": "fbugs",
+    "name": "FreeBSD Bugs",
+    "url": "https://bugs.freebsd.org/bugzilla/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "fman",
+    "name": "FreeBSD Man Pages",
+    "url": "http://www.freebsd.org/cgi/man.cgi?query={{{s}}}"
+  },
+  {
+    "bang": "freebsd",
+    "name": "FreeBSD Ports",
+    "url": "https://www.freebsd.org/cgi/ports.cgi?query={{{s}}}"
+  }
+]

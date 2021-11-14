@@ -1,0 +1,572 @@
+[
+  {
+    "bang": "2gis",
+    "name": "2gis.ru",
+    "url": "http://2gis.ru/moscow/search/{{{s}}}"
+  },
+  {
+    "bang": "2gissbp",
+    "name": "2gis \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "url": "https://2gis.ru/spb/search/{{{s}}}"
+  },
+  {
+    "bang": "2gisufa",
+    "name": "2GIS \u0423\u0444\u0430",
+    "url": "https://2gis.ru/ufa/search/{{{s}}}"
+  },
+  {
+    "bang": "amaps",
+    "name": "Apple Maps",
+    "url": "http://maps.apple.com/?q={{{s}}}"
+  },
+  {
+    "bang": "applemaps",
+    "name": "Apple Maps",
+    "url": "http://maps.apple.com/?q={{{s}}}"
+  },
+  {
+    "bang": "arcgis",
+    "name": "ArcGIS Online",
+    "url": "http://www.arcgis.com/home/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "badi",
+    "name": "Badi",
+    "url": "https://badi.com/us/s/{{{s}}}"
+  },
+  {
+    "bang": "berlinmap",
+    "name": "Berlin.de \u2013 Stadtplan",
+    "url": "http://www.berlin.de/stadtplan/?ADR_STREET={{{s}}}"
+  },
+  {
+    "bang": "bm",
+    "name": "bing maps",
+    "url": "https://www.bing.com/maps/?q={{{s}}}&obox=1"
+  },
+  {
+    "bang": "ccplace",
+    "name": "Coworking & Coffee: search for place",
+    "url": "https://www.coworking.coffee/places?q={{{s}}}"
+  },
+  {
+    "bang": "cernmap",
+    "name": "Cern map",
+    "url": "https://maps.cern.ch/mapsearch/mapsearch.htm?n=[%27{{{s}}}%27]"
+  },
+  {
+    "bang": "delivery",
+    "name": "Yelp Delivery Search",
+    "url": "http://www.yelp.com/search?&rpp=10&find_loc=&start=0&attrs=RestaurantsDelivery&find_desc={{{s}}}"
+  },
+  {
+    "bang": "dir",
+    "name": "Google.de Maps",
+    "url": "https://www.google.de/maps/dir/{{{s}}}"
+  },
+  {
+    "bang": "dmap",
+    "name": "Daum Map",
+    "url": "http://map.daum.net/?q={{{s}}}"
+  },
+  {
+    "bang": "foursquare",
+    "name": "Foursquare",
+    "url": "https://foursquare.com/explore?q={{{s}}}"
+  },
+  {
+    "bang": "futar",
+    "name": "BKK Fut\u00e1r",
+    "url": "http://futar.bkk.hu/?toCoord={{{s}}}&toName={{{s}}}&toSubName={{{s}}}&layers=GSVB"
+  },
+  {
+    "bang": "gdmaps",
+    "name": "\u9ad8\u5fb7\u5730\u56fe",
+    "url": "https://ditu.amap.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "geouri",
+    "name": "openstreetmap.org",
+    "url": "https://www.openstreetmap.org/search?query={{{s}}}#map=7/0.000/-60.000"
+  },
+  {
+    "bang": "gisstackexchange",
+    "name": "GIS StackExchange",
+    "url": "http://gis.stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "gmau",
+    "name": "Google Maps Australia",
+    "url": "https://www.google.com.au/maps/search/{{{s}}} "
+  },
+  {
+    "bang": "gmca",
+    "name": "Google Maps Canada",
+    "url": "https://www.google.ca/maps/?q={{{s}}}"
+  },
+  {
+    "bang": "gmc",
+    "name": "Google Maps Classic",
+    "url": "https://www.google.com/maps?q={{{s}}}&output=classic"
+  },
+  {
+    "bang": "gmcl",
+    "name": "Google Maps Chile",
+    "url": "https://www.google.cl/maps/place/{{{s}}}"
+  },
+  {
+    "bang": "gmde",
+    "name": "Google Maps DE",
+    "url": "https://www.google.de/maps/place/{{{s}}}"
+  },
+  {
+    "bang": "gmd",
+    "name": "Google Maps Directions With Two Addresses",
+    "url": "https://www.google.com/maps/dir/{{{s}}}"
+  },
+  {
+    "bang": "gmdir",
+    "name": "Google Maps Directions",
+    "url": "https://www.google.com/maps/dir//{{{s}}}"
+  },
+  {
+    "bang": "gmfr",
+    "name": "maps.google.com",
+    "url": "https://www.google.fr/maps/search/{{{s}}}"
+  },
+  {
+    "bang": "gm",
+    "name": "Google Maps",
+    "url": "https://google.com/maps/place/{{{s}}}"
+  },
+  {
+    "bang": "gmnl",
+    "name": "Google Maps NL",
+    "url": "https://www.google.de/maps/place/{{{s}}}"
+  },
+  {
+    "bang": "gmsi",
+    "name": "Google Maps SI",
+    "url": "https://www.google.si/maps/search/{{{s}}}"
+  },
+  {
+    "bang": "gmtw",
+    "name": "Google map (Taiwan)",
+    "url": "https://www.google.com.tw/maps?hl=zh-TW&q={{{s}}}"
+  },
+  {
+    "bang": "graphhopper",
+    "name": "GraphHopper Maps",
+    "url": "https://graphhopper.com/maps/?point={{{s}}}&point={{{s}}}"
+  },
+  {
+    "bang": "groute",
+    "name": "Google Maps Route",
+    "url": "https://www.google.de/maps/dir/{{{s}}}"
+  },
+  {
+    "bang": "gulesider",
+    "name": "Gule Sider",
+    "url": "https://www.gulesider.no/?q={{{s}}}"
+  },
+  {
+    "bang": "hdyc",
+    "name": "How did you contribute to OpenStreetMap?",
+    "url": "http://hdyc.neis-one.org/?{{{s}}}"
+  },
+  {
+    "bang": "here",
+    "name": "Here WeGo",
+    "url": "https://wego.here.com/search/{{{s}}}"
+  },
+  {
+    "bang": "hm",
+    "name": "HERE maps",
+    "url": "https://wego.here.com/search/{{{s}}}?"
+  },
+  {
+    "bang": "hosm",
+    "name": "OpenStreetMap Help",
+    "url": "https://help.openstreetmap.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "hvv",
+    "name": "HVV",
+    "url": "https://geofox.hvv.de/jsf/home.seam?destination={{{s}}}"
+  },
+  {
+    "bang": "hybrid",
+    "name": "Google Map (Hybrid)",
+    "url": "https://maps.google.com/maps?t=h&q={{{s}}}"
+  },
+  {
+    "bang": "idos",
+    "name": "Idos",
+    "url": "https://jizdnirady.idnes.cz/vlakyautobusymhdvse/spojeni/?f={{{s}}}&t={{{s}}}"
+  },
+  {
+    "bang": "isw",
+    "name": "Instant Street View",
+    "url": "https://www.instantstreetview.com/s/{{{s}}}"
+  },
+  {
+    "bang": "its",
+    "name": "Itsumo Navi",
+    "url": "https://www.its-mo.com/search/freeword/{{{s}}}"
+  },
+  {
+    "bang": "kart",
+    "name": "FINN kart",
+    "url": "https://kart.finn.no/?q={{{s}}}"
+  },
+  {
+    "bang": "krak",
+    "name": "Krak",
+    "url": "https://www.krak.dk/search?searchQuery={{{s}}}"
+  },
+  {
+    "bang": "kthplaces",
+    "name": "https://www.kth.se/places",
+    "url": "https://www.kth.se/places/search/?query={{{s}}}"
+  },
+  {
+    "bang": "mapfan",
+    "name": "MapFan",
+    "url": "https://mapfan.com/map/words/{{{s}}}/spots"
+  },
+  {
+    "bang": "map",
+    "name": "Google Maps",
+    "url": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "bang": "mapion",
+    "name": "Mapion",
+    "url": "https://www.mapion.co.jp/s/q={{{s}}}/t=spot"
+  },
+  {
+    "bang": "mapp",
+    "name": "ACME Mapper 2.0",
+    "url": "http://mapper.acme.com/?q={{{s}}} "
+  },
+  {
+    "bang": "mappy",
+    "name": "Mappy FR",
+    "url": "http://fr.mappy.com/#/TSearch/S{{{s}}}"
+  },
+  {
+    "bang": "mapquest",
+    "name": "Mapquest",
+    "url": "http://www.mapquest.com/?q={{{s}}}"
+  },
+  {
+    "bang": "mapsde",
+    "name": "Google Maps DE",
+    "url": "https://www.google.de/maps/place/{{{s}}}"
+  },
+  {
+    "bang": "maps",
+    "name": "Google Maps",
+    "url": "https://google.com/maps?q={{{s}}}"
+  },
+  {
+    "bang": "mapsr",
+    "name": "Google Maps Directions",
+    "url": "https://www.google.com/maps/dir/{{{s}}}"
+  },
+  {
+    "bang": "mapsuk",
+    "name": "Google Maps UK",
+    "url": "https://maps.google.co.uk/maps?q={{{s}}}"
+  },
+  {
+    "bang": "mapy",
+    "name": "Mapy.cz",
+    "url": "https://mapy.cz/zakladni?q={{{s}}}"
+  },
+  {
+    "bang": "mbs",
+    "name": "Mapa Interactivo de Buenos Aires",
+    "url": "http://mapa.buenosaires.gov.ar/buscador/?dir= {{{s}}}"
+  },
+  {
+    "bang": "mch",
+    "name": "Karten der Schweiz",
+    "url": "http://map.geo.admin.ch/?swisssearch={{{s}}}"
+  },
+  {
+    "bang": "mcz",
+    "name": "Mapy.cz",
+    "url": "https://mapy.cz/?q={{{s}}}"
+  },
+  {
+    "bang": "mdbs",
+    "name": "Mapa Interactivo de Buenos Aires",
+    "url": "http://mapa.buenosaires.gov.ar/buscador/?dir= {{{s}}}"
+  },
+  {
+    "bang": "m",
+    "name": "Google Maps",
+    "url": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "bang": "ml",
+    "name": "Google Maps Lite",
+    "url": "https://google.com/maps/search/{{{s}}}?force=canvas"
+  },
+  {
+    "bang": "mq",
+    "name": "MapQuest",
+    "url": "http://www.mapquest.com/?q={{{s}}}"
+  },
+  {
+    "bang": "muke",
+    "name": "Google Maps UK (English)",
+    "url": "https://www.google.co.uk/maps/?hl=en&q={{{s}}}"
+  },
+  {
+    "bang": "muk",
+    "name": "Google Maps UK (en_US)",
+    "url": "https://www.google.co.uk/maps/?hl=en&q={{{s}}}"
+  },
+  {
+    "bang": "mvv",
+    "name": "M\u00fcnchner Verkehrs- und Tarifbund (MVV)",
+    "url": "http://efa.mvv-muenchen.de/index.html?name_destination={{{s}}}"
+  },
+  {
+    "bang": "navm",
+    "name": "Naver Maps (yanndch)",
+    "url": "https://beta.map.naver.com/search/{{{s}}}"
+  },
+  {
+    "bang": "nk",
+    "name": "NorgesKart",
+    "url": "https://norgeskart.no/#!?project=seeiendom&layers=1002,1015&zoom=4&lat=7197864.00&lon=396722.00&sok={{{s}}}"
+  },
+  {
+    "bang": "nmap",
+    "name": "Naver Map",
+    "url": "http://map.naver.com/?query={{{s}}}"
+  },
+  {
+    "bang": "nominatim",
+    "name": "OpenStreetMap Nominatim",
+    "url": "http://nominatim.openstreetmap.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "omap",
+    "name": "Open Street Maps",
+    "url": "https://www.openstreetmap.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "omfr",
+    "name": "Open Mapquest France",
+    "url": "http://open.mapquest.fr/?q={{{s}}} "
+  },
+  {
+    "bang": "openmaps",
+    "name": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "openstreetmap",
+    "name": "OpenStreetMap",
+    "url": "http://www.openstreetmap.org/?query={{{s}}}"
+  },
+  {
+    "bang": "openstreetmapwiki",
+    "name": "OpenStreetMap Wiki",
+    "url": "https://wiki.openstreetmap.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "openstreet",
+    "name": "OpenStreetMap",
+    "url": "http://www.openstreetmap.org/?query={{{s}}}"
+  },
+  {
+    "bang": "osmcha",
+    "name": "OSMCha",
+    "url": "https://osmcha.mapbox.com/changesets/{{{s}}}"
+  },
+  {
+    "bang": "osmforumnl",
+    "name": "Openstreetmap forum Netherlands",
+    "url": "https://forum.openstreetmap.org/search.php?action=search&keywords={{{s}}}&forums[]=12"
+  },
+  {
+    "bang": "osmfr",
+    "name": "OpenStreetMap-fr",
+    "url": "http://tile.openstreetmap.fr/?q={{{s}}}"
+  },
+  {
+    "bang": "osmlink",
+    "name": "OpenLinkMap",
+    "url": "http://www.openlinkmap.org/?q={{{s}}}"
+  },
+  {
+    "bang": "osmnode",
+    "name": "OpenStreetMap Node",
+    "url": "https://www.openstreetmap.org/node/{{{s}}}"
+  },
+  {
+    "bang": "osm",
+    "name": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "osmrelation",
+    "name": "OpenStreetMap Relation",
+    "url": "https://www.openstreetmap.org/relation/{{{s}}}"
+  },
+  {
+    "bang": "osmway",
+    "name": "OpenStreetMap Way",
+    "url": "https://www.openstreetmap.org/way/{{{s}}}"
+  },
+  {
+    "bang": "osmwiki",
+    "name": "OpenStreetMap Wiki (short)",
+    "url": "https://wiki.openstreetmap.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "osmw",
+    "name": "OpenStreetMap Wiki",
+    "url": "http://wiki.openstreetmap.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "osrm",
+    "name": "Open Source Routing Machine",
+    "url": "http://map.project-osrm.org/?dest={{{s}}}"
+  },
+  {
+    "bang": "ost",
+    "name": "http://www.openstreetmap.org",
+    "url": "http://www.openstreetmap.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "otw",
+    "name": "Overpass Turbo Wizard",
+    "url": "http://overpass-turbo.eu/?w={{{s}}}&R"
+  },
+  {
+    "bang": "planplus",
+    "name": "Digitalna mapa Srbije",
+    "url": "https://www.planplus.rs/#!pretraga/{{{s}}}"
+  },
+  {
+    "bang": "pluscodes",
+    "name": "Plus Codes",
+    "url": "https://plus.codes/{{{s}}}"
+  },
+  {
+    "bang": "plus",
+    "name": "Plus.codes",
+    "url": "https://plus.codes/map/{{{s}}}"
+  },
+  {
+    "bang": "qmaps",
+    "name": "Qwant Maps",
+    "url": "https://www.qwant.com/maps/?q={{{s}}}"
+  },
+  {
+    "bang": "sk8",
+    "name": "sk8park.de",
+    "url": "https://sk8park.de/?s={{{s}}}"
+  },
+  {
+    "bang": "stdtplnlmn",
+    "name": "Stadtplan Ilmenau",
+    "url": "http://stadtplan-ilmenau.de/?query={{{s}}}"
+  },
+  {
+    "bang": "targeo",
+    "name": "Targeo",
+    "url": "http://mapa.targeo.pl/{{{s}}}"
+  },
+  {
+    "bang": "tts",
+    "name": "Trieste Trasporti",
+    "url": "https://www.triestetrasporti.it//?s={{{s}}}&lang=it"
+  },
+  {
+    "bang": "tuttocitta",
+    "name": "TuttoCitta",
+    "url": "https://www.tuttocitta.it/mappe/{{{s}}}"
+  },
+  {
+    "bang": "ukgr",
+    "name": "UK Grid Reference",
+    "url": "https://gridreferencefinder.com/bing.php?gr={{{s}}}"
+  },
+  {
+    "bang": "utno",
+    "name": "UT.no - Outdoors for all",
+    "url": "http://ut.no/finn?search={{{s}}}"
+  },
+  {
+    "bang": "vml",
+    "name": "ViaMichelin",
+    "url": "https://www.viamichelin.com/web/Maps?address={{{s}}}"
+  },
+  {
+    "bang": "w3w",
+    "name": "https://what3words.com",
+    "url": "https://map.what3words.com/{{{s}}}"
+  },
+  {
+    "bang": "wikimapia",
+    "name": "Wikimapia",
+    "url": "http://www.wikimapia.org/#search={{{s}}}"
+  },
+  {
+    "bang": "wosm",
+    "name": "OpenStreetMap Wiki",
+    "url": "http://wiki.openstreetmap.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "yandexmaps",
+    "name": "Yandex Maps",
+    "url": "http://maps.yandex.ru/?text={{{s}}} "
+  },
+  {
+    "bang": "yh",
+    "name": "Yandex Haritalar",
+    "url": "https://yandex.com.tr/harita/?text={{{s}}}"
+  },
+  {
+    "bang": "yjm",
+    "name": "yahoo japan map",
+    "url": "https://map.yahoo.co.jp/mapsearch/search?p={{{s}}}"
+  },
+  {
+    "bang": "yxmaps",
+    "name": "Maps.Yandex",
+    "url": "https://maps.yandex.ru/?text={{{s}}}"
+  },
+  {
+    "bang": "zemljevid",
+    "name": "Zemljevid Najdi.si",
+    "url": "http://zemljevid.najdi.si/search_maps.jsp?q={{{s}}}"
+  },
+  {
+    "bang": "zumi",
+    "name": "Mapy Zumi",
+    "url": "https://www.zumi.pl/{{{s}}},namapie.html"
+  },
+  {
+    "bang": "\u043a\u0430\u0440\u0442\u044b",
+    "name": "Yandex.Maps (\u041a\u0430\u0440\u0442\u044b)",
+    "url": "https://yandex.ru/maps/?text={{{s}}}"
+  },
+  {
+    "bang": "\u043c\u0430\u043f\u0441",
+    "name": "Google Maps BG",
+    "url": "https://www.google.bg/maps/search/{{{s}}}"
+  },
+  {
+    "bang": "\u044f\u043c",
+    "name": "\u042f\u043d\u0434\u0435\u043a\u0441.\u041a\u0430\u0440\u0442\u044b",
+    "url": "https://yandex.ru/maps/?text={{{s}}}"
+  }
+]

@@ -1,0 +1,1222 @@
+[
+  {
+    "bang": "abebooks",
+    "name": "abebooks",
+    "url": "http://www.abebooks.com/servlet/SearchResults?kn={{{s}}}"
+  },
+  {
+    "bang": "abiunity",
+    "name": "abiunity",
+    "url": "https://www.abiunity.de/datenbank.php?boardid=48#!v=searchdb&search={{{s}}}&boardid=48"
+  },
+  {
+    "bang": "abol",
+    "name": "https://abo.finna.fi",
+    "url": "https://abo.finna.fi/Search/Results?lookfor={{{s}}}&type=AllFields"
+  },
+  {
+    "bang": "afwiki",
+    "name": "Afrikaans Wikipedia",
+    "url": "https://af.wikipedia.org/w/index.php?search={{{s}}}&title=Spesiaal%3ASoek&go=Wys"
+  },
+  {
+    "bang": "agri",
+    "name": "Agri-R\u00e9seau",
+    "url": "https://www.agrireseau.net/documents?r={{{s}}}"
+  },
+  {
+    "bang": "an101",
+    "name": "Anarchy101",
+    "url": "http://anarchy101.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "aplib",
+    "name": "Austin Public Library",
+    "url": "https://austin.bibliocommons.com/v2/search?query={{{s}}}&searchType=smart"
+  },
+  {
+    "bang": "asksutra",
+    "name": "Ask Sutra",
+    "url": "http://www.asksutra.com/en/serp.php?cx=006191677038902776655%3Akobzooodbpy&cof=FORID%3A11&q={{{s}}}"
+  },
+  {
+    "bang": "banglg",
+    "name": "Pons",
+    "url": "http://de.pons.com/\u00fcbersetzung?q={{{s}}}&l=dela&in=&lf=de"
+  },
+  {
+    "bang": "bascan",
+    "name": "Lyc\u00e9e Louis Bascan",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:www.lyc-bascan-rambouillet.ac-versailles.fr"
+  },
+  {
+    "bang": "bct",
+    "name": "Biblioteche civiche torinesi",
+    "url": "http://bct.comperio.it/opac/search/lst?q={{{s}}}"
+  },
+  {
+    "bang": "bdbk",
+    "name": "BaiduBaike",
+    "url": "https://wapbaike.baidu.com/search/word?word={{{s}}}"
+  },
+  {
+    "bang": "bellevuecollege",
+    "name": "Bellevue College",
+    "url": "http://www.bellevuecollege.edu/search/?txtQuery={{{s}}}&search=Search"
+  },
+  {
+    "bang": "biology",
+    "name": "All You Need Is Biology",
+    "url": "https://allyouneedisbiology.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bkshare",
+    "name": "Bookshare.org",
+    "url": "https://www.bookshare.org/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "bleepingpc",
+    "name": "Bleeping Computer",
+    "url": "https://www.bleepingcomputer.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "brainpop",
+    "name": "BrainPOP",
+    "url": "https://www.brainpop.com/search/search.weml?keyword={{{s}}}"
+  },
+  {
+    "bang": "byu",
+    "name": "Brigham Young University",
+    "url": "https://www.byu.edu/search-all?q={{{s}}}"
+  },
+  {
+    "bang": "cbtnuggets",
+    "name": "CBT Nuggets",
+    "url": "https://www.cbtnuggets.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cdgdic",
+    "name": "Cambridge Dictionaries Online",
+    "url": "http://dictionary.cambridge.org/dictionary/learner-english/{{{s}}}_1?q={{{s}}}"
+  },
+  {
+    "bang": "cdict",
+    "name": "Chinese-English Dictionary/Calculator",
+    "url": "https://cdict.net/?q={{{s}}}"
+  },
+  {
+    "bang": "cgw",
+    "name": "Chinese Grammar Wiki",
+    "url": "https://resources.allsetlearning.com/gramwiki/?search={{{s}}}"
+  },
+  {
+    "bang": "chief",
+    "name": "Chief Delphi",
+    "url": "https://www.chiefdelphi.com/search?expanded=true&q={{{s}}}"
+  },
+  {
+    "bang": "chords",
+    "name": "Ultimate Guitar",
+    "url": "http://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "bang": "citi",
+    "name": "Citizendium",
+    "url": "http://citizendium.org/wiki?search={{{s}}}&title=Special%3ASearch&go=Go+To+Page"
+  },
+  {
+    "bang": "cml",
+    "name": "Columbus Metropolitan Library",
+    "url": "http://catalog.clcohio.org/polaris/search/searchresults.aspx?term={{{s}}}"
+  },
+  {
+    "bang": "cndic",
+    "name": "Naver Chinese Dictionary",
+    "url": "http://cndic.naver.com/search/all?q={{{s}}}"
+  },
+  {
+    "bang": "com",
+    "name": "Computernewb Wiki",
+    "url": "https://computernewb.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "conjuguer",
+    "name": "Le figaro",
+    "url": "http://leconjugueur.lefigaro.fr/conjugaison/verbe/{{{s}}}.html"
+  },
+  {
+    "bang": "craftsy",
+    "name": "Craftsy",
+    "url": "https://www.craftsy.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "cram",
+    "name": "Cram",
+    "url": "http://www.cram.com/search?query={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "currclick",
+    "name": "CurrClick",
+    "url": "http://www.currclick.com/browse.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "cursos",
+    "name": "Ges Formacion",
+    "url": "http://www.gesformacion.es/buscar?controller=search&search_query={{{s}}}"
+  },
+  {
+    "bang": "daumdic",
+    "name": "Daum \uc5b4\ud559\uc0ac\uc804",
+    "url": "http://dic.daum.net/search.do?q={{{s}}}"
+  },
+  {
+    "bang": "\ub2e4\uc74c\uc0ac\uc804",
+    "name": "Daum \uc5b4\ud559\uc0ac\uc804",
+    "url": "http://dic.daum.net/search.do?q={{{s}}}"
+  },
+  {
+    "bang": "davidnesher",
+    "name": "David Nesher Blog",
+    "url": "http://davidnesher.com.ar/?q={{{s}}}:"
+  },
+  {
+    "bang": "deit",
+    "name": "Dict CC DE <> IT",
+    "url": "http://deit.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "diigt",
+    "name": "Diigo (tags)",
+    "url": "https://www.diigo.com/tag/{{{s}}}?year=2"
+  },
+  {
+    "bang": "dmf",
+    "name": "Dictionnaire du Moyen Fran\u00e7ais",
+    "url": "http://www.cnrtl.fr/definition/dmf/{{{s}}}"
+  },
+  {
+    "bang": "dsn",
+    "name": "Dansk Sprogn\u00e6vn",
+    "url": "https://dsn.dk/?retskriv={{{s}}}&ae=0"
+  },
+  {
+    "bang": "ecole-club",
+    "name": "Ecole-club Migros",
+    "url": "https://www.ecole-club.ch/Cours/recherche@{{{s}}}"
+  },
+  {
+    "bang": "edmo",
+    "name": "Edmodo",
+    "url": "https://new.edmodo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "edut",
+    "name": "Edutin",
+    "url": "http://edutin.com/cursos/buscar/{{{s}}}"
+  },
+  {
+    "bang": "eijirou",
+    "name": "\u82f1\u8f9e\u90ce on the WEB",
+    "url": "https://eow.alc.co.jp/search?q={{{s}}}"
+  },
+  {
+    "bang": "encyclopediaofmath",
+    "name": "Encyclopedia of Mathematics",
+    "url": "http://www.encyclopediaofmath.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "en",
+    "name": "English StackExchange",
+    "url": "http://english.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "enoj",
+    "name": "https://ojibwe.lib.umn.edu",
+    "url": "https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q={{{s}}}&commit=Search&type=english"
+  },
+  {
+    "bang": "enstex",
+    "name": "English Language and Usage StackExchange",
+    "url": "https://english.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "eol",
+    "name": "Encyclopedia of Life",
+    "url": "http://eol.org/search?q={{{s}}}&search=Go"
+  },
+  {
+    "bang": "eom",
+    "name": "Encyclopedia of Mathematics",
+    "url": "http://www.encyclopediaofmath.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "ep",
+    "name": "Everipedia",
+    "url": "https://everipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "eppl",
+    "name": "El Paso Public Library",
+    "url": "https://elpasopl.ent.sirsi.net/client/en_US/default/search/results?ln=en_US&q={{{s}}}"
+  },
+  {
+    "bang": "eslexicon",
+    "name": "Lexicon (Es)",
+    "url": "http://lexicoon.org/es/{{{s}}}"
+  },
+  {
+    "bang": "evren",
+    "name": "Evren Bilim",
+    "url": "https://www.evrenbilim.com/?s={{{s}}}"
+  },
+  {
+    "bang": "explorecourses",
+    "name": "Explore Courses",
+    "url": "http://explorecourses.stanford.edu/search?q={{{s}}}"
+  },
+  {
+    "bang": "fcaesar",
+    "name": "Frag Caesar",
+    "url": "https://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html"
+  },
+  {
+    "bang": "fes",
+    "name": "Eesti fraseologismide elektrooniline aluss\u00f5nastik",
+    "url": "http://www.folklore.ee/justkui/sonastik/?otsing={{{s}}}&paring=Otsi"
+  },
+  {
+    "bang": "fhsu",
+    "name": "Fort Hays State University",
+    "url": "https://fhsu.edu/searchresults.aspx?query={{{s}}}"
+  },
+  {
+    "bang": "flower",
+    "name": "Wildflower Center",
+    "url": "http://www.wildflower.org/plants/search.php?search_field={{{s}}}&newsearch=true"
+  },
+  {
+    "bang": "flr",
+    "name": "FluidLang subreddit",
+    "url": "https://www.reddit.com/r/FluidLang/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "forrester",
+    "name": "Forrester",
+    "url": "https://www.forrester.com/search?tmtxt={{{s}}}"
+  },
+  {
+    "bang": "french",
+    "name": "French Language and Usage",
+    "url": "http://french.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "fsc",
+    "name": "Futura Sciences",
+    "url": "http://www.futura-sciences.com/magazines/sciences/recherche/?q={{{s}}}"
+  },
+  {
+    "bang": "fthes",
+    "name": "The Free Thesaurus",
+    "url": "https://www.freethesaurus.com/{{{s}}}"
+  },
+  {
+    "bang": "fubib",
+    "name": "Katalogsuche UB FU Hagen",
+    "url": "https://www.ub-katalog.fernuni-hagen.de/F/?func=find-b&request={{{s}}}&find_code=WRD"
+  },
+  {
+    "bang": "geeks",
+    "name": "GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/?s={{{s}}}"
+  },
+  {
+    "bang": "glse",
+    "name": "German Language Stack Exchange",
+    "url": "https://german.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gnda",
+    "name": "Google (In Depth Articles)",
+    "url": "https://www.google.com/?gws_rd=ssl#q={{{s}}}&tbs=ida:1&gl=us"
+  },
+  {
+    "bang": "gossip",
+    "name": "Number Gossip",
+    "url": "http://www.numbergossip.com/?number={{{s}}}"
+  },
+  {
+    "bang": "greensdic",
+    "name": "Green's Dictionary of Slang",
+    "url": "https://greensdictofslang.com/search/basic?q={{{s}}}"
+  },
+  {
+    "bang": "gtenfr",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#en/fr/{{{s}}}"
+  },
+  {
+    "bang": "hak",
+    "name": "The Hydrogenaudio Knowledgebase",
+    "url": "http://wiki.hydrogenaudio.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "hanze",
+    "name": "Hanze Hogeschool",
+    "url": "https://www.hanze.nl/nld/zoeken?k={{{s}}}"
+  },
+  {
+    "bang": "heilkraeuter",
+    "name": "Heilkraeuter",
+    "url": "http://heilkraeuter.de/cgi-bin/search.cgi?Terms={{{s}}}"
+  },
+  {
+    "bang": "heinzelnisse",
+    "name": "Heinzelnisse",
+    "url": "http://www.heinzelnisse.info/dict?searchItem={{{s}}} "
+  },
+  {
+    "bang": "hfu",
+    "name": "Hochschule Furtwangen",
+    "url": "https://www.hs-furtwangen.de/suche/?L=0&id=207&tx_solr[q]={{{s}}}"
+  },
+  {
+    "bang": "history",
+    "name": "History",
+    "url": "http://www.history.com/search?search-field={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "hockessinlib",
+    "name": "Hockessin Library",
+    "url": "https://dlc.lib.de.us/client/en_US/default/search/results?qu={{{s}}}&te="
+  },
+  {
+    "bang": "howstuffworks",
+    "name": "How Stuff Works",
+    "url": "http://www.howstuffworks.com/search.php?terms={{{s}}}"
+  },
+  {
+    "bang": "howthingswork",
+    "name": "How Things Work",
+    "url": "http://howthingswork.virginia.edu/search.php?searchs={{{s}}}&Go.x=0&Go.y=0&searchq=yes&searcha=yes"
+  },
+  {
+    "bang": "htf",
+    "name": "HowtoForge",
+    "url": "http://www.howtoforge.com/trip_search?keys={{{s}}}"
+  },
+  {
+    "bang": "hwiki",
+    "name": "Hindi Wikipedia",
+    "url": "https://hi.wikipedia.org/w/index.php?search={{{s}}}&title=\u0935\u093f\u0936\u0947\u0937%3A\u0916\u094b\u091c&go=\u091c\u093e\u090f\u0901&ns0=1"
+  },
+  {
+    "bang": "ideje",
+    "name": "Timekiller",
+    "url": "https://ideja.d2.si/results.php?q={{{s}}}"
+  },
+  {
+    "bang": "ifixit",
+    "name": "iFixit",
+    "url": "http://www.ifixit.com/search?x=0&y=0&query={{{s}}}"
+  },
+  {
+    "bang": "ijp",
+    "name": "Internetov\u00e1 jazykov\u00e1 p\u0159\u00edru\u010dka",
+    "url": "http://prirucka.ujc.cas.cz/?slovo={{{s}}}"
+  },
+  {
+    "bang": "infogram",
+    "name": "Infogram",
+    "url": "https://infogr.am/search#{{{s}}}"
+  },
+  {
+    "bang": "inhalt",
+    "name": "Inhaltsangabe.de",
+    "url": "https://www.inhaltsangabe.de/?s={{{s}}}"
+  },
+  {
+    "bang": "invest",
+    "name": "Investopedia",
+    "url": "https://www.investopedia.com/search/?search-terms={{{s}}}"
+  },
+  {
+    "bang": "investopedia",
+    "name": "Investopedia",
+    "url": "https://www.investopedia.com/search/?search-terms={{{s}}}"
+  },
+  {
+    "bang": "itebooks",
+    "name": "http://it-ebooks.info",
+    "url": "http://it-ebooks.info/search/?q={{{s}}}&type=title"
+  },
+  {
+    "bang": "ivst",
+    "name": "Investopedia",
+    "url": "https://www.investopedia.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "jhg",
+    "name": "Website des JHG-Traunreut",
+    "url": "http://jhg-traunreut.de/index.php?q={{{s}}}&option=com_finder&view=search"
+  },
+  {
+    "bang": "jlpt",
+    "name": "JLPT Dictionary",
+    "url": "http://jlptdictionary.com/index.php?pn=1&st=0&jl=0&njl=0&sb=0&obt=0&wpp=25&ot=0&k={{{s}}}"
+  },
+  {
+    "bang": "jpdic",
+    "name": "Naver Japanese Dictionary",
+    "url": "http://jpdic.naver.com/search.nhn?query={{{s}}}"
+  },
+  {
+    "bang": "jtw",
+    "name": "Just The Word",
+    "url": "http://www.just-the-word.com/api/combinations?word={{{s}}}"
+  },
+  {
+    "bang": "kahoot",
+    "name": "Kahoot",
+    "url": "https://create.kahoot.it/search?filter=1&query=science&tags={{{s}}}"
+  },
+  {
+    "bang": "khanacademy",
+    "name": "Khan academy",
+    "url": "http://www.khanacademy.org/search?page_search_query={{{s}}}"
+  },
+  {
+    "bang": "kickstarter",
+    "name": "Kickstarter",
+    "url": "https://www.kickstarter.com/projects/search?utf8=\u2713&term={{{s}}}"
+  },
+  {
+    "bang": "klubschule",
+    "name": "Klubschule Migros",
+    "url": "https://www.klubschule.ch/Kurse/suche@{{{s}}}"
+  },
+  {
+    "bang": "koohii",
+    "name": "Koohii",
+    "url": "https://kanji.koohii.com/study/kanji/{{{s}}}"
+  },
+  {
+    "bang": "kts",
+    "name": "https://www.kielitoimistonsanakirja.fi",
+    "url": "https://www.kielitoimistonsanakirja.fi/{{{s}}}"
+  },
+  {
+    "bang": "laresfr",
+    "name": "Larousse",
+    "url": "http://www.larousse.fr/dictionnaires/espagnol-francais/{{{s}}}"
+  },
+  {
+    "bang": "larfres",
+    "name": "Larousse",
+    "url": "http://www.larousse.fr/dictionnaires/francais-espagnol/{{{s}}}"
+  },
+  {
+    "bang": "latdict",
+    "name": "Latdict",
+    "url": "http://latin-dictionary.net/search/latin/{{{s}}}"
+  },
+  {
+    "bang": "learnersdictionary",
+    "name": "Learner's Dictionary",
+    "url": "http://www.learnersdictionary.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "learn",
+    "name": "Learningapps",
+    "url": "https://learningapps.org/index.php?s={{{s}}}"
+  },
+  {
+    "bang": "leifi",
+    "name": "Leifi Physik",
+    "url": "https://www.leifiphysik.de/suche?search_api_fulltext={{{s}}}"
+  },
+  {
+    "bang": "lernabit",
+    "name": "Lernabit",
+    "url": "https://lernabit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "lexin",
+    "name": "Lexin (Norsk Ordbok)",
+    "url": "http://lexin.udir.no/?search={{{s}}}&dict=nbo-maxi&ui-lang=NBO&startingfrom=&count=10&checked-languages=E&checked-languages=N"
+  },
+  {
+    "bang": "libris",
+    "name": "Libris",
+    "url": "http://libris.kb.se/hitlist?d=libris&q={{{s}}}&f=simp&spell=true"
+  },
+  {
+    "bang": "lilearning",
+    "name": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "lindit",
+    "name": "Linguee Ger - It",
+    "url": "http://www.linguee.de/deutsch-italienisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lingualeo",
+    "name": "lingualeo.com",
+    "url": "https://lingualeo.com/ru/glossary/learn/dictionary#{{{s}}}"
+  },
+  {
+    "bang": "litblog",
+    "name": "Learned It Online Blog",
+    "url": "https://learneditonline.blog/?s={{{s}}}"
+  },
+  {
+    "bang": "lph",
+    "name": "leifiphysik.de",
+    "url": "https://www.leifiphysik.de/suche/{{{s}}}"
+  },
+  {
+    "bang": "lv",
+    "name": "Livermore library",
+    "url": "http://www.livermore.lib.ca.us/search/a?searchtype=X&SORT=D&searchscope=7&searcharg={{{s}}}"
+  },
+  {
+    "bang": "marmit",
+    "name": "Marmiton",
+    "url": "http://www.marmiton.org/recettes/recherche.aspx?s={{{s}}} "
+  },
+  {
+    "bang": "matpl",
+    "name": "Forum Matematyka.pl",
+    "url": "http://www.matematyka.pl/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "mcr",
+    "name": "Meta Crawler",
+    "url": "http://www.metacrawler.com/search/web?fcoid=417&fcop=topnav&fpid=2&om_nextpage=True&q={{{s}}}"
+  },
+  {
+    "bang": "mitvid",
+    "name": "MIT Video",
+    "url": "http://video.mit.edu/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mln",
+    "name": "Minuteman Library Network",
+    "url": "https://find.minlib.net/iii/encore/search/C__S{{{s}}}"
+  },
+  {
+    "bang": "moocs",
+    "name": "Class-Central",
+    "url": "https://www.class-central.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mtawiki",
+    "name": "Multi Theft Auto Wiki",
+    "url": "https://wiki.multitheftauto.com/index.php?title=Special%3ASearch&profile=default&fulltext=Search&search={{{s}}}"
+  },
+  {
+    "bang": "newsela",
+    "name": "Newsela",
+    "url": "https://newsela.com/search/#/?needle={{{s}}}"
+  },
+  {
+    "bang": "oaad",
+    "name": "Oxford Advanced American Dictionary",
+    "url": "https://www.oxfordlearnersdictionaries.com/definition/american_english/{{{s}}}"
+  },
+  {
+    "bang": "oc",
+    "name": "OpenClassrooms",
+    "url": "https://openclassrooms.com/courses?q={{{s}}}"
+  },
+  {
+    "bang": "oec",
+    "name": "Open Education Consortium",
+    "url": "http://www.oeconsortium.org/courses/search/?search= {{{s}}} "
+  },
+  {
+    "bang": "oer",
+    "name": "OER Commons",
+    "url": "http://www.oercommons.org/search?f.search={{{s}}}"
+  },
+  {
+    "bang": "og",
+    "name": "Omniglot",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aomniglot.com"
+  },
+  {
+    "bang": "ojen",
+    "name": "https://ojibwe.lib.umn.edu",
+    "url": "https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q={{{s}}}&commit=Search&type=ojibwe"
+  },
+  {
+    "bang": "olad",
+    "name": "Oxford Learner's American Dictionariy",
+    "url": "http://www.oxfordlearnersdictionaries.com/definition/american_english/{{{s}}}"
+  },
+  {
+    "bang": "onestopenglish",
+    "name": "Onestopenglish",
+    "url": "http://www.onestopenglish.com/searchResults.aspx?keywords={{{s}}}"
+  },
+  {
+    "bang": "openstax",
+    "name": "OpenStax",
+    "url": "https://cnx.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "openuni",
+    "name": "Open University",
+    "url": "http://search.open.ac.uk/public/search/results?q={{{s}}}"
+  },
+  {
+    "bang": "ordnet.dk",
+    "name": "Ordnet",
+    "url": "http://ordnet.dk/ddo/ordbog?query={{{s}}}+&search=S%C3%B8g"
+  },
+  {
+    "bang": "phet",
+    "name": "phet",
+    "url": "http://phet.colorado.edu/en/search?q={{{s}}}"
+  },
+  {
+    "bang": "pluralsight",
+    "name": "Pluralsight",
+    "url": "http://www.pluralsight.com/search/?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "poetry",
+    "name": "The Poetry Foundation",
+    "url": "http://www.poetryfoundation.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ponsde",
+    "name": "Pons",
+    "url": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=deen&in=&lf=de"
+  },
+  {
+    "bang": "por",
+    "name": "Poradnia J\u0119zyka Polskiego",
+    "url": "http://sjp.pwn.pl/poradnia/szukaj/{{{s}}}.html"
+  },
+  {
+    "bang": "poupar",
+    "name": "PouparMelhor",
+    "url": "https://www.pouparmelhor.com/?s={{{s}}}"
+  },
+  {
+    "bang": "proofwiki",
+    "name": "ProofWiki",
+    "url": "http://www.proofwiki.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "rbbg",
+    "name": "Rete Bibliotecaria Bergamasca",
+    "url": "https://www.rbbg.it/opac/search/lst?q={{{s}}}"
+  },
+  {
+    "bang": "redeen",
+    "name": "Reverso German - English",
+    "url": "https://dictionary.reverso.net/german-english/{{{s}}}"
+  },
+  {
+    "bang": "reversoenfr",
+    "name": "Dictionary Reverso",
+    "url": "http://dictionary.reverso.net/english-french/{{{s}}}"
+  },
+  {
+    "bang": "reversofren",
+    "name": "!reversofren",
+    "url": "http://dictionary.reverso.net/english-french/{{{s}}}"
+  },
+  {
+    "bang": "romajidesuvcb",
+    "name": "Romajidesu Vocabulary Search",
+    "url": "http://www.romajidesu.com/?m=dictionary&a=lookup&w={{{s}}}"
+  },
+  {
+    "bang": "rspb",
+    "name": "RSPB",
+    "url": "https://www.rspb.org.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "sabahlatan",
+    "name": "Sabahlatan",
+    "url": "http://sabahlatan.com/?s={{{s}}}"
+  },
+  {
+    "bang": "sbg",
+    "name": "bibleforums",
+    "url": "http://bibleforums.org/search.php?s={{{s}}} "
+  },
+  {
+    "bang": "sbrm",
+    "name": "slounik.org: \u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456\u044f \u0441\u043b\u043e\u045e\u043d\u0456\u043a\u0456 \u0456 \u044d\u043d\u0446\u044b\u043a\u043b\u044f\u043f\u044d\u0434\u044b\u0456",
+    "url": "http://www.slounik.org/search?dict=&search={{{s}}}"
+  },
+  {
+    "bang": "scouts",
+    "name": "Scouts UK",
+    "url": "https://scouts.org.uk/cse-search/?query={{{s}}}"
+  },
+  {
+    "bang": "seenglish",
+    "name": "English StackExchange",
+    "url": "http://english.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ses",
+    "name": "suomienglantisanakirja.fi",
+    "url": "https://www.suomienglantisanakirja.fi/{{{s}}}"
+  },
+  {
+    "bang": "sfpl",
+    "name": "San Francisco Public Library",
+    "url": "https://sfpl.bibliocommons.com/v2/search?searchType=smart&query={{{s}}}"
+  },
+  {
+    "bang": "sjp",
+    "name": "S\u0142ownik J\u0119zyka Polskiego",
+    "url": "http://sjp.pwn.pl/szukaj/{{{s}}}.html"
+  },
+  {
+    "bang": "skillshare",
+    "name": "Skillshare",
+    "url": "https://www.skillshare.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "skill",
+    "name": "Skillshare",
+    "url": "https://www.skillshare.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "slink",
+    "name": "Springer Link",
+    "url": "http://link.springer.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "slovnik",
+    "name": "Seznam Slovn\u00edk",
+    "url": "https://slovnik.seznam.cz/en/?q={{{s}}}"
+  },
+  {
+    "bang": "slq",
+    "name": "Sololearn",
+    "url": "https://www.sololearn.com/Discuss?ordering=Trending&query={{{s}}}"
+  },
+  {
+    "bang": "snl",
+    "name": "Store Norske Leksikon",
+    "url": "http://snl.no/.search?e=snl&query={{{s}}}"
+  },
+  {
+    "bang": "sophoskb",
+    "name": "Sophos Community",
+    "url": "https://community.sophos.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sparknotes",
+    "name": "SparkNotes",
+    "url": "http://www.sparknotes.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "spg",
+    "name": "Speed Guide",
+    "url": "https://www.speedguide.net/search_rez.php?seek={{{s}}}&words=yes"
+  },
+  {
+    "bang": "stixoi",
+    "name": "stixoi.info",
+    "url": "http://www.stixoi.info/stixoi.php?info=SS&keywords={{{s}}}&act=ss"
+  },
+  {
+    "bang": "studentdoctor",
+    "name": "Student Doctor Network",
+    "url": "http://www.studentdoctor.net/search-sdn/?cx={{{s}}}"
+  },
+  {
+    "bang": "svhelp",
+    "name": "SiteVision Developer",
+    "url": "https://help.sitevision.se/SiteVision_4_0/searchhelp.html?query={{{s}}}"
+  },
+  {
+    "bang": "sznsfr",
+    "name": "Seznam.cz slovn\u00edk Fr-Cz",
+    "url": "https://slovnik.seznam.cz/fr-cz/?q={{{s}}}"
+  },
+  {
+    "bang": "tafesa",
+    "name": "TAFE SA",
+    "url": "https://www.tafesa.edu.au/search-results?indexCatalogue=all&searchQuery={{{s}}}"
+  },
+  {
+    "bang": "tatoeba",
+    "name": "Tatoeba",
+    "url": "http://tatoeba.org/sentences/search?query={{{s}}}"
+  },
+  {
+    "bang": "tce",
+    "name": "The Canadian Encyclopedia",
+    "url": "https://www.thecanadianencyclopedia.ca/en/search?search={{{s}}}"
+  },
+  {
+    "bang": "teo",
+    "name": "Teonanacatl",
+    "url": "https://teonanacatl.org/search/1/?q={{{s}}}"
+  },
+  {
+    "bang": "tgc",
+    "name": "The Great Courses",
+    "url": "http://www.thegreatcourses.com/search/result/?q={{{s}}}"
+  },
+  {
+    "bang": "thoughtco",
+    "name": "ThoughtCo",
+    "url": "https://www.thoughtco.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "timekiller",
+    "name": "Timekiller",
+    "url": "https://ideja.d2.si/results?q={{{s}}}"
+  },
+  {
+    "bang": "trap",
+    "name": "Trappers Report",
+    "url": "https://www.trappersreport.com/?q={{{s}}}"
+  },
+  {
+    "bang": "ttbooks",
+    "name": "talk to books",
+    "url": "https://books.google.com/talktobooks/query?q={{{s}}}"
+  },
+  {
+    "bang": "tyd",
+    "name": "Tyda.se",
+    "url": "http://tyda.se/search/{{{s}}}?lang%5B0%5D=en&lang%5B1%5D=fr&lang%5B2%5D=de&lang%5B3%5D=es&lang%5B4%5D=la&lang%5B5%5D=nb&lang%5B6%5D=da&lang%5B7%5D=sv"
+  },
+  {
+    "bang": "tyda",
+    "name": "Tyda.se",
+    "url": "http://tyda.se/search?w={{{s}}}"
+  },
+  {
+    "bang": "ubt",
+    "name": "Universit\u00e4tsbibliothek T\u00fcbingen",
+    "url": "https://rds-tue.ibs-bw.de/opac/RDSIndex/Search?lookfor={{{s}}}"
+  },
+  {
+    "bang": "udemy",
+    "name": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q={{{s}}}"
+  },
+  {
+    "bang": "uif",
+    "name": "Ultralingua",
+    "url": "http://www.ultralingua.com/onlinedictionary/dictionary#src_lang=Italian&dest_lang=French&query={{{s}}}"
+  },
+  {
+    "bang": "ukwiki",
+    "name": "Ukrainian Wikipedia",
+    "url": "https://uk.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "umk",
+    "name": "Biblioteka UMK",
+    "url": "http://opac.bu.umk.pl/webpac-bin/B_horizonPL/wgbroker.exe?new+-access+top+search+open+CI+{{{s}}}"
+  },
+  {
+    "bang": "u",
+    "name": "Urban Dictionary",
+    "url": "http://www.urbandictionary.com/define.php?term={{{s}}}"
+  },
+  {
+    "bang": "viki",
+    "name": "Estonian Wikipedia (Vikipeedia)",
+    "url": "https://et.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "viquipedia",
+    "name": "Viquip\u00e8dia",
+    "url": "https://ca.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3ACerca&go=V%C3%A9s-hi"
+  },
+  {
+    "bang": "wai",
+    "name": "W3C Web Accessibility Initiative",
+    "url": "https://www.w3.org/WAI/search/?q={{{s}}}"
+  },
+  {
+    "bang": "wam",
+    "name": "WolframAlpha Mobile",
+    "url": "http://m.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "bang": "wandsk",
+    "name": "Wikiwand",
+    "url": "https://www.wikiwand.com/sk/{{{s}}}"
+  },
+  {
+    "bang": "wbj",
+    "name": "Wikibooks JP",
+    "url": "https://ja.wikibooks.org/w/index.php?search={{{s}}}&title=\u7279\u5225%3A\u691c\u7d22&go=\u8868\u793a"
+  },
+  {
+    "bang": "wbr",
+    "name": "Wikipedia Brezhoneg",
+    "url": "https://br.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "w.br",
+    "name": "Wikipedia (BR)",
+    "url": "https://pt.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wcat",
+    "name": "Viquip\u00e8dia",
+    "url": "https://ca.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wca",
+    "name": "Wikipedia (CA)",
+    "url": "https://ca.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wci",
+    "name": "World Cat Identities",
+    "url": "http://www.worldcat.org/identities/find?fullName={{{s}}}"
+  },
+  {
+    "bang": "wcy",
+    "name": "Wikipedia (CY)",
+    "url": "https://cy.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "w.de",
+    "name": "Wikipedia DE",
+    "url": "https://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wdt",
+    "name": "Wikidata",
+    "url": "https://www.wikidata.org/w/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "weblioe",
+    "name": "weblio \u82f1\u548c\u8f9e\u5178",
+    "url": "http://ejje.weblio.jp/content/{{{s}}}"
+  },
+  {
+    "bang": "w.en",
+    "name": "Wikipedia (English)",
+    "url": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wgr",
+    "name": "Wikipedia (GR)",
+    "url": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}} &go=Go&go=Go&go=Go"
+  },
+  {
+    "bang": "whe",
+    "name": "Wikipedia (HE)",
+    "url": "https://he.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "whfr",
+    "name": "wikiHow France",
+    "url": "https://fr.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "bang": "whi",
+    "name": "Wikipedia (HI)",
+    "url": "http://hi.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wh",
+    "name": "wikiHow",
+    "url": "http://www.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "bang": "whw",
+    "name": "wikiHow",
+    "url": "http://wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "bang": "wikia",
+    "name": "Wikia",
+    "url": "https://community-search.fandom.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wikibr",
+    "name": "Wikip\u00e9dia Brasil",
+    "url": "https://pt.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wiki.de",
+    "name": "Wikipedia DE",
+    "url": "https://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikifr",
+    "name": "Wikipedia French",
+    "url": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wikipediait",
+    "name": "Wikipedia in Italiano",
+    "url": "https://it.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wiki.pl",
+    "name": "Wikipedia Polska",
+    "url": "https://pl.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wikipt",
+    "name": "Wikip\u00e9dia PT",
+    "url": "https://pt.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wikisimple",
+    "name": "Wikipedia Simple",
+    "url": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wikispecies",
+    "name": "Wikispecies",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikisum",
+    "name": "Wiki Summaries",
+    "url": "http://www.wikisummaries.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wjvf",
+    "name": "Wiki de JV Flux",
+    "url": "https://wiki.jvflux.com/index.php?title=Sp\u00e9cial:Recherche&search={{{s}}}"
+  },
+  {
+    "bang": "wko",
+    "name": "Wikipedia (KO)",
+    "url": "https://ko.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wksp",
+    "name": "Wikispecies",
+    "url": "https://species.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wks",
+    "name": "Wikispecies",
+    "url": "https://species.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wlv",
+    "name": "Wikipedia (LV)",
+    "url": "https://lv.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wmde",
+    "name": "Wikipedia Deutsch Mobile",
+    "url": "https://de.m.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wmsr",
+    "name": "Wikipedia Mobile (Serbia)",
+    "url": "https://sr.m.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wrand",
+    "name": "Wikipedia Random in Category",
+    "url": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}"
+  },
+  {
+    "bang": "wrc",
+    "name": "WordReference",
+    "url": "http://www.wordreference.com/conj/FrVerbs.aspx?v={{{s}}}"
+  },
+  {
+    "bang": "wrei",
+    "name": "Word Reference EN-IT",
+    "url": "http://www.wordreference.com/enit/{{{s}}}"
+  },
+  {
+    "bang": "wrfrde",
+    "name": "Wordreference DE",
+    "url": "http://www.wordreference.com/frde/{{{s}}}"
+  },
+  {
+    "bang": "wrie",
+    "name": "Word Reference IT-EN",
+    "url": "http://www.wordreference.com/iten/{{{s}}}"
+  },
+  {
+    "bang": "wro",
+    "name": "wikipedia",
+    "url": "https://ro.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3AC%C4%83utare"
+  },
+  {
+    "bang": "wru",
+    "name": "Wikipedia (RU)",
+    "url": "https://ru.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wr",
+    "name": "WordReference Definition",
+    "url": "http://www.wordreference.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "wsk",
+    "name": "Wikip\u00e9dia Sloven\u010dina",
+    "url": "https://sk.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wtca",
+    "name": "Wiktionary Catalan",
+    "url": "https://ca.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wteo",
+    "name": "Vikivortaro",
+    "url": "https://eo.wiktionary.org/w/index.php?search={{{s}}}&title=Speciala%C4%B5o%3ASer%C4%89i&go=Ek!"
+  },
+  {
+    "bang": "wtionary",
+    "name": "Wikitionary",
+    "url": "https://en.wiktionary.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wvers",
+    "name": "Wikiversity",
+    "url": "http://en.wikiversity.org/w/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "wvo",
+    "name": "Wikipedia (VO)",
+    "url": "http://vo.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wzh",
+    "name": "Wikipedia (ZH)",
+    "url": "http://zh.wikipedia.org/w/wiki.phtml?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "ydic",
+    "name": "Yahoo!\u8f9e\u66f8",
+    "url": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p={{{s}}}&stype=full&fr=dic"
+  },
+  {
+    "bang": "\u0648",
+    "name": "\u0648\u064a\u0643\u064a\u0628\u064a\u062f\u064a\u0627 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "https://ar.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "\u0430\u043d\u0433\u043b\u044f\u0437",
+    "name": "\u0412\u0438\u043a\u0438-\u0443\u0447\u0435\u0431\u043d\u0438\u043a \u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u042f\u0437\u044b\u043a\u0430",
+    "url": "http://engramm.su/start?do=search&id={{{s}}}"
+  },
+  {
+    "bang": "\u0432",
+    "name": "Wikipedia",
+    "url": "https://uk.m.wikipedia.org/wiki/{{{s}}}"
+  }
+]

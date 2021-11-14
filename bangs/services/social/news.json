@@ -1,0 +1,172 @@
+[
+  {
+    "bang": "cybrhome",
+    "name": "CybrHome",
+    "url": "https://www.cybrhome.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dissent",
+    "name": "Dissenter",
+    "url": "https://dissenter.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "eaf",
+    "name": "Effective Altruism Forum",
+    "url": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Feffective-altruism.com+{{{s}}}"
+  },
+  {
+    "bang": "ejmr",
+    "name": "Economics Job Market Rumors",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aeconjobrumors.com"
+  },
+  {
+    "bang": "hackernews",
+    "name": "Hacker News",
+    "url": "http://hn.algolia.com/#!/all/forever/0/{{{s}}}"
+  },
+  {
+    "bang": "hatebu",
+    "name": "Hatena Bookmark",
+    "url": "http://b.hatena.ne.jp/search/text?q={{{s}}}"
+  },
+  {
+    "bang": "ilink",
+    "name": "il.ink",
+    "url": "https://il.ink/{{{s}}}"
+  },
+  {
+    "bang": "ltu",
+    "name": "Lambda the Ultimate",
+    "url": "http://lambda-the-ultimate.org/search/node/{{{s}}}"
+  },
+  {
+    "bang": "metacanada",
+    "name": "Subreddit r/metacanada",
+    "url": "https://www.reddit.com/r/metacanada/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "oldreddit",
+    "name": "Old Reddit",
+    "url": "https://old.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "pbtag",
+    "name": "Pinboard.in (Tag)",
+    "url": "https://pinboard.in/t:{{{s}}} "
+  },
+  {
+    "bang": "poal",
+    "name": "Poal",
+    "url": "https://poal.co/search/{{{s}}}"
+  },
+  {
+    "bang": "proav",
+    "name": "prostor-av.com",
+    "url": "https://prostor-av.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "rds",
+    "name": "Subreddit on Reddit",
+    "url": "https://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "rfd",
+    "name": "Refind",
+    "url": "https://refind.com/?q={{{s}}}"
+  },
+  {
+    "bang": "rmelb",
+    "name": "r/Melbourne",
+    "url": "https://www.reddit.com/r/melbourne/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "bang": "rprivacy",
+    "name": "Subreddit r/privacy",
+    "url": "https://www.reddit.com/r/privacy/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "rsn",
+    "name": "Reddit ",
+    "url": "https://www.reddit.com/r/{{{s}}}/new"
+  },
+  {
+    "bang": "ryear",
+    "name": "Reddit (past year (and more))",
+    "url": "http://www.reddit.com/search?q={{{s}}}&t=year"
+  },
+  {
+    "bang": "sbr",
+    "name": "Reddit",
+    "url": "http://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "seen",
+    "name": "SeenThis",
+    "url": "http://seenthis.net/spip.php?page=recherche&recherche={{{s}}}"
+  },
+  {
+    "bang": "sjmr",
+    "name": "Sociology Job Market Rumors",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:socjobrumors.com"
+  },
+  {
+    "bang": "snap",
+    "name": "Snapzu.com",
+    "url": "http://snapzu.com/find/{{{s}}}"
+  },
+  {
+    "bang": "srs",
+    "name": "Reddit",
+    "url": "https://www.reddit.com/search?q=subreddit:{{{s}}}"
+  },
+  {
+    "bang": "steam2twitch",
+    "name": "twitch tab bot",
+    "url": "http://tab-bot.net/botcheck?twitchname_botcheck=&steam_botcheck={{{s}}}"
+  },
+  {
+    "bang": "subreddit",
+    "name": "Reddit Subreddits",
+    "url": "http://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "subredditsearch",
+    "name": "Subreddit search",
+    "url": "http://www.reddit.com/search?q=subreddit:{{{s}}}"
+  },
+  {
+    "bang": "subverse",
+    "name": "Voat",
+    "url": "https://searchvoat.co/subverses/?q={{{s}}}"
+  },
+  {
+    "bang": "twitch2steam",
+    "name": "twitch tab bot",
+    "url": "http://tab-bot.net/botcheck?twitchname_botcheck={{{s}}}&submit_twitch=&steam_botcheck="
+  },
+  {
+    "bang": "voat",
+    "name": "Voat",
+    "url": "https://searchvoat.co/?all={{{s}}}"
+  },
+  {
+    "bang": "weheartit",
+    "name": "We Heart It",
+    "url": "http://weheartit.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "wso",
+    "name": "Wall Street Oasis Forums",
+    "url": "http://www.wallstreetoasis.com/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "bang": "wy",
+    "name": "Wykop.pl",
+    "url": "http://www.wykop.pl/szukaj/{{{s}}}"
+  },
+  {
+    "bang": "ynfr",
+    "name": "Yahoo news france",
+    "url": "https://fr.news.search.yahoo.com/search?p={{{s}}}"
+  }
+]

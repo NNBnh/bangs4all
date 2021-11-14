@@ -1,0 +1,1492 @@
+[
+  {
+    "bang": "canto",
+    "name": "CC-Canto - A Cantonese Dictionary",
+    "url": "http://cantonese.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "daen",
+    "name": "Google Translate da-en",
+    "url": "https://translate.google.com/#da/en/{{{s}}}"
+  },
+  {
+    "bang": "debg",
+    "name": "Google Translate de-bg",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=de&tl=bg&text={{{s}}}"
+  },
+  {
+    "bang": "deeplru",
+    "name": "DeepL Translator (RU)",
+    "url": "https://www.deepl.com/ru/translator#en/ru/{{{s}}}"
+  },
+  {
+    "bang": "depl",
+    "name": "google translate de-pl",
+    "url": "https://translate.google.com/#de/pl/{{{s}}}"
+  },
+  {
+    "bang": "deru",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=de&tl=ru&text={{{s}}}"
+  },
+  {
+    "bang": "en2da",
+    "name": "Translate English to Danish",
+    "url": "https://translate.google.com/#en/da/{{{s}}}"
+  },
+  {
+    "bang": "en2de",
+    "name": "Google Translate - En to De",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=en&tl=de&text={{{s}}}"
+  },
+  {
+    "bang": "en2hi",
+    "name": "Google Translate English to Hindi",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=en&tl=hi&text={{{s}}}"
+  },
+  {
+    "bang": "en2ru",
+    "name": "translate.google.com",
+    "url": "https://translate.google.com/?#view=home&op=translate&sl=en&tl=ru&text={{{s}}}"
+  },
+  {
+    "bang": "en2tl",
+    "name": "Google Translate English to Tagalog",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=en&tl=tl&text={{{s}}}"
+  },
+  {
+    "bang": "en2ua",
+    "name": "translate.google.com",
+    "url": "https://translate.google.com/?source=osdd#view=home&op=translate&sl=auto&tl=uk&text={{{s}}}"
+  },
+  {
+    "bang": "enar",
+    "name": "Google Translate Englsih to Arabic",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=en&tl=ar&text={{{s}}}"
+  },
+  {
+    "bang": "enda",
+    "name": "Google Translate en-da",
+    "url": "https://translate.google.com/#en/da/{{{s}}}"
+  },
+  {
+    "bang": "eoen",
+    "name": "Google translate",
+    "url": "https://translate.google.com/#eo/en/{{{s}}}"
+  },
+  {
+    "bang": "esde",
+    "name": "Google Translate es - de",
+    "url": "https://translate.google.de/#view=home&op=translate&sl=es&tl=de&text={{{s}}}"
+  },
+  {
+    "bang": "'f",
+    "name": "Franskt Lexikon",
+    "url": "https://www.fransktlexikon.se/{{{s}}}"
+  },
+  {
+    "bang": "fr2de",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=fr&tl=de&text={{{s}}}"
+  },
+  {
+    "bang": "frax",
+    "name": "Franskt Lexikon",
+    "url": "https://www.fransktlexikon.se/{{{s}}}"
+  },
+  {
+    "bang": "gtaf",
+    "name": "Detect language to Afrikaans",
+    "url": "https://translate.google.com/#auto/af/{{{s}}}"
+  },
+  {
+    "bang": "gt-afrikaans",
+    "name": "Detect language to Afrikaans",
+    "url": "https://translate.google.com/#auto/af/{{{s}}}"
+  },
+  {
+    "bang": "gtafrikaans",
+    "name": "Detect language to Afrikaans",
+    "url": "https://translate.google.com/#auto/af/{{{s}}}"
+  },
+  {
+    "bang": "gt-albanian",
+    "name": "Detect language to Albanian",
+    "url": "https://translate.google.com/#auto/sq/{{{s}}}"
+  },
+  {
+    "bang": "gtalbanian",
+    "name": "Detect language to Albanian",
+    "url": "https://translate.google.com/#auto/sq/{{{s}}}"
+  },
+  {
+    "bang": "gt-arabic",
+    "name": "Detect language to Arabic",
+    "url": "https://translate.google.com/#auto/ar/{{{s}}}"
+  },
+  {
+    "bang": "gtarabic",
+    "name": "Detect language to Arabic",
+    "url": "https://translate.google.com/#auto/ar/{{{s}}}"
+  },
+  {
+    "bang": "gtar",
+    "name": "Detect language to Arabic",
+    "url": "https://translate.google.com/#auto/ar/{{{s}}}"
+  },
+  {
+    "bang": "gt-armenian",
+    "name": "Detect language to Armenian",
+    "url": "https://translate.google.com/#auto/hy/{{{s}}}"
+  },
+  {
+    "bang": "gtarmenian",
+    "name": "Detect language to Armenian",
+    "url": "https://translate.google.com/#auto/hy/{{{s}}}"
+  },
+  {
+    "bang": "gtaz",
+    "name": "Detect language to Azerbaijani",
+    "url": "https://translate.google.com/#auto/az/{{{s}}}"
+  },
+  {
+    "bang": "gt-azerbaijani",
+    "name": "Detect language to Azerbaijani",
+    "url": "https://translate.google.com/#auto/az/{{{s}}}"
+  },
+  {
+    "bang": "gtazerbaijani",
+    "name": "Detect language to Azerbaijani",
+    "url": "https://translate.google.com/#auto/az/{{{s}}}"
+  },
+  {
+    "bang": "gt-basque",
+    "name": "Detect language to Basque",
+    "url": "https://translate.google.com/#auto/eu/{{{s}}}"
+  },
+  {
+    "bang": "gtbasque",
+    "name": "Detect language to Basque",
+    "url": "https://translate.google.com/#auto/eu/{{{s}}}"
+  },
+  {
+    "bang": "gtbe",
+    "name": "Detect language to Belarusian",
+    "url": "https://translate.google.com/#auto/be/{{{s}}}"
+  },
+  {
+    "bang": "gt-belarusian",
+    "name": "Detect language to Belarusian",
+    "url": "https://translate.google.com/#auto/be/{{{s}}}"
+  },
+  {
+    "bang": "gtbelarusian",
+    "name": "Detect language to Belarusian",
+    "url": "https://translate.google.com/#auto/be/{{{s}}}"
+  },
+  {
+    "bang": "gt-bengali",
+    "name": "Detect language to Bengali",
+    "url": "https://translate.google.com/#auto/bn/{{{s}}}"
+  },
+  {
+    "bang": "gtbengali",
+    "name": "Detect language to Bengali",
+    "url": "https://translate.google.com/#auto/bn/{{{s}}}"
+  },
+  {
+    "bang": "gtbg",
+    "name": "Detect language to Bulgarian",
+    "url": "https://translate.google.com/#auto/bg/{{{s}}}"
+  },
+  {
+    "bang": "gtbn",
+    "name": "Detect language to Bengali",
+    "url": "https://translate.google.com/#auto/bn/{{{s}}}"
+  },
+  {
+    "bang": "gt-bosnian",
+    "name": "Detect language to Bosnian",
+    "url": "https://translate.google.com/#auto/bs/{{{s}}}"
+  },
+  {
+    "bang": "gtbosnian",
+    "name": "Detect language to Bosnian",
+    "url": "https://translate.google.com/#auto/bs/{{{s}}}"
+  },
+  {
+    "bang": "gtbs",
+    "name": "Detect language to Bosnian",
+    "url": "https://translate.google.com/#auto/bs/{{{s}}}"
+  },
+  {
+    "bang": "gt-bulgarian",
+    "name": "Detect language to Bulgarian",
+    "url": "https://translate.google.com/#auto/bg/{{{s}}}"
+  },
+  {
+    "bang": "gtbulgarian",
+    "name": "Detect language to Bulgarian",
+    "url": "https://translate.google.com/#auto/bg/{{{s}}}"
+  },
+  {
+    "bang": "gtca",
+    "name": "Detect language to Catalan",
+    "url": "https://translate.google.com/#auto/ca/{{{s}}}"
+  },
+  {
+    "bang": "gt-catalan",
+    "name": "Detect language to Catalan",
+    "url": "https://translate.google.com/#auto/ca/{{{s}}}"
+  },
+  {
+    "bang": "gtcatalan",
+    "name": "Detect language to Catalan",
+    "url": "https://translate.google.com/#auto/ca/{{{s}}}"
+  },
+  {
+    "bang": "gtceb",
+    "name": "Detect language to Cebuano",
+    "url": "https://translate.google.com/#auto/ceb/{{{s}}}"
+  },
+  {
+    "bang": "gt-cebuano",
+    "name": "Detect language to Cebuano",
+    "url": "https://translate.google.com/#auto/ceb/{{{s}}}"
+  },
+  {
+    "bang": "gtcebuano",
+    "name": "Detect language to Cebuano",
+    "url": "https://translate.google.com/#auto/ceb/{{{s}}}"
+  },
+  {
+    "bang": "gt-chichewa",
+    "name": "Detect language to Chichewa",
+    "url": "https://translate.google.com/#auto/ny/{{{s}}}"
+  },
+  {
+    "bang": "gtchichewa",
+    "name": "Detect language to Chichewa",
+    "url": "https://translate.google.com/#auto/ny/{{{s}}}"
+  },
+  {
+    "bang": "gt-chinese",
+    "name": "Detect language to Chinese",
+    "url": "https://translate.google.com/#auto/zh-CN/{{{s}}}"
+  },
+  {
+    "bang": "gtchinese",
+    "name": "Detect language to Chinese",
+    "url": "https://translate.google.com/#auto/zh-CN/{{{s}}}"
+  },
+  {
+    "bang": "gt-croatian",
+    "name": "Detect language to Croatian",
+    "url": "https://translate.google.com/#auto/hr/{{{s}}}"
+  },
+  {
+    "bang": "gtcroatian",
+    "name": "Detect language to Croatian",
+    "url": "https://translate.google.com/#auto/hr/{{{s}}}"
+  },
+  {
+    "bang": "gtcs",
+    "name": "Detect language to Czech",
+    "url": "https://translate.google.com/#auto/cs/{{{s}}}"
+  },
+  {
+    "bang": "gtcy",
+    "name": "Detect language to Welsh",
+    "url": "https://translate.google.com/#auto/cy/{{{s}}}"
+  },
+  {
+    "bang": "gt-czech",
+    "name": "Detect language to Czech",
+    "url": "https://translate.google.com/#auto/cs/{{{s}}}"
+  },
+  {
+    "bang": "gtczech",
+    "name": "Detect language to Czech",
+    "url": "https://translate.google.com/#auto/cs/{{{s}}}"
+  },
+  {
+    "bang": "gtda",
+    "name": "Detect language to Danish",
+    "url": "https://translate.google.com/#auto/da/{{{s}}}"
+  },
+  {
+    "bang": "gt-danish",
+    "name": "Detect language to Danish",
+    "url": "https://translate.google.com/#auto/da/{{{s}}}"
+  },
+  {
+    "bang": "gtdanish",
+    "name": "Detect language to Danish",
+    "url": "https://translate.google.com/#auto/da/{{{s}}}"
+  },
+  {
+    "bang": "gtde",
+    "name": "Detect language to German",
+    "url": "https://translate.google.com/#auto/de/{{{s}}}"
+  },
+  {
+    "bang": "gt-dutch",
+    "name": "Detect language to Dutch",
+    "url": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "bang": "gtdutch",
+    "name": "Detect language to Dutch",
+    "url": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "bang": "gtel",
+    "name": "Detect language to Greek",
+    "url": "https://translate.google.com/#auto/el/{{{s}}}"
+  },
+  {
+    "bang": "gten",
+    "name": "Detect language to English",
+    "url": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "gt-english",
+    "name": "Detect language to English",
+    "url": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "gtenglish",
+    "name": "Detect language to English",
+    "url": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "gteo",
+    "name": "Detect language to Esperanto",
+    "url": "https://translate.google.com/#auto/eo/{{{s}}}"
+  },
+  {
+    "bang": "gtes",
+    "name": "Detect language to Spanish",
+    "url": "https://translate.google.com/#auto/es/{{{s}}}"
+  },
+  {
+    "bang": "gt-esperanto",
+    "name": "Detect language to Esperanto",
+    "url": "https://translate.google.com/#auto/eo/{{{s}}}"
+  },
+  {
+    "bang": "gtesperanto",
+    "name": "Detect language to Esperanto",
+    "url": "https://translate.google.com/#auto/eo/{{{s}}}"
+  },
+  {
+    "bang": "gt-estonian",
+    "name": "Detect language to Estonian",
+    "url": "https://translate.google.com/#auto/et/{{{s}}}"
+  },
+  {
+    "bang": "gtestonian",
+    "name": "Detect language to Estonian",
+    "url": "https://translate.google.com/#auto/et/{{{s}}}"
+  },
+  {
+    "bang": "gtet",
+    "name": "Detect language to Estonian",
+    "url": "https://translate.google.com/#auto/et/{{{s}}}"
+  },
+  {
+    "bang": "gteu",
+    "name": "Detect language to Basque",
+    "url": "https://translate.google.com/#auto/eu/{{{s}}}"
+  },
+  {
+    "bang": "gtfa",
+    "name": "Detect language to Persian",
+    "url": "https://translate.google.com/#auto/fa/{{{s}}}"
+  },
+  {
+    "bang": "gtfi",
+    "name": "Detect language to Finnish",
+    "url": "https://translate.google.com/#auto/fi/{{{s}}}"
+  },
+  {
+    "bang": "gt-filipino",
+    "name": "Detect language to Filipino",
+    "url": "https://translate.google.com/#auto/tl/{{{s}}}"
+  },
+  {
+    "bang": "gtfilipino",
+    "name": "Detect language to Filipino",
+    "url": "https://translate.google.com/#auto/tl/{{{s}}}"
+  },
+  {
+    "bang": "gt-finnish",
+    "name": "Detect language to Finnish",
+    "url": "https://translate.google.com/#auto/fi/{{{s}}}"
+  },
+  {
+    "bang": "gtfinnish",
+    "name": "Detect language to Finnish",
+    "url": "https://translate.google.com/#auto/fi/{{{s}}}"
+  },
+  {
+    "bang": "gtfr",
+    "name": "Detect language to French",
+    "url": "https://translate.google.com/#auto/fr/{{{s}}}"
+  },
+  {
+    "bang": "gt-french",
+    "name": "Detect language to French",
+    "url": "https://translate.google.com/#auto/fr/{{{s}}}"
+  },
+  {
+    "bang": "gtfrench",
+    "name": "Detect language to French",
+    "url": "https://translate.google.com/#auto/fr/{{{s}}}"
+  },
+  {
+    "bang": "gtga",
+    "name": "Detect language to Irish",
+    "url": "https://translate.google.com/#auto/ga/{{{s}}}"
+  },
+  {
+    "bang": "gt-galician",
+    "name": "Detect language to Galician",
+    "url": "https://translate.google.com/#auto/gl/{{{s}}}"
+  },
+  {
+    "bang": "gtgalician",
+    "name": "Detect language to Galician",
+    "url": "https://translate.google.com/#auto/gl/{{{s}}}"
+  },
+  {
+    "bang": "gt-georgian",
+    "name": "Detect language to Georgian",
+    "url": "https://translate.google.com/#auto/ka/{{{s}}}"
+  },
+  {
+    "bang": "gtgeorgian",
+    "name": "Detect language to Georgian",
+    "url": "https://translate.google.com/#auto/ka/{{{s}}}"
+  },
+  {
+    "bang": "gt-german",
+    "name": "Detect language to German",
+    "url": "https://translate.google.com/#auto/de/{{{s}}}"
+  },
+  {
+    "bang": "gtgerman",
+    "name": "Detect language to German",
+    "url": "https://translate.google.com/#auto/de/{{{s}}}"
+  },
+  {
+    "bang": "gtgl",
+    "name": "Detect language to Galician",
+    "url": "https://translate.google.com/#auto/gl/{{{s}}}"
+  },
+  {
+    "bang": "gtgr",
+    "name": "Detect language to Greek",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=auto&tl=el&text={{{s}}}"
+  },
+  {
+    "bang": "gt-greek",
+    "name": "Detect language to Greek",
+    "url": "https://translate.google.com/#auto/el/{{{s}}}"
+  },
+  {
+    "bang": "gtgreek",
+    "name": "Detect language to Greek",
+    "url": "https://translate.google.com/#auto/el/{{{s}}}"
+  },
+  {
+    "bang": "gtgu",
+    "name": "Detect language to Gujarati",
+    "url": "https://translate.google.com/#auto/gu/{{{s}}}"
+  },
+  {
+    "bang": "gt-gujarati",
+    "name": "Detect language to Gujarati",
+    "url": "https://translate.google.com/#auto/gu/{{{s}}}"
+  },
+  {
+    "bang": "gtgujarati",
+    "name": "Detect language to Gujarati",
+    "url": "https://translate.google.com/#auto/gu/{{{s}}}"
+  },
+  {
+    "bang": "gtha",
+    "name": "Detect language to Hausa",
+    "url": "https://translate.google.com/#auto/ha/{{{s}}}"
+  },
+  {
+    "bang": "gthaitiancreole",
+    "name": "Detect language to Haitian Creole",
+    "url": "https://translate.google.com/#auto/ht/{{{s}}}"
+  },
+  {
+    "bang": "gt-hausa",
+    "name": "Detect language to Hausa",
+    "url": "https://translate.google.com/#auto/ha/{{{s}}}"
+  },
+  {
+    "bang": "gthausa",
+    "name": "Detect language to Hausa",
+    "url": "https://translate.google.com/#auto/ha/{{{s}}}"
+  },
+  {
+    "bang": "gt-hebrew",
+    "name": "Detect language to Hebrew",
+    "url": "https://translate.google.com/#auto/iw/{{{s}}}"
+  },
+  {
+    "bang": "gthebrew",
+    "name": "Detect language to Hebrew",
+    "url": "https://translate.google.com/#auto/iw/{{{s}}}"
+  },
+  {
+    "bang": "gthi",
+    "name": "Detect language to Hindi",
+    "url": "https://translate.google.com/#auto/hi/{{{s}}}"
+  },
+  {
+    "bang": "gt-hindi",
+    "name": "Detect language to Hindi",
+    "url": "https://translate.google.com/#auto/hi/{{{s}}}"
+  },
+  {
+    "bang": "gthindi",
+    "name": "Detect language to Hindi",
+    "url": "https://translate.google.com/#auto/hi/{{{s}}}"
+  },
+  {
+    "bang": "gthmn",
+    "name": "Detect language to Hmong",
+    "url": "https://translate.google.com/#auto/hmn/{{{s}}}"
+  },
+  {
+    "bang": "gt-hmong",
+    "name": "Detect language to Hmong",
+    "url": "https://translate.google.com/#auto/hmn/{{{s}}}"
+  },
+  {
+    "bang": "gthmong",
+    "name": "Detect language to Hmong",
+    "url": "https://translate.google.com/#auto/hmn/{{{s}}}"
+  },
+  {
+    "bang": "gthr",
+    "name": "Detect language to Croatian",
+    "url": "https://translate.google.com/#auto/hr/{{{s}}}"
+  },
+  {
+    "bang": "gtht",
+    "name": "Detect language to Haitian Creole",
+    "url": "https://translate.google.com/#auto/ht/{{{s}}}"
+  },
+  {
+    "bang": "gthu",
+    "name": "Detect language to Hungarian",
+    "url": "https://translate.google.com/#auto/hu/{{{s}}}"
+  },
+  {
+    "bang": "gt-hungarian",
+    "name": "Detect language to Hungarian",
+    "url": "https://translate.google.com/#auto/hu/{{{s}}}"
+  },
+  {
+    "bang": "gthungarian",
+    "name": "Detect language to Hungarian",
+    "url": "https://translate.google.com/#auto/hu/{{{s}}}"
+  },
+  {
+    "bang": "gthy",
+    "name": "Detect language to Armenian",
+    "url": "https://translate.google.com/#auto/hy/{{{s}}}"
+  },
+  {
+    "bang": "gt-icelandic",
+    "name": "Detect language to Icelandic",
+    "url": "https://translate.google.com/#auto/is/{{{s}}}"
+  },
+  {
+    "bang": "gticelandic",
+    "name": "Detect language to Icelandic",
+    "url": "https://translate.google.com/#auto/is/{{{s}}}"
+  },
+  {
+    "bang": "gtid",
+    "name": "Detect language to Indonesian",
+    "url": "https://translate.google.com/#auto/id/{{{s}}}"
+  },
+  {
+    "bang": "gt-igbo",
+    "name": "Detect language to Igbo",
+    "url": "https://translate.google.com/#auto/ig/{{{s}}}"
+  },
+  {
+    "bang": "gtigbo",
+    "name": "Detect language to Igbo",
+    "url": "https://translate.google.com/#auto/ig/{{{s}}}"
+  },
+  {
+    "bang": "gtig",
+    "name": "Detect language to Igbo",
+    "url": "https://translate.google.com/#auto/ig/{{{s}}}"
+  },
+  {
+    "bang": "gt-indonesian",
+    "name": "Detect language to Indonesian",
+    "url": "https://translate.google.com/#auto/id/{{{s}}}"
+  },
+  {
+    "bang": "gtindonesian",
+    "name": "Detect language to Indonesian",
+    "url": "https://translate.google.com/#auto/id/{{{s}}}"
+  },
+  {
+    "bang": "gt-irish",
+    "name": "Detect language to Irish",
+    "url": "https://translate.google.com/#auto/ga/{{{s}}}"
+  },
+  {
+    "bang": "gtirish",
+    "name": "Detect language to Irish",
+    "url": "https://translate.google.com/#auto/ga/{{{s}}}"
+  },
+  {
+    "bang": "gtis",
+    "name": "Detect language to Icelandic",
+    "url": "https://translate.google.com/#auto/is/{{{s}}}"
+  },
+  {
+    "bang": "gt-italian",
+    "name": "Detect language to Italian",
+    "url": "https://translate.google.com/#auto/it/{{{s}}}"
+  },
+  {
+    "bang": "gtitalian",
+    "name": "Detect language to Italian",
+    "url": "https://translate.google.com/#auto/it/{{{s}}}"
+  },
+  {
+    "bang": "gtit",
+    "name": "Detect language to Italian",
+    "url": "https://translate.google.com/#auto/it/{{{s}}}"
+  },
+  {
+    "bang": "gtiw",
+    "name": "Detect language to Hebrew",
+    "url": "https://translate.google.com/#auto/iw/{{{s}}}"
+  },
+  {
+    "bang": "gtja",
+    "name": "Detect language to Japanese",
+    "url": "https://translate.google.com/#auto/ja/{{{s}}}"
+  },
+  {
+    "bang": "gt-japanese",
+    "name": "Detect language to Japanese",
+    "url": "https://translate.google.com/#auto/ja/{{{s}}}"
+  },
+  {
+    "bang": "gtjapanese",
+    "name": "Detect language to Japanese",
+    "url": "https://translate.google.com/#auto/ja/{{{s}}}"
+  },
+  {
+    "bang": "gt-javanese",
+    "name": "Detect language to Javanese",
+    "url": "https://translate.google.com/#auto/jw/{{{s}}}"
+  },
+  {
+    "bang": "gtjavanese",
+    "name": "Detect language to Javanese",
+    "url": "https://translate.google.com/#auto/jw/{{{s}}}"
+  },
+  {
+    "bang": "gtjw",
+    "name": "Detect language to Javanese",
+    "url": "https://translate.google.com/#auto/jw/{{{s}}}"
+  },
+  {
+    "bang": "gtka",
+    "name": "Detect language to Georgian",
+    "url": "https://translate.google.com/#auto/ka/{{{s}}}"
+  },
+  {
+    "bang": "gt-kannada",
+    "name": "Detect language to Kannada",
+    "url": "https://translate.google.com/#auto/kn/{{{s}}}"
+  },
+  {
+    "bang": "gtkannada",
+    "name": "Detect language to Kannada",
+    "url": "https://translate.google.com/#auto/kn/{{{s}}}"
+  },
+  {
+    "bang": "gt-kazakh",
+    "name": "Detect language to Kazakh",
+    "url": "https://translate.google.com/#auto/kk/{{{s}}}"
+  },
+  {
+    "bang": "gtkazakh",
+    "name": "Detect language to Kazakh",
+    "url": "https://translate.google.com/#auto/kk/{{{s}}}"
+  },
+  {
+    "bang": "gt-khmer",
+    "name": "Detect language to Khmer",
+    "url": "https://translate.google.com/#auto/km/{{{s}}}"
+  },
+  {
+    "bang": "gtkhmer",
+    "name": "Detect language to Khmer",
+    "url": "https://translate.google.com/#auto/km/{{{s}}}"
+  },
+  {
+    "bang": "gtkk",
+    "name": "Detect language to Kazakh",
+    "url": "https://translate.google.com/#auto/kk/{{{s}}}"
+  },
+  {
+    "bang": "gtkm",
+    "name": "Detect language to Khmer",
+    "url": "https://translate.google.com/#auto/km/{{{s}}}"
+  },
+  {
+    "bang": "gtkn",
+    "name": "Detect language to Kannada",
+    "url": "https://translate.google.com/#auto/kn/{{{s}}}"
+  },
+  {
+    "bang": "gtko",
+    "name": "Detect language to Korean",
+    "url": "https://translate.google.com/#auto/ko/{{{s}}}"
+  },
+  {
+    "bang": "gt-korean",
+    "name": "Detect language to Korean",
+    "url": "https://translate.google.com/#auto/ko/{{{s}}}"
+  },
+  {
+    "bang": "gtkorean",
+    "name": "Detect language to Korean",
+    "url": "https://translate.google.com/#auto/ko/{{{s}}}"
+  },
+  {
+    "bang": "gtla",
+    "name": "Detect language to Latin",
+    "url": "https://translate.google.com/#auto/la/{{{s}}}"
+  },
+  {
+    "bang": "gt-lao",
+    "name": "Detect language to Lao",
+    "url": "https://translate.google.com/#auto/lo/{{{s}}}"
+  },
+  {
+    "bang": "gtlao",
+    "name": "Detect language to Lao",
+    "url": "https://translate.google.com/#auto/lo/{{{s}}}"
+  },
+  {
+    "bang": "gt-latin",
+    "name": "Detect language to Latin",
+    "url": "https://translate.google.com/#auto/la/{{{s}}}"
+  },
+  {
+    "bang": "gtlatin",
+    "name": "Detect language to Latin",
+    "url": "https://translate.google.com/#auto/la/{{{s}}}"
+  },
+  {
+    "bang": "gt-latvian",
+    "name": "Detect language to Latvian",
+    "url": "https://translate.google.com/#auto/lv/{{{s}}}"
+  },
+  {
+    "bang": "gtlatvian",
+    "name": "Detect language to Latvian",
+    "url": "https://translate.google.com/#auto/lv/{{{s}}}"
+  },
+  {
+    "bang": "gt-lithuanian",
+    "name": "Detect language to Lithuanian",
+    "url": "https://translate.google.com/#auto/lt/{{{s}}}"
+  },
+  {
+    "bang": "gtlithuanian",
+    "name": "Detect language to Lithuanian",
+    "url": "https://translate.google.com/#auto/lt/{{{s}}}"
+  },
+  {
+    "bang": "gtlt",
+    "name": "Detect language to Lithuanian",
+    "url": "https://translate.google.com/#auto/lt/{{{s}}}"
+  },
+  {
+    "bang": "gtlv",
+    "name": "Detect language to Latvian",
+    "url": "https://translate.google.com/#auto/lv/{{{s}}}"
+  },
+  {
+    "bang": "gt-macedonian",
+    "name": "Detect language to Macedonian",
+    "url": "https://translate.google.com/#auto/mk/{{{s}}}"
+  },
+  {
+    "bang": "gtmacedonian",
+    "name": "Detect language to Macedonian",
+    "url": "https://translate.google.com/#auto/mk/{{{s}}}"
+  },
+  {
+    "bang": "gt-malagasy",
+    "name": "Detect language to Malagasy",
+    "url": "https://translate.google.com/#auto/mg/{{{s}}}"
+  },
+  {
+    "bang": "gtmalagasy",
+    "name": "Detect language to Malagasy",
+    "url": "https://translate.google.com/#auto/mg/{{{s}}}"
+  },
+  {
+    "bang": "gt-malayalam",
+    "name": "Detect language to Malayalam",
+    "url": "https://translate.google.com/#auto/ml/{{{s}}}"
+  },
+  {
+    "bang": "gtmalayalam",
+    "name": "Detect language to Malayalam",
+    "url": "https://translate.google.com/#auto/ml/{{{s}}}"
+  },
+  {
+    "bang": "gt-malay",
+    "name": "Detect language to Malay",
+    "url": "https://translate.google.com/#auto/ms/{{{s}}}"
+  },
+  {
+    "bang": "gtmalay",
+    "name": "Detect language to Malay",
+    "url": "https://translate.google.com/#auto/ms/{{{s}}}"
+  },
+  {
+    "bang": "gt-maltese",
+    "name": "Detect language to Maltese",
+    "url": "https://translate.google.com/#auto/mt/{{{s}}}"
+  },
+  {
+    "bang": "gtmaltese",
+    "name": "Detect language to Maltese",
+    "url": "https://translate.google.com/#auto/mt/{{{s}}}"
+  },
+  {
+    "bang": "gt-maori",
+    "name": "Detect language to Maori",
+    "url": "https://translate.google.com/#auto/mi/{{{s}}}"
+  },
+  {
+    "bang": "gtmaori",
+    "name": "Detect language to Maori",
+    "url": "https://translate.google.com/#auto/mi/{{{s}}}"
+  },
+  {
+    "bang": "gt-marathi",
+    "name": "Detect language to Marathi",
+    "url": "https://translate.google.com/#auto/mr/{{{s}}}"
+  },
+  {
+    "bang": "gtmarathi",
+    "name": "Detect language to Marathi",
+    "url": "https://translate.google.com/#auto/mr/{{{s}}}"
+  },
+  {
+    "bang": "gtmg",
+    "name": "Detect language to Malagasy",
+    "url": "https://translate.google.com/#auto/mg/{{{s}}}"
+  },
+  {
+    "bang": "gtmi",
+    "name": "Detect language to Maori",
+    "url": "https://translate.google.com/#auto/mi/{{{s}}}"
+  },
+  {
+    "bang": "gtmk",
+    "name": "Detect language to Macedonian",
+    "url": "https://translate.google.com/#auto/mk/{{{s}}}"
+  },
+  {
+    "bang": "gtml",
+    "name": "Detect language to Malayalam",
+    "url": "https://translate.google.com/#auto/ml/{{{s}}}"
+  },
+  {
+    "bang": "gtmn",
+    "name": "Detect language to Mongolian",
+    "url": "https://translate.google.com/#auto/mn/{{{s}}}"
+  },
+  {
+    "bang": "gt-mongolian",
+    "name": "Detect language to Mongolian",
+    "url": "https://translate.google.com/#auto/mn/{{{s}}}"
+  },
+  {
+    "bang": "gtmongolian",
+    "name": "Detect language to Mongolian",
+    "url": "https://translate.google.com/#auto/mn/{{{s}}}"
+  },
+  {
+    "bang": "gtmr",
+    "name": "Detect language to Marathi",
+    "url": "https://translate.google.com/#auto/mr/{{{s}}}"
+  },
+  {
+    "bang": "gtms",
+    "name": "Detect language to Malay",
+    "url": "https://translate.google.com/#auto/ms/{{{s}}}"
+  },
+  {
+    "bang": "gtmt",
+    "name": "Detect language to Maltese",
+    "url": "https://translate.google.com/#auto/mt/{{{s}}}"
+  },
+  {
+    "bang": "gt-myanmar",
+    "name": "Detect language to Myanmar (Burmese)",
+    "url": "https://translate.google.com/#auto/my/{{{s}}}"
+  },
+  {
+    "bang": "gtmyanmar",
+    "name": "Detect language to Myanmar (Burmese)",
+    "url": "https://translate.google.com/#auto/my/{{{s}}}"
+  },
+  {
+    "bang": "gtmy",
+    "name": "Detect language to Myanmar (Burmese)",
+    "url": "https://translate.google.com/#auto/my/{{{s}}}"
+  },
+  {
+    "bang": "gtne",
+    "name": "Detect language to Nepali",
+    "url": "https://translate.google.com/#auto/ne/{{{s}}}"
+  },
+  {
+    "bang": "gt-nepali",
+    "name": "Detect language to Nepali",
+    "url": "https://translate.google.com/#auto/ne/{{{s}}}"
+  },
+  {
+    "bang": "gtnepali",
+    "name": "Detect language to Nepali",
+    "url": "https://translate.google.com/#auto/ne/{{{s}}}"
+  },
+  {
+    "bang": "gtnl",
+    "name": "Detect language to Dutch",
+    "url": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "bang": "gtno",
+    "name": "Detect language to Norwegian",
+    "url": "https://translate.google.com/#auto/no/{{{s}}}"
+  },
+  {
+    "bang": "gt-norwegian",
+    "name": "Detect language to Norwegian",
+    "url": "https://translate.google.com/#auto/no/{{{s}}}"
+  },
+  {
+    "bang": "gtnorwegian",
+    "name": "Detect language to Norwegian",
+    "url": "https://translate.google.com/#auto/no/{{{s}}}"
+  },
+  {
+    "bang": "gtny",
+    "name": "Detect language to Chichewa",
+    "url": "https://translate.google.com/#auto/ny/{{{s}}}"
+  },
+  {
+    "bang": "gtpa",
+    "name": "Detect language to Punjabi",
+    "url": "https://translate.google.com/#auto/pa/{{{s}}}"
+  },
+  {
+    "bang": "gt-persian",
+    "name": "Detect language to Persian",
+    "url": "https://translate.google.com/#auto/fa/{{{s}}}"
+  },
+  {
+    "bang": "gtpersian",
+    "name": "Detect language to Persian",
+    "url": "https://translate.google.com/#auto/fa/{{{s}}}"
+  },
+  {
+    "bang": "gtpl",
+    "name": "Detect language to Polish",
+    "url": "https://translate.google.com/#auto/pl/{{{s}}}"
+  },
+  {
+    "bang": "gt-polish",
+    "name": "Detect language to Polish",
+    "url": "https://translate.google.com/#auto/pl/{{{s}}}"
+  },
+  {
+    "bang": "gtpolish",
+    "name": "Detect language to Polish",
+    "url": "https://translate.google.com/#auto/pl/{{{s}}}"
+  },
+  {
+    "bang": "gt-portuguese",
+    "name": "Detect language to Portuguese",
+    "url": "https://translate.google.com/#auto/pt/{{{s}}}"
+  },
+  {
+    "bang": "gtportuguese",
+    "name": "Detect language to Portuguese",
+    "url": "https://translate.google.com/#auto/pt/{{{s}}}"
+  },
+  {
+    "bang": "gtpt",
+    "name": "Detect language to Portuguese",
+    "url": "https://translate.google.com/#auto/pt/{{{s}}}"
+  },
+  {
+    "bang": "gt-punjabi",
+    "name": "Detect language to Punjabi",
+    "url": "https://translate.google.com/#auto/pa/{{{s}}}"
+  },
+  {
+    "bang": "gtpunjabi",
+    "name": "Detect language to Punjabi",
+    "url": "https://translate.google.com/#auto/pa/{{{s}}}"
+  },
+  {
+    "bang": "gtranslate",
+    "name": "Google Translate",
+    "url": "http://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "gtro",
+    "name": "Detect language to Romanian",
+    "url": "https://translate.google.com/#auto/ro/{{{s}}}"
+  },
+  {
+    "bang": "gt-romanian",
+    "name": "Detect language to Romanian",
+    "url": "https://translate.google.com/#auto/ro/{{{s}}}"
+  },
+  {
+    "bang": "gtromanian",
+    "name": "Detect language to Romanian",
+    "url": "https://translate.google.com/#auto/ro/{{{s}}}"
+  },
+  {
+    "bang": "gtru",
+    "name": "Detect language to Russian",
+    "url": "https://translate.google.com/#auto/ru/{{{s}}}"
+  },
+  {
+    "bang": "gt-russian",
+    "name": "Detect language to Russian",
+    "url": "https://translate.google.com/#auto/ru/{{{s}}}"
+  },
+  {
+    "bang": "gtrussian",
+    "name": "Detect language to Russian",
+    "url": "https://translate.google.com/#auto/ru/{{{s}}}"
+  },
+  {
+    "bang": "gt-serbian",
+    "name": "Detect language to Serbian",
+    "url": "https://translate.google.com/#auto/sr/{{{s}}}"
+  },
+  {
+    "bang": "gtserbian",
+    "name": "Detect language to Serbian",
+    "url": "https://translate.google.com/#auto/sr/{{{s}}}"
+  },
+  {
+    "bang": "gt-sesotho",
+    "name": "Detect language to Sesotho",
+    "url": "https://translate.google.com/#auto/st/{{{s}}}"
+  },
+  {
+    "bang": "gtsesotho",
+    "name": "Detect language to Sesotho",
+    "url": "https://translate.google.com/#auto/st/{{{s}}}"
+  },
+  {
+    "bang": "gtsi",
+    "name": "Detect language to Sinhala",
+    "url": "https://translate.google.com/#auto/si/{{{s}}}"
+  },
+  {
+    "bang": "gt-sinhala",
+    "name": "Detect language to Sinhala",
+    "url": "https://translate.google.com/#auto/si/{{{s}}}"
+  },
+  {
+    "bang": "gtsinhala",
+    "name": "Detect language to Sinhala",
+    "url": "https://translate.google.com/#auto/si/{{{s}}}"
+  },
+  {
+    "bang": "gtsk",
+    "name": "Detect language to Slovak",
+    "url": "https://translate.google.com/#auto/sk/{{{s}}}"
+  },
+  {
+    "bang": "gtsl",
+    "name": "Detect language to Slovenian",
+    "url": "https://translate.google.com/#auto/sl/{{{s}}}"
+  },
+  {
+    "bang": "gt-slovak",
+    "name": "Detect language to Slovak",
+    "url": "https://translate.google.com/#auto/sk/{{{s}}}"
+  },
+  {
+    "bang": "gtslovak",
+    "name": "Detect language to Slovak",
+    "url": "https://translate.google.com/#auto/sk/{{{s}}}"
+  },
+  {
+    "bang": "gt-slovenian",
+    "name": "Detect language to Slovenian",
+    "url": "https://translate.google.com/#auto/sl/{{{s}}}"
+  },
+  {
+    "bang": "gtslovenian",
+    "name": "Detect language to Slovenian",
+    "url": "https://translate.google.com/#auto/sl/{{{s}}}"
+  },
+  {
+    "bang": "gtso",
+    "name": "Detect language to Somali",
+    "url": "https://translate.google.com/#auto/so/{{{s}}}"
+  },
+  {
+    "bang": "gt-somali",
+    "name": "Detect language to Somali",
+    "url": "https://translate.google.com/#auto/so/{{{s}}}"
+  },
+  {
+    "bang": "gtsomali",
+    "name": "Detect language to Somali",
+    "url": "https://translate.google.com/#auto/so/{{{s}}}"
+  },
+  {
+    "bang": "gt-spanish",
+    "name": "Detect language to Spanish",
+    "url": "https://translate.google.com/#auto/es/{{{s}}}"
+  },
+  {
+    "bang": "gtspanish",
+    "name": "Detect language to Spanish",
+    "url": "https://translate.google.com/#auto/es/{{{s}}}"
+  },
+  {
+    "bang": "gtsq",
+    "name": "Detect language to Albanian",
+    "url": "https://translate.google.com/#auto/sq/{{{s}}}"
+  },
+  {
+    "bang": "gtsr",
+    "name": "Detect language to Serbian",
+    "url": "https://translate.google.com/#auto/sr/{{{s}}}"
+  },
+  {
+    "bang": "gtst",
+    "name": "Detect language to Sesotho",
+    "url": "https://translate.google.com/#auto/st/{{{s}}}"
+  },
+  {
+    "bang": "gtsu",
+    "name": "Detect language to Sundanese",
+    "url": "https://translate.google.com/#auto/su/{{{s}}}"
+  },
+  {
+    "bang": "gt-sundanese",
+    "name": "Detect language to Sundanese",
+    "url": "https://translate.google.com/#auto/su/{{{s}}}"
+  },
+  {
+    "bang": "gtsundanese",
+    "name": "Detect language to Sundanese",
+    "url": "https://translate.google.com/#auto/su/{{{s}}}"
+  },
+  {
+    "bang": "gtsv",
+    "name": "Detect language to Swedish",
+    "url": "https://translate.google.com/#auto/sv/{{{s}}}"
+  },
+  {
+    "bang": "gt-swahili",
+    "name": "Detect language to Swahili",
+    "url": "https://translate.google.com/#auto/sw/{{{s}}}"
+  },
+  {
+    "bang": "gtswahili",
+    "name": "Detect language to Swahili",
+    "url": "https://translate.google.com/#auto/sw/{{{s}}}"
+  },
+  {
+    "bang": "gtsw",
+    "name": "Detect language to Swahili",
+    "url": "https://translate.google.com/#auto/sw/{{{s}}}"
+  },
+  {
+    "bang": "gt-swedish",
+    "name": "Detect language to Swedish",
+    "url": "https://translate.google.com/#auto/sv/{{{s}}}"
+  },
+  {
+    "bang": "gtswedish",
+    "name": "Detect language to Swedish",
+    "url": "https://translate.google.com/#auto/sv/{{{s}}}"
+  },
+  {
+    "bang": "gtta",
+    "name": "Detect language to Tamil",
+    "url": "https://translate.google.com/#auto/ta/{{{s}}}"
+  },
+  {
+    "bang": "gt-tajik",
+    "name": "Detect language to Tajik",
+    "url": "https://translate.google.com/#auto/tg/{{{s}}}"
+  },
+  {
+    "bang": "gttajik",
+    "name": "Detect language to Tajik",
+    "url": "https://translate.google.com/#auto/tg/{{{s}}}"
+  },
+  {
+    "bang": "gt-tamil",
+    "name": "Detect language to Tamil",
+    "url": "https://translate.google.com/#auto/ta/{{{s}}}"
+  },
+  {
+    "bang": "gttamil",
+    "name": "Detect language to Tamil",
+    "url": "https://translate.google.com/#auto/ta/{{{s}}}"
+  },
+  {
+    "bang": "gtte",
+    "name": "Detect language to Telugu",
+    "url": "https://translate.google.com/#auto/te/{{{s}}}"
+  },
+  {
+    "bang": "gt-telugu",
+    "name": "Detect language to Telugu",
+    "url": "https://translate.google.com/#auto/te/{{{s}}}"
+  },
+  {
+    "bang": "gttelugu",
+    "name": "Detect language to Telugu",
+    "url": "https://translate.google.com/#auto/te/{{{s}}}"
+  },
+  {
+    "bang": "gttg",
+    "name": "Detect language to Tajik",
+    "url": "https://translate.google.com/#auto/tg/{{{s}}}"
+  },
+  {
+    "bang": "gt-thai",
+    "name": "Detect language to Thai",
+    "url": "https://translate.google.com/#auto/th/{{{s}}}"
+  },
+  {
+    "bang": "gtthai",
+    "name": "Detect language to Thai",
+    "url": "https://translate.google.com/#auto/th/{{{s}}}"
+  },
+  {
+    "bang": "gtth",
+    "name": "Detect language to Thai",
+    "url": "https://translate.google.com/#auto/th/{{{s}}}"
+  },
+  {
+    "bang": "gttl",
+    "name": "Detect language to Filipino",
+    "url": "https://translate.google.com/#auto/tl/{{{s}}}"
+  },
+  {
+    "bang": "gttr",
+    "name": "Detect language to Turkish",
+    "url": "https://translate.google.com/#auto/tr/{{{s}}}"
+  },
+  {
+    "bang": "gt-turkish",
+    "name": "Detect language to Turkish",
+    "url": "https://translate.google.com/#auto/tr/{{{s}}}"
+  },
+  {
+    "bang": "gtturkish",
+    "name": "Detect language to Turkish",
+    "url": "https://translate.google.com/#auto/tr/{{{s}}}"
+  },
+  {
+    "bang": "gtuk",
+    "name": "Detect language to Ukrainian",
+    "url": "https://translate.google.com/#auto/uk/{{{s}}}"
+  },
+  {
+    "bang": "gt-ukrainian",
+    "name": "Detect language to Ukrainian",
+    "url": "https://translate.google.com/#auto/uk/{{{s}}}"
+  },
+  {
+    "bang": "gtukrainian",
+    "name": "Detect language to Ukrainian",
+    "url": "https://translate.google.com/#auto/uk/{{{s}}}"
+  },
+  {
+    "bang": "gtur",
+    "name": "Detect language to Urdu",
+    "url": "https://translate.google.com/#auto/ur/{{{s}}}"
+  },
+  {
+    "bang": "gt-urdu",
+    "name": "Detect language to Urdu",
+    "url": "https://translate.google.com/#auto/ur/{{{s}}}"
+  },
+  {
+    "bang": "gturdu",
+    "name": "Detect language to Urdu",
+    "url": "https://translate.google.com/#auto/ur/{{{s}}}"
+  },
+  {
+    "bang": "gturl",
+    "name": "Google Translate URL",
+    "url": "http://translate.google.com/translate?js=n&prev=_t&ie=UTF-8&layout=2&eotf=1&sl=auto&tl=en&u={{{s}}}&act=url"
+  },
+  {
+    "bang": "gt-uzbek",
+    "name": "Detect language to Uzbek",
+    "url": "https://translate.google.com/#auto/uz/{{{s}}}"
+  },
+  {
+    "bang": "gtuzbek",
+    "name": "Detect language to Uzbek",
+    "url": "https://translate.google.com/#auto/uz/{{{s}}}"
+  },
+  {
+    "bang": "gtuz",
+    "name": "Detect language to Uzbek",
+    "url": "https://translate.google.com/#auto/uz/{{{s}}}"
+  },
+  {
+    "bang": "gtvi",
+    "name": "Detect language to Vietnamese",
+    "url": "https://translate.google.com/#auto/vi/{{{s}}}"
+  },
+  {
+    "bang": "gt-vietnamese",
+    "name": "Detect language to Vietnamese",
+    "url": "https://translate.google.com/#auto/vi/{{{s}}}"
+  },
+  {
+    "bang": "gtvietnamese",
+    "name": "Detect language to Vietnamese",
+    "url": "https://translate.google.com/#auto/vi/{{{s}}}"
+  },
+  {
+    "bang": "gt-welsh",
+    "name": "Detect language to Welsh",
+    "url": "https://translate.google.com/#auto/cy/{{{s}}}"
+  },
+  {
+    "bang": "gtwelsh",
+    "name": "Detect language to Welsh",
+    "url": "https://translate.google.com/#auto/cy/{{{s}}}"
+  },
+  {
+    "bang": "gt-yiddish",
+    "name": "Detect language to Yiddish",
+    "url": "https://translate.google.com/#auto/yi/{{{s}}}"
+  },
+  {
+    "bang": "gtyiddish",
+    "name": "Detect language to Yiddish",
+    "url": "https://translate.google.com/#auto/yi/{{{s}}}"
+  },
+  {
+    "bang": "gtyi",
+    "name": "Detect language to Yiddish",
+    "url": "https://translate.google.com/#auto/yi/{{{s}}}"
+  },
+  {
+    "bang": "gtyo",
+    "name": "Detect language to Yoruba",
+    "url": "https://translate.google.com/#auto/yo/{{{s}}}"
+  },
+  {
+    "bang": "gt-yoruba",
+    "name": "Detect language to Yoruba",
+    "url": "https://translate.google.com/#auto/yo/{{{s}}}"
+  },
+  {
+    "bang": "gtyoruba",
+    "name": "Detect language to Yoruba",
+    "url": "https://translate.google.com/#auto/yo/{{{s}}}"
+  },
+  {
+    "bang": "gtzh-CN",
+    "name": "Detect language to Chinese",
+    "url": "https://translate.google.com/#auto/zh-CN/{{{s}}}"
+  },
+  {
+    "bang": "gtzu",
+    "name": "Detect language to Zulu",
+    "url": "https://translate.google.com/#auto/zu/{{{s}}}"
+  },
+  {
+    "bang": "gt-zulu",
+    "name": "Detect language to Zulu",
+    "url": "https://translate.google.com/#auto/zu/{{{s}}}"
+  },
+  {
+    "bang": "gtzulu",
+    "name": "Detect language to Zulu",
+    "url": "https://translate.google.com/#auto/zu/{{{s}}}"
+  },
+  {
+    "bang": "hi2en",
+    "name": "Google translate English to Hindi",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=hi&tl=en&text={{{s}}}"
+  },
+  {
+    "bang": "nlde",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=nl&tl=de&text={{{s}}}"
+  },
+  {
+    "bang": "nohu",
+    "name": "Google Translate no-hu",
+    "url": "https://translate.google.hu/#view=home&op=translate&sl=no&tl=hu&text={{{s}}}"
+  },
+  {
+    "bang": "plde",
+    "name": "google translate pl-de",
+    "url": "https://translate.google.com/#view=home&op=translate&sl=pl&tl=de&text={{{s}}}"
+  },
+  {
+    "bang": "topl",
+    "name": "pl.bab.la",
+    "url": "https://pl.bab.la/slownik/angielski-polski/{{{s}}}"
+  },
+  {
+    "bang": "translate",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "tr",
+    "name": "Google Translate",
+    "url": "http://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "bang": "\u0443\u0438\u043a\u0438",
+    "name": "Wikipedia (BG)",
+    "url": "https://bg.wikipedia.org/wiki/{{{s}}}"
+  }
+]

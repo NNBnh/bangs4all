@@ -1,0 +1,382 @@
+[
+  {
+    "bang": "addgene",
+    "name": "Addgene",
+    "url": "https://www.addgene.org/search/advanced/?q={{{s}}}"
+  },
+  {
+    "bang": "adsabs",
+    "name": "SAO/NASA Astrophysics Data System",
+    "url": "http://adsabs.harvard.edu//cgi-bin/basic_connect?qsearch={{{s}}}"
+  },
+  {
+    "bang": "answersingenesis",
+    "name": "Answers in Genesis",
+    "url": "https://answersingenesis.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "apa",
+    "name": "APA Style",
+    "url": "http://apastyle.org/search.aspx?query={{{s}}}"
+  },
+  {
+    "bang": "arxiv",
+    "name": "arXiv",
+    "url": "http://arxiv.org/search?query={{{s}}}&searchtype=all"
+  },
+  {
+    "bang": "bio-online",
+    "name": "Biology Online",
+    "url": "http://www.biology-online.org/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "bird",
+    "name": "All About Birds",
+    "url": "https://www.allaboutbirds.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "birds",
+    "name": "Cornell Lab of Ornithology",
+    "url": "https://www.allaboutbirds.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "bugguide",
+    "name": "Bug Guide",
+    "url": "http://bugguide.net/index.php?q=search&keys={{{s}}}"
+  },
+  {
+    "bang": "bztch",
+    "name": "yadda.icm.edu",
+    "url": "https://yadda.icm.edu.pl/baztech/search/page.action?q=sc.general*c_0all_0eq.{{{s}}}*l_0&qt=SEARCH"
+  },
+  {
+    "bang": "cannabis",
+    "name": "AND Cannabis",
+    "url": "https://www.andcannabis.com/?s={{{s}}}"
+  },
+  {
+    "bang": "chemicalize",
+    "name": "http://www.chemicalize.org",
+    "url": "http://www.chemicalize.org/structure/#!mol={{{s}}}&source=fp"
+  },
+  {
+    "bang": "chemspider",
+    "name": "ChemSpider",
+    "url": "http://www.chemspider.com/Search.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "chemwiki",
+    "name": "Chemwiki",
+    "url": "http://chemwiki.ucdavis.edu/Special:Search?search={{{s}}}&qid=&fpid=1285&fpth="
+  },
+  {
+    "bang": "endlessphere",
+    "name": "endless-sphere",
+    "url": "http://endless-sphere.com/forums/?q {{{s}}} "
+  },
+  {
+    "bang": "engtb",
+    "name": "Engineering Toolbox",
+    "url": "https://cse.google.com/cse?cx=partner-pub-3176996020956223:6582549258&q={{{s}}}&og=_l=partner-generic.3...19628.24-generic..0.0.0."
+  },
+  {
+    "bang": "ens",
+    "name": "Ensembl",
+    "url": "http://www.ensembl.org/Multi/psychic?q={{{s}}}"
+  },
+  {
+    "bang": "eoearth",
+    "name": "Encyclopedia of Earth",
+    "url": "http://www.eoearth.org/results/all/?searchnext=true&q={{{s}}}"
+  },
+  {
+    "bang": "epsg",
+    "name": "Spatial Reference",
+    "url": "http://spatialreference.org/ref/?search=epsg:{{{s}}}"
+  },
+  {
+    "bang": "erowid",
+    "name": "Erowid",
+    "url": "http://www.erowid.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "ethz",
+    "name": "Seminar for statistics",
+    "url": "https://www.ethz.ch/en/utils/search.html?search={{{s}}}"
+  },
+  {
+    "bang": "fly",
+    "name": "FlyBase",
+    "url": "http://flybase.org/search/{{{s}}}"
+  },
+  {
+    "bang": "foldoc",
+    "name": "FOLDOC (Free On-line Dictionary of Computing)",
+    "url": "http://foldoc.org/{{{s}}}"
+  },
+  {
+    "bang": "gene",
+    "name": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/?term={{{s}}} "
+  },
+  {
+    "bang": "gold",
+    "name": "IUPAC Gold Book",
+    "url": "http://goldbook.iupac.org/terms/search/{{{s}}}"
+  },
+  {
+    "bang": "hbz",
+    "name": "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen",
+    "url": "http://okeanos-www.hbz-nrw.de/F/?func=find-c&ccl_term=WRD%3D%22{{{s}}}%22"
+  },
+  {
+    "bang": "hphys",
+    "name": "HyperPhysics",
+    "url": "https://duckduckgo.com/?q=site%3Ahyperphysics.phy-astr.gsu.edu+{{{s}}}"
+  },
+  {
+    "bang": "hw",
+    "name": "HaloWeb",
+    "url": "http://halo.umbc.edu/cgi-bin/haloweb/nrc1.pl?display=json&operation=search&keyword={{{s}}}"
+  },
+  {
+    "bang": "ices",
+    "name": "International Council for the Exploration of the Sea",
+    "url": "http://ices.dk/Searchcenter/Pages/default.aspx?k={{{s}}}"
+  },
+  {
+    "bang": "ipa",
+    "name": "Wikipedia IPA guide",
+    "url": "https://en.wikipedia.org/wiki/Help:IPA/{{{s}}}"
+  },
+  {
+    "bang": "iupac",
+    "name": "International Union of Pure and Applied Chemistry",
+    "url": "https://iupac.org/?s={{{s}}}"
+  },
+  {
+    "bang": "kn",
+    "name": "Knoema",
+    "url": "https://knoema.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "labdoor",
+    "name": "Labdoor",
+    "url": "https://labdoor.com/review?q={{{s}}}"
+  },
+  {
+    "bang": "mn",
+    "name": "medicinanet",
+    "url": "http://www.medicinanet.com.br/pesquisas/{{{s}}}.htm"
+  },
+  {
+    "bang": "molw",
+    "name": "WebQC.org",
+    "url": "http://www.webqc.org/mmcalc.php?compound={{{s}}}"
+  },
+  {
+    "bang": "moon",
+    "name": "Moon Monday",
+    "url": "https://moonmonday.space/?s={{{s}}}"
+  },
+  {
+    "bang": "mpgpure",
+    "name": "Max Planck Publication Repository",
+    "url": "http://pubman.mpdl.mpg.de/pubman/faces/SearchResultListPage.jsp?cql=escidoc.objecttype%3D%22item%22+AND+escidoc.content-model.objid%3D%22escidoc%3Apersistent4%22+AND+%28%28escidoc.metadata%3D%22{{{s}}}%22%29+OR+%28%28escidoc.any-identifier%3D%22{{{s}}}%22+OR+escidoc.property.latest-release.objid%3D%22{{{s}}}%22%29%29+%29"
+  },
+  {
+    "bang": "msds",
+    "name": "ScienceLab MSDS Database",
+    "url": "http://www.sciencelab.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "nature",
+    "name": "Nature",
+    "url": "http://www.nature.com/search/executeSearch?sp-q-1=&sp-q={{{s}}}"
+  },
+  {
+    "bang": "nitrc",
+    "name": "NITRC",
+    "url": "http://www.nitrc.org/search/?type_of_search=group&term[]={{{s}}}"
+  },
+  {
+    "bang": "nvd",
+    "name": "NIST Vulnerability Database",
+    "url": "https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query={{{s}}}&search_type=all"
+  },
+  {
+    "bang": "nvds",
+    "name": "NIST Vulnerability Database Statistical View",
+    "url": "https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query={{{s}}}&search_type=all"
+  },
+  {
+    "bang": "nwb",
+    "name": "NIST Chemistry Webbook",
+    "url": "https://webbook.nist.gov/cgi/cbook.cgi?Name={{{s}}}&Units=SI"
+  },
+  {
+    "bang": "oiseaux",
+    "name": "Oiseaux.net",
+    "url": "http://www.oiseaux.net/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pao1",
+    "name": "Pseudomonas Genome Database",
+    "url": "http://www.pseudomonas.com/searchAnnotation.do?strain_ids=107&field1=commonNameFields&input1={{{s}}}"
+  },
+  {
+    "bang": "parts",
+    "name": "Parts.io",
+    "url": "http://parts.io/search/term-{{{s}}} "
+  },
+  {
+    "bang": "pdb",
+    "name": "Protein Data Bank",
+    "url": "http://www.rcsb.org/pdb/search/navbarsearch.do?f=&q={{{s}}}"
+  },
+  {
+    "bang": "plants",
+    "name": "Plants of the World Online",
+    "url": "http://powo.science.kew.org/?q={{{s}}}"
+  },
+  {
+    "bang": "pl",
+    "name": "Public Lab",
+    "url": "http://publiclab.org/search/{{{s}}}"
+  },
+  {
+    "bang": "pnas",
+    "name": "Proceedings of the National Academy of Sciences",
+    "url": "http://www.pnas.org/search/{{{s}}}%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard"
+  },
+  {
+    "bang": "pse",
+    "name": "Physics - Stack Exchange",
+    "url": "https://physics.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "psychonautwiki",
+    "name": "PsychonautWiki",
+    "url": "https://psychonautwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pubchem",
+    "name": "PubChem",
+    "url": "http://www.ncbi.nlm.nih.gov/pccompound/?term={{{s}}}"
+  },
+  {
+    "bang": "radiopaedia",
+    "name": "Radiopaedia.org",
+    "url": "http://radiopaedia.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "rcsb",
+    "name": "RCSB",
+    "url": "http://rcsb.org/pdb/explore/explore.do?structureId={{{s}}}"
+  },
+  {
+    "bang": "reactome",
+    "name": "Reactome",
+    "url": "http://reactome.org/content/query?q={{{s}}}"
+  },
+  {
+    "bang": "sciencedaily",
+    "name": "Sciencedaily",
+    "url": "http://www.sciencedaily.com/search/?keyword={{{s}}} "
+  },
+  {
+    "bang": "sciencedirect",
+    "name": "ScienceDirect",
+    "url": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "bang": "scin",
+    "name": "Scinapse",
+    "url": "https://scinapse.io/search?query={{{s}}}"
+  },
+  {
+    "bang": "sdirect",
+    "name": "Science Direct",
+    "url": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "bang": "sgd",
+    "name": "Saccharomyces Genome Database",
+    "url": "https://www.yeastgenome.org/search?q={{{s}}}&is_quick=true"
+  },
+  {
+    "bang": "skeptoid",
+    "name": "Skeptoid",
+    "url": "https://skeptoid.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "snpedia",
+    "name": "SNPedia",
+    "url": "https://www.snpedia.com/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "tenc",
+    "name": "Treccani Enciclopedia",
+    "url": "http://www.treccani.it/enciclopedia/tag/{{{s}}}"
+  },
+  {
+    "bang": "te",
+    "name": "Treccani Enciclopedia",
+    "url": "http://www.treccani.it/enciclopedia/tag/{{{s}}}"
+  },
+  {
+    "bang": "tfes",
+    "name": "The Flat Earth Society forum",
+    "url": "https://forum.tfes.org/index.php?action=search2;search={{{s}}}"
+  },
+  {
+    "bang": "thrustcurve",
+    "name": "ThrustCurve Hobby Rocket Motor Data",
+    "url": "http://www.thrustcurve.org/motorsearch.jsp?designation={{{s}}}"
+  },
+  {
+    "bang": "tiho",
+    "name": "TiHo-OPAC",
+    "url": "http://opac.tib.uni-hannover.de/DB=5/LNG=DU/SID=40343eab-1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "bang": "tof",
+    "name": "Tree Of Life Web Project",
+    "url": "http://www.tolweb.org/tree/{{{s}}}"
+  },
+  {
+    "bang": "traumdeutung",
+    "name": "Traum-Deutung",
+    "url": "https://traum-deutung.de/?s={{{s}}}"
+  },
+  {
+    "bang": "ubhh",
+    "name": "Beluga Uni Hamburg",
+    "url": "https://beluga.sub.uni-hamburg.de/vufind/Search/Results?lookfor={{{s}}}&submitForm=Suchen&library=BELUGA_ALL"
+  },
+  {
+    "bang": "utdol",
+    "name": "uptodate online",
+    "url": "https://www.uptodate.com/contents/search?search={{{s}}}"
+  },
+  {
+    "bang": "wmo",
+    "name": "World Meteorological Organisation",
+    "url": "https://public.wmo.int/en/search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "bang": "wspec",
+    "name": "Wikispecies",
+    "url": "https://species.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "xende",
+    "name": "Xenharmonie-Wiki",
+    "url": "https://de.xen.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "xen",
+    "name": "Xenharmonic Wiki",
+    "url": "https://en.xen.wiki/index.php?search={{{s}}}"
+  }
+]

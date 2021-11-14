@@ -1,0 +1,1947 @@
+[
+  {
+    "bang": "aat",
+    "name": "Art & Architecture Thesaurus\u00ae Online",
+    "url": "http://www.getty.edu/vow/AATServlet?english=N&find={{{s}}}&logic=AND&page=1&note="
+  },
+  {
+    "bang": "abbr",
+    "name": "Abbreviations.com",
+    "url": "http://www.abbreviations.com/{{{s}}}"
+  },
+  {
+    "bang": "acr",
+    "name": "Acronym Finder",
+    "url": "http://www.acronymfinder.com/{{{s}}}.html"
+  },
+  {
+    "bang": "acro",
+    "name": "Acronyms",
+    "url": "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+  },
+  {
+    "bang": "acronym",
+    "name": "Acronyms",
+    "url": "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+  },
+  {
+    "bang": "acronyms",
+    "name": "Acronyms",
+    "url": "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+  },
+  {
+    "bang": "adelung",
+    "name": "Adelung: Grammatisch-Kritisches W\u00f6rterbuch der Hochdeutschen Mundart",
+    "url": "http://woerterbuchnetz.de/Adelung/?lemma={{{s}}}"
+  },
+  {
+    "bang": "af",
+    "name": "Acronym Finder",
+    "url": "http://www.acronymfinder.com/{{{s}}}.html"
+  },
+  {
+    "bang": "ahd",
+    "name": "american heritage dictionary",
+    "url": "https://ahdictionary.com/word/search.html?q={{{s}}}&submit.x=0&submit.y=0"
+  },
+  {
+    "bang": "allacronyms",
+    "name": "All Acronyms",
+    "url": "https://www.allacronyms.com/{{{s}}}"
+  },
+  {
+    "bang": "almaanyar",
+    "name": "almaany",
+    "url": "http://www.almaany.com/ar/dict/ar-ar/{{{s}}}"
+  },
+  {
+    "bang": "almaanyfa",
+    "name": "Almaany persian",
+    "url": "https://www.almaany.com/ar/dict/ar-fa/{{{s}}}"
+  },
+  {
+    "bang": "anagram",
+    "name": "One Across",
+    "url": "http://www.oneacross.com/cgi-bin/search_anagram.cgi?p0={{{s}}}&c0=&s=+Go+"
+  },
+  {
+    "bang": "antonym",
+    "name": "Synonyms.net",
+    "url": "http://www.synonyms.net/antonyms/{{{s}}}"
+  },
+  {
+    "bang": "anw",
+    "name": "Algemeen Nederlands Woordenboek",
+    "url": "http://anw.inl.nl/search?type=simple&q={{{s}}}"
+  },
+  {
+    "bang": "aol",
+    "name": "AOL",
+    "url": "http://search.aol.com/aol/search?enabled_terms=&s_it=comsearch&q={{{s}}}"
+  },
+  {
+    "bang": "aulete",
+    "name": "iDicion\u00e1rio Aulete",
+    "url": "http://www.aulete.com.br/{{{s}}}"
+  },
+  {
+    "bang": "awad",
+    "name": "A.Word.A.Day",
+    "url": "http://wordsmith.org/awad/search.html?cx=partner-pub-0068747404870456%3A118gxl-7atb&cof=FORID%3A11&q={{{s}}}&sa=Search"
+  },
+  {
+    "bang": "bab",
+    "name": "Bab.la FR",
+    "url": "http://www.babla.fr/anglais-francais/{{{s}}}"
+  },
+  {
+    "bang": "babelnet",
+    "name": "BabelNet",
+    "url": "http://live.babelnet.org/search?word={{{s}}}&lang=EN"
+  },
+  {
+    "bang": "babpl",
+    "name": "Bab.la",
+    "url": "http://pl.bab.la/slownik/angielski-polski/{{{s}}}"
+  },
+  {
+    "bang": "bce",
+    "name": "Bing dict",
+    "url": "https://cn.bing.com/dict/search?q={{{s}}}"
+  },
+  {
+    "bang": "bdi",
+    "name": "Bing \u8bcd\u5178",
+    "url": "https://cn.bing.com/dict/search?q={{{s}}}"
+  },
+  {
+    "bang": "bdictionary",
+    "name": "Business Dictionary",
+    "url": "http://www.businessdictionary.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "behindsurname",
+    "name": "Beind the name - Surnames",
+    "url": "http://surnames.behindthename.com/name/{{{s}}} "
+  },
+  {
+    "bang": "behindthename",
+    "name": "Behind the Name",
+    "url": "http://www.behindthename.com/name/{{{s}}}"
+  },
+  {
+    "bang": "bht",
+    "name": "Baheth.info",
+    "url": "http://baheth.info/all.jsp?term={{{s}}}"
+  },
+  {
+    "bang": "bighuge",
+    "name": "Big Huge Thesaurus",
+    "url": "http://words.bighugelabs.com/{{{s}}}"
+  },
+  {
+    "bang": "bizdic",
+    "name": "Business Dictionary",
+    "url": "http://www.businessdictionary.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "bokm\u00e5lsordboka",
+    "name": "http://ordbok.uib.no",
+    "url": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=bokmaal"
+  },
+  {
+    "bang": "bookbrainz",
+    "name": "BookBrainz",
+    "url": "https://bookbrainz.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "b-rhymes",
+    "name": "B-Rhymes",
+    "url": "http://www.b-rhymes.com/rhyme/word/{{{s}}}"
+  },
+  {
+    "bang": "british",
+    "name": "British Slang",
+    "url": "http://www.britishslang.co.uk/search/default.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "bsl",
+    "name": "SignBSL",
+    "url": "http://www.signbsl.com/sign/{{{s}}}"
+  },
+  {
+    "bang": "btname",
+    "name": "Behind the Name",
+    "url": "https://www.behindthename.com/names/search.php?terms={{{s}}}&type="
+  },
+  {
+    "bang": "cambridge",
+    "name": "Cambridge Dictionary",
+    "url": "http://dictionary.cambridge.org/dictionary/english/{{{s}}}"
+  },
+  {
+    "bang": "canoo",
+    "name": "canoonet",
+    "url": "http://www.canoonet.eu/services/Controller?input={{{s}}}"
+  },
+  {
+    "bang": "cdic",
+    "name": "Cambridge Dictionary",
+    "url": "https://dictionary.cambridge.org/spellcheck/english/?q={{{s}}}"
+  },
+  {
+    "bang": "cdt",
+    "name": "Collins Thesaurus",
+    "url": "https://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}"
+  },
+  {
+    "bang": "cenes",
+    "name": "Collins Dictionary (English - Spanish)",
+    "url": "https://www.collinsdictionary.com/dictionary/english-spanish/{{{s}}}"
+  },
+  {
+    "bang": "chambers",
+    "name": "Chambers",
+    "url": "http://chambers.co.uk/search.php?query={{{s}}}&title=21st"
+  },
+  {
+    "bang": "ckeys",
+    "name": "CraftKeys",
+    "url": "http://craftkeys.com/site-info/{{{s}}}"
+  },
+  {
+    "bang": "cnrtlc",
+    "name": "cnrtl concordance",
+    "url": "http://www.cnrtl.fr/concordance/{{{s}}}"
+  },
+  {
+    "bang": "cnrtld",
+    "name": "cnrtl d\u00e9finitions",
+    "url": "http://www.cnrtl.fr/definition/{{{s}}}"
+  },
+  {
+    "bang": "cnrtle",
+    "name": "cnrtl \u00e9tymologie",
+    "url": "http://www.cnrtl.fr/etymologie/{{{s}}}"
+  },
+  {
+    "bang": "cnrtlm",
+    "name": "cnrtl morphologie",
+    "url": "http://www.cnrtl.fr/morphologie/{{{s}}}"
+  },
+  {
+    "bang": "cnrtlp",
+    "name": "cnrtl proxemie",
+    "url": "http://www.cnrtl.fr/proxemie/{{{s}}}"
+  },
+  {
+    "bang": "cnrtls",
+    "name": "cnrtl synonymie",
+    "url": "http://www.cnrtl.fr/synonymie/{{{s}}}"
+  },
+  {
+    "bang": "cntrl",
+    "name": "Centre National de Ressources Textuelles et Lexicales",
+    "url": "http://www.cnrtl.fr/definition/{{{s}}}"
+  },
+  {
+    "bang": "collins",
+    "name": "Collins Dictionary",
+    "url": "http://www.collinsdictionary.com/dictionary/english/{{{s}}}"
+  },
+  {
+    "bang": "collocation",
+    "name": "Online Oxford Collocation Dictionary",
+    "url": "http://oxforddictionary.so8848.com/search1?word={{{s}}}"
+  },
+  {
+    "bang": "conjes",
+    "name": "SpanishDict - Conjugate",
+    "url": "http://www.spanishdict.com/conjugate/{{{s}}}"
+  },
+  {
+    "bang": "conjuga",
+    "name": "Conjuga-me",
+    "url": "http://www.conjuga-me.net/verbo-{{{s}}}"
+  },
+  {
+    "bang": "cpten",
+    "name": "Collins Dictionary (Portuguese - English)",
+    "url": "https://www.collinsdictionary.com/dictionary/portuguese-english/{{{s}}}"
+  },
+  {
+    "bang": "crossword",
+    "name": "WordFun crossword solver",
+    "url": "http://www.wordfun.ca/words/fw?q={{{s}}}"
+  },
+  {
+    "bang": "cth",
+    "name": "Collins English Thesaurus",
+    "url": "http://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}"
+  },
+  {
+    "bang": "cwt",
+    "name": "Crossword Tracker",
+    "url": "http://crosswordtracker.com/answer/{{{s}}}"
+  },
+  {
+    "bang": "ddgd",
+    "name": "DuckDuckGo dictionary definitions",
+    "url": "https://duckduckgo.com/?q={{{s}}}&ia=definition"
+  },
+  {
+    "bang": "define",
+    "name": "The Free Dictionary",
+    "url": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "des",
+    "name": "The free dictionary ES",
+    "url": "http://es.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "dexonline",
+    "name": "Dexonline",
+    "url": "http://dexonline.ro/definitie/{{{s}}}"
+  },
+  {
+    "bang": "dicinfo",
+    "name": "Dicion\u00e1rio Informal",
+    "url": "https://www.dicionarioinformal.com.br/{{{s}}}"
+  },
+  {
+    "bang": "dicio",
+    "name": "Dicio",
+    "url": "https://www.dicio.com.br/pesquisa.php?q={{{s}}}"
+  },
+  {
+    "bang": "dicoiscenfr",
+    "name": "http://dico.isc.cnrs.fr/fr/index_tr.html",
+    "url": "http://dico.isc.cnrs.fr/dico/tr/chercher_en?r={{{s}}}"
+  },
+  {
+    "bang": "dicoiscfren",
+    "name": "http://dico.isc.cnrs.fr/fr/index_tr.html",
+    "url": "http://dico.isc.cnrs.fr/dico/tr/chercher_fr?r={{{s}}}"
+  },
+  {
+    "bang": "dicoz",
+    "name": "Dicoz",
+    "url": "http://www.dicoz.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "dic-ptbr",
+    "name": "Michaelis Online",
+    "url": "http://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/{{{s}}}"
+  },
+  {
+    "bang": "dicpt",
+    "name": "Dicion\u00e1rio Infop\u00e9dia da L\u00edngua Portuguesa",
+    "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}"
+  },
+  {
+    "bang": "dictionaryr",
+    "name": "Dictionary (reference)",
+    "url": "http://dictionary.reference.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "dictn",
+    "name": "Dict-Na'vi.com",
+    "url": "http://dict-navi.com/en/dictionary/list/?type=search&search_term={{{s}}}"
+  },
+  {
+    "bang": "dictre",
+    "name": "dict.org",
+    "url": "http://www.dict.org/bin/Dict?Form=Dict1&Database=*&Strategy=re&Query=^{{{s}}}$"
+  },
+  {
+    "bang": "dictzonespma",
+    "name": "DictZone spanyol-magyar",
+    "url": "http://dictzone.com/spanyol-magyar-szotar/{{{s}}}"
+  },
+  {
+    "bang": "diddal",
+    "name": "Encyclop\u00e9die de Diderot et d'Alembert",
+    "url": "http://portail.atilf.fr/cgi-bin/search2e?title={{{s}}}&author=&class=&speech=&objtype=&word=&CONJUNCT=PHRASE&PROXY=moins+de&DISTANCE=3&OUTPUT=conc&SYSTEM_DIR=%2Fvar%2Fartfla%2Fencyclopedie%2Ftextdata%2FIMAGE%2F"
+  },
+  {
+    "bang": "di",
+    "name": "Dictionary.com",
+    "url": "http://www.dictionary.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "diec",
+    "name": "Institut d'Estudis Catalans",
+    "url": "https://dlc.iec.cat/results.asp?txtEntrada={{{s}}}"
+  },
+  {
+    "bang": "dirae",
+    "name": "Dirae",
+    "url": "http://dirae.es/palabras/?q={{{s}}}"
+  },
+  {
+    "bang": "divii",
+    "name": "Divii",
+    "url": "http://www.divii.org/search?q= {{{s}}}"
+  },
+  {
+    "bang": "dizint",
+    "name": "Internazionale.it",
+    "url": "http://dizionario.internazionale.it/cerca/{{{s}}}"
+  },
+  {
+    "bang": "djtrans",
+    "name": "DictJuggler.net Japanese-English and English-Japanese Translation Dictionary",
+    "url": "http://www.dictjuggler.net/en/yakugo/?word={{{s}}}"
+  },
+  {
+    "bang": "dlcat",
+    "name": "Diccionari de la llengua catalana",
+    "url": "http://mdlc.iec.cat/results.asp?txtEntrada={{{s}}}&operEntrada=0"
+  },
+  {
+    "bang": "dle",
+    "name": "Diccionario de la lengua espa\u00f1ola, 23.\u00aa Edici\u00f3n, RAE",
+    "url": "http://dle.rae.es/?w={{{s}}}"
+  },
+  {
+    "bang": "dmw",
+    "name": "Merriam-Webster Dictionary",
+    "url": "https://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "dnde",
+    "name": "Dict-Na'vi.com",
+    "url": "http://dict-navi.com/de/dictionary/list/?type=search&search_term={{{s}}}"
+  },
+  {
+    "bang": "dplg",
+    "name": "Dicion\u00e1rio de Pron\u00fancia da L\u00edngua Galega",
+    "url": "http://ilg.usc.es/pronuncia/?pq=&q={{{s}}}&l=1&c[]=0"
+  },
+  {
+    "bang": "dptbr",
+    "name": "Michaelis",
+    "url": "http://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/{{{s}}}"
+  },
+  {
+    "bang": "drag",
+    "name": "Dicionario da Real Academia Galega",
+    "url": "http://academia.gal/dicionario_rag/searchNoun.do?nounTitle={{{s}}}"
+  },
+  {
+    "bang": "drw",
+    "name": "Deutsches Rechtsw\u00f6rterbuch",
+    "url": "http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?term={{{s}}}&index=lemmata"
+  },
+  {
+    "bang": "dste",
+    "name": "D-Seite ",
+    "url": "https://www.d-seite.de/vis/vis.php?lemma={{{s}}}"
+  },
+  {
+    "bang": "dwb",
+    "name": "Deutsches W\u00f6rterbuch von Jacob Grimm und Wilhelm Grimm",
+    "url": "http://woerterbuchnetz.de/DWB/?lemma={{{s}}}"
+  },
+  {
+    "bang": "dxn",
+    "name": "Dictionary.com",
+    "url": "http://www.dictionary.com/browse/{{{s}}}?s=ts"
+  },
+  {
+    "bang": "eco",
+    "name": "Ecosia",
+    "url": "https://www.ecosia.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "educalingofr",
+    "name": "Educalingo Fran\u00e7ais",
+    "url": "https://educalingo.com/fr/dic-fr/{{{s}}}"
+  },
+  {
+    "bang": "ej",
+    "name": "Tanoshii Japanese English > Japanese",
+    "url": "http://www.tanoshiijapanese.com/dictionary/index.cfm?j=&e={{{s}}}&search=Search+%3E"
+  },
+  {
+    "bang": "ekss",
+    "name": "Eesti keele seletav s\u00f5naraamat",
+    "url": "http://www.eki.ee/dict/ekss/index.cgi?Q={{{s}}}&F=M"
+  },
+  {
+    "bang": "elheneu",
+    "name": "Elhuyar Hiztegia EN-->EU",
+    "url": "http://hiztegiak.elhuyar.eus/en_eu/{{{s}}}"
+  },
+  {
+    "bang": "elheseu",
+    "name": "Elhuyar Hiztegia ES-->EU",
+    "url": "http://hiztegiak.elhuyar.eus/es_eu/{{{s}}}"
+  },
+  {
+    "bang": "elheuen",
+    "name": "Elhuyar Hiztegia EU-->EN",
+    "url": "http://hiztegiak.elhuyar.eus/eu_en/{{{s}}}"
+  },
+  {
+    "bang": "elheues",
+    "name": "Elhuyar Hiztegia EU-->ES",
+    "url": "http://hiztegiak.elhuyar.eus/eu_es/{{{s}}}"
+  },
+  {
+    "bang": "elheufr",
+    "name": "Elhuyar Hiztegia EU-->FR",
+    "url": "http://hiztegiak.elhuyar.eus/eu_fr/{{{s}}}"
+  },
+  {
+    "bang": "elhfreu",
+    "name": "Elhuyar Hiztegia FR-->EU",
+    "url": "http://hiztegiak.elhuyar.eus/fr_eu/{{{s}}}"
+  },
+  {
+    "bang": "elhuyar",
+    "name": "Elhuyar Hiztegiak",
+    "url": "http://hiztegiak.elhuyar.org/es_eu/{{{s}}}"
+  },
+  {
+    "bang": "enfi",
+    "name": "Google Translate to Finnish",
+    "url": "http://translate.google.com/#en/fi/{{{s}}}"
+  },
+  {
+    "bang": "enggramm",
+    "name": "English Grammar",
+    "url": "https://www.englishgrammar.org/?s={{{s}}}"
+  },
+  {
+    "bang": "enru",
+    "name": "Google Translate",
+    "url": "http://translate.google.com/#en/ru/{{{s}}}"
+  },
+  {
+    "bang": "en-sutsis",
+    "name": "la sutsis",
+    "url": "http://mw.lojban.org/extensions/ilmentufa/i/en/#sisku/http://mw.lojban.org/extensions/ilmentufa/i/en/#sisku/{{{s}}}"
+  },
+  {
+    "bang": "esdef",
+    "name": "Word Reference Definicion",
+    "url": "http://www.wordreference.com/definicion/{{{s}}}"
+  },
+  {
+    "bang": "essin",
+    "name": "Word Reference Sinonimos",
+    "url": "http://www.wordreference.com/sinonimos/{{{s}}}"
+  },
+  {
+    "bang": "estraviz",
+    "name": "Estraviz",
+    "url": "https://estraviz.org/{{{s}}}"
+  },
+  {
+    "bang": "etimo",
+    "name": "Dizionario Etimologico",
+    "url": "http://etimo.it/?term={{{s}}}"
+  },
+  {
+    "bang": "etymonline",
+    "name": "Etymonline",
+    "url": "http://www.etymonline.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "etymo",
+    "name": "Online Etymology Dictionary",
+    "url": "http://www.etymonline.com/index.php?term={{{s}}}"
+  },
+  {
+    "bang": "etynl",
+    "name": "Etymologiebank",
+    "url": "http://etymologiebank.nl/trefwoord/{{{s}}}"
+  },
+  {
+    "bang": "ety",
+    "name": "Online Etymology Dictionary",
+    "url": "http://www.etymonline.com/index.php?allowed_in_frame=0&search={{{s}}}&searchmode=none"
+  },
+  {
+    "bang": "fbbva",
+    "name": "Fund\u00e9u BBVA",
+    "url": "http://www.fundeu.es/?s={{{s}}}"
+  },
+  {
+    "bang": "fdic",
+    "name": "finedictionary",
+    "url": "http://finedictionary.com/{{{s}}}.html"
+  },
+  {
+    "bang": "fien",
+    "name": "Google Translate",
+    "url": "http://translate.google.com/#fi/en/{{{s}}} "
+  },
+  {
+    "bang": "finedict",
+    "name": "Fine Dictionary",
+    "url": "http://www.finedictionary.com/{{{s}}}.html"
+  },
+  {
+    "bang": "fle",
+    "name": "DocCheck Flexikon",
+    "url": "http://flexikon.doccheck.com/de/Spezial:Suche?q={{{s}}}"
+  },
+  {
+    "bang": "forvo",
+    "name": "Forvo",
+    "url": "http://forvo.com/search/{{{s}}}"
+  },
+  {
+    "bang": "frc",
+    "name": "Frag C\u00e4sar",
+    "url": "http://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html"
+  },
+  {
+    "bang": "freecol",
+    "name": "FreeCollocation.com",
+    "url": "http://www.freecollocation.com/search?word={{{s}}}"
+  },
+  {
+    "bang": "freedict",
+    "name": "Free Dictionary",
+    "url": "http://freedictionary.org/?Query={{{s}}}&button=Search"
+  },
+  {
+    "bang": "freedictionary",
+    "name": "Free Dictionary",
+    "url": "http://freedictionary.org/?Query={{{s}}}&button=Search"
+  },
+  {
+    "bang": "freethesaurus",
+    "name": "The Free Dictionary (Thesaurus)",
+    "url": "http://www.freethesaurus.com/{{{s}}}"
+  },
+  {
+    "bang": "garen",
+    "name": "Glosbe (Arabic-English)",
+    "url": "https://glosbe.com/ar/en/{{{s}}}"
+  },
+  {
+    "bang": "gcide",
+    "name": "GCIDE",
+    "url": "http://gcide.gnu.org.ua/?q={{{s}}} &define=Define&strategy=."
+  },
+  {
+    "bang": "gematria",
+    "name": "Gematrix",
+    "url": "https://www.gematrix.org/?word={{{s}}}"
+  },
+  {
+    "bang": "gip",
+    "name": "Glosbe",
+    "url": "http://glosbe.com/it/pl/{{{s}}}"
+  },
+  {
+    "bang": "gpi",
+    "name": "Glosbe",
+    "url": "http://glosbe.com/pl/it/{{{s}}}"
+  },
+  {
+    "bang": "grabar",
+    "name": "Classical Armenian to Modern Armenian Dictionary",
+    "url": "http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=28&dt=HY_HY&query={{{s}}}"
+  },
+  {
+    "bang": "gramota",
+    "name": "gramota.ru",
+    "url": "http://gramota.ru/slovari/dic/?word={{{s}}}&all=x"
+  },
+  {
+    "bang": "hdict",
+    "name": "Hyperdictionary",
+    "url": "http://hyperdictionary.com/search.aspx?define={{{s}}}"
+  },
+  {
+    "bang": "hintoeng",
+    "name": "Max Gyan Hindi to English",
+    "url": "http://www.maxgyan.com/search/hindi-to-english/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "hjs",
+    "name": "HowJSay",
+    "url": "https://howjsay.com/search?word={{{s}}}"
+  },
+  {
+    "bang": "howjsay",
+    "name": "HowJSay",
+    "url": "https://howjsay.com/search?word={{{s}}}"
+  },
+  {
+    "bang": "hsdb",
+    "name": "ADL Hate Symbols Database",
+    "url": "https://www.adl.org/education-and-resources/resource-knowledge-base/hate-symbols?keys={{{s}}}"
+  },
+  {
+    "bang": "idiom",
+    "name": "Idioms The Free Dictionary",
+    "url": "http://idioms.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "iec",
+    "name": "Institut d'Estudis Catalans",
+    "url": "https://dlc.iec.cat/results.asp?txtEntrada={{{s}}}"
+  },
+  {
+    "bang": "inl",
+    "name": "Instituut voor de Nederlandse taal",
+    "url": "https://ivdnt.org/zoeken-in-woordenboeken?w={{{s}}}"
+  },
+  {
+    "bang": "investorwords",
+    "name": "Investor Words",
+    "url": "http://www.investorwords.com/search_cse.php?q={{{s}}}"
+  },
+  {
+    "bang": "je",
+    "name": "Tanoshii Japanese",
+    "url": "http://www.tanoshiijapanese.com/dictionary/index.cfm?j={{{s}}}&e=&search=Search+%3E"
+  },
+  {
+    "bang": "jpen",
+    "name": "Japanese - English Dictionary",
+    "url": "http://www.kanjijapanese.com/en/dictionary-japanese-english/{{{s}}}"
+  },
+  {
+    "bang": "kanji",
+    "name": "Kanji Alive",
+    "url": "https://app.kanjialive.com/search/{{{s}}}"
+  },
+  {
+    "bang": "korpus",
+    "name": "Slovensk\u00e9 slovn\u00edky",
+    "url": "http://slovniky.korpus.sk/?w={{{s}}}"
+  },
+  {
+    "bang": "kped",
+    "name": "Kpedia",
+    "url": "https://www.kpedia.jp/w/{{{s}}}"
+  },
+  {
+    "bang": "lad",
+    "name": "Glosbe",
+    "url": "https://glosbe.com/la/en/{{{s}}}"
+  },
+  {
+    "bang": "langen",
+    "name": "Langenscheidt",
+    "url": "https://en.langenscheidt.com/german-english/{{{s}}}"
+  },
+  {
+    "bang": "lang",
+    "name": "LanguageTool",
+    "url": "https://LanguageTool.org/?text={{{s}}}"
+  },
+  {
+    "bang": "lconj",
+    "name": "Larousse Conjugaison",
+    "url": "https://www.larousse.fr/conjugaison/francais/{{{s}}}"
+  },
+  {
+    "bang": "ld",
+    "name": "Longman Dictionary of Contemporary English",
+    "url": "http://www.ldoceonline.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "like",
+    "name": "Thesaurus.com",
+    "url": "http://thesaurus.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "linbr",
+    "name": "Linguee",
+    "url": "http://www.linguee.com.br/portugues-ingles/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "linef",
+    "name": "linguee",
+    "url": "https://www.linguee.com/english-french/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "linfd",
+    "name": "Linguee",
+    "url": "http://www.linguee.fr/francais-allemand/search?source=auto&query={{{s}}} "
+  },
+  {
+    "bang": "linfe",
+    "name": "linguee",
+    "url": "https://www.linguee.fr/francais-anglais/search?query= {{{s}}}"
+  },
+  {
+    "bang": "lingo",
+    "name": "NetLingo",
+    "url": "http://www.netlingo.com/search.php?searchtxt={{{s}}}"
+  },
+  {
+    "bang": "lingues",
+    "name": "www.linguee.es",
+    "url": "https://www.linguee.es/espanol-ingles/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "linternaute",
+    "name": "linternaute",
+    "url": "http://www.linternaute.com/encyclopedie/recherche/?f_libelle={{{s}}}"
+  },
+  {
+    "bang": "litdev",
+    "name": "Literary Devices and Terms",
+    "url": "https://literarydevices.net/?s={{{s}}}"
+  },
+  {
+    "bang": "lx",
+    "name": "Lexico (Powered by Oxford)",
+    "url": "https://www.lexico.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "macdic",
+    "name": "Macmillan Dictionary",
+    "url": "http://www.macmillandictionary.com/dictionary/american/{{{s}}}"
+  },
+  {
+    "bang": "macmillan",
+    "name": "MacMillan Dictionary",
+    "url": "http://www.macmillandictionary.com/dictionary/american/{{{s}}}"
+  },
+  {
+    "bang": "macq",
+    "name": "Macquarie Dictionary",
+    "url": "https://www.macquariedictionary.com.au/features/word/search/?word={{{s}}}&search_word_type=Dictionary"
+  },
+  {
+    "bang": "malid",
+    "name": "M\u00e1li\u00f0",
+    "url": "http://malid.is/leit/{{{s}}}"
+  },
+  {
+    "bang": "mcpl",
+    "name": "Middle Country Public Library ",
+    "url": "https://mcpac.mcpl.lib.ny.us/search/t?{{{s}}}"
+  },
+  {
+    "bang": "mdbg",
+    "name": "MDBG Dictionary",
+    "url": "https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb={{{s}}}"
+  },
+  {
+    "bang": "mdcc",
+    "name": "Dict.cc",
+    "url": "https://m.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "memidex",
+    "name": "Memidex",
+    "url": "http://www.memidex.com/{{{s}}}"
+  },
+  {
+    "bang": "merriamwebster",
+    "name": "Merriam-Webster",
+    "url": "http://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "meyers",
+    "name": "Meyers Gro\u00dfes Konversationslexikon",
+    "url": "http://woerterbuchnetz.de/Meyers/?lemme={{{s}}}"
+  },
+  {
+    "bang": "milog",
+    "name": "Milog",
+    "url": "http://milog.co.il/{{{s}}}"
+  },
+  {
+    "bang": "mld",
+    "name": "Learner's Dictionary",
+    "url": "http://www.learnersdictionary.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "mobythes",
+    "name": "Moby Thesaurus",
+    "url": "http://www.moby-thesaurus.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "moedict",
+    "name": "Moedict",
+    "url": "https://www.moedict.tw/{{{s}}}"
+  },
+  {
+    "bang": "morfix",
+    "name": "Morfix",
+    "url": "http://www.morfix.co.il/{{{s}}}"
+  },
+  {
+    "bang": "mt",
+    "name": "Multitran",
+    "url": "https://www.multitran.com/m.exe?s={{{s}}}"
+  },
+  {
+    "bang": "mwd",
+    "name": "Merriam-Webster Dictionary",
+    "url": "http://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "mwl",
+    "name": "Merriam-Webster's Learner's Dictionary",
+    "url": "http://www.learnersdictionary.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "mw",
+    "name": "Merriam-Webster Dictionary",
+    "url": "http://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "mwt",
+    "name": "Thesaurus by Merriam-Webster ",
+    "url": "http://www.merriam-webster.com/thesaurus/{{{s}}}"
+  },
+  {
+    "bang": "mwunabridged",
+    "name": "Merriam-Webster Unabridged",
+    "url": "http://unabridged.merriam-webster.com/unabridged/{{{s}}}"
+  },
+  {
+    "bang": "naob",
+    "name": "NAOB \u2013 Det Norske Akademis ordbok",
+    "url": "https://www.naob.no/s%C3%B8k/{{{s}}}"
+  },
+  {
+    "bang": "ndic",
+    "name": "Naver English Dictionary",
+    "url": "http://endic.naver.com/search.nhn?query={{{s}}}"
+  },
+  {
+    "bang": "ngram",
+    "name": "Google Ngram Viewer",
+    "url": "http://books.google.com/ngrams/graph?content={{{s}}}&year_start=1800&year_end=2000&corpus=15&smoothing=3"
+  },
+  {
+    "bang": "ngr",
+    "name": "Google ngrams",
+    "url": "https://books.google.com/ngrams/graph?content={{{s}}}&year_start=1850&year_end=2009&corpus=15&smoothing=0"
+  },
+  {
+    "bang": "nhd",
+    "name": "Heinle's Newbury House Dictionary of American English",
+    "url": "http://nhd.heinle.com/Definition.aspx?word={{{s}}}"
+  },
+  {
+    "bang": "nkr",
+    "name": "Naver Korean Dictionary",
+    "url": "http://krdic.naver.com/search.nhn?query={{{s}}}&kind=all"
+  },
+  {
+    "bang": "nmt",
+    "name": "Nutrimatic",
+    "url": "https://nutrimatic.org/?q={{{s}}}"
+  },
+  {
+    "bang": "nw",
+    "name": "Ninja Words",
+    "url": "http://ninjawords.com/{{{s}}}"
+  },
+  {
+    "bang": "oad",
+    "name": "Oxford Dictionaries (American English)",
+    "url": "http://www.oxforddictionaries.com/definition/american_english/{{{s}}}"
+  },
+  {
+    "bang": "odic",
+    "name": "Oxford Dictionaries",
+    "url": "https://en.oxforddictionaries.com/search?utf8=%E2%9C%93&filter=dictionary&query={{{s}}}"
+  },
+  {
+    "bang": "oed",
+    "name": "OED - Oxford English Dictionary",
+    "url": "http://www.oed.com/search?searchType=dictionary&q={{{s}}}&_searchBtn=Search"
+  },
+  {
+    "bang": "olivetti",
+    "name": "Dizionario Italiano Olivetti",
+    "url": "https://www.dizionario-italiano.it/dizionario-italiano.php?parola={{{s}}}"
+  },
+  {
+    "bang": "olth",
+    "name": "Onelook Reverse Dictionary",
+    "url": "http://www.onelook.com/reverse-dictionary.shtml?s={{{s}}}"
+  },
+  {
+    "bang": "onelook",
+    "name": "OneLook",
+    "url": "http://onelook.com/?w={{{s}}}"
+  },
+  {
+    "bang": "onelookr",
+    "name": "OneLook Reverse",
+    "url": "http://onelook.com/?w=*&loc=revfp2&clue={{{s}}}"
+  },
+  {
+    "bang": "onelookth",
+    "name": "Onelook Reverse Dictionary",
+    "url": "http://www.onelook.com/reverse-dictionary.shtml?s={{{s}}}"
+  },
+  {
+    "bang": "o",
+    "name": "OneLook.com",
+    "url": "http://onelook.com/?w={{{s}}}&ls=a"
+  },
+  {
+    "bang": "ordbog",
+    "name": "beta.ordbogen.com",
+    "url": "https://beta.ordbogen.com/da/search#/{{{s}}}"
+  },
+  {
+    "bang": "ordbok",
+    "name": "Bokm\u00e5lsordboka | Nynorskordboka",
+    "url": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge"
+  },
+  {
+    "bang": "ordnett",
+    "name": "Ordnett",
+    "url": "https://www.ordnett.no/search?language=no&phrase={{{s}}}"
+  },
+  {
+    "bang": "orthonet",
+    "name": "orthonet",
+    "url": "http://orthonet.sdv.fr/php/rech_mot.php?mot={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "\u00f5s",
+    "name": "Eesti \u00d5igekeelsuss\u00f5naraamat",
+    "url": "http://www.eki.ee/dict/qs/index.cgi?Q={{{s}}}"
+  },
+  {
+    "bang": "ostarrichi",
+    "name": "Ostarrichi",
+    "url": "http://www.ostarrichi.org/dictionary-search.html?search={{{s}}}"
+  },
+  {
+    "bang": "othde",
+    "name": "OpenThesaurus-de",
+    "url": "https://www.openthesaurus.de/synonyme/{{{s}}}"
+  },
+  {
+    "bang": "otrd",
+    "name": "http://onelook.com/thesaurus",
+    "url": "http://onelook.com/thesaurus/?s={{{s}}}"
+  },
+  {
+    "bang": "owd",
+    "name": "Webster's Dictionary 1828 - Online Edition",
+    "url": "http://webstersdictionary1828.com/Dictionary/{{{s}}}"
+  },
+  {
+    "bang": "oxed",
+    "name": "Oxford Dictionaries",
+    "url": "http://www.oxforddictionaries.com/definition/english/{{{s}}}"
+  },
+  {
+    "bang": "oxesen",
+    "name": "Oxford Spanish to English",
+    "url": "https://es.oxforddictionaries.com/translate/spanish-english/{{{s}}}"
+  },
+  {
+    "bang": "oxfordlearners",
+    "name": "Oxford learners dictionary",
+    "url": "http://www.oxfordlearnersdictionaries.com/definition/english/{{{s}}}"
+  },
+  {
+    "bang": "oxfren",
+    "name": "Oxford French to English dictionary",
+    "url": "https://premium.oxforddictionaries.com/translate/french-english/{{{s}}}?q=insoumise&searchDictCode=english-french"
+  },
+  {
+    "bang": "oxl",
+    "name": "Oxford Advanced Learners' dictionary",
+    "url": "https://www.oxfordlearnersdictionaries.com/definition/english/{{{s}}}_1?isEntryInOtherDict=false"
+  },
+  {
+    "bang": "ox",
+    "name": "Oxford Dictionary",
+    "url": "https://www.lexico.com/search?utf8=%E2%9C%93&filter=dictionary&dictionary=en&query={{{s}}}"
+  },
+  {
+    "bang": "oxs",
+    "name": "Oxford Dictionary Thesaurus",
+    "url": "https://en.oxforddictionaries.com/thesaurus/{{{s}}}"
+  },
+  {
+    "bang": "oxt",
+    "name": "Oxford Dictonaries - Thesaurus",
+    "url": "https://en.oxforddictionaries.com/thesaurus/{{{s}}}"
+  },
+  {
+    "bang": "ozdic",
+    "name": "http://www.ozdic.com",
+    "url": "http://www.ozdic.com/collocation-dictionary/{{{s}}}"
+  },
+  {
+    "bang": "pan",
+    "name": "Panlexicon",
+    "url": "https://panlexicon.com/?q={{{s}}} "
+  },
+  {
+    "bang": "pat.fi",
+    "name": "Pauker.at Dictionary (German-Finnish)",
+    "url": "http://www.pauker.at/pauker/DE_DE/FI/wb/?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "bang": "patm",
+    "name": "pauker.at Dictionary (Mobile)",
+    "url": "http://www.pauker.at/app.php/DE_DE/?s={{{s}}}#suche"
+  },
+  {
+    "bang": "pat",
+    "name": "pauker.at Dictionary (German-English)",
+    "url": "http://www.pauker.at/pauker/DE_DE/EN/wb?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "bang": "pat.pt",
+    "name": "Pauker.at",
+    "url": "http://www.pauker.at/pauker/DE_DE/PT/wb/?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "bang": "pat.sv",
+    "name": "pauker.at Dictionary (German-Swedish)",
+    "url": "http://www.pauker.at/pauker/DE_DE/SE/wb?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "bang": "pauker",
+    "name": "Pauker",
+    "url": "http://www.pauker.at/pauker/DE_EN/EN/wb/?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "bang": "pgr",
+    "name": "Perseus word study tool",
+    "url": "http://www.perseus.tufts.edu/hopper/morph?l={{{s}}}&la=greek"
+  },
+  {
+    "bang": "phrase",
+    "name": "phrases.org.uk",
+    "url": "https://duckduckgo.com/?q=site:phrases.org.uk%20{{{s}}}"
+  },
+  {
+    "bang": "pla",
+    "name": "Perseus word study tool",
+    "url": "http://www.perseus.tufts.edu/hopper/morph?l={{{s}}}&la=la"
+  },
+  {
+    "bang": "poem",
+    "name": "PoemHunter",
+    "url": "http://www.poemhunter.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "poems",
+    "name": "The Poetry Foundation",
+    "url": "https://www.poetryfoundation.org/search?query={{{s}}} "
+  },
+  {
+    "bang": "ponsdees",
+    "name": "Pons de<>es",
+    "url": "http://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=dees&in=&lf=de"
+  },
+  {
+    "bang": "ponsdefr",
+    "name": "Pons de<>fr",
+    "url": "http://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=defr&in=&lf=de"
+  },
+  {
+    "bang": "ponsdeit",
+    "name": "Pons de<>it",
+    "url": "http://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=deit&in=&lf=de"
+  },
+  {
+    "bang": "ponsenfr",
+    "name": "Pons.eu",
+    "url": "http://en.pons.eu/translate?q={{{s}}}&l=enfr&in=&lf=fr"
+  },
+  {
+    "bang": "powt",
+    "name": "Power Thesaurus ",
+    "url": "https://www.powerthesaurus.org/{{{s}}}/synonyms"
+  },
+  {
+    "bang": "pronounce",
+    "name": "Dictionary.com",
+    "url": "http://dictionary.reference.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "prpm",
+    "name": "Pusat Rujukan Persuratan Melayu",
+    "url": "http://prpm.dbp.gov.my/Search.aspx?k={{{s}}}"
+  },
+  {
+    "bang": "pt",
+    "name": "Power Thesaurus ",
+    "url": "https://www.powerthesaurus.org/{{{s}}}"
+  },
+  {
+    "bang": "rcef",
+    "name": "Reverso Context English to French",
+    "url": "http://context.reverso.net/translation/english-french/{{{s}}}"
+  },
+  {
+    "bang": "reespt",
+    "name": "Reverso",
+    "url": "http://dictionary.reverso.net/spanish-portuguese/{{{s}}}"
+  },
+  {
+    "bang": "relword",
+    "name": "Related Words",
+    "url": "http://relatedwords.org/relatedto/{{{s}}}"
+  },
+  {
+    "bang": "ren",
+    "name": "Reverso Dictionary",
+    "url": "http://dictionary.reverso.net/english-definition/{{{s}}}"
+  },
+  {
+    "bang": "rensoruigo",
+    "name": "\u9023\u60f3\u985e\u8a9e\u8f9e\u5178",
+    "url": "https://renso-ruigo.com/word/{{{s}}}"
+  },
+  {
+    "bang": "revd",
+    "name": "Onelook Reverse Dictionary",
+    "url": "http://www.onelook.com/reverse-dictionary.shtml?s={{{s}}}"
+  },
+  {
+    "bang": "reverso",
+    "name": "Reverso",
+    "url": "http://dictionary.reverso.net/german-english/{{{s}}} "
+  },
+  {
+    "bang": "rhymebrain",
+    "name": "RhymeBrain",
+    "url": "http://rhymebrain.com/en/What_rhymes_with_{{{s}}}.html"
+  },
+  {
+    "bang": "rhyme",
+    "name": "RhymeZone",
+    "url": "https://www.rhymezone.com/r/rhyme.cgi?Word={{{s}}}&typeofrhyme=perfect&org1=syl&org2=l&org3=y"
+  },
+  {
+    "bang": "rime",
+    "name": "Rimessolides.com",
+    "url": "http://www.rimessolides.com/rime.aspx?m={{{s}}}"
+  },
+  {
+    "bang": "roget",
+    "name": "Roget's Hyperlinked Thesaurus",
+    "url": "http://www.roget.org/scripts/qq.php?seekword={{{s}}}"
+  },
+  {
+    "bang": "ruen",
+    "name": "Google Translate",
+    "url": "http://translate.google.com/#ru/en/{{{s}}}"
+  },
+  {
+    "bang": "say",
+    "name": "Merriam-Webster Pronunciation",
+    "url": "https://www.merriam-webster.com/dictionary/{{{s}}}?pronunciation"
+  },
+  {
+    "bang": "scrabble",
+    "name": "http://www.scrabblewordsolver.com",
+    "url": "http://www.scrabblewordsolver.com/word-checker/{{{s}}}"
+  },
+  {
+    "bang": "seatalk",
+    "name": "Nautical Dictionary",
+    "url": "http://www.seatalk.info/cgi-bin/nautical-marine-sailing-dictionary/db.cgi?db=db&view_records=1&uid=default&Term={{{s}}}"
+  },
+  {
+    "bang": "sentence",
+    "name": "Your Dictionary",
+    "url": "http://sentence.yourdictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "sesli",
+    "name": "Sesli S\u00f6zl\u00fck",
+    "url": "http://www.seslisozluk.net/?ssQBy=0&word={{{s}}}"
+  },
+  {
+    "bang": "seslisozluk",
+    "name": "sesli s\u00f6zl\u00fck",
+    "url": "http://www.seslisozluk.com/?word={{{s}}}"
+  },
+  {
+    "bang": "sezs",
+    "name": "Seznam.cz Slovn\u00edk En-Cz",
+    "url": "http://slovnik.seznam.cz/en-cz/word/?q={{{s}}}"
+  },
+  {
+    "bang": "shbd",
+    "name": "Shabdkosh",
+    "url": "http://www.shabdkosh.com/translate/{{{s}}}"
+  },
+  {
+    "bang": "signingsavvy",
+    "name": "Signing Savvy",
+    "url": "https://www.signingsavvy.com/search/{{{s}}}"
+  },
+  {
+    "bang": "sin",
+    "name": "Dicion\u00e1rio de Sin\u00f4nimos",
+    "url": "https://www.sinonimos.com.br/{{{s}}}"
+  },
+  {
+    "bang": "skd",
+    "name": "Slovensk\u00e9 slovn\u00edky",
+    "url": "http://slovniky.korpus.sk/?w={{{s}}}"
+  },
+  {
+    "bang": "slanggr",
+    "name": "SLANG.gr",
+    "url": "http://www.slang.gr/lemmas?q={{{s}}}"
+  },
+  {
+    "bang": "slovak",
+    "name": "Slovensk\u00e9 slovn\u00edky",
+    "url": "http://slovniky.korpus.sk/?w={{{s}}}"
+  },
+  {
+    "bang": "slovniky",
+    "name": "Slovensk\u00e9 slovn\u00edky",
+    "url": "http://slovniky.korpus.sk/?w={{{s}}}"
+  },
+  {
+    "bang": "snappywords",
+    "name": "Snappy Words",
+    "url": "http://www.snappywords.com/?lookup={{{s}}}"
+  },
+  {
+    "bang": "snit",
+    "name": "Sinonimi - Contrari",
+    "url": "http://www.sinonimi-contrari.it/{{{s}}}"
+  },
+  {
+    "bang": "sonaveeb",
+    "name": "S\u00f5naveeb",
+    "url": "https://sonaveeb.ee/search/est-est/detail/{{{s}}}"
+  },
+  {
+    "bang": "sproget",
+    "name": "Sproget",
+    "url": "https://sproget.dk/lookup?SearchableText={{{s}}}"
+  },
+  {
+    "bang": "ssg",
+    "name": "Sensagent",
+    "url": "http://dictionnaire.sensagent.leparisien.fr/{{{s}}}/fr-fr"
+  },
+  {
+    "bang": "ssjc",
+    "name": "Slovn\u00edk spisovn\u00e9ho jazyka \u010desk\u00e9ho",
+    "url": "http://ssjc.ujc.cas.cz/search.php?heslo={{{s}}}"
+  },
+  {
+    "bang": "sutysisku",
+    "name": "la sutysisku",
+    "url": "http://mw.lojban.org/extensions/ilmentufa/i/en/index.html#sisku/{{{s}}}"
+  },
+  {
+    "bang": "svao",
+    "name": "Svenska Akademiens Ordb\u00f6cker",
+    "url": "https://svenska.se/tre/?sok={{{s}}}"
+  },
+  {
+    "bang": "sy",
+    "name": "Big Huge  Thesaurus",
+    "url": "http://words.bighugelabs.com/{{{s}}}"
+  },
+  {
+    "bang": "synoniemen",
+    "name": "Synoniemen.net",
+    "url": "http://synoniemen.net/index.php?zoekterm={{{s}}}"
+  },
+  {
+    "bang": "synonyma",
+    "name": "ABZ slovn\u00edk \u010desk\u00fdch synonym",
+    "url": "http://www.slovnik-synonym.cz/web.php/hledat?typ_hledani=prefix&cizi_slovo={{{s}}}"
+  },
+  {
+    "bang": "synonymer",
+    "name": "Synonymer",
+    "url": "https://www.synonymer.se/sv-syn/{{{s}}}"
+  },
+  {
+    "bang": "synonym",
+    "name": "Thesaurus.com",
+    "url": "http://www.thesaurus.com/browse/{{{s}}} "
+  },
+  {
+    "bang": "syno",
+    "name": "Synonymo.fr",
+    "url": "http://www.synonymo.fr/syno/{{{s}}}"
+  },
+  {
+    "bang": "synpl",
+    "name": "Synonimy.pl",
+    "url": "https://www.synonimy.pl/synonim/{{{s}}}"
+  },
+  {
+    "bang": "syn",
+    "name": "thesaurus.com",
+    "url": "http://thesaurus.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "taal",
+    "name": "Taaladvies",
+    "url": "http://taaladvies.net/taal/advies/zoek.php?q={{{s}}}"
+  },
+  {
+    "bang": "takoboto",
+    "name": "Takoboto",
+    "url": "http://takoboto.jp/?q={{{s}}}"
+  },
+  {
+    "bang": "tako",
+    "name": "TAKOBOTO",
+    "url": "http://takoboto.jp/?q={{{s}}}"
+  },
+  {
+    "bang": "tdk",
+    "name": "T\u00fcrk Dil Kurumu",
+    "url": "https://sozluk.gov.tr/?kelime={{{s}}}"
+  },
+  {
+    "bang": "termcat",
+    "name": "Termcat",
+    "url": "https://www.termcat.cat/cercaterm/{{{s}}}?type=basic"
+  },
+  {
+    "bang": "tfdacronyms",
+    "name": "The Free Dictionary (Acronyms)",
+    "url": "http://acronyms.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "tfdde",
+    "name": "The Free Dictionary DE",
+    "url": "http://de.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "tfdencyclopedia",
+    "name": "The Free Dictionary (Encyclopedia)",
+    "url": "http://encyclopedia2.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "tfdfinancial",
+    "name": "The Free Dictionary (Financial Dictionary)",
+    "url": "http://financial-dictionary.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "tfdidioms",
+    "name": "The Free Dictionary (Idioms)",
+    "url": "http://idioms.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "tfdlegal",
+    "name": "The Free Dictionary (Legal Dictionary)",
+    "url": "http://legal-dictionary.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "tfdmedical",
+    "name": "The Free Dictionary (Medical Dictionary)",
+    "url": "http://medical-dictionary.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "tfd",
+    "name": "The Free Dictionary",
+    "url": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "thes",
+    "name": "Thesaurus",
+    "url": "http://www.thesaurus.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "tilde",
+    "name": "Lleva Tilde",
+    "url": "https://llevatilde.es/palabra/{{{s}}}"
+  },
+  {
+    "bang": "tkk2es",
+    "name": "Tradukka detect language to spanish",
+    "url": "http://tradukka.com/translate/es/{{{s}}}"
+  },
+  {
+    "bang": "tkk",
+    "name": "Tradukka detect language to English",
+    "url": "http://tradukka.com/translate/en/{{{s}}}"
+  },
+  {
+    "bang": "tp",
+    "name": "Thesaurus Plus",
+    "url": "https://thesaurus.plus/search?q={{{s}}}"
+  },
+  {
+    "bang": "t",
+    "name": "Thesaurus.com",
+    "url": "http://www.thesaurus.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "ttt",
+    "name": "The Tech Terms",
+    "url": "https://techterms.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "tur",
+    "name": "Tureng",
+    "url": "http://tureng.com/tr/turkce-ingilizce/{{{s}}}"
+  },
+  {
+    "bang": "tvoc",
+    "name": "Treccani Vocabolario",
+    "url": "http://www.treccani.it/vocabolario/tag/{{{s}}}"
+  },
+  {
+    "bang": "tydade",
+    "name": "Tyda.se Dictionary (Swedish-German)",
+    "url": "http://tyda.se/search/{{{s}}}?lang%5B0%5D=de&lang%5B1%5D=sv"
+  },
+  {
+    "bang": "uitm",
+    "name": "Uitmuntend",
+    "url": "http://www.uitmuntend.de/woerterbuch/{{{s}}}"
+  },
+  {
+    "bang": "unic",
+    "name": "Unicode Character Table",
+    "url": "https://unicode-table.com/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "urbaani",
+    "name": "Urbaani Sanakirja",
+    "url": "http://urbaanisanakirja.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "vajeh",
+    "name": "Vajehyab",
+    "url": "https://vajehyab.com/?q={{{s}}} "
+  },
+  {
+    "bang": "verbcat",
+    "name": "Verbs.cat",
+    "url": "http://www.verbs.cat/ca/conjugacio.html?infinitive={{{s}}} "
+  },
+  {
+    "bang": "verben",
+    "name": "VerbFormen",
+    "url": "http://www.verbformen.de/konjugation/?i={{{s}}}"
+  },
+  {
+    "bang": "verbixeng",
+    "name": "Verbix (English conjugation verb)",
+    "url": "http://www.verbix.com/webverbix/English/{{{s}}}r.html"
+  },
+  {
+    "bang": "verbix",
+    "name": "Verbix",
+    "url": "http://verbix.com/find-verb/?verb={{{s}}}"
+  },
+  {
+    "bang": "verbomatic",
+    "name": "Verb-o-Matic",
+    "url": "http://conjugator.reverso.net/conjugation-english-verb-{{{s}}}.html"
+  },
+  {
+    "bang": "verb",
+    "name": "Verb-o-Matic",
+    "url": "http://conjugator.reverso.net/conjugation-english-verb-{{{s}}}.html"
+  },
+  {
+    "bang": "vertalen",
+    "name": "vertalen.nu",
+    "url": "http://www.vertalen.nu/vertaal?van=nl&naar=en&vertaal={{{s}}}"
+  },
+  {
+    "bang": "vf",
+    "name": "VerbFormen",
+    "url": "http://www.verbformen.de/konjugation/?i={{{s}}}"
+  },
+  {
+    "bang": "visuwords",
+    "name": "Visuwords",
+    "url": "https://visuwords.com/{{{s}}}"
+  },
+  {
+    "bang": "vis",
+    "name": "visuwords.com",
+    "url": "http://visuwords.com/?q={{{s}}}"
+  },
+  {
+    "bang": "vocabulary",
+    "name": "Vocabulary",
+    "url": "https://www.vocabulary.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "vocab",
+    "name": "Vocabulary.com",
+    "url": "http://www.vocabulary.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "vsc",
+    "name": "Virgilio - Sinonimi e Contrari",
+    "url": "https://sapere.virgilio.it/parole/sinonimi-e-contrari/{{{s}}}"
+  },
+  {
+    "bang": "vy",
+    "name": "Vajeh Yab",
+    "url": "https://www.vajehyab.com/?q={{{s}}}"
+  },
+  {
+    "bang": "wdic",
+    "name": "wiktionary",
+    "url": "https://en.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "web1913",
+    "name": "Webster's Dictionary (1913) !websters Webster's Dictionary 1828 - Online Edition !owd Merriam-Webster Dictionary !mw Merriam-Webster Pronunciation !say Merriam-Webster's Learner's Dictionary !mwl Webster's Revised Unabridged Dictionary (1913)",
+    "url": "https://www.websters1913.com/words/{{{s}}}"
+  },
+  {
+    "bang": "webliot",
+    "name": "Weblio",
+    "url": "http://thesaurus.weblio.jp/content/{{{s}}}"
+  },
+  {
+    "bang": "websters",
+    "name": "Online Dictionary and Translations",
+    "url": "http://www.webster-dictionary.org/definition/{{{s}}}"
+  },
+  {
+    "bang": "wenfr",
+    "name": "wordreference ",
+    "url": "http://www.wordreference.com/enfr/{{{s}}}"
+  },
+  {
+    "bang": "whatis",
+    "name": "WhatIs.com",
+    "url": "http://whatis.techtarget.com/wsearchResults/1,290214,sid9,00.html?query={{{s}}}"
+  },
+  {
+    "bang": "whats",
+    "name": "vocabulary.com",
+    "url": "https://www.vocabulary.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "wifr",
+    "name": "Wiktionary (Fran\u00e7ais)",
+    "url": "https://fr.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wikirhymer",
+    "name": "WikiRhymer",
+    "url": "http://wikirhymer.com/words/{{{s}}}"
+  },
+  {
+    "bang": "wikten",
+    "name": "Wiktionary",
+    "url": "http://en.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define"
+  },
+  {
+    "bang": "wikteo",
+    "name": "Vikivortaro",
+    "url": "https://eo.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wiktionary",
+    "name": "Wiktionary",
+    "url": "http://en.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define"
+  },
+  {
+    "bang": "wiktit",
+    "name": "Wikizionario, il dizionario libero",
+    "url": "http://it.wiktionary.org/w/index.php?search={{{s}}}&title=Speciale%3ARicerca"
+  },
+  {
+    "bang": "wiktko",
+    "name": "\uc704\ud0a4\ub0b1\ub9d0\uc0ac\uc804",
+    "url": "https://ko.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wiktpt",
+    "name": "Wikcion\u00e1rio (PT)",
+    "url": "https://pt.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wiktru",
+    "name": "Wiktionary (RU)",
+    "url": "https://ru.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikt",
+    "name": "Wiktionary",
+    "url": "http://en.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define"
+  },
+  {
+    "bang": "wizh",
+    "name": "wikipedia(Chinese)",
+    "url": "https://zh.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wklt",
+    "name": "Lithuanian Wiktionary (Viki\u017eodynas)",
+    "url": "https://lt.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wkten",
+    "name": "Wiktionary English",
+    "url": "https://en.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wml",
+    "name": "Wikipedia (Malayalam)",
+    "url": "https://ml.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wnk",
+    "name": "Wordnik",
+    "url": "https://www.wordnik.com/words/?myWord={{{s}}}"
+  },
+  {
+    "bang": "woordenlijst",
+    "name": "Woordenlijst",
+    "url": "http://woordenlijst.org/zoek/?q={{{s}}}&w=w"
+  },
+  {
+    "bang": "woord",
+    "name": "Woorden.org",
+    "url": "https://www.woorden.org/woord/{{{s}}}"
+  },
+  {
+    "bang": "wordcentral",
+    "name": "Merriam-Webster's Word Central",
+    "url": "http://wordcentral.com/cgi-bin/student?book=Student&va={{{s}}}"
+  },
+  {
+    "bang": "wordinfo",
+    "name": "Word Information",
+    "url": "http://wordinfo.info/results?searchString={{{s}}}"
+  },
+  {
+    "bang": "wordnik",
+    "name": "Wordnik",
+    "url": "http://www.wordnik.com/words/{{{s}}}"
+  },
+  {
+    "bang": "wordreference",
+    "name": "WordReference",
+    "url": "http://www.wordreference.com/es/translation.asp?tranword={{{s}}}"
+  },
+  {
+    "bang": "wordsmyth",
+    "name": "Wordsmyth",
+    "url": "http://www.wordsmyth.net/?level=3&ent={{{s}}}"
+  },
+  {
+    "bang": "wordweb",
+    "name": "WordWeb Online",
+    "url": "http://www.wordwebonline.com/search.pl?w={{{s}}}"
+  },
+  {
+    "bang": "woxikon",
+    "name": "Woxikon",
+    "url": "http://synonyme.woxikon.de/synonyme/{{{s}}}.php"
+  },
+  {
+    "bang": "wqde",
+    "name": "Wikiquote German",
+    "url": "https://de.wikiquote.org/w/index.php?search={{{s}}}&title=Spezial%3ASuche"
+  },
+  {
+    "bang": "wrcfr",
+    "name": "Word Reference French Conjugate",
+    "url": "http://www.wordreference.com/conj/FrVerbs.aspx?v={{{s}}}"
+  },
+  {
+    "bang": "wref",
+    "name": "Wordreference en->fr",
+    "url": "https://www.wordreference.com/enfr/{{{s}}}"
+  },
+  {
+    "bang": "wrende",
+    "name": "WordReference en->de",
+    "url": "http://www.wordreference.com/ende/{{{s}}}"
+  },
+  {
+    "bang": "wrenit",
+    "name": "Wordreference en->it",
+    "url": "http://www.wordreference.com/enit/{{{s}}} "
+  },
+  {
+    "bang": "wrennl",
+    "name": "WordReference",
+    "url": "http://www.wordreference.com/ennl/{{{s}}}"
+  },
+  {
+    "bang": "wrensv",
+    "name": "WordReference en->sv",
+    "url": "https://www.wordreference.com/ensv/{{{s}}}"
+  },
+  {
+    "bang": "wresit",
+    "name": "WordReference es > it",
+    "url": "http://www.wordreference.com/esit/{{{s}}}"
+  },
+  {
+    "bang": "wrespt",
+    "name": "WordReference",
+    "url": "http://www.wordreference.com/espt/{{{s}}}"
+  },
+  {
+    "bang": "wrfe",
+    "name": "Wordreference fr->en",
+    "url": "http://www.wordreference.com/fren/{{{s}}}"
+  },
+  {
+    "bang": "wrfren",
+    "name": "Word Reference",
+    "url": "http://www.wordreference.com/fren/{{{s}}}"
+  },
+  {
+    "bang": "wrfres",
+    "name": "Wordreference",
+    "url": "http://www.wordreference.com/fres/{{{s}}}"
+  },
+  {
+    "bang": "wrhymer",
+    "name": "Wiki Rhymer",
+    "url": "http://wikirhymer.com/words/{{{s}}}"
+  },
+  {
+    "bang": "writen",
+    "name": "Wordreference it->en",
+    "url": "http://www.wordreference.com/iten/{{{s}}}"
+  },
+  {
+    "bang": "writes",
+    "name": "WordReference",
+    "url": "https://www.wordreference.com/iten/{{{s}}}"
+  },
+  {
+    "bang": "wrnlen",
+    "name": "WordReference NL -> EN",
+    "url": "http://www.wordreference.com/nlen/{{{s}}}"
+  },
+  {
+    "bang": "wrss",
+    "name": "WordReference Spanish synonims",
+    "url": "http://www.wordreference.com/sinonimos/{{{s}}}"
+  },
+  {
+    "bang": "wrsven",
+    "name": "WordReference sv->en",
+    "url": "https://www.wordreference.com/ensv/{{{s}}}"
+  },
+  {
+    "bang": "wsjp",
+    "name": "Wielki S\u0142ownik J\u0119zyka Polskiego",
+    "url": "http://wsjp.pl/index.php?szukaj={{{s}}}&pwh=0"
+  },
+  {
+    "bang": "wsyn",
+    "name": "Big Huge Words Thesaurus",
+    "url": "http://words.bighugelabs.com/{{{s}}}"
+  },
+  {
+    "bang": "wtel",
+    "name": "Wiktionary (Greek)",
+    "url": "https://el.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wten",
+    "name": "Wiktionary",
+    "url": "http://en.wiktionary.org/w/index.php?search={{{s}}}&button=&title=Special%3ASearch"
+  },
+  {
+    "bang": "wtes",
+    "name": "Wikcionario",
+    "url": "https://es.wiktionary.org/w/index.php?search={{{s}}}&button=&title=Especial%3ABuscar"
+  },
+  {
+    "bang": "wtf",
+    "name": "MirBSD Acronyms Database",
+    "url": "https://www.mirbsd.org/wtf.cgi?q={{{s}}}"
+  },
+  {
+    "bang": "wtfr",
+    "name": "Wiktionary french",
+    "url": "https://fr.wiktionary.org/wiki/{{{s}}} "
+  },
+  {
+    "bang": "wth",
+    "name": "Wiktionary (Hindi)",
+    "url": "https://hi.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wtit",
+    "name": "Wiktionary",
+    "url": "http://it.wiktionary.org/w/index.php?search={{{s}}}&title=Speciale%3ARicerca"
+  },
+  {
+    "bang": "wtm",
+    "name": "Wiktionary Mobile",
+    "url": "https://en.m.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wtpl",
+    "name": "Wiktionary (PL)",
+    "url": "https://pl.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wtro",
+    "name": "Wiktionary (RO)",
+    "url": "https://ro.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wtru",
+    "name": "ru.wiktionary.org",
+    "url": "http://ru.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wtvi",
+    "name": "Wiktionary ti\u1ebfng Vi\u1ec7t",
+    "url": "https://vi.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wt",
+    "name": "Wiktionary",
+    "url": "https://en.wiktionary.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wwwjdic",
+    "name": "WWWJDIC",
+    "url": "http://nihongo.monash.edu/cgi-bin/wwwjdic?1MUE{{{s}}}"
+  },
+  {
+    "bang": "wxd",
+    "name": "Woxikon.de",
+    "url": "http://synonyme.woxikon.de/synonyme/{{{s}}}.php"
+  },
+  {
+    "bang": "yd",
+    "name": "YourDictionary",
+    "url": "http://www.yourdictionary.com/search/?ydQ={{{s}}}"
+  },
+  {
+    "bang": "ys",
+    "name": "\u042f\u043d\u0434\u0435\u043a\u0441.\u0421\u043b\u043e\u0432\u0430\u0440\u0438",
+    "url": "https://slovari.yandex.ru/{{{s}}}"
+  },
+  {
+    "bang": "\u05de\u05d5\u05e8\u05e4\u05d9\u05e7\u05e1",
+    "name": "\u05de\u05d5\u05e8\u05e4\u05d9\u05e7\u05e1",
+    "url": "http://www.morfix.co.il/{{{s}}}"
+  },
+  {
+    "bang": "\u0432\u0441",
+    "name": "\u0412\u0438\u043a\u0438\u0441\u043b\u043e\u0432\u0430\u0440\u044c",
+    "url": "https://ru.wiktionary.org/w/index.php?search={{{s}}}&ns0=1"
+  }
+]

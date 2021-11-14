@@ -1,0 +1,47 @@
+[
+  {
+    "bang": "gls",
+    "name": "golang.org",
+    "url": "https://duckduckgo.com/?q=site%3Agolang.org+{{{s}}}"
+  },
+  {
+    "bang": "gocafe",
+    "name": "Golang Cafe",
+    "url": "https://golang.cafe/Golang-{{{s}}}-Jobs"
+  },
+  {
+    "bang": "godoc",
+    "name": "GoDoc",
+    "url": "https://godoc.org/?q={{{s}}}"
+  },
+  {
+    "bang": "golang",
+    "name": "Go Programming Language",
+    "url": "http://golang.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "gopkg",
+    "name": "golang.org",
+    "url": "https://golang.org/pkg/{{{s}}}"
+  },
+  {
+    "bang": "go-search",
+    "name": "Go Search",
+    "url": "http://go-search.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "gpd",
+    "name": "GoPkgDoc",
+    "url": "http://go.pkgdoc.org/?q={{{s}}}"
+  },
+  {
+    "bang": "gpk",
+    "name": "Go Package Reference",
+    "url": "https://golang.org/pkg/{{{s}}}"
+  },
+  {
+    "bang": "lg.go",
+    "name": "libs.garden Go",
+    "url": "https://libs.garden/go/search?q={{{s}}}"
+  }
+]

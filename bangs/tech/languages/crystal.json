@@ -1,0 +1,17 @@
+[
+  {
+    "bang": "crann",
+    "name": "Crystal Ann (Crystal related news)",
+    "url": "https://crystal-ann.com/?query={{{s}}}"
+  },
+  {
+    "bang": "crdoc",
+    "name": "Crystal Language",
+    "url": "https://crystal-lang.org/docs/?q={{{s}}}"
+  },
+  {
+    "bang": "crsh",
+    "name": "Crystal Language Libraries",
+    "url": "https://crystalshards.xyz/?filter={{{s}}}"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "bang": "os",
+    "name": "openSUSE",
+    "url": "http://software.opensuse.org/search?utf8=\u2713&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1"
+  },
+  {
+    "bang": "rhbz",
+    "name": "Red Hat Bugzilla",
+    "url": "https://bugzilla.redhat.com/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "rhsa",
+    "name": "Red Hat Security Advisory",
+    "url": "https://rhn.redhat.com/errata/RHSA-{{{s}}}.html"
+  },
+  {
+    "bang": "rht",
+    "name": "Red Hat Customer Portal",
+    "url": "https://access.redhat.com/search/#/?q={{{s}}}&p=1&srch=any&language=en&documentKind=Documentation"
+  }
+]

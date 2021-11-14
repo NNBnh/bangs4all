@@ -1,0 +1,87 @@
+[
+  {
+    "bang": "arduinoreference",
+    "name": "Arduino Reference",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aarduino.cc&ia=web"
+  },
+  {
+    "bang": "boost",
+    "name": "Boost.org",
+    "url": "/?q={{{s}}}+site:boost.org"
+  },
+  {
+    "bang": "c++",
+    "name": "cplusplus.com",
+    "url": "http://www.cplusplus.com/search.do?q={{{s}}}"
+  },
+  {
+    "bang": "cplusplus",
+    "name": "Cplusplus.com",
+    "url": "http://www.cplusplus.com/query/search.cgi?q={{{s}}}"
+  },
+  {
+    "bang": "cpp",
+    "name": "cppreference.com",
+    "url": "http://en.cppreference.com/mwiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "cppde",
+    "name": "cppreference",
+    "url": "http://de.cppreference.com/mwiki/index.php?title=Spezial%3ASuche&search={{{s}}}"
+  },
+  {
+    "bang": "cppr",
+    "name": "Cppreference",
+    "url": "http://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "cppref",
+    "name": "cppreference.com",
+    "url": "http://en.cppreference.com/mwiki/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "cppreference",
+    "name": "Cppreference",
+    "url": "http://cppreference.com/w/?search={{{s}}}"
+  },
+  {
+    "bang": "cppsamples",
+    "name": "C++\u200bSamples",
+    "url": "http://www.cppsamples.com/#/search/{{{s}}}"
+  },
+  {
+    "bang": "c++ref",
+    "name": "cppreference.com",
+    "url": "http://en.cppreference.com/mwiki/index.php?search=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "cxx",
+    "name": "Cplusplus.com",
+    "url": "http://www.cplusplus.com/search.do?q={{{s}}}"
+  },
+  {
+    "bang": "lpm",
+    "name": "Linux Man Page",
+    "url": "https://www.die.net/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mscpp",
+    "name": "Microsoft Docs C++",
+    "url": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}&scope=C%2B%2B"
+  },
+  {
+    "bang": "outclock",
+    "name": "Forum Outclock",
+    "url": "http://www.outclock.org/index.php?searchword={{{s}}}&searchphrase=all&Itemid=548&option=com_search"
+  },
+  {
+    "bang": "rcpp",
+    "name": "http://www.cplusplus.com",
+    "url": "http://www.cplusplus.com/search.do?q={{{s}}}"
+  },
+  {
+    "bang": "stl",
+    "name": "cplusplus.com",
+    "url": "http://www.cplusplus.com/search.do?q={{{s}}}"
+  }
+]

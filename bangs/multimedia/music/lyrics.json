@@ -1,0 +1,317 @@
+[
+  {
+    "bang": "agdl",
+    "name": "The Annotated Grateful Dead Lyrics",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/+!"
+  },
+  {
+    "bang": "animelyrics",
+    "name": "AnimeLyrics",
+    "url": "http://www.animelyrics.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "azlyrics",
+    "name": "AZLyrics",
+    "url": "http://search.azlyrics.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "bobdylan",
+    "name": "Bob Dylan",
+    "url": "https://www.bobdylan.com/?s={{{s}}}"
+  },
+  {
+    "bang": "CajunLyrics",
+    "name": "CajunLyrics",
+    "url": "https://www.cajunlyrics.com/?page=search&word={{{s}}}"
+  },
+  {
+    "bang": "ccly",
+    "name": "Color Coded Lyrics",
+    "url": "https://colorcodedlyrics.com/?s={{{s}}}"
+  },
+  {
+    "bang": "cifraclub",
+    "name": "Cifra Club",
+    "url": "http://www.cifraclub.com.br/?q={{{s}}}"
+  },
+  {
+    "bang": "cinta",
+    "name": "Lirikcinta.com",
+    "url": "https://www.lirikcinta.com/result/?q={{{s}}}"
+  },
+  {
+    "bang": "darklyrics",
+    "name": "DarkLyrics.com",
+    "url": "http://www.darklyrics.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dogsing",
+    "name": "dogsing.com",
+    "url": "https://dogsing.com/results/?q={{{s}}}"
+  },
+  {
+    "bang": "drly",
+    "name": "Directlyrics",
+    "url": "http://www.directlyrics.com/search/?q=direct+lyrics&ie=utf-8&q={{{s}}}"
+  },
+  {
+    "bang": "e-c",
+    "name": "e-chords",
+    "url": "https://www.e-chords.com/search-all/{{{s}}}"
+  },
+  {
+    "bang": "evesta",
+    "name": "EVESTA KASHI KENSAKU",
+    "url": "http://www.evesta.jp/lyric/search2.php?ct=1&go=%E6%A4%9C%E7%B4%A2&a=&ca=0&l=&cl=0&k=&t={{{s}}} "
+  },
+  {
+    "bang": "genius",
+    "name": "genius.com",
+    "url": "https://genius.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gospell",
+    "name": "Gospell",
+    "url": "http://www.gospell.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "guitaa",
+    "name": "Guitaa.com",
+    "url": "https://www.guitaa.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "harptabs",
+    "name": "HarpTabs",
+    "url": "https://www.harptabs.com/searchsong.php?Name={{{s}}}&HarpType=0"
+  },
+  {
+    "bang": "hymns",
+    "name": "hymnal.net",
+    "url": "https://www.hymnal.net/en/search/all/all/{{{s}}}"
+  },
+  {
+    "bang": "idd",
+    "name": "Impossibile da dimenticare",
+    "url": "http://www.google.it/cse?cx=partner-pub-5110806989181281:4419033070&q={{{s}}}"
+  },
+  {
+    "bang": "ikso",
+    "name": "Ikso Kantaro",
+    "url": "http://kantaro.ikso.net/?do=search&id={{{s}}}&fulltext=Ser\u0109o"
+  },
+  {
+    "bang": "kalimah",
+    "name": "Kalimah.top",
+    "url": "https://kalimah.top/results/?q={{{s}}}"
+  },
+  {
+    "bang": "kithara",
+    "name": "kithara.to",
+    "url": "https://kithara.to/index.php?cmd=fi&query={{{s}}}"
+  },
+  {
+    "bang": "km",
+    "name": "Karaoke Mugen",
+    "url": "https://kara.moe/base/karas?filter={{{s}}}"
+  },
+  {
+    "bang": "ktcz",
+    "name": "KaraokeTexty.cz",
+    "url": "http://www.karaoketexty.cz/search?q={{{s}}}"
+  },
+  {
+    "bang": "letra",
+    "name": "Letras.top",
+    "url": "https://letras.top/results/?q={{{s}}}"
+  },
+  {
+    "bang": "letrasbr",
+    "name": "letras.mus.br",
+    "url": "http://letras.mus.br/?q={{{s}}}"
+  },
+  {
+    "bang": "letssingit",
+    "name": "Letssingit",
+    "url": "https://search.letssingit.com/?s={{{s}}}&a=search&l=archive"
+  },
+  {
+    "bang": "lirik",
+    "name": "Lirik",
+    "url": "https://lirik.web.id/results/?q={{{s}}}"
+  },
+  {
+    "bang": "lololyrics",
+    "name": "Lololyrics",
+    "url": "http://www.lololyrics.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "ltb",
+    "name": "Letras BR",
+    "url": "https://www.letras.mus.br/?q={{{s}}} "
+  },
+  {
+    "bang": "lyrical",
+    "name": "Lyrical Nonsense",
+    "url": "http://duckduckgo.com/?q=site%3Alyrical-nonsense.com+{{{s}}}"
+  },
+  {
+    "bang": "lyricsing",
+    "name": "Hindi Lyrics",
+    "url": "https://lyricsing.com/search/{{{s}}}"
+  },
+  {
+    "bang": "lyrics",
+    "name": "Lyric Wiki",
+    "url": "http://lyrics.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "lyricstranslate",
+    "name": "Lyrics Translate",
+    "url": "http://lyricstranslate.com/en/site-search?query={{{s}}}"
+  },
+  {
+    "bang": "lyricswiki",
+    "name": "LyricWiki",
+    "url": "http://lyrics.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "lyricwiki",
+    "name": "LyricWiki",
+    "url": "http://lyrics.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "lyriki",
+    "name": "Lyriki",
+    "url": "http://lyriki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "lyrster",
+    "name": "Lyrster",
+    "url": "http://www.lyrster.com/songs-lyrics/{{{s}}}.html"
+  },
+  {
+    "bang": "megalyr",
+    "name": "http://megalyrics.ru",
+    "url": "http://megalyrics.ru/search?utf8=%E2%9C%93&search={{{s}}}"
+  },
+  {
+    "bang": "metrolyrics",
+    "name": "Metro Lyrics",
+    "url": "http://www.metrolyrics.com/search.html?search={{{s}}}"
+  },
+  {
+    "bang": "mldb",
+    "name": "The Music Lyrics Database",
+    "url": "http://www.mldb.org/search?mq={{{s}}}"
+  },
+  {
+    "bang": "musikazblai",
+    "name": "Musikazblai Euskaraz",
+    "url": "http://eu.musikazblai.com/foro/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "mxm",
+    "name": "musixmatch",
+    "url": "https://www.musixmatch.com/search/{{{s}}}"
+  },
+  {
+    "bang": "mysongbook",
+    "name": "mySongBook",
+    "url": "http://www.mysongbook.com/search?utf8=%E2%9C%93&search%5Btype_item%5D=4&search%5Bname%5D={{{s}}}"
+  },
+  {
+    "bang": "plyrics",
+    "name": "PLyrics.com",
+    "url": "http://search.plyrics.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "rapgenius",
+    "name": "Rap Genius",
+    "url": "http://rapgenius.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rhymer",
+    "name": "Rhymer",
+    "url": "http://www.rhymer.com/RhymingDictionary/{{{s}}}.html"
+  },
+  {
+    "bang": "rz",
+    "name": "RhymeZone",
+    "url": "http://www.rhymezone.com/r/rhyme.cgi?Word={{{s}}}&typeofrhyme=perfect&org1=syl&org2=l&org3=y"
+  },
+  {
+    "bang": "shironet",
+    "name": "Shironet",
+    "url": "http://shironet.mako.co.il/search?q={{{s}}}"
+  },
+  {
+    "bang": "singcat",
+    "name": "singcat.net",
+    "url": "https://singcat.net/results/?q={{{s}}}"
+  },
+  {
+    "bang": "slyrics",
+    "name": "SONG LYRICS",
+    "url": "http://www.songlyrics.com/index.php?section=search&searchW={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "smn",
+    "name": "songmeanings",
+    "url": "http://songmeanings.com/query/?query={{{s}}}"
+  },
+  {
+    "bang": "sms",
+    "name": "SongMeanings",
+    "url": "http://songmeanings.com/query/?query={{{s}}}"
+  },
+  {
+    "bang": "songmeaning",
+    "name": "Songmeaning",
+    "url": "http://www.songmeanings.net/query/?q={{{s}}}&type=artists&page=1&start=0&mm=1&pp=20&b=Go"
+  },
+  {
+    "bang": "songmeanings",
+    "name": "SongMeanings",
+    "url": "http://songmeanings.com/query/?query={{{s}}}"
+  },
+  {
+    "bang": "songtext",
+    "name": "Songtexte.com",
+    "url": "http://www.songtexte.com/search?q={{{s}}}&c=all"
+  },
+  {
+    "bang": "tabscout",
+    "name": "TabScout",
+    "url": "http://www.tabscout.com/?action=search&query={{{s}}}"
+  },
+  {
+    "bang": "tekstowo",
+    "name": "Tekstowo",
+    "url": "http://www.tekstowo.pl/szukaj,wykonawca,{{{s}}} ,tytul,{{{s}}}.html"
+  },
+  {
+    "bang": "testi",
+    "name": "Testi.xyz",
+    "url": "https://testi.xyz/results/?q={{{s}}}"
+  },
+  {
+    "bang": "thail",
+    "name": "ThaiLyrics.top",
+    "url": "https://thailyrics.top/results/?q={{{s}}}"
+  },
+  {
+    "bang": "viasona",
+    "name": "Viasona",
+    "url": "http://www.viasona.cat/cerca?que={{{s}}}&cerca=&sourceid=duckduckgo"
+  },
+  {
+    "bang": "worshiptogether",
+    "name": "worshiptogether.com",
+    "url": "http://worship-songs-resources.worshiptogether.com/search?w={{{s}}}"
+  },
+  {
+    "bang": "wrd",
+    "name": "Wire Grind",
+    "url": "https://www.wiregrind.com/rhyming-dictionary/?word={{{s}}}"
+  }
+]

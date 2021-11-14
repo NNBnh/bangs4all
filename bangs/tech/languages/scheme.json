@@ -1,0 +1,27 @@
+[
+  {
+    "bang": "chicken",
+    "name": "Chicken Scheme",
+    "url": "https://wiki.call-cc.org/search?text={{{s}}}"
+  },
+  {
+    "bang": "csc",
+    "name": "Chicken Scheme Chickadee",
+    "url": "http://api.call-cc.org/cdoc?q={{{s}}}&query-regex=Regexp"
+  },
+  {
+    "bang": "csw",
+    "name": "Chicken Scheme Wiki",
+    "url": "http://wiki.call-cc.org/search?text={{{s}}}&ident="
+  },
+  {
+    "bang": "lsr",
+    "name": "LilyPond Snippet Repository",
+    "url": "http://lsr.di.unimi.it/LSR/Search?q={{{s}}}"
+  },
+  {
+    "bang": "srfi",
+    "name": "Scheme Request for Implementation",
+    "url": "http://srfi.schemers.org/srfi-{{{s}}}/srfi-{{{s}}}.html"
+  }
+]

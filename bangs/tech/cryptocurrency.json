@@ -1,0 +1,62 @@
+[
+  {
+    "bang": "acc",
+    "name": "aleth.io account address",
+    "url": "https://aleth.io/account/{{{s}}}"
+  },
+  {
+    "bang": "bich",
+    "name": "BitInfoCharts",
+    "url": "https://bitinfocharts.com/comparison/marketcap-{{{s}}}.html#log"
+  },
+  {
+    "bang": "bitref",
+    "name": "bitref",
+    "url": "https://bitref.com/{{{s}}}"
+  },
+  {
+    "bang": "btcaddr",
+    "name": "Blockchain",
+    "url": "https://www.blockchain.com/btc/address/{{{s}}}"
+  },
+  {
+    "bang": "btcm",
+    "name": "Bitcoinity Markets",
+    "url": "http://bitcoinity.org/markets/{{{s}}}/USD"
+  },
+  {
+    "bang": "chs",
+    "name": "https://chain.so",
+    "url": "https://chain.so/address/{{{s}}}"
+  },
+  {
+    "bang": "cp",
+    "name": "https://coinpaprika.com",
+    "url": "https://coinpaprika.com/?sort={{{s}}}"
+  },
+  {
+    "bang": "eips",
+    "name": "GitHub",
+    "url": "https://github.com/ethereum/EIPs/issues?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "sotd",
+    "name": "State of the DApps",
+    "url": "https://www.stateofthedapps.com/dapps?text={{{s}}}"
+  },
+  {
+    "bang": "stake",
+    "name": "StakingReturns",
+    "url": "https://stakingreturns.com/coins/{{{s}}}"
+  },
+  {
+    "bang": "wb3",
+    "name": "web3data",
+    "url": "https://wb3.io/{{{s}}}"
+  },
+  {
+    "bang": "yours",
+    "name": "yours.org",
+    "url": "https://www.yours.org/search?q={{{s}}}"
+  }
+]

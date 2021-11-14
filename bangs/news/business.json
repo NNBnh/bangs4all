@@ -1,0 +1,372 @@
+[
+  {
+    "bang": "atmatix",
+    "name": "ATmatix",
+    "url": "https://www.atmatix.pl/patterns/all?q={{{s}}}"
+  },
+  {
+    "bang": "avanza",
+    "name": "Avanza",
+    "url": "https://www.avanza.se/sok.html?query={{{s}}}"
+  },
+  {
+    "bang": "blmb",
+    "name": "Bloomberg",
+    "url": "http://www.bloomberg.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bloom",
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bo",
+    "name": "Boerse Online",
+    "url": "http://www.boerse-online.de/suchergebnisse?_search={{{s}}}"
+  },
+  {
+    "bang": "bq",
+    "name": "BloombergQuint",
+    "url": "https://www.bloombergquint.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bsi",
+    "name": "Business Insider",
+    "url": "http://www.businessinsider.com/s?q={{{s}}}"
+  },
+  {
+    "bang": "bung",
+    "name": "Lawyers Around Me",
+    "url": "http://www.lawyersaroundme.com/search/?term={{{s}}}"
+  },
+  {
+    "bang": "cap",
+    "name": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ccm",
+    "name": "CryptoCurrency Market",
+    "url": "https://coinmarketcap.com/currencies/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ciied",
+    "name": "CIIED",
+    "url": "http://ciied.xyz/?s={{{s}}}"
+  },
+  {
+    "bang": "cvmcia",
+    "name": "Consulta de Documentos de Companhias Abertas (CVM)",
+    "url": "http://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/ResultBuscaParticCiaAb.aspx?CNPJNome={{{s}}}&TipoConsult=C"
+  },
+  {
+    "bang": "deal",
+    "name": "DealBook",
+    "url": "http://dealbook.nytimes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "destinonegocio",
+    "name": "DestinoNegocio",
+    "url": "http://destinonegocio.com/search/{{{s}}}"
+  },
+  {
+    "bang": "dwdl",
+    "name": "DWDL",
+    "url": "http://www.dwdl.de/features/suche/?suche={{{s}}} "
+  },
+  {
+    "bang": "economist",
+    "name": "The Economist",
+    "url": "https://www.economist.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "elliottwave",
+    "name": "Elliott Wave Ideas",
+    "url": "https://elliottwaveideas.com/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "etnet",
+    "name": "ETNet \u7d93\u6fdf\u901a",
+    "url": "http://etnet.com.hk/?q={{{s}}}"
+  },
+  {
+    "bang": "export",
+    "name": "Weltexporte",
+    "url": "https://www.weltexporte.de/?s={{{s}}}"
+  },
+  {
+    "bang": "failliet",
+    "name": "Faillissementen.com",
+    "url": "https://www.faillissementen.com/insolventies/nederlandse-insolventies/?q={{{s}}}"
+  },
+  {
+    "bang": "fnet",
+    "name": "finanzen.net",
+    "url": "http://www.finanzen.net/suchergebnis.asp?frmAktiensucheTextfeld={{{s}}}"
+  },
+  {
+    "bang": "forbes",
+    "name": "Forbes",
+    "url": "http://search.forbes.com/search/find?MT={{{s}}}"
+  },
+  {
+    "bang": "fv",
+    "name": "Finviz",
+    "url": "http://finviz.com/quote.ashx?t={{{s}}}"
+  },
+  {
+    "bang": "gfguru",
+    "name": "Gurufocus",
+    "url": "https://www.gurufocus.com/guru/{{{s}}}/stock-picks"
+  },
+  {
+    "bang": "gfstock",
+    "name": "Gurufocus",
+    "url": "https://www.gurufocus.com/stock/{{{s}}}/summary"
+  },
+  {
+    "bang": "ggrlaw",
+    "name": "gulden r\u00f6ttger rechtsanw\u00e4lte - wir sch\u00e4tzen die Kraft achtsamer Kommunikation in Wort und Bild",
+    "url": "https://ggr-law.com/suche/?id=1843&tx_kesearch_pi1%5Bsword%5D={{{s}}}"
+  },
+  {
+    "bang": "green",
+    "name": "https://www.greentech-news.org",
+    "url": "https://www.greentech-news.org/?s={{{s}}}"
+  },
+  {
+    "bang": "handelsblatt",
+    "name": "Handelsblatt",
+    "url": "http://app.handelsblatt.com/suche/?sw={{{s}}}"
+  },
+  {
+    "bang": "iex",
+    "name": "IEX",
+    "url": "https://www.iex.nl/Zoeken/Default.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "ipro",
+    "name": "iProfesional.com",
+    "url": "http://www.iprofesional.com/index.php?p=buscadorProfesional&texto={{{s}}}"
+  },
+  {
+    "bang": "jdn",
+    "name": "JournalDuNet",
+    "url": "http://www.journaldunet.com/s/{{{s}}}"
+  },
+  {
+    "bang": "kbt",
+    "name": "Kabutan",
+    "url": "https://kabutan.jp/stock/?code={{{s}}}"
+  },
+  {
+    "bang": "keldan",
+    "name": "Keldan",
+    "url": "https://leit.keldan.is/Home/Search?term={{{s}}}"
+  },
+  {
+    "bang": "lescris",
+    "name": "Les-CRIs",
+    "url": "https://duckduckgo.com/?q=site%3Ales-cris.com+{{{s}}}"
+  },
+  {
+    "bang": "lovebusinessexpo",
+    "name": "Love Business EXPO",
+    "url": "https://www.lovebusinessexpo.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mktw",
+    "name": "MarketWatch",
+    "url": "http://www.marketwatch.com/investing/stock/{{{s}}}"
+  },
+  {
+    "bang": "moex",
+    "name": "Moscow Exchange",
+    "url": "https://www.moex.com/en/issue.aspx?code={{{s}}}"
+  },
+  {
+    "bang": "moneycontrol",
+    "name": "MoneyControl",
+    "url": "http://www.moneycontrol.com/stocks/cptmarket/compsearchnew.php?search_data=&cid=&mbsearch_str=&topsearch_type=1&search_str={{{s}}}"
+  },
+  {
+    "bang": "money",
+    "name": "Money Badger by StockTwits",
+    "url": "http://moneybadger.stocktwits.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mrmoney",
+    "name": "Mr. Money Moustache",
+    "url": "http://www.mrmoneymustache.com/?s={{{s}}}"
+  },
+  {
+    "bang": "nasdaq",
+    "name": "NASDAQ",
+    "url": "https://www.nasdaq.com/symbol/{{{s}}}/real-time"
+  },
+  {
+    "bang": "nbnotes",
+    "name": "National Bank Structured Notes",
+    "url": "https://nbcstructuredsolutions.ca/listeProduits.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "nfib",
+    "name": "National Federation of Independent Business",
+    "url": "http://www.nfib.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "protocol",
+    "name": "Protocol",
+    "url": "https://www.protocol.co.il/?s={{{s}}}"
+  },
+  {
+    "bang": "quartz",
+    "name": "Quartz",
+    "url": "http://qz.com/search/{{{s}}}"
+  },
+  {
+    "bang": "qz",
+    "name": "Quartz",
+    "url": "http://qz.com/search/{{{s}}}"
+  },
+  {
+    "bang": "rh",
+    "name": "Robin Hood",
+    "url": "https://robinhood.com/stocks/{{{s}}}"
+  },
+  {
+    "bang": "rknastro",
+    "name": "RKN Astrology vastu",
+    "url": "https://rknastrovastu.com/?s={{{s}}}"
+  },
+  {
+    "bang": "roetgen",
+    "name": "Gemeinde Roetgen",
+    "url": "https://www.roetgen.de/?s={{{s}}}"
+  },
+  {
+    "bang": "seekingalpha",
+    "name": "Seeking Alpha",
+    "url": "http://seekingalpha.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "senate",
+    "name": "Portal Senate",
+    "url": "http://senat.me/en/?s={{{s}}}"
+  },
+  {
+    "bang": "sludgefeed",
+    "name": "SludgeFeed",
+    "url": "https://sludgefeed.com/?s={{{s}}}"
+  },
+  {
+    "bang": "sole24",
+    "name": "Il Sole 24 Ore",
+    "url": "https://www.ricerca24.ilsole24ore.com/fc?cmd=static&chId=30&path=%2Fsearch%2Fsearch_engine.jsp&field=Titolo%7CTesto&orderBy=score+desc&chId=30&keyWords={{{s}}}&button="
+  },
+  {
+    "bang": "stockcharts",
+    "name": "StockCharts",
+    "url": "http://stockcharts.com/h-sc/ui?s={{{s}}}&p=D&yr=0&mn=6&dy=0"
+  },
+  {
+    "bang": "stock",
+    "name": "Google Finance",
+    "url": "http://finance.google.com/?q={{{s}}}&sa=N&tab=fe"
+  },
+  {
+    "bang": "st",
+    "name": "stocktwits",
+    "url": "http://stocktwits.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tdnotes",
+    "name": "tdnotes",
+    "url": "https://www.tdstructurednotes.com/snp/searchByKeyword.action?criteria.keyword={{{s}}}"
+  },
+  {
+    "bang": "tipranks",
+    "name": "Tip Ranks",
+    "url": "https://www.tipranks.com/stocks/{{{s}}}"
+  },
+  {
+    "bang": "training",
+    "name": "Training Industry",
+    "url": "https://trainingindustry.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tsx",
+    "name": "TSX",
+    "url": "https://web.tmxmoney.com/company.php?qm_symbol={{{s}}}&locale=en"
+  },
+  {
+    "bang": "tview",
+    "name": "TradingView",
+    "url": "https://www.tradingview.com/chart/?symbol={{{s}}}"
+  },
+  {
+    "bang": "vcru",
+    "name": "vc.ru",
+    "url": "https://vc.ru/search/{{{s}}}"
+  },
+  {
+    "bang": "venturebeat",
+    "name": "VentureBeat",
+    "url": "http://venturebeat.com/?s={{{s}}}"
+  },
+  {
+    "bang": "virtus",
+    "name": "Virtus Investment Partners",
+    "url": "https://duckduckgo.com/?q=site:virtus.com+{{{s}}}"
+  },
+  {
+    "bang": "vz",
+    "name": "Verslo \u017einios",
+    "url": "https://www.vz.lt/section/?template=search&search={{{s}}}"
+  },
+  {
+    "bang": "wsjmw",
+    "name": "MarketWatch",
+    "url": "http://www.marketwatch.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "xe",
+    "name": "https://xe.com",
+    "url": "https://xe.com/currency/{{{s}}}"
+  },
+  {
+    "bang": "yahoofinau",
+    "name": "Yahoo Finance Australia",
+    "url": "https://au.finance.yahoo.com/q?s={{{s}}}"
+  },
+  {
+    "bang": "yfc",
+    "name": "Yahoo Finance Charts",
+    "url": "http://finance.yahoo.com/echarts?s={{{s}}}"
+  },
+  {
+    "bang": "yfinance",
+    "name": "Yahoo Finance",
+    "url": "http://finance.yahoo.com/q?s={{{s}}}"
+  },
+  {
+    "bang": "yfp",
+    "name": "Yahoo Finance (Company Profile)",
+    "url": "http://finance.yahoo.com/q/pr?s={{{s}}}+Profile"
+  },
+  {
+    "bang": "zerohedge",
+    "name": "ZeroHedge",
+    "url": "http://www.zerohedge.com/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "bang": "zh",
+    "name": "Zero Hedge",
+    "url": "https://www.zerohedge.com/search-content?search_api_fulltext={{{s}}}"
+  },
+  {
+    "bang": "\u05e4\u05e8\u05d5\u05d8\u05d5\u05e7\u05d5\u05dc",
+    "name": "\u05e4\u05e8\u05d5\u05d8\u05d5\u05e7\u05d5\u05dc",
+    "url": "https://www.protocol.co.il/?s={{{s}}}"
+  }
+]

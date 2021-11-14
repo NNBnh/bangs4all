@@ -1,0 +1,47 @@
+[
+  {
+    "bang": "nrtq",
+    "name": "NASDAQ Real Time Quotes",
+    "url": "http://www.nasdaq.com/symbol/{{{s}}}/real-time"
+  },
+  {
+    "bang": "okcaller",
+    "name": "okcaller.com",
+    "url": "http://www.okcaller.com/detail.php?number={{{s}}}"
+  },
+  {
+    "bang": "skyscan",
+    "name": "Skyscanner",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:http://www.skyscanner.net"
+  },
+  {
+    "bang": "slader",
+    "name": "Slader",
+    "url": "http://www.slader.com/search/?search_query={{{s}}}"
+  },
+  {
+    "bang": "smention",
+    "name": "Social Mention",
+    "url": "http://socialmention.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "twl",
+    "name": "Twitter Latest",
+    "url": "https://twitter.com/search?f=tweets&vertical=news&q={{{s}}}"
+  },
+  {
+    "bang": "xmc",
+    "name": "Xploremycity",
+    "url": "https://xploremycity.com/{{{s}}}"
+  },
+  {
+    "bang": "yjr",
+    "name": "Yahoo! Japan Realtime",
+    "url": "https://search.yahoo.co.jp/realtime/search?p={{{s}}}"
+  },
+  {
+    "bang": "yrtjp",
+    "name": "Yahoo! Japan Realtime",
+    "url": "https://search.yahoo.co.jp/realtime/search?p={{{s}}}"
+  }
+]

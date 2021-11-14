@@ -1,0 +1,912 @@
+[
+  {
+    "bang": "4",
+    "name": "4 Fitness Rules",
+    "url": "https://www.4fitnessrules.com/workout-videos/?frm_search={{{s}}}"
+  },
+  {
+    "bang": "7tv",
+    "name": "7TV",
+    "url": "https://www.7tv.de/suche?q={{{s}}}"
+  },
+  {
+    "bang": "acfun",
+    "name": "AcFun",
+    "url": "http://www.acfun.cn/search/?#query={{{s}}} "
+  },
+  {
+    "bang": "adn",
+    "name": "AnimeDigitalNetwork",
+    "url": "http://animedigitalnetwork.fr/video#search={{{s}}}"
+  },
+  {
+    "bang": "airmo",
+    "name": "Air Mozilla",
+    "url": "https://air.mozilla.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "alugha",
+    "name": "alugha",
+    "url": "https://alugha.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "amara",
+    "name": "Amara",
+    "url": "http://www.amara.org/search/#/?q={{{s}}}"
+  },
+  {
+    "bang": "amvidde",
+    "name": "Amazon.de Instant Video",
+    "url": "http://www.amazon.de/s/url=search-alias%3Dinstant-video&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "anibin",
+    "name": "anibin",
+    "url": "https://anibin.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "anisearch",
+    "name": "aniSearch",
+    "url": "https://www.anisearch.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "aparat",
+    "name": "Aparat",
+    "url": "http://www.aparat.com/result/{{{s}}}"
+  },
+  {
+    "bang": "apiv",
+    "name": "Amazon Prime Instant Video",
+    "url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dprime-instant-video&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "apvde",
+    "name": "Amazon Prime Video Germany",
+    "url": "https://www.amazon.de/s?k={{{s}}}&i=instant-video"
+  },
+  {
+    "bang": "ard",
+    "name": "ARD Mediathek",
+    "url": "https://www.ardmediathek.de/ard/search/{{{s}}}"
+  },
+  {
+    "bang": "areena",
+    "name": "YLE Areena",
+    "url": "http://haku.yle.fi/?q={{{s}}}&category=Areena"
+  },
+  {
+    "bang": "avtoprom",
+    "name": "avtoprom.org",
+    "url": "https://avtoprom.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "bilibili",
+    "name": "bilibili",
+    "url": "http://search.bilibili.com/all?keyword={{{s}}} "
+  },
+  {
+    "bang": "bili",
+    "name": "bilibili",
+    "url": "http://www.bilibili.com/search?keyword={{{s}}}:"
+  },
+  {
+    "bang": "bitc",
+    "name": "BitChute",
+    "url": "https://www.bitchute.com/search/?q={{{s}}}&sort=date_created+desc"
+  },
+  {
+    "bang": "bitch",
+    "name": "BitChute",
+    "url": "https://www.bitchute.com/search/?q={{{s}}}&sort=date_created+desc"
+  },
+  {
+    "bang": "bitview",
+    "name": "BitView",
+    "url": "http://www.bitview.net/results.php?search={{{s}}}&t=Search+Videos"
+  },
+  {
+    "bang": "blbl",
+    "name": "\u54d4\u54e9\u54d4\u54e9\u5f39\u5e55\u7f51",
+    "url": "http://www.bilibili.com/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "c3tv",
+    "name": "C3TV",
+    "url": "https://media.ccc.de/search/?q={{{s}}}"
+  },
+  {
+    "bang": "canopener",
+    "name": "11foot8.com",
+    "url": "http://11foot8.com/?s={{{s}}}"
+  },
+  {
+    "bang": "cineycortosgay",
+    "name": "CineyCortosGay.com",
+    "url": "http://www.cineycortosgay.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "clipstijl",
+    "name": "Clipstijl",
+    "url": "http://www.clipstijl.nl/zoeken.php?zoek={{{s}}} "
+  },
+  {
+    "bang": "convert",
+    "name": "ClipConverter.cc",
+    "url": "http://www.clipconverter.cc/?url={{{s}}}"
+  },
+  {
+    "bang": "csfd",
+    "name": "\u010cSFD",
+    "url": "https://www.csfd.cz/hledat/?q={{{s}}}"
+  },
+  {
+    "bang": "cyt",
+    "name": "Candence CloudTube (YouTube Client)",
+    "url": "https://cadence.gq/cloudtube/search?q={{{s}}}&sort_by=relevance"
+  },
+  {
+    "bang": "dailymotion",
+    "name": "Dailymotion",
+    "url": "https://www.dailymotion.com/search/{{{s}}}"
+  },
+  {
+    "bang": "ddgv",
+    "name": "DuckDuckGo Video Search",
+    "url": "https://duckduckgo.com/?q={{{s}}}&iar=videos&iax=videos&ia=videos"
+  },
+  {
+    "bang": "diasporatags",
+    "name": "Diaspora Tags",
+    "url": "https://joindiaspora.com/tags/{{{s}}}"
+  },
+  {
+    "bang": "dio",
+    "name": "https://invidio.us",
+    "url": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "bang": "dm",
+    "name": "Daily Motion",
+    "url": "https://www.dailymotion.com/search/{{{s}}}"
+  },
+  {
+    "bang": "documentary",
+    "name": "Documentary Heaven",
+    "url": "http://documentaryheaven.com/find/?q={{{s}}}"
+  },
+  {
+    "bang": "dogom",
+    "name": "DOGO movies",
+    "url": "http://www.dogomovies.com/search/{{{s}}}"
+  },
+  {
+    "bang": "dtube",
+    "name": "DTube",
+    "url": "https://d.tube/#!/s/{{{s}}}"
+  },
+  {
+    "bang": "dumpert",
+    "name": "Dumpert",
+    "url": "http://www.dumpert.nl/tag/{{{s}}}"
+  },
+  {
+    "bang": "egghead",
+    "name": "Egghead",
+    "url": "https://egghead.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "film",
+    "name": "filmaffinity",
+    "url": "https://www.filmaffinity.com/es/search.php?stext={{{s}}}"
+  },
+  {
+    "bang": "filmnl",
+    "name": "Film.nl",
+    "url": "https://www.film.nl/?q={{{s}}}"
+  },
+  {
+    "bang": "filmow",
+    "name": "Filmow",
+    "url": "http://filmow.com/buscar/?q={{{s}}}"
+  },
+  {
+    "bang": "fixyt",
+    "name": "FixYT",
+    "url": "http://fixyt.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "fm",
+    "name": "Filmaster",
+    "url": "http://filmaster.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "footage",
+    "name": "dissolve.com",
+    "url": "http://www.dissolve.com/products?keywords={{{s}}}"
+  },
+  {
+    "bang": "framat",
+    "name": "FramaTube",
+    "url": "https://framatube.org/search?search={{{s}}}"
+  },
+  {
+    "bang": "ftnl",
+    "name": "filmtotaal.nl",
+    "url": "https://www.filmtotaal.nl/zoeken/?q={{{s}}}"
+  },
+  {
+    "bang": "funi",
+    "name": "Funimation",
+    "url": "https://www.funimation.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "funky",
+    "name": "Funkytime.tv",
+    "url": "https://funkytime.tv/search?q={{{s}}}"
+  },
+  {
+    "bang": "fwtv",
+    "name": "FWTV",
+    "url": "http://www.fwtv.tv/buscar/{{{s}}}"
+  },
+  {
+    "bang": "gfy",
+    "name": "Gfycat",
+    "url": "https://gfycat.com/gifs/search/{{{s}}}"
+  },
+  {
+    "bang": "gloriatv",
+    "name": "Gloria.tv",
+    "url": "http://gloria.tv/?search={{{s}}}"
+  },
+  {
+    "bang": "grf",
+    "name": "goblinrefuge.com",
+    "url": "https://goblinrefuge.com/mediagoblin/search/?query={{{s}}}"
+  },
+  {
+    "bang": "grumps",
+    "name": "Game Grumps",
+    "url": "https://www.youtube.com/user/GameGrumps/search?query={{{s}}}"
+  },
+  {
+    "bang": "gunstreamer",
+    "name": "Gun Streamer",
+    "url": "https://gunstreamer.com/search?q=Test&idx=videos&p=0&keyword={{{s}}}"
+  },
+  {
+    "bang": "haq",
+    "name": "Hakkani",
+    "url": "http://hakkani.org/?term={{{s}}}"
+  },
+  {
+    "bang": "hkt",
+    "name": "Hooktube",
+    "url": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "hooktube",
+    "name": "HookTube",
+    "url": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "htb",
+    "name": "HookTube",
+    "url": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "ht",
+    "name": "HookTube",
+    "url": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "htube",
+    "name": "HookTube",
+    "url": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "hulu",
+    "name": "Hulu",
+    "url": "http://www.hulu.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "in",
+    "name": "Invidio.us",
+    "url": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "bang": "invd",
+    "name": "Invidious",
+    "url": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "bang": "invid",
+    "name": "Invidio.us",
+    "url": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "bang": "invidio",
+    "name": "invidious",
+    "url": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "bang": "invidious",
+    "name": "Invidious",
+    "url": "https://www.invidio.us/search?q={{{s}}}"
+  },
+  {
+    "bang": "jb",
+    "name": "jupiter broadcasting",
+    "url": "http://www.jupiterbroadcasting.com/?s={{{s}}}"
+  },
+  {
+    "bang": "jeux",
+    "name": "JeuxVideo",
+    "url": "http://www.jeuxvideo.com/recherche.php?q={{{s}}}"
+  },
+  {
+    "bang": "justwatchde",
+    "name": "justwatch german",
+    "url": "https://www.justwatch.com/de/Suche?q={{{s}}}"
+  },
+  {
+    "bang": "justwatchuk",
+    "name": "JustWatch UK",
+    "url": "https://www.justwatch.com/uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "jwit",
+    "name": "JustWatch Italy",
+    "url": "https://www.justwatch.com/it/cerca?q={{{s}}}"
+  },
+  {
+    "bang": "kanopy",
+    "name": "Kanopy",
+    "url": "https://www.kanopy.com/s?query={{{s}}}"
+  },
+  {
+    "bang": "kino",
+    "name": "Kinopoisk",
+    "url": "http://www.kinopoisk.ru/index.php?first=no&what=&kp_query={{{s}}}"
+  },
+  {
+    "bang": "kitsu",
+    "name": "Kitsu",
+    "url": "https://kitsu.io/anime?text={{{s}}}"
+  },
+  {
+    "bang": "livec",
+    "name": "LiveChart.me",
+    "url": "https://www.livechart.me/search?q={{{s}}}"
+  },
+  {
+    "bang": "liveleak",
+    "name": "LiveLeak",
+    "url": "http://www.liveleak.com/browse?q={{{s}}} "
+  },
+  {
+    "bang": "ll",
+    "name": "LiveLeak",
+    "url": "http://www.liveleak.com/browse?q={{{s}}}"
+  },
+  {
+    "bang": "mccc",
+    "name": "media.ccc.de",
+    "url": "https://media.ccc.de/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mediaccc",
+    "name": "Media.ccc.de",
+    "url": "https://media.ccc.de/search/?q= {{{s}}}"
+  },
+  {
+    "bang": "metacafe",
+    "name": "Metacafe",
+    "url": "http://www.metacafe.com/videos_about/{{{s}}}"
+  },
+  {
+    "bang": "mijnserie",
+    "name": "MijnSerie",
+    "url": "https://www.mijnserie.nl/zoeken/?search={{{s}}}"
+  },
+  {
+    "bang": "mmnl",
+    "name": "moviemeter.nl",
+    "url": "https://www.moviemeter.nl/site/search?q={{{s}}}"
+  },
+  {
+    "bang": "mv",
+    "name": "Myvideo",
+    "url": "http://www.myvideo.de/Videos_A-Z?searchWord={{{s}}}"
+  },
+  {
+    "bang": "myvidster",
+    "name": "MyVidster",
+    "url": "https://www.myvidster.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ncvi",
+    "name": "Nicovideo jp",
+    "url": "http://www.nicovideo.jp/search/{{{s}}}?track=nicouni_search_keyword"
+  },
+  {
+    "bang": "ndrde",
+    "name": "NDR.de - Der Norddeutsche Rundfunk",
+    "url": "https://ndr.de/suche10.html?query={{{s}}}"
+  },
+  {
+    "bang": "nico",
+    "name": "Nico Nico Douga",
+    "url": "http://www.nicovideo.jp/search/{{{s}}}"
+  },
+  {
+    "bang": "nrktv",
+    "name": "NRK TV",
+    "url": "http://tv.nrk.no/sok?q={{{s}}}"
+  },
+  {
+    "bang": "peggo",
+    "name": "Peggo",
+    "url": "http://peggo.co/search/{{{s}}}"
+  },
+  {
+    "bang": "peri",
+    "name": "Periscope",
+    "url": "https://www.periscope.tv/search?q={{{s}}}"
+  },
+  {
+    "bang": "peteyvid",
+    "name": "Petey Vid",
+    "url": "https://www.peteyvid.com/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "pewdiepie",
+    "name": "PewDiePie",
+    "url": "https://www.youtube.com/user/PewDiePie/search?query={{{s}}} "
+  },
+  {
+    "bang": "plp",
+    "name": "Playpilot",
+    "url": "https://www.playpilot.com/se/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "prel",
+    "name": "Internet Archive - Prelinger Archives",
+    "url": "https://archive.org/details/prelinger?and%5B%5D={{{s}}}"
+  },
+  {
+    "bang": "ptube",
+    "name": "PeerTube",
+    "url": "https://peer.tube/search?search={{{s}}}"
+  },
+  {
+    "bang": "pv",
+    "name": "Prime Video",
+    "url": "https://www.primevideo.com/region/eu/search/ref=dv_web_nav_search?phrase={{{s}}}&ie=UTF8"
+  },
+  {
+    "bang": "qwv",
+    "name": "Qwant Videos",
+    "url": "https://www.qwant.com/?q={{{s}}}&t=videos"
+  },
+  {
+    "bang": "rai",
+    "name": "RaiPlay",
+    "url": "https://www.raiplay.it/ricerca?q={{{s}}}"
+  },
+  {
+    "bang": "ralvid",
+    "name": "ralvid - YouTube Mirror",
+    "url": "http://ralvid.ml/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "reelgood",
+    "name": "Reelgood",
+    "url": "https://reelgood.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "repubblicavideo",
+    "name": "La Repubblica",
+    "url": "http://ricerca.repubblica.it/ricerca/repubblica-video?query={{{s}}}&view=repubblica-video"
+  },
+  {
+    "bang": "rightnow",
+    "name": "Rightnow Media",
+    "url": "https://www.rightnowmedia.org/Search?q={{{s}}}"
+  },
+  {
+    "bang": "rocketbeans",
+    "name": "Rocket Beans TV",
+    "url": "https://www.rocketbeans.tv/?s={{{s}}}"
+  },
+  {
+    "bang": "roku",
+    "name": "Roku",
+    "url": "https://owner.roku.com/Add/{{{s}}}"
+  },
+  {
+    "bang": "rt",
+    "name": "Rotten Tomatoes",
+    "url": "https://www.rottentomatoes.com/search/?search={{{s}}}"
+  },
+  {
+    "bang": "rumble",
+    "name": "Rumble",
+    "url": "https://rumble.com/all/q/{{{s}}}/?type=videos"
+  },
+  {
+    "bang": "rutube",
+    "name": "RuTube",
+    "url": "http://rutube.ru/search.html?page=index&search={{{s}}}&search_type=track"
+  },
+  {
+    "bang": "rv",
+    "name": "Real.Video",
+    "url": "https://www.real.video/search?query={{{s}}}"
+  },
+  {
+    "bang": "sakuga",
+    "name": "Sakugabooru",
+    "url": "https://sakugabooru.com/post?tags={{{s}}}"
+  },
+  {
+    "bang": "savido",
+    "name": "Savido",
+    "url": "http://www.savido.cz/download.php?url={{{s}}}"
+  },
+  {
+    "bang": "sbs",
+    "name": "SBS On Demand",
+    "url": "https://www.sbs.com.au/ondemand/search/{{{s}}}"
+  },
+  {
+    "bang": "scf",
+    "name": "SyncFile",
+    "url": "http://syncfile.co/{{{s}}}"
+  },
+  {
+    "bang": "scope.dk",
+    "name": "scope.dk",
+    "url": "http://www.scope.dk/sogning?sog={{{s}}} "
+  },
+  {
+    "bang": "shinden",
+    "name": "Shinden",
+    "url": "http://shinden.pl/search?q={{{s}}}"
+  },
+  {
+    "bang": "snotr",
+    "name": "Snotr",
+    "url": "https://www.snotr.com/search/?search={{{s}}}"
+  },
+  {
+    "bang": "sptv",
+    "name": "Samaritan Purse TV",
+    "url": "http://video.samaritanspurse.org/?s={{{s}}}"
+  },
+  {
+    "bang": "ssptv",
+    "name": "SSPTV",
+    "url": "http://www.ssptv.com/?s={{{s}}}"
+  },
+  {
+    "bang": "stockvideo",
+    "name": "dissolve.com",
+    "url": "http://www.dissolve.com/products?keywords={{{s}}}&media_type=video"
+  },
+  {
+    "bang": "stream",
+    "name": "Internetov\u00e1 televize Stream",
+    "url": "https://www.stream.cz/vyhledavani?dotaz={{{s}}}"
+  },
+  {
+    "bang": "svtp",
+    "name": "SVT Play",
+    "url": "http://www.svtplay.se/sok?q={{{s}}}"
+  },
+  {
+    "bang": "svt",
+    "name": "SVT Play",
+    "url": "http://www.svtplay.se/sok?q={{{s}}}"
+  },
+  {
+    "bang": "tch",
+    "name": "Teaching Channel",
+    "url": "https://www.teachingchannel.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "ted",
+    "name": "TED",
+    "url": "https://www.ted.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tigtag",
+    "name": "http://www.tigtagcarolina.com",
+    "url": "http://www.tigtagcarolina.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "tmdb",
+    "name": "TheMovieDB.org",
+    "url": "https://www.themoviedb.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "toogles",
+    "name": "Toogles",
+    "url": "http://toogl.es/#/search/{{{s}}}"
+  },
+  {
+    "bang": "tube",
+    "name": "BitTube",
+    "url": "https://bit.tube/results?term={{{s}}}"
+  },
+  {
+    "bang": "tudou",
+    "name": "\u571f\u8c46\u7f51",
+    "url": "http://so.tudou.com/nisearch.do?kw={{{s}}}"
+  },
+  {
+    "bang": "tv4play",
+    "name": "Tv4play",
+    "url": "https://www.tv4play.se/s%C3%B6k/{{{s}}}"
+  },
+  {
+    "bang": "twittv",
+    "name": "TWiT",
+    "url": "https://twit.tv/search/{{{s}}}"
+  },
+  {
+    "bang": "twmet",
+    "name": "Twitchmetrics",
+    "url": "https://www.twitchmetrics.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "ty",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "uzg",
+    "name": "Uitzendinggemist",
+    "url": "https://www.npo.nl/zoeken?term={{{s}}}"
+  },
+  {
+    "bang": "vbox7",
+    "name": "Vbox7",
+    "url": "https://www.vbox7.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "vevo",
+    "name": "Vevo",
+    "url": "https://www.youtube.com/user/VEVO/search?query={{{s}}}"
+  },
+  {
+    "bang": "viaplay",
+    "name": "Viaplay",
+    "url": "https://viaplay.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "vidangel",
+    "name": "VidAngel",
+    "url": "http://www.vidangel.com/?s={{{s}}}"
+  },
+  {
+    "bang": "videosift",
+    "name": "Videosift",
+    "url": "http://videosift.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "vidlii",
+    "name": "VidLii",
+    "url": "https://www.vidlii.com/results?q={{{s}}}"
+  },
+  {
+    "bang": "vimeo",
+    "name": "Vimeo",
+    "url": "https://vimeo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "visual-youtube",
+    "name": "visual-youtube",
+    "url": "http://www.yasiv.com/youtube#?q={{{s}}}"
+  },
+  {
+    "bang": "vkv",
+    "name": "Vkontakte video",
+    "url": "https://vk.com/video?q={{{s}}}"
+  },
+  {
+    "bang": "watchkin",
+    "name": "Watchkin",
+    "url": "https://watchkin.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "watch",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "webcams",
+    "name": "webcams.travel",
+    "url": "http://www.webcams.travel/search/{{{s}}}"
+  },
+  {
+    "bang": "wimp",
+    "name": "wimp.com",
+    "url": "http://www.wimp.com/search/{{{s}}}"
+  },
+  {
+    "bang": "wl95",
+    "name": "WiiLord95",
+    "url": "https://www.youtube.com/user/WiiLord95/search?query={{{s}}}"
+  },
+  {
+    "bang": "www.89porno.com",
+    "name": "Porno \u0130zle",
+    "url": "http://www.89porno.com/?s={{{s}}}"
+  },
+  {
+    "bang": "yamgo",
+    "name": "Yamgo TV",
+    "url": "http://yamgo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "yatu",
+    "name": "YouTube BE",
+    "url": "https://www.youtube.be/?q={{{s}}}: "
+  },
+  {
+    "bang": "youglish",
+    "name": "YouGlish",
+    "url": "http://youglish.com/search/{{{s}}}/us"
+  },
+  {
+    "bang": "youloop",
+    "name": "youloop.org",
+    "url": "http://youloop.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "youpak",
+    "name": "https://www.youpak.com",
+    "url": "https://www.youpak.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "yourglish",
+    "name": "Yourglish",
+    "url": "https://youglish.com/search/{{{s}}}?"
+  },
+  {
+    "bang": "youtubeonrepeat",
+    "name": "Youtube on Repeat",
+    "url": "http://youtubeonrepeat.com/results/?search_query={{{s}}}"
+  },
+  {
+    "bang": "youtube",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "yout",
+    "name": "yout.com",
+    "url": "https://yout.com/search?terms={{{s}}}"
+  },
+  {
+    "bang": "yt24",
+    "name": "Youtube",
+    "url": "https://www.youtube.com/results?q={{{s}}}&sp=EgIIAg%253D%253D"
+  },
+  {
+    "bang": "ytb",
+    "name": "Youtube",
+    "url": "https://www.youtube.com/results?search_query= {{{s}}}"
+  },
+  {
+    "bang": "ytcc",
+    "name": "YouTube (Creative Commons)",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}&sp=EgIwAQ%253D%253D"
+  },
+  {
+    "bang": "ytch",
+    "name": "YouTube CH",
+    "url": "https://www.youtube.ch/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "ytcv",
+    "name": "Youtube Channel Videos",
+    "url": "https://www.youtube.com/user/{{{s}}}/videos"
+  },
+  {
+    "bang": "ytdate",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}&search_sort=video_date_uploaded"
+  },
+  {
+    "bang": "ytday",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}&sp=EgIIAg%253D%253D"
+  },
+  {
+    "bang": "ytde",
+    "name": "Youtube",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}&gl=DE&hl=de"
+  },
+  {
+    "bang": "ytd",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/watch?v={{{s}}}"
+  },
+  {
+    "bang": "ytfr",
+    "name": "YouTube France",
+    "url": "http://www.youtube.fr/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "ytg",
+    "name": "Youtube Gaming",
+    "url": "https://gaming.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "yti",
+    "name": "YouTube India",
+    "url": "https://in.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "ytlist",
+    "name": "Youtube",
+    "url": "https://www.youtube.com/results?filters=playlist&lclk=playlist&search_query={{{s}}}"
+  },
+  {
+    "bang": "ytl",
+    "name": "YouTube - long",
+    "url": "https://www.youtube.com/results?search_type=videos&search_query={{{s}}}&search_duration=long&uni=3"
+  },
+  {
+    "bang": "ytm",
+    "name": "Youtube Music",
+    "url": "https://music.youtube.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ytor",
+    "name": "YouTube On Repeat",
+    "url": "http://youtubeonrepeat.com/results/?search_query={{{s}}}"
+  },
+  {
+    "bang": "ytp",
+    "name": "Youtube playlists",
+    "url": "https://www.youtube.com/results?q={{{s}}}&sp=EgIQAw%253D%253D"
+  },
+  {
+    "bang": "ytvideo",
+    "name": "Youtube video",
+    "url": "https://www.youtube.com/watch?v={{{s}}}"
+  },
+  {
+    "bang": "yt",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "yu",
+    "name": "HookTube",
+    "url": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "bang": "yv",
+    "name": "Yahoo Video Search",
+    "url": "https://video.search.yahoo.com/search/video?p={{{s}}}"
+  },
+  {
+    "bang": "zapiks",
+    "name": "Zapiks",
+    "url": "http://www.zapiks.fr/search.php?action=search&search={{{s}}} "
+  },
+  {
+    "bang": "zdf",
+    "name": "ZDF",
+    "url": "https://www.zdf.de/suche?q={{{s}}}"
+  },
+  {
+    "bang": "\u03c5\u03c4",
+    "name": "Youtube",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}"
+  }
+]

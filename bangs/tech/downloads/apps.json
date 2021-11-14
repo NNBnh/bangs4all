@@ -1,0 +1,202 @@
+[
+  {
+    "bang": "01net",
+    "name": "01net",
+    "url": "http://www.01net.com/recherche/recherche.php?searchstring={{{s}}}&chaine=home"
+  },
+  {
+    "bang": "aapt",
+    "name": "Aptoide",
+    "url": "http://www.aptoide.com/search/view?search_top= {{{s}}} &x=0&y=0"
+  },
+  {
+    "bang": "androidpit",
+    "name": "AndroidPit",
+    "url": "http://www.androidpit.com/en/android/search?st={{{s}}}"
+  },
+  {
+    "bang": "apkd",
+    "name": "ApkPure",
+    "url": "https://apkpure.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "apkm",
+    "name": "APKMirror",
+    "url": "https://www.apkmirror.com/?s={{{s}}}"
+  },
+  {
+    "bang": "apkmirror",
+    "name": "APK Mirror",
+    "url": "http://www.apkmirror.com/?s={{{s}}}"
+  },
+  {
+    "bang": "apkpure",
+    "name": "APKPure",
+    "url": "https://apkpure.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "appdb",
+    "name": "WineHQ AppDB",
+    "url": "http://www.winehq.org/search?cx=partner-pub-0971840239976722%3Aw9sqbcsxtyf&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&siteurl=appdb.winehq.org%2F&ref=www.winehq.org%2Fsearch%2F%3Fcx%3Dpartner-pub-0971840239976722%253Aw9sqbcsxtyf%26cof%3DFORID%253A10%26ie%3DUTF-8%26q%3Dsomething&ss=674j114846j5"
+  },
+  {
+    "bang": "appex",
+    "name": "Salesforce.com AppExchange",
+    "url": "https://appexchange.salesforce.com/results?keywords={{{s}}}"
+  },
+  {
+    "bang": "appsliced",
+    "name": "App Sliced",
+    "url": "http://appsliced.co/apps?search={{{s}}}"
+  },
+  {
+    "bang": "appvv",
+    "name": "AppVV",
+    "url": "http://www.appvv.com/search.htm?search={{{s}}}&device=1"
+  },
+  {
+    "bang": "aptoide",
+    "name": "Aptoide.com",
+    "url": "https://en.aptoide.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "avis",
+    "name": "applevis.com",
+    "url": "https://www.applevis.com/search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "bang": "bbapps",
+    "name": "BlackBerry App World",
+    "url": "http://appworld.blackberry.com/webstore/search/{{{s}}}"
+  },
+  {
+    "bang": "chocolatey",
+    "name": "Chocolatey",
+    "url": "http://chocolatey.org/packages?q={{{s}}}"
+  },
+  {
+    "bang": "cloudron",
+    "name": "Cloudron",
+    "url": "https://cloudron.io/appstore.html?search={{{s}}}"
+  },
+  {
+    "bang": "Coolapk",
+    "name": "Coolapk",
+    "url": "https://www.coolapk.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dansverine",
+    "name": "Dansverine",
+    "url": "https://www.dansverine.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dhub",
+    "name": "Docker Hub",
+    "url": "https://hub.docker.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "electron",
+    "name": "electron.atom.io",
+    "url": "https://electron.atom.io/apps/?q={{{s}}}"
+  },
+  {
+    "bang": "fdroid",
+    "name": "F-Droid search",
+    "url": "https://search.f-droid.org/?q={{{s}}} "
+  },
+  {
+    "bang": "flathub",
+    "name": "Flathub",
+    "url": "https://flathub.org/apps/search/{{{s}}}"
+  },
+  {
+    "bang": "fossd",
+    "name": "Fossdroid",
+    "url": "https://fossdroid.com/s/{{{s}}}.html"
+  },
+  {
+    "bang": "fossdroid",
+    "name": "Fossdroid",
+    "url": "https://fossdroid.com/s.html?q={{{s}}}"
+  },
+  {
+    "bang": "go",
+    "name": "Gmail",
+    "url": "https://mail.google.com/mail/u/0/#search/{{{s}}}"
+  },
+  {
+    "bang": "gp",
+    "name": "Google Play",
+    "url": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "bang": "idi",
+    "name": "I Do Imaging",
+    "url": "https://idoimaging.com/programs/fulltext?utf8=\u2713&Program[fulltext]={{{s}}}"
+  },
+  {
+    "bang": "odoo",
+    "name": "Odoo Apps",
+    "url": "https://www.odoo.com/apps?search={{{s}}}"
+  },
+  {
+    "bang": "ovi",
+    "name": "Ovi Store",
+    "url": "http://store.ovi.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sandstorm",
+    "name": "Sandstorm App Market",
+    "url": "https://apps.sandstorm.io/search?term={{{s}}}"
+  },
+  {
+    "bang": "snaps",
+    "name": "snaps for Linux",
+    "url": "https://snapcraft.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "sncr",
+    "name": "Snapcraft",
+    "url": "https://snapcraft.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "uappex",
+    "name": "uApp Explorer",
+    "url": "https://uappexplorer.com/apps?q={{{s}}}&sort=relevance"
+  },
+  {
+    "bang": "uptodown",
+    "name": "Uptodown",
+    "url": "https://en.uptodown.com/android/search/{{{s}}}"
+  },
+  {
+    "bang": "usc",
+    "name": "Ubuntu Software Center",
+    "url": "https://apps.ubuntu.com/cat/search/?q={{{s}}} "
+  },
+  {
+    "bang": "utos",
+    "name": "OpenStore",
+    "url": "https://open-store.io/?sort=relevance&search={{{s}}}"
+  },
+  {
+    "bang": "windowsphone",
+    "name": "Windows Phone",
+    "url": "https://www.microsoft.com/en-us/search/result.aspx?q={{{s}}}&form=apps"
+  },
+  {
+    "bang": "wine",
+    "name": "Wine AppDB",
+    "url": "http://winehq.org/search?cx=partner-pub-0971840239976722%3Aw9sqbcsxtyf&cof=FORID%3A10&q={{{s}}}"
+  },
+  {
+    "bang": "winstore",
+    "name": "Windows Store",
+    "url": "http://windows.microsoft.com/en-us/windows/search#q={{{s}}}&s=Store"
+  },
+  {
+    "bang": "xdal",
+    "name": "XDA Labs",
+    "url": "https://labs.xda-developers.com/?search={{{s}}}"
+  }
+]

@@ -1,0 +1,537 @@
+[
+  {
+    "bang": "1001fonts",
+    "name": "1001 Fonts",
+    "url": "http://www.1001fonts.com/search.html?search={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "3da",
+    "name": "3dagogo",
+    "url": "https://3dagogo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "3dware",
+    "name": "Sketchup 3D Warehouse",
+    "url": "https://3dwarehouse.sketchup.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "afl",
+    "name": "Adafruit Learn",
+    "url": "https://learn.adafruit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "altium",
+    "name": "Altium",
+    "url": "http://techdocs.altium.com/search/wikinode/{{{s}}}"
+  },
+  {
+    "bang": "amp-what",
+    "name": "Amp What",
+    "url": "http://www.amp-what.com/unicode/search/{{{s}}}"
+  },
+  {
+    "bang": "anevry",
+    "name": "Anevry",
+    "url": "http://www.anevry.com/?s={{{s}}}"
+  },
+  {
+    "bang": "artstation",
+    "name": "Artstation",
+    "url": "https://www.artstation.com/search?q={{{s}}}&sorting=recent"
+  },
+  {
+    "bang": "behance",
+    "name": "behance",
+    "url": "http://www.behance.net/search?search={{{s}}}"
+  },
+  {
+    "bang": "blender",
+    "name": "Blender Manual",
+    "url": "http://blender.org/manual/search.html?check_keywords=yes&q={{{s}}}"
+  },
+  {
+    "bang": "bln",
+    "name": "Blender Nation",
+    "url": "https://www.blendernation.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bpop",
+    "name": "BrainPOP",
+    "url": "https://www.brainpop.com/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "bsishop",
+    "name": "BSI Shop",
+    "url": "https://shop.bsigroup.com/SearchResults/?q={{{s}}}"
+  },
+  {
+    "bang": "cadence",
+    "name": "Cadence Community",
+    "url": "https://www.cadence.com/content/cadence-www/global/en_US/home/search.html?k={{{s}}}"
+  },
+  {
+    "bang": "cgt",
+    "name": "cgtrader",
+    "url": "https://www.cgtrader.com/3d-models?keywords={{{s}}}"
+  },
+  {
+    "bang": "codrops",
+    "name": "Codrops",
+    "url": "http://tympanus.net/codrops/?s={{{s}}}"
+  },
+  {
+    "bang": "color",
+    "name": "ColorHexa",
+    "url": "http://www.colorhexa.com/{{{s}}}"
+  },
+  {
+    "bang": "conarte",
+    "name": "CONARTE",
+    "url": "http://conarte.org.mx/?s={{{s}}}"
+  },
+  {
+    "bang": "creativecow",
+    "name": "Creative Cow Forums",
+    "url": "http://forums.creativecow.net/search.php?content=F&q={{{s}}}"
+  },
+  {
+    "bang": "creativecowlib",
+    "name": "Creative Cow Library",
+    "url": "http://library.creativecow.net/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "csstricks",
+    "name": "CSS-Tricks",
+    "url": "https://css-tricks.com/search-results/?q={{{s}}}"
+  },
+  {
+    "bang": "cubehero",
+    "name": "Cube Hero",
+    "url": "https://cubehero.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cults3d",
+    "name": "cults3d",
+    "url": "https://cults3d.com/fr/recherche?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "d4u",
+    "name": "Datasheet4u",
+    "url": "http://datasheet4u.com/share_search.php?sWord={{{s}}}"
+  },
+  {
+    "bang": "dnews",
+    "name": "Designer News",
+    "url": "https://www.designernews.co/search#stq={{{s}}}&stp=1"
+  },
+  {
+    "bang": "doit",
+    "name": "https://www.doityourself.com",
+    "url": "https://www.doityourself.com/search?dsp=how-to&psearch={{{s}}}"
+  },
+  {
+    "bang": "dribbble",
+    "name": "dribbble",
+    "url": "http://dribbble.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dribble",
+    "name": "dribbble",
+    "url": "http://dribbble.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dthority",
+    "name": "Deskthority Wiki",
+    "url": "http://deskthority.net/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "engtips",
+    "name": "Eng Tips",
+    "url": "http://www.eng-tips.com/search.cfm?q={{{s}}}&action=search"
+  },
+  {
+    "bang": "faicon",
+    "name": "Font Awesome",
+    "url": "https://fontawesome.com/icons?d=gallery&q={{{s}}}"
+  },
+  {
+    "bang": "farnell",
+    "name": "Farnell (UK)",
+    "url": "http://uk.farnell.com/webapp/wcs/stores/servlet/Search?&st={{{s}}}"
+  },
+  {
+    "bang": "fc",
+    "name": "FreeCAD",
+    "url": "https://duckduckgo.com/?q=site%3A+freecadweb.org+{{{s}}}"
+  },
+  {
+    "bang": "findchips",
+    "name": "FindChips",
+    "url": "http://www.findchips.com/avail?part={{{s}}}"
+  },
+  {
+    "bang": "fontawesome",
+    "name": "Font Awesome",
+    "url": "https://fontawesome.com/icons?q={{{s}}}"
+  },
+  {
+    "bang": "fontlibrary",
+    "name": "Font Library",
+    "url": "https://fontlibrary.org/en/search?query={{{s}}}"
+  },
+  {
+    "bang": "fonts",
+    "name": "Font Squirrel",
+    "url": "http://www.fontsquirrel.com/fonts/list/find_fonts?q[term]={{{s}}}&q[search_check]=Y"
+  },
+  {
+    "bang": "fontspace",
+    "name": "FontSpace",
+    "url": "http://www.fontspace.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "gfonts",
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com/?query={{{s}}}"
+  },
+  {
+    "bang": "ggb",
+    "name": "Geogebra",
+    "url": "http://www.geogebra.org/cms/{{{s}}}"
+  },
+  {
+    "bang": "ggj",
+    "name": "Global Game Jam",
+    "url": "http://globalgamejam.org/?q={{{s}}}"
+  },
+  {
+    "bang": "gphelp",
+    "name": "Gamepedia Help Wiki",
+    "url": "https://help.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "grabcad",
+    "name": "GrabCAD",
+    "url": "http://grabcad.com/library?per_page=20&query={{{s}}} "
+  },
+  {
+    "bang": "gwen",
+    "name": "GlyphWiki English",
+    "url": "http://en.glyphwiki.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "hackster",
+    "name": "Hackster",
+    "url": "https://www.hackster.io/search?i=projects&q={{{s}}}"
+  },
+  {
+    "bang": "hex",
+    "name": "Colorhexa",
+    "url": "http://www.colorhexa.com/{{{s}}}"
+  },
+  {
+    "bang": "httpcat",
+    "name": "HTTP Status Cats",
+    "url": "https://http.cat/{{{s}}}"
+  },
+  {
+    "bang": "hubspot",
+    "name": "HubSpot",
+    "url": "https://knowledge.hubspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "iconfinder",
+    "name": "IconFinder",
+    "url": "http://www.iconfinder.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "icon",
+    "name": "IconFinder",
+    "url": "http://www.iconfinder.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "icons8",
+    "name": "Icons8",
+    "url": "https://icons8.com/web-app/for/all/{{{s}}} "
+  },
+  {
+    "bang": "icons",
+    "name": "IconFinder",
+    "url": "http://www.iconfinder.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "jsm",
+    "name": "Junespringmedia",
+    "url": "https://junespringmultimedia.com/?s={{{s}}}&post_type=page"
+  },
+  {
+    "bang": "kreativfont",
+    "name": "Kreativ Font",
+    "url": "https://www.kreativfont.com/?s={{{s}}}"
+  },
+  {
+    "bang": "krita",
+    "name": "Krita Docs",
+    "url": "https://docs.krita.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "lipsum",
+    "name": "Lorem Ipsum",
+    "url": "http://www.lipsum.com/feed/html?amount={{{s}}}"
+  },
+  {
+    "bang": "logo",
+    "name": "logopond",
+    "url": "http://logopond.com/search/?search={{{s}}}"
+  },
+  {
+    "bang": "mmf",
+    "name": "My Mini Factory",
+    "url": "https://www.myminifactory.com/search/?query={{{s}}}&searchType=1"
+  },
+  {
+    "bang": "mtrl",
+    "name": "Material.io",
+    "url": "https://material.io/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "muzli",
+    "name": "Muzli Search",
+    "url": "https://search.muz.li/search/{{{s}}}"
+  },
+  {
+    "bang": "myfonts",
+    "name": "Myfonts",
+    "url": "http://new.myfonts.com/search/{{{s}}}"
+  },
+  {
+    "bang": "ob",
+    "name": "OpenBuilds",
+    "url": "https://openbuilds.com/search/49203883/?q={{{s}}}"
+  },
+  {
+    "bang": "oid",
+    "name": "Search OID registry",
+    "url": "http://www.oid-info.com/cgi-bin/display?oid={{{s}}}&submit=Display&action=display"
+  },
+  {
+    "bang": "openfont",
+    "name": "Open Font Library",
+    "url": "http://openfontlibrary.org/en/search?query={{{s}}}"
+  },
+  {
+    "bang": "openga",
+    "name": "OpenGameArt",
+    "url": "http://opengameart.org/art-search?keys={{{s}}}"
+  },
+  {
+    "bang": "pantone",
+    "name": "Pantone Color Finder",
+    "url": "https://www.pantone.com/color-finder?q={{{s}}}"
+  },
+  {
+    "bang": "pine64",
+    "name": "pine64.org",
+    "url": "https://forum.pine64.org/search.php?text={{{s}}}&sortby=&order=desc"
+  },
+  {
+    "bang": "pinout",
+    "name": "PinoutsGuide",
+    "url": "http://pinoutsguide.com/search.php?lang=eng&t={{{s}}}"
+  },
+  {
+    "bang": "plm",
+    "name": "PDXpert",
+    "url": "https://www.buyplm.com/general-info/pdxpert-plm-software-search.aspx?query={{{s}}}"
+  },
+  {
+    "bang": "psddude",
+    "name": "PSDDude Photoshop Tutorials",
+    "url": "http://www.psd-dude.com/tutorials/?search={{{s}}}"
+  },
+  {
+    "bang": "pymel",
+    "name": "Maya PyMEL documentation",
+    "url": "https://help.autodesk.com/cloudhelp/2018/ENU/Maya-Tech-Docs/PyMel/search.html?q={{{s}}}&check_keywords=yes"
+  },
+  {
+    "bang": "qrdecode",
+    "name": "ZXing QR decode",
+    "url": "http://zxing.org/w/decode?u={{{s}}}"
+  },
+  {
+    "bang": "quirky",
+    "name": "Quirky",
+    "url": "https://www.quirky.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "ral",
+    "name": "rgb to",
+    "url": "http://rgb.to/ral/{{{s}}}"
+  },
+  {
+    "bang": "reprap",
+    "name": "RepRap Wiki",
+    "url": "http://reprap.org/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "rr",
+    "name": "RepRap",
+    "url": "http://reprap.org/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "sciplus",
+    "name": "American Science and Surplus(SciPlus)",
+    "url": "https://www.sciplus.com/s/?q={{{s}}}"
+  },
+  {
+    "bang": "seda",
+    "name": "SnapEDA",
+    "url": "https://www.snapeda.com/search/?q={{{s}}}&search-type=parts"
+  },
+  {
+    "bang": "shopifyforum",
+    "name": "Shopify",
+    "url": "https://ecommerce.shopify.com/ecommerce/{{{s}}}"
+  },
+  {
+    "bang": "sktr",
+    "name": "sketchappsources",
+    "url": "https://www.sketchappsources.com/search_{{{s}}}.html"
+  },
+  {
+    "bang": "slidescarnival",
+    "name": "Slides Canival",
+    "url": "https://www.slidescarnival.com/?s={{{s}}}"
+  },
+  {
+    "bang": "spattern",
+    "name": "Subtle Patterns",
+    "url": "http://subtlepatterns.com/?q={{{s}}}"
+  },
+  {
+    "bang": "ssnap",
+    "name": "Soundsnap",
+    "url": "http://www.soundsnap.com/search/audio/{{{s}}}/score"
+  },
+  {
+    "bang": "stlf",
+    "name": "STLFinder",
+    "url": "https://www.stlfinder.com/?search={{{s}}}"
+  },
+  {
+    "bang": "stylish",
+    "name": "Stylish",
+    "url": "https://userstyles.org/styles/browse?search_terms={{{s}}}"
+  },
+  {
+    "bang": "subtlepatterns",
+    "name": "Subtle Patterns",
+    "url": "http://subtlepatterns.com/?q={{{s}}}"
+  },
+  {
+    "bang": "talkgr",
+    "name": "TalkGraphics",
+    "url": "http://www.talkgraphics.com/search.php?searchid={{{s}}}:"
+  },
+  {
+    "bang": "thenoun",
+    "name": "thenounproject",
+    "url": "https://thenounproject.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "thg",
+    "name": "Thingiverse",
+    "url": "http://www.thingiverse.com/search?q={{{s}}}&sa="
+  },
+  {
+    "bang": "thingiverse",
+    "name": "Thingiverse",
+    "url": "http://www.thingiverse.com/search?cx=015525747728168968820%3Arqnsgx1xxcw&cof=FORID%3A9&q={{{s}}}"
+  },
+  {
+    "bang": "thing",
+    "name": "Thingiverse",
+    "url": "https://www.thingiverse.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tutsplus",
+    "name": "Envato Tuts+",
+    "url": "http://tutsplus.com/tutorials/search?utf8=%E2%9C%93&search[topic]=&search[terms]={{{s}}}&button="
+  },
+  {
+    "bang": "tuts",
+    "name": "Tuts+",
+    "url": "http://hub.tutsplus.com/search?utf8=\u2713&view=grid&search%5Bkeywords%5D={{{s}}}"
+  },
+  {
+    "bang": "txi",
+    "name": "Texas Instruments",
+    "url": "http://www.ti.com/sitesearch/docs/universalsearch.tsp?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "ukppp",
+    "name": "uk.pcpartpicker.com",
+    "url": "https://uk.pcpartpicker.com/search/?cc=uk&q={{{s}}}"
+  },
+  {
+    "bang": "umagine",
+    "name": "YouMagine",
+    "url": "https://www.youmagine.com/search/designs?utf8=%E2%9C%93&search={{{s}}}"
+  },
+  {
+    "bang": "uplabs",
+    "name": "UpLabs",
+    "url": "http://www.uplabs.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ux",
+    "name": "UX stackexchange",
+    "url": "http://ux.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "vuo",
+    "name": "Vuo",
+    "url": "https://vuo.org/search/site/{{{s}}}"
+  },
+  {
+    "bang": "wbi",
+    "name": "Westside Boiler Invasion",
+    "url": "http://boilerinvasion.org/search?search={{{s}}}"
+  },
+  {
+    "bang": "webdesignerdepot",
+    "name": "Web Designer Depot",
+    "url": "http://www.webdesignerdepot.com/?q={{{s}}}"
+  },
+  {
+    "bang": "wikidevi",
+    "name": "WikiDevi",
+    "url": "https://wikidevi.com/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wkd",
+    "name": "WikiDevi",
+    "url": "https://wikidevi.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wvl",
+    "name": "WorldVectorLogo",
+    "url": "https://worldvectorlogo.com/search/{{{s}}}"
+  },
+  {
+    "bang": "ymgn",
+    "name": "Youmagine",
+    "url": "https://www.youmagine.com/search/designs?search={{{s}}}"
+  },
+  {
+    "bang": "youmagine",
+    "name": "YouMagine",
+    "url": "https://www.youmagine.com/search/designs?utf8=%E2%9C%93&search={{{s}}}"
+  },
+  {
+    "bang": "\u0576\u0561\u0575",
+    "name": "Nayiri",
+    "url": "http://nayiri.com/search?l=hy_LB&dt=HY_HY&r=0&query={{{s}}}"
+  }
+]

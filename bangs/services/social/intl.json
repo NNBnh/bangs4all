@@ -1,0 +1,112 @@
+[
+  {
+    "bang": "amnesty",
+    "name": "Amnesty International",
+    "url": "https://www.amnesty.org/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "bna",
+    "name": "Banco de la Naci\u00f3n Argentina",
+    "url": "http://www.bna.com.ar/Buscador?q={{{s}}}"
+  },
+  {
+    "bang": "brim",
+    "name": "Bricks in Motion",
+    "url": "http://www.bricksinmotion.com/forums/search/?action=search&keywords={{{s}}}&search=Submit+search&show_as=topics"
+  },
+  {
+    "bang": "codepen",
+    "name": "Codepen",
+    "url": "https://codepen.io/search/pens?q={{{s}}}&limit=all&type=type-pens"
+  },
+  {
+    "bang": "emojicons",
+    "name": "Emojicons",
+    "url": "http://emojicons.com/tag/{{{s}}}"
+  },
+  {
+    "bang": "fbk",
+    "name": "Facebook",
+    "url": "https://www.facebook.com/search/results/?q={{{s}}}"
+  },
+  {
+    "bang": "hu",
+    "name": "HealthUnlocked",
+    "url": "https://healthunlocked.com/search/{{{s}}}"
+  },
+  {
+    "bang": "hw2",
+    "name": "HowTo9ja",
+    "url": "https://howto9ja.com/?s={{{s}}}"
+  },
+  {
+    "bang": "iacac",
+    "name": "Airport Chapels and Chaplaincies",
+    "url": "https://iacac.aero/?s={{{s}}}"
+  },
+  {
+    "bang": "irc-galleria",
+    "name": "Irc-Galleria",
+    "url": "https://irc-galleria.net/users/search?username={{{s}}} "
+  },
+  {
+    "bang": "nixtodon",
+    "name": "Nixtodon",
+    "url": "https://masto.nixnet.xyz/@{{{s}}}"
+  },
+  {
+    "bang": "nofap",
+    "name": "NoFap",
+    "url": "https://www.reddit.com/r/NoFap/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "okc",
+    "name": "OKCupid",
+    "url": "https://okcupid.com/profile/{{{s}}}"
+  },
+  {
+    "bang": "particleforums",
+    "name": "Particle Community",
+    "url": "https://community.particle.io/users/{{{s}}}"
+  },
+  {
+    "bang": "qws",
+    "name": "Qwant Social",
+    "url": "https://www.qwant.com/?q={{{s}}}&t=social"
+  },
+  {
+    "bang": "sbyt",
+    "name": "Socialblade Youtube",
+    "url": "http://socialblade.com/youtube/user/{{{s}}}"
+  },
+  {
+    "bang": "spartan",
+    "name": "Spartan Donate",
+    "url": "https://www.spartan-donate.com/?s={{{s}}}"
+  },
+  {
+    "bang": "spin",
+    "name": "Spin.de",
+    "url": "https://www.spin.de/search?q={{{s}}}"
+  },
+  {
+    "bang": "steem",
+    "name": "Steem",
+    "url": "https://www.asksteem.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sublevel",
+    "name": "Sublevel",
+    "url": "https://sublevel.net/search/?q={{{s}}}"
+  },
+  {
+    "bang": "telch",
+    "name": "Search.ch Phonebook (Switzerland)",
+    "url": "http://tel.search.ch/?q={{{s}}}"
+  },
+  {
+    "bang": "websta",
+    "name": "Websta",
+    "url": "http://websta.me/search/{{{s}}} "
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "bang": "ampnet",
+    "name": "Auto-Medienportal.Net",
+    "url": "http://www.auto-medienportal.net/artikel/quicksearch/?searchterm={{{s}}}"
+  },
+  {
+    "bang": "autos",
+    "name": "Autocosmos",
+    "url": "http://www.autocosmos.com.mx/search?q={{{s}}}"
+  },
+  {
+    "bang": "hj",
+    "name": "Honest John",
+    "url": "https://www.honestjohn.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "m1",
+    "name": "Motor1",
+    "url": "https://www.motor1.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "miniology",
+    "name": "Miniology",
+    "url": "http://miniology.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "randt",
+    "name": "Road & Track",
+    "url": "https://www.roadandtrack.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "roadandtrack",
+    "name": "Road & Track",
+    "url": "https://www.roadandtrack.com/search/?q={{{s}}}"
+  }
+]

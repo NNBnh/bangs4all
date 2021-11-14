@@ -1,0 +1,257 @@
+[
+  {
+    "bang": "47",
+    "name": "47 News",
+    "url": "https://www.47news.jp/search?phrase={{{s}}}"
+  },
+  {
+    "bang": "aktualne",
+    "name": "Aktu\u00e1ln\u011b.cz",
+    "url": "https://www.aktualne.cz/hledani/?query={{{s}}}"
+  },
+  {
+    "bang": "anglenews",
+    "name": "Angle News",
+    "url": "https://www.anglenews.com/?s={{{s}}}"
+  },
+  {
+    "bang": "appledaily",
+    "name": "Apple Daily (Hong Kong)",
+    "url": "https://hk.appledaily.com/search/{{{s}}}?q={{{s}}}"
+  },
+  {
+    "bang": "appledailytw",
+    "name": "Apple Daily (Taiwan)",
+    "url": "https://tw.appledaily.com/search/result?querystrS={{{s}}}"
+  },
+  {
+    "bang": "arabnews",
+    "name": "Arab News",
+    "url": "http://www.arabnews.com/search/google/{{{s}}}"
+  },
+  {
+    "bang": "asahi",
+    "name": "\u671d\u65e5\u65b0\u805e",
+    "url": "http://sitesearch.asahi.com/.cgi/sitesearch/sitesearch.pl?Keywords={{{s}}}"
+  },
+  {
+    "bang": "cronista",
+    "name": "El Cronista Comercial",
+    "url": "https://www.cronista.com/buscar/{{{s}}}"
+  },
+  {
+    "bang": "dagen",
+    "name": "Dagen",
+    "url": "http://www.dagen.se/search-7.157994?sortby=date&q={{{s}}}"
+  },
+  {
+    "bang": "dailymail",
+    "name": "Daily Mail Online",
+    "url": "https://www.dailymail.co.uk/home/search.html?sel=site&searchPhrase={{{s}}}"
+  },
+  {
+    "bang": "delfiee",
+    "name": "Delfi.ee",
+    "url": "http://otsing.delfi.ee/find?c=dns&q={{{s}}} &x=0&y=0"
+  },
+  {
+    "bang": "dhnet",
+    "name": "La Derni\u00e8re Heure",
+    "url": "http://www.dhnet.be/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ds",
+    "name": "De Standaard",
+    "url": "http://www.standaard.be/zoeken?keyword={{{s}}} "
+  },
+  {
+    "bang": "dwe",
+    "name": "DW - Actualidad en espa\u00f1ol",
+    "url": "http://www.dw.com/search/es?languageCode=es&item={{{s}}}"
+  },
+  {
+    "bang": "edpanama",
+    "name": "El Digital Panam\u00e1",
+    "url": "https://eldigitalpanama.com/?s={{{s}}}"
+  },
+  {
+    "bang": "elobs",
+    "name": "El Observador",
+    "url": "http://www.elobservador.com.uy/{{{s}}}-s"
+  },
+  {
+    "bang": "elpais",
+    "name": "El Pais",
+    "url": "http://elpais.com/buscador/?qt={{{s}}}"
+  },
+  {
+    "bang": "eluniverso",
+    "name": "El Universo (Ecuador)",
+    "url": "https://www.eluniverso.com/resultados?search={{{s}}}"
+  },
+  {
+    "bang": "faz",
+    "name": "Frankfurter Allgemeine",
+    "url": "http://www.faz.net/suche/?query={{{s}}}"
+  },
+  {
+    "bang": "gayburg",
+    "name": "Gayburg",
+    "url": "http://gayburg.blogspot.com/search?q={{{s}}}: "
+  },
+  {
+    "bang": "glmail",
+    "name": "The Globe and Mail",
+    "url": "http://www.theglobeandmail.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "global",
+    "name": "Global Research",
+    "url": "http://www.globalresearch.ca/search?q={{{s}}}"
+  },
+  {
+    "bang": "gnlm",
+    "name": "The Global New Light of Myanmar",
+    "url": "http://globalnewlightofmyanmar.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hkfp",
+    "name": "Hong Kong Free Press",
+    "url": "https://www.hongkongfp.com/?s={{{s}}}"
+  },
+  {
+    "bang": "infobae",
+    "name": "Infobae",
+    "url": "https://www.infobae.com/search/{{{s}}}/?q={{{s}}}"
+  },
+  {
+    "bang": "internazionale",
+    "name": "Internazionale",
+    "url": "http://www.internazionale.it/search/{{{s}}}"
+  },
+  {
+    "bang": "kaleva",
+    "name": "Kaleva.fi",
+    "url": "https://www.kaleva.fi/haku/?search={{{s}}}"
+  },
+  {
+    "bang": "lanacion",
+    "name": "La Naci\u00f3n",
+    "url": "http://buscar.lanacion.com.ar/{{{s}}}/sort-new"
+  },
+  {
+    "bang": "lapatria",
+    "name": "La Patria",
+    "url": "http://lapatria.com/?q={{{s}}}"
+  },
+  {
+    "bang": "linkiesta",
+    "name": "Linkiesta",
+    "url": "http://www.linkiesta.it/cerca/{{{s}}}"
+  },
+  {
+    "bang": "macg",
+    "name": "MacGeneration",
+    "url": "http://www.macg.co/search/site/{{{s}}}"
+  },
+  {
+    "bang": "messaggero",
+    "name": "Il Messaggero",
+    "url": "http://www.ilmessaggero.it/?p=search&q={{{s}}}"
+  },
+  {
+    "bang": "mingpao",
+    "name": "Ming Pao",
+    "url": "https://news.mingpao.com/cfm/search2.cfm?keywords={{{s}}}"
+  },
+  {
+    "bang": "mondefr",
+    "name": "le monde",
+    "url": "https://www.lemonde.fr/recherche/?keywords={{{s}}}"
+  },
+  {
+    "bang": "nikkei",
+    "name": "\u65e5\u7d4c\u65b0\u805e",
+    "url": "https://r.nikkei.com/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "oglobo",
+    "name": "https://oglobo.globo.com",
+    "url": "https://oglobo.globo.com/busca/?q={{{s}}}"
+  },
+  {
+    "bang": "perfil",
+    "name": "Perfil",
+    "url": "http://www.perfil.com/buscador/?q={{{s}}}"
+  },
+  {
+    "bang": "politiken",
+    "name": "Politiken.dk",
+    "url": "http://politiken.dk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "postimees",
+    "name": "Postimees",
+    "url": "http://www.postimees.ee/search?query={{{s}}}"
+  },
+  {
+    "bang": "rozet",
+    "name": "Rozet Haber",
+    "url": "http://rozethaber.com/search/{{{s}}}"
+  },
+  {
+    "bang": "scmp",
+    "name": "South China Morning Post",
+    "url": "https://www.scmp.com/content/search/{{{s}}}"
+  },
+  {
+    "bang": "standaard",
+    "name": "De Standaard",
+    "url": "http://www.standaard.be/zoeken?keyword={{{s}}}"
+  },
+  {
+    "bang": "sued",
+    "name": "s\u00fcddeutsche.de",
+    "url": "http://www.sueddeutsche.de/news?search={{{s}}}"
+  },
+  {
+    "bang": "svd",
+    "name": "Svenska Dagbladet",
+    "url": "http://www.svd.se/search.do?q={{{s}}}"
+  },
+  {
+    "bang": "szpravy",
+    "name": "Seznam Zpr\u00e1vy",
+    "url": "https://www.seznam.cz/zpravy/hledani?q={{{s}}}&search--active=1"
+  },
+  {
+    "bang": "taz",
+    "name": "taz.die tageszeitung",
+    "url": "http://www.taz.de/!s={{{s}}}"
+  },
+  {
+    "bang": "thehindu",
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "tostar",
+    "name": "Toronto Star",
+    "url": "http://www.thestar.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "veloz",
+    "name": "Diario Veloz",
+    "url": "http://www.diarioveloz.com/contenidos/resultado.html?text={{{s}}}"
+  },
+  {
+    "bang": "wnall",
+    "name": "Wikinews (all languages)",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Awikinews.org"
+  },
+  {
+    "bang": "xinhua",
+    "name": "Xinhuanet",
+    "url": "http://so.news.cn/#search/0/{{{s}}}/1"
+  }
+]

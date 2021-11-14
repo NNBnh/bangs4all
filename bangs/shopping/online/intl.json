@@ -1,0 +1,477 @@
+[
+  {
+    "bang": "11st",
+    "name": "11\ubc88\uac00",
+    "url": "http://search.11st.co.kr/SearchPrdAction.tmall?method=getTotalSearchSeller&kwd={{{s}}}"
+  },
+  {
+    "bang": "401games",
+    "name": "401 Games",
+    "url": "https://store.401games.ca/pages/search-results?q={{{s}}}"
+  },
+  {
+    "bang": "aca",
+    "name": "Amazon.ca",
+    "url": "https://www.amazon.ca/s/?tag=duc22-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "acn",
+    "name": "Amazon.cn",
+    "url": "https://www.amazon.cn/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "ade",
+    "name": "Amazon.de",
+    "url": "https://www.amazon.de/s/?tag=duc048-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "adverts",
+    "name": "Adverts.ie",
+    "url": "http://www.adverts.ie/for-sale/q_{{{s}}}"
+  },
+  {
+    "bang": "aes",
+    "name": "Amazon.es",
+    "url": "https://www.amazon.es/s/?tag=duc00-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "afr",
+    "name": "Amazon.fr",
+    "url": "https://www.amazon.fr/s/?tag=duc0a-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "ain",
+    "name": "Amazon India",
+    "url": "https://www.amazon.in/s/?tag=duc21-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "ait",
+    "name": "Amazon.it",
+    "url": "https://www.amazon.it/s/?tag=duc04-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "ajp",
+    "name": "Amazon.co.jp",
+    "url": "https://www.amazon.co.jp/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "ala",
+    "name": "alaMaula",
+    "url": "http://www.alamaula.com/q/{{{s}}}/S0"
+  },
+  {
+    "bang": "alb",
+    "name": "alibaba",
+    "url": "https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText={{{s}}}"
+  },
+  {
+    "bang": "aliexp",
+    "name": "Aliexpress",
+    "url": "http://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+  },
+  {
+    "bang": "allegro",
+    "name": "Allegro",
+    "url": "http://allegro.pl/listing.php/search?string={{{s}}}"
+  },
+  {
+    "bang": "amazonca",
+    "name": "Amazon.ca",
+    "url": "https://www.amazon.ca/s/?tag=duc22-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazoncn",
+    "name": "Amazon.cn",
+    "url": "https://www.amazon.cn/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazonde",
+    "name": "Amazon.de",
+    "url": "https://www.amazon.de/s/?tag=duc048-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazones",
+    "name": "Amazon.es",
+    "url": "https://www.amazon.es/s/?tag=duc00-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazonfr",
+    "name": "Amazon.fr",
+    "url": "https://www.amazon.fr/s/?tag=duc0a-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazonin",
+    "name": "Amazon India",
+    "url": "https://www.amazon.in/s/?tag=duc21-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazonit",
+    "name": "Amazon.it",
+    "url": "https://www.amazon.it/s/?tag=duc04-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazonjp",
+    "name": "Amazon.co.jp",
+    "url": "https://www.amazon.co.jp/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazonmp3",
+    "name": "Amazon MP3 Store",
+    "url": "https://www.amazon.com/s/?url=search-alias%3Ddigital-music&tag=duc0c-20&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amazonuk",
+    "name": "Amazon.co.uk",
+    "url": "https://www.amazon.co.uk/s/?tag=duc0c-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amca",
+    "name": "Amazon.ca",
+    "url": "https://www.amazon.ca/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amcn",
+    "name": "Amazon.cn",
+    "url": "https://www.amazon.cn/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amde",
+    "name": "Amazon.de",
+    "url": "https://www.amazon.de/s/?tag=duc048-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "ames",
+    "name": "Amazon.es",
+    "url": "https://www.amazon.es/s/?tag=duc00-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amfr",
+    "name": "Amazon.fr",
+    "url": "https://www.amazon.fr/s/?tag=duc0a-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amit",
+    "name": "Amazon.it",
+    "url": "https://www.amazon.it/s/?tag=duc04-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amjp",
+    "name": "Amazon.co.jp",
+    "url": "https://www.amazon.co.jp/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amuk",
+    "name": "Amazon.co.uk",
+    "url": "https://www.amazon.co.uk/s/?tag=duc0c-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amukmp3",
+    "name": "Amazon.co.uk MP3",
+    "url": "https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&tag=duc0c-21&field-keywords={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "arukereso",
+    "name": "Arukereso",
+    "url": "https://www.arukereso.hu/CategorySearch.php?st={{{s}}}"
+  },
+  {
+    "bang": "asde",
+    "name": "AmazonSmile Deutschland",
+    "url": "https://smile.amazon.de/s/field-keywords={{{s}}}"
+  },
+  {
+    "bang": "auk",
+    "name": "Amazon.co.uk",
+    "url": "https://www.amazon.co.uk/s/?tag=duc0c-21&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "autocar",
+    "name": "Autocar.co.uk",
+    "url": "http://www.autocar.co.uk/SearchResults.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "bomnegocio",
+    "name": "Bom Neg\u00f3cio",
+    "url": "http://www.bomnegocio.com/brasil?q={{{s}}}"
+  },
+  {
+    "bang": "bookdepository",
+    "name": "BookDepository",
+    "url": "https://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book"
+  },
+  {
+    "bang": "brk",
+    "name": "Bruun Rasmussen Auctioneers",
+    "url": "http://www.bruun-rasmussen.dk/search.do?q={{{s}}}"
+  },
+  {
+    "bang": "c24",
+    "name": "Chrono24",
+    "url": "https://www.chrono24.com/search/index.htm?watchTypes=&query={{{s}}}&dosearch=true&searchexplain=1&accessoryTypes="
+  },
+  {
+    "bang": "clearly",
+    "name": "Clearly.ca",
+    "url": "https://www.clearly.ca/eyewear/search?query={{{s}}}"
+  },
+  {
+    "bang": "clockworksynergy",
+    "name": "Clockwork Synergy",
+    "url": "http://www.clockworksynergy.com/?s={{{s}}} &post_type=product"
+  },
+  {
+    "bang": "cuspide",
+    "name": "C\u00faspide",
+    "url": "http://www.cuspide.com/resultados.aspx?c={{{s}}}"
+  },
+  {
+    "bang": "dhg",
+    "name": "DHgate",
+    "url": "http://www.dhgate.com/wholesale/search.do?act=search&sus=&searchkey={{{s}}}"
+  },
+  {
+    "bang": "dx",
+    "name": "DealExtreme",
+    "url": "http://www.dx.com/s/{{{s}}}"
+  },
+  {
+    "bang": "ebc",
+    "name": "ebay (Canada)",
+    "url": "https://www.ebay.ca/sch/{{{s}}}"
+  },
+  {
+    "bang": "ffs",
+    "name": "freefallsupport.com",
+    "url": "https://www.freefallsupport.com/?s={{{s}}}"
+  },
+  {
+    "bang": "focalprice",
+    "name": "Focalprice",
+    "url": "http://www.focalprice.com/buy/{{{s}}}.html"
+  },
+  {
+    "bang": "funda",
+    "name": "Funda",
+    "url": "http://www.funda.nl/koop/{{{s}}}"
+  },
+  {
+    "bang": "gadgetsdirect",
+    "name": "Gadgets Direct",
+    "url": "http://www.gadgetsdirect.com.au/index.php?main_page=advanced_search_result&search_in_description=1&keyword={{{s}}}"
+  },
+  {
+    "bang": "gbip",
+    "name": "Global books in print",
+    "url": "http://www.booksinprint.com/Search/Results?q=quicksearch-all%3A{{{s}}}&op=1&qs=1"
+  },
+  {
+    "bang": "geizhals",
+    "name": "Geizhals",
+    "url": "http://geizhals.at/eu/?in=&fs={{{s}}}"
+  },
+  {
+    "bang": "giez",
+    "name": "Geizhals",
+    "url": "http://geizhals.at/eu/?in=&fs={{{s}}}"
+  },
+  {
+    "bang": "giezhals",
+    "name": "Geizhals",
+    "url": "http://geizhals.at/eu/?in=&fs={{{s}}}"
+  },
+  {
+    "bang": "hv",
+    "name": "Hinnavaatlus",
+    "url": "http://www.hinnavaatlus.ee/search/?Type=products&Query={{{s}}}"
+  },
+  {
+    "bang": "iherb",
+    "name": "iHerb",
+    "url": "https://iherb.com/search?kw={{{s}}}"
+  },
+  {
+    "bang": "jvj",
+    "name": "JapaneseVehicles.com",
+    "url": "https://www.japanesevehicles.com/stocklist.php?qsearch_kbn=1&lang=en&opt=0&qsearch={{{s}}}"
+  },
+  {
+    "bang": "kazan",
+    "name": "kazan",
+    "url": "http://fegszerviz.hu/?s={{{s}}}"
+  },
+  {
+    "bang": "kbors",
+    "name": "Kuldne B\u00f6rs",
+    "url": "http://kuldnebors.ee/search/search.mec?search_evt=onsearch&pob_action=search&search_O_string={{{s}}}"
+  },
+  {
+    "bang": "kooponline",
+    "name": "Koop Online",
+    "url": "https://www.kooponline.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "lsf",
+    "name": "Librer\u00edas Santa Fe",
+    "url": "http://www.lsf.com.ar/resulta.aspx?key={{{s}}}"
+  },
+  {
+    "bang": "luzme",
+    "name": "Luzme",
+    "url": "http://luzme.com/search_all?keyword={{{s}}}"
+  },
+  {
+    "bang": "maakjetaart",
+    "name": "Maak Je Taart",
+    "url": "http://www.maakjetaart.nl/advanced_search_result.php?search_in_description=0&keywords={{{s}}}"
+  },
+  {
+    "bang": "maxspar",
+    "name": "MaxSpar",
+    "url": "https://www.maxspar.de/s/{{{s}}}"
+  },
+  {
+    "bang": "miniinthebox",
+    "name": "MiniInTeBox",
+    "url": "http://www.miniinthebox.com/index.php?main_page=advanced_search_result&inc_subcat=1&search_in_description=0&keyword={{{s}}}"
+  },
+  {
+    "bang": "modes4u_it",
+    "name": "modeS4u [IT]",
+    "url": "https://www.modes4u.com/carino/{{{s}}}"
+  },
+  {
+    "bang": "modes4u",
+    "name": "modeS4u",
+    "url": "https://www.modes4u.com/japanese/{{{s}}}"
+  },
+  {
+    "bang": "morchstore",
+    "name": "MorchStore",
+    "url": "https://www.morchstore.com/?post_type=product&s={{{s}}}"
+  },
+  {
+    "bang": "mosaicmarble",
+    "name": "Mosaic Marble",
+    "url": "https://mosaicmarble.com/products/search?query={{{s}}}"
+  },
+  {
+    "bang": "musimundo",
+    "name": "Musimundo",
+    "url": "http://www.musimundo.com/Busqueda?cbrand=0&title=0&artist=0&categories=&search={{{s}}}&typeGrid=grid"
+  },
+  {
+    "bang": "myn",
+    "name": "Myntra",
+    "url": "http://www.myntra.com/{{{s}}}"
+  },
+  {
+    "bang": "nabava",
+    "name": "Nabava.net",
+    "url": "https://www.nabava.net/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "pottery",
+    "name": "pentyofamelie  ",
+    "url": "https://www.pentyofamelie.com/search/?term={{{s}}}"
+  },
+  {
+    "bang": "prisguide",
+    "name": "Prisguide.no",
+    "url": "https://www.prisguide.no/sok?q={{{s}}}"
+  },
+  {
+    "bang": "racksforcars",
+    "name": "Racks For Cars",
+    "url": "https://www.racksforcars.com/store/search.asp?keyword={{{s}}}"
+  },
+  {
+    "bang": "rakuteng",
+    "name": "Rakuten Global Market",
+    "url": "https://global.rakuten.com/en/search/?k={{{s}}}"
+  },
+  {
+    "bang": "rsph",
+    "name": "RS Components Philippines",
+    "url": "http://ph.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "samde",
+    "name": "Amazon Smile",
+    "url": "https://smile.amazon.de/s/?url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "soov",
+    "name": "Soov",
+    "url": "http://soov-ee.postimees.ee/keyword-{{{s}}}/listings.html"
+  },
+  {
+    "bang": "staticice",
+    "name": "Static Ice",
+    "url": "http://staticice.com.au/cgi-bin/search.cgi?q={{{s}}}"
+  },
+  {
+    "bang": "sulit",
+    "name": "Sulit",
+    "url": "http://www.sulit.com.ph/index.php/classifieds+directory/q/{{{s}}}"
+  },
+  {
+    "bang": "surplus",
+    "name": "SurplusTraders",
+    "url": "https://www.surplustraders.net/catalogsearch/advanced/result/?name={{{s}}}"
+  },
+  {
+    "bang": "ticketmasteruk",
+    "name": "Ticketmaster UK",
+    "url": "http://www.ticketmaster.co.uk/search?tm_link=tm_homeA_header_search&user_input=test&q={{{s}}}"
+  },
+  {
+    "bang": "tmk",
+    "name": "Tem\u00e1tika",
+    "url": "https://www.tematika.com/buscar.do?txtencoded={{{s}}}&idSeccionPropia=0&optSeleccionada=DuckDuckGo.com&idSeccion=0&seccionDeBusqueda=DuckDuckGo.com&texto={{{s}}}"
+  },
+  {
+    "bang": "t-p",
+    "name": "Telemark Pyrenees",
+    "url": "http://www.telemark-pyrenees.com/en/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "troll",
+    "name": "Troll And Toad",
+    "url": "https://www.trollandtoad.com/products/search.php?searchmode=basic&search_words={{{s}}}"
+  },
+  {
+    "bang": "vemo",
+    "name": "Vemo.it forniture alberghiere",
+    "url": "http://www.vemo.it/cerca.php?prodotto={{{s}}}"
+  },
+  {
+    "bang": "waterstones",
+    "name": "Waterstones",
+    "url": "https://www.waterstones.com/books/search/term/{{{s}}}"
+  },
+  {
+    "bang": "whiskyde",
+    "name": "whisky DE",
+    "url": "https://www.whisky.de/shop/index.php?&cl=search&searchparam={{{s}}}"
+  },
+  {
+    "bang": "wob",
+    "name": "World of Boardgames",
+    "url": "http://www.worldofboardgames.com/webshop-sok.php?searchString={{{s}}}&search=S%F6k"
+  },
+  {
+    "bang": "wuage",
+    "name": "wuage",
+    "url": "https://s.wuage.com/product/search?keywords= {{{s}}}"
+  },
+  {
+    "bang": "zara",
+    "name": "Zara",
+    "url": "http://www.zara.com/webapp/wcs/stores/servlet/ItxSolrSearchingDataCmd?storeId=10701&langId=-5&searchTerm={{{s}}}"
+  },
+  {
+    "bang": "zoombr",
+    "name": "Zoom ",
+    "url": "http://www.zoom.com.br/search?q={{{s}}}"
+  }
+]

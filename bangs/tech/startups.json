@@ -1,0 +1,152 @@
+[
+  {
+    "bang": "24sessions",
+    "name": "24sessions",
+    "url": "http://24sessions.com/search/text:{{{s}}}"
+  },
+  {
+    "bang": "alexasi",
+    "name": "alexa",
+    "url": "http://www.alexa.com/siteinfo/{{{s}}}"
+  },
+  {
+    "bang": "angellist",
+    "name": "AngelList",
+    "url": "https://angel.co/search?q={{{s}}}"
+  },
+  {
+    "bang": "asha",
+    "name": "https://ashadidi.com",
+    "url": "https://ashadidi.com/search/{{{s}}}"
+  },
+  {
+    "bang": "betalist",
+    "name": "BetaList",
+    "url": "http://betalist.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ccap",
+    "name": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/currencies/search/?q={{{s}}}"
+  },
+  {
+    "bang": "cfe",
+    "name": "Coding For Entrepreneurs",
+    "url": "https://www.codingforentrepreneurs.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "clickforce",
+    "name": "ClickForce",
+    "url": "https://clickforce.com.au/?s={{{s}}}"
+  },
+  {
+    "bang": "discourse",
+    "name": "Discourse Meta",
+    "url": "https://meta.discourse.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "ecomes",
+    "name": "ecomes.org",
+    "url": "https://ecomes.org/?s={{{s}}}"
+  },
+  {
+    "bang": "fdblog",
+    "name": "Freshdesk blog",
+    "url": "https://blog.freshdesk.com/?s={{{s}}}"
+  },
+  {
+    "bang": "fdf",
+    "name": "Freshdesk forums",
+    "url": "https://support.freshdesk.com/support/search/topics?term={{{s}}}"
+  },
+  {
+    "bang": "fds",
+    "name": "Freshdesk solutions",
+    "url": "https://support.freshdesk.com/support/search/solutions?term={{{s}}}"
+  },
+  {
+    "bang": "freelancer",
+    "name": "freelancer.com",
+    "url": "https://www.freelancer.com/work/{{{s}}}"
+  },
+  {
+    "bang": "freshdesk",
+    "name": "Freshdesk Support Home",
+    "url": "https://support.freshdesk.com/support/search?term={{{s}}}"
+  },
+  {
+    "bang": "gdocs",
+    "name": "Google Docs",
+    "url": "https://docs.google.com/document/u/0/?pli=1&tgif=c&q={{{s}}}"
+  },
+  {
+    "bang": "hn",
+    "name": "Hacker News",
+    "url": "https://hn.algolia.com/?q={{{s}}}"
+  },
+  {
+    "bang": "ico",
+    "name": "ICObench",
+    "url": "https://icobench.com/icos?s={{{s}}}"
+  },
+  {
+    "bang": "kb",
+    "name": "Keybase.io",
+    "url": "http://duckduckgo.com/?q=site%3Akeybase.io+{{{s}}}"
+  },
+  {
+    "bang": "lmms",
+    "name": "lmms wiki",
+    "url": "https://lmms.io/wiki/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "mixergy",
+    "name": "Mixergy",
+    "url": "http://mixergy.com/?s={{{s}}}"
+  },
+  {
+    "bang": "pitchbook",
+    "name": "Pitchbook",
+    "url": "https://duckduckgo.com/?q=site%3Apitchbook.com%2Fprofiles%2Fcompany+{{{s}}}"
+  },
+  {
+    "bang": "producthunt",
+    "name": "Product Hunt",
+    "url": "https://www.producthunt.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "stackshare",
+    "name": "StackShare",
+    "url": "http://stackshare.io/search/q={{{s}}}"
+  },
+  {
+    "bang": "startup",
+    "name": "Startup Buffer",
+    "url": "https://startupbuffer.com/search?s={{{s}}}"
+  },
+  {
+    "bang": "steamsc",
+    "name": "Steam Community",
+    "url": "https://steamcommunity.com/search/users/#text={{{s}}}"
+  },
+  {
+    "bang": "tman",
+    "name": "Trello help",
+    "url": "http://help.trello.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "tux",
+    "name": "Linuxinthebox",
+    "url": "http://linuxinthebox.company/?product_cat=&post_type=product&s={{{s}}}"
+  },
+  {
+    "bang": "vbp",
+    "name": "http://www.vbprofiles.com",
+    "url": "http://www.vbprofiles.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "whois",
+    "name": "Domaintools Whois",
+    "url": "https://whois.domaintools.com/{{{s}}}"
+  }
+]

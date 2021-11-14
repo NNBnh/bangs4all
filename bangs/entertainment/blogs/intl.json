@@ -1,0 +1,142 @@
+[
+  {
+    "bang": "ameblo",
+    "name": "Ameblo",
+    "url": "http://search.ameba.jp/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "anotchortwo",
+    "name": "a notch or two",
+    "url": "http://anotchortwo.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bac",
+    "name": "BuenosAiresConnect",
+    "url": "http://buenosairesconnect.com/?s={{{s}}}"
+  },
+  {
+    "bang": "brutsel",
+    "name": "Brutsellog Eetblog",
+    "url": "https://www.brutsellog.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "car",
+    "name": "CarMagazine.co.uk",
+    "url": "http://www.carmagazine.co.uk/GLOBAL/Search-Results/?N=0&Ntx=mode%20matchallpartial&Ntk=site&Ntt={{{s}}}"
+  },
+  {
+    "bang": "carmag",
+    "name": "CarMagazine.co.uk",
+    "url": "http://www.carmagazine.co.uk/GLOBAL/Search-Results/?N=0&Ntx=mode%20matchallpartial&Ntk=site&Ntt={{{s}}}"
+  },
+  {
+    "bang": "dariusf",
+    "name": "Darius Foroux",
+    "url": "https://dariusforoux.com/?s={{{s}}}"
+  },
+  {
+    "bang": "goproblog",
+    "name": "GoPro Blog",
+    "url": "https://www.goproblog.nl/component/search/?searchword={{{s}}}"
+  },
+  {
+    "bang": "grillo",
+    "name": "Blog di Beppe Grillo",
+    "url": "http://www.beppegrillo.it/google_cse.html?q={{{s}}}&x=-1208&y=-9"
+  },
+  {
+    "bang": "hecf",
+    "name": "Hazme El Chingado Favor",
+    "url": "http://hazmeelchingadofavor.com/?s={{{s}}}"
+  },
+  {
+    "bang": "io9",
+    "name": "io9",
+    "url": "http://io9.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "jdbe",
+    "name": "Le Journal du Bien \u00eatre",
+    "url": "http://www.lejournaldubienetre.com/search?tag={{{s}}}"
+  },
+  {
+    "bang": "jotb",
+    "name": "Jotboard",
+    "url": "https://jotboard.info/lookup.php?q={{{s}}}"
+  },
+  {
+    "bang": "lj",
+    "name": "LiveJournal",
+    "url": "http://duckduckgo.com/?q=site%3Alivejournal.com+{{{s}}} "
+  },
+  {
+    "bang": "moshville",
+    "name": "The Moshville Times",
+    "url": "http://www.moshville.co.uk//?s={{{s}}}"
+  },
+  {
+    "bang": "mua",
+    "name": "Makeup Alley",
+    "url": "http://makeupalley.com/search.asp?q={{{s}}}"
+  },
+  {
+    "bang": "omgvoice",
+    "name": "OMGvoice",
+    "url": "https://omgvoice.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "omgv",
+    "name": "OMG voice",
+    "url": "https://omgvoice.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "pronto",
+    "name": "Revista Pronto",
+    "url": "http://www.pronto.com.ar/search/google?q={{{s}}}"
+  },
+  {
+    "bang": "pya",
+    "name": "PrimiciasYA.com",
+    "url": "http://www.primiciasya.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "quotev",
+    "name": "Quotev",
+    "url": "https://www.quotev.com/search/{{{s}}}"
+  },
+  {
+    "bang": "rc",
+    "name": "Reader's Cave",
+    "url": "https://www.readerscave.com/?s={{{s}}}"
+  },
+  {
+    "bang": "recetas",
+    "name": "Guia Recetas",
+    "url": "https://www.guiarecetas.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tdt",
+    "name": "Tarot de Tiziana",
+    "url": "https://tarotdetiziana.com/?s={{{s}}}"
+  },
+  {
+    "bang": "vagalume",
+    "name": "Vagalume",
+    "url": "http://www.vagalume.com.br/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "webbspy",
+    "name": "webbspy.com",
+    "url": "https://www.webbspy.com/?s={{{s}}}"
+  },
+  {
+    "bang": "wisepick",
+    "name": "The Minds Journal",
+    "url": "https://themindsjournal.com/?s={{{s}}}"
+  },
+  {
+    "bang": "wuming",
+    "name": "Wu Ming Foundation",
+    "url": "http://www.wumingfoundation.com/giap/?s={{{s}}}"
+  }
+]

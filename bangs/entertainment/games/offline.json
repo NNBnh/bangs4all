@@ -1,0 +1,227 @@
+[
+  {
+    "bang": "5ew",
+    "name": "D&D 5e Wikidot",
+    "url": "http://dnd5e.wikidot.com/search:site/a/p/q/{{{s}}}"
+  },
+  {
+    "bang": "abcya",
+    "name": "abcya",
+    "url": "https://www.abcya.com/search/?term={{{s}}}&type={{{s}}}"
+  },
+  {
+    "bang": "bay12",
+    "name": "Bay12Games",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Abay12games.com"
+  },
+  {
+    "bang": "bgg",
+    "name": "Board Game Geek",
+    "url": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}&B1=Go"
+  },
+  {
+    "bang": "boardgame",
+    "name": "Boardgamegeek",
+    "url": "http://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}&B1=Go"
+  },
+  {
+    "bang": "boardgamegeek",
+    "name": "BoardGameGeek",
+    "url": "http://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}"
+  },
+  {
+    "bang": "d20pfsrd",
+    "name": "Pathfinder SRD",
+    "url": "http://www.d20pfsrd.com/system/app/pages/search?scope=search-site&q={{{s}}}"
+  },
+  {
+    "bang": "delfruit",
+    "name": "Delicious Fruit",
+    "url": "http://delicious-fruit.com/ratings/full.php?s={{{s}}}"
+  },
+  {
+    "bang": "dfw",
+    "name": "DwarfFortress Wiki",
+    "url": "http://dwarffortresswiki.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "dndbeyond",
+    "name": "Dnd Beyond",
+    "url": "https://www.dndbeyond.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dnd",
+    "name": "D&D Beyond",
+    "url": "https://www.dndbeyond.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "domw",
+    "name": "Dominion Strategy Wiki",
+    "url": "http://wiki.dominionstrategy.com/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "bang": "dsarw",
+    "name": "DSA Regel Wiki",
+    "url": "http://www.ulisses-regelwiki.de/index.php/suche.html?keywords={{{s}}}"
+  },
+  {
+    "bang": "dsa",
+    "name": "Wiki Aventurica",
+    "url": "http://wiki-aventurica.de/wiki/index.php?title=Spezial:Suche&search={{{s}}}"
+  },
+  {
+    "bang": "dtrpg",
+    "name": "DriveThruRPG",
+    "url": "https://www.drivethrurpg.com/browse.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "emu",
+    "name": "Emulation General Wiki",
+    "url": "http://emulation.gametechwiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "gokifu",
+    "name": "gokifu.com",
+    "url": "http://gokifu.com/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "gtdb",
+    "name": "Grimtools",
+    "url": "https://www.grimtools.com/db/search?query={{{s}}}"
+  },
+  {
+    "bang": "gworkshop",
+    "name": "Games Workshop",
+    "url": "https://www.games-workshop.com/searchResults?_dyncharset=UTF-8&_dynSessConf=1497710725317319147&qty=&sorting=&view=&Ntt={{{s}}}"
+  },
+  {
+    "bang": "hkwikia",
+    "name": "Hollow Knight Wikia",
+    "url": "http://hollowknight.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "bang": "koei",
+    "name": "KOEI Wiki",
+    "url": "http://koei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "lexicanum",
+    "name": "Lexicanum",
+    "url": "http://wh40k.lexicanum.com/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "lms",
+    "name": "Lemma Soft Forums",
+    "url": "https://lemmasoft.renai.us/forums/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "ludo",
+    "name": "Ludopedia",
+    "url": "http://ludopedia.com.br/search?search={{{s}}}"
+  },
+  {
+    "bang": "ludopedia",
+    "name": "Ludopedia",
+    "url": "http://ludopedia.com.br/search?search={{{s}}}"
+  },
+  {
+    "bang": "mtggf",
+    "name": "mtgGoldfish",
+    "url": "http://www.mtggoldfish.com/q?query_string={{{s}}}"
+  },
+  {
+    "bang": "mtg",
+    "name": "magiccards.info",
+    "url": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mtgs",
+    "name": "MTG Salvation Wiki",
+    "url": "http://mtgsalvation.gamepedia.com/?search={{{s}}}"
+  },
+  {
+    "bang": "netrunner",
+    "name": "NetrunnerDB",
+    "url": "http://netrunnerdb.com/find/?q={{{s}}}"
+  },
+  {
+    "bang": "nrdb",
+    "name": "NetrunnerDB",
+    "url": "http://netrunnerdb.com/find/?q={{{s}}}"
+  },
+  {
+    "bang": "pathsrd",
+    "name": "Pathfinder Reference Document",
+    "url": "http://paizo.com/search?q={{{s}}}&what=prd"
+  },
+  {
+    "bang": "ratko",
+    "name": "Ratkojat",
+    "url": "https://www.ratkojat.fi/hae?s={{{s}}}"
+  },
+  {
+    "bang": "rpg",
+    "name": "StackExchange RPG",
+    "url": "http://rpg.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rpgsx",
+    "name": "RPG Stack Exchange",
+    "url": "http://rpg.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sensei",
+    "name": "Sensei's Library",
+    "url": "http://senseis.xmp.net/?search={{{s}}}&searchtype=title"
+  },
+  {
+    "bang": "senseislibrary",
+    "name": "Sensei's Library",
+    "url": "http://senseis.xmp.net/?searchstring={{{s}}}&fullsearch.x=0&fullsearch.y=0&searchtype=either"
+  },
+  {
+    "bang": "srd5",
+    "name": "Hypertext D20 SRD (5th Edition)",
+    "url": "http://5e.d20srd.org/search.htm?q={{{s}}}"
+  },
+  {
+    "bang": "stardewvalley",
+    "name": "Stardew Valley Wiki",
+    "url": "http://stardewvalleywiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "tcgplayer",
+    "name": "TCGPlayer",
+    "url": "http://store.tcgplayer.com/magic/product/show?cardname={{{s}}}"
+  },
+  {
+    "bang": "tdegr",
+    "name": "TDE Game Reference",
+    "url": "http://www.ulisses-regelwiki.de/index.php/search.html?keywords={{{s}}}"
+  },
+  {
+    "bang": "thdb",
+    "name": "ThronesDB",
+    "url": "http://thronesdb.com/find?q={{{s}}}"
+  },
+  {
+    "bang": "trictrac",
+    "name": "Tric Trac",
+    "url": "http://www.trictrac.net/recherche?query={{{s}}}"
+  },
+  {
+    "bang": "undertale",
+    "name": "Undertale wiki",
+    "url": "http://undertale.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "worldcubeassociation",
+    "name": "World Cube Association",
+    "url": "https://www.worldcubeassociation.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "yugioh",
+    "name": "Yu-Gi-Oh! Wikia",
+    "url": "https://yugipedia.com/wiki/Special:Search?search={{{s}}}&button=Go"
+  }
+]

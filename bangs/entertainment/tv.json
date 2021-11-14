@@ -1,0 +1,687 @@
+[
+  {
+    "bang": "al",
+    "name": "AniList",
+    "url": "https://anilist.co/search/anime?search={{{s}}}"
+  },
+  {
+    "bang": "amc",
+    "name": "AMC TV",
+    "url": "http://www.amctv.com/search#q={{{s}}}"
+  },
+  {
+    "bang": "ani",
+    "name": "Anilist",
+    "url": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search={{{s}}}"
+  },
+  {
+    "bang": "animeka",
+    "name": "Animeka",
+    "url": "http://animeka.com/search/index.html?req={{{s}}}"
+  },
+  {
+    "bang": "animes",
+    "name": "Kitsu Anime",
+    "url": "https://kitsu.io/anime?text={{{s}}}"
+  },
+  {
+    "bang": "animsi",
+    "name": "Anime Simple",
+    "url": "https://animesimple.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "appletv",
+    "name": "Apple TV",
+    "url": "https://duckduckgo.com/?q={{{s}}}%20site%3Atv.apple.com"
+  },
+  {
+    "bang": "arrow-wikia",
+    "name": "Arrowverse Wikia",
+    "url": "http://arrow.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "arte",
+    "name": "Arte TV",
+    "url": "https://www.arte.tv/fr/search/?q={{{s}}}&page=1"
+  },
+  {
+    "bang": "avatar",
+    "name": "Avatar Wiki",
+    "url": "http://avatar.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "awoiaf",
+    "name": "A Wiki of Ice and Fire",
+    "url": "http://awoiaf.westeros.org/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "b5",
+    "name": "The Babylon Project",
+    "url": "http://babylon5.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "bbci",
+    "name": "BBC iPlayer",
+    "url": "http://www.bbc.co.uk/iplayer/search?q={{{s}}}"
+  },
+  {
+    "bang": "bcmoe",
+    "name": "because.moe",
+    "url": "http://because.moe/?q={{{s}}}"
+  },
+  {
+    "bang": "ben10",
+    "name": "Ben 10 Wiki",
+    "url": "http://ben10.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "betches",
+    "name": "Betches",
+    "url": "http://www.betches.com/search/{{{s}}}"
+  },
+  {
+    "bang": "buffy",
+    "name": "Buffyverse Wiki",
+    "url": "http://buffy.wikia.com/wiki/Special:Search?search= {{{s}}}&go=Go"
+  },
+  {
+    "bang": "c4",
+    "name": "Channel 4",
+    "url": "http://www.channel4.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "canistreamtv",
+    "name": "canistream.it",
+    "url": "http://www.canistream.it/search/tv/{{{s}}}"
+  },
+  {
+    "bang": "cbn",
+    "name": "Christian Broadcasting Network",
+    "url": "http://www1.cbn.com/cbn-search?search_term={{{s}}}&site=default_collection"
+  },
+  {
+    "bang": "charmed",
+    "name": "The Charmed Wikia",
+    "url": "http://charmed.wikia.com/wiki/Special:Search?search={{{s}}} "
+  },
+  {
+    "bang": "chuck",
+    "name": "Chuck Wiki",
+    "url": "http://chuck-nbc.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "courttv",
+    "name": "Court TV",
+    "url": "https://www.courttv.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ctv",
+    "name": "CTV",
+    "url": "http://www.ctv.ca/searchResult.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "daria",
+    "name": "Daria Wiki",
+    "url": "http://www.dariawiki.org/wiki/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "discovery",
+    "name": "Discovery.com",
+    "url": "http://dsc.discovery.com/search.htm?terms={{{s}}}"
+  },
+  {
+    "bang": "disney",
+    "name": "Disney.com",
+    "url": "http://search.disney.go.com/?q={{{s}}}"
+  },
+  {
+    "bang": "diy",
+    "name": "DIY Network",
+    "url": "http://www.diynetwork.com/search/{{{s}}}"
+  },
+  {
+    "bang": "drtv",
+    "name": "DR Tv",
+    "url": "https://www.dr.dk/tv/soeg/{{{s}}}"
+  },
+  {
+    "bang": "dw",
+    "name": "DramaWiki",
+    "url": "https://wiki.d-addicts.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "dww",
+    "name": "The Doctor Who Wiki",
+    "url": "http://tardis.wikia.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "eg",
+    "name": "Epguides",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:epguides.com"
+  },
+  {
+    "bang": "epd",
+    "name": "EpisoDate",
+    "url": "https://www.episodate.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "epg",
+    "name": "epguides.com",
+    "url": "https://duckduckgo.com/?q=site%3Aepguides.com+{{{s}}}"
+  },
+  {
+    "bang": "epw",
+    "name": "Episode World",
+    "url": "http://www.episodeworld.com/search/?searchitem={{{s}}}"
+  },
+  {
+    "bang": "eqd",
+    "name": "Equestria Daily",
+    "url": "http://www.google.com/cse?cx=partner-pub-6285692791338183%3A7732117278&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "erste",
+    "name": "Das Erste",
+    "url": "https://www.daserste.de/search/index.jsp?searchText={{{s}}}"
+  },
+  {
+    "bang": "evo",
+    "name": "Eauxvives",
+    "url": "http://www.eauxvives.org/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "exastris",
+    "name": "Ex Astris Scientia",
+    "url": "http://www.ex-astris-scientia.org/search/search.cgi?Terms={{{s}}}:"
+  },
+  {
+    "bang": "filmon",
+    "name": "FilmOn",
+    "url": "http://www.filmon.tv/search/?term={{{s}}}"
+  },
+  {
+    "bang": "frinkiac",
+    "name": "Frinkiac",
+    "url": "https://frinkiac.com/?p=search&q={{{s}}}"
+  },
+  {
+    "bang": "fsde",
+    "name": "fernsehserien.de",
+    "url": "http://www.fernsehserien.de/suche/{{{s}}}"
+  },
+  {
+    "bang": "fuji",
+    "name": "Fuji TV",
+    "url": "https://www.fujitv.co.jp/search/index.html?keyword={{{s}}}"
+  },
+  {
+    "bang": "futurama",
+    "name": "The Infosphere",
+    "url": "http://www.theinfosphere.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "fviewau",
+    "name": "Freeview Australia",
+    "url": "http://www.freeview.com.au/tv-search/?search={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "gumball",
+    "name": "The Amazing World of Gumball Wiki",
+    "url": "https://theamazingworldofgumball.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "gundam",
+    "name": "Gundam Wikia",
+    "url": "http://gundam.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "haven",
+    "name": "Haven",
+    "url": "http://havenmaine.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "hotsar",
+    "name": "Hotsar",
+    "url": "http://www.hotstar.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "hxh",
+    "name": "Hunterpedia",
+    "url": "http://hunterxhunter.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "iltapulu",
+    "name": "Iltapulu",
+    "url": "http://www.iltapulu.fi/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "imdbep",
+    "name": "IMDB TV Episodes",
+    "url": "https://www.imdb.com/find?&q={{{s}}}&s=ep"
+  },
+  {
+    "bang": "imdbtv",
+    "name": "IMDb TV",
+    "url": "https://www.imdb.com/search/title?title={{{s}}}&title_type=tv_series"
+  },
+  {
+    "bang": "infosphere",
+    "name": "The Infosphere",
+    "url": "http://theinfosphere.org/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "bang": "itv",
+    "name": "ITV",
+    "url": "https://www.itv.com/itvplayer/search/term/{{{s}}}"
+  },
+  {
+    "bang": "ja",
+    "name": "j-archive",
+    "url": "http://www.j-archive.com/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "jezebel",
+    "name": "jezebel.com",
+    "url": "http://jezebel.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "justwatchau",
+    "name": "JustWatch AU",
+    "url": "https://www.justwatch.com/au/search?q={{{s}}}"
+  },
+  {
+    "bang": "kika",
+    "name": "KiKa von ARD und ZDF",
+    "url": "https://www.kika.de/suche/suche104.html?q={{{s}}}"
+  },
+  {
+    "bang": "kos",
+    "name": "KingOfSat",
+    "url": "http://en.kingofsat.net/find.php?question={{{s}}}&Submit=Zap"
+  },
+  {
+    "bang": "ksu",
+    "name": "kitsu.io",
+    "url": "https://kitsu.io/anime?text={{{s}}}"
+  },
+  {
+    "bang": "logh",
+    "name": "Gineipaedia",
+    "url": "https://gineipaedia.com/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "lost",
+    "name": "Lostpedia",
+    "url": "http://lostpedia.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "malall",
+    "name": "MyAnimeList Search All",
+    "url": "https://myanimelist.net/search/all?q={{{s}}}"
+  },
+  {
+    "bang": "malpha",
+    "name": "Memory Alpha",
+    "url": "http://memory-alpha.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "ma",
+    "name": "Memory Alpha",
+    "url": "http://en.memory-alpha.org/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "mdl",
+    "name": "MyDramaList",
+    "url": "http://mydramalist.com/browse/all?sort[]=relevance&q={{{s}}}"
+  },
+  {
+    "bang": "mlp",
+    "name": "My Little Pony: Friendship is Magic Wiki",
+    "url": "http://mlp.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "mondofox",
+    "name": "MondoFox",
+    "url": "https://www.mondofox.it/?q={{{s}}}"
+  },
+  {
+    "bang": "morbotron",
+    "name": "Morbotron",
+    "url": "https://morbotron.com/?q={{{s}}}"
+  },
+  {
+    "bang": "mtv",
+    "name": "MTV",
+    "url": "http://www.mtv.com/search/?searchterm={{{s}}}"
+  },
+  {
+    "bang": "mydrama",
+    "name": "MyDramaList",
+    "url": "https://mydramalist.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "myshows",
+    "name": "myshows.ru",
+    "url": "http://myshows.me/search/?q={{{s}}}"
+  },
+  {
+    "bang": "next",
+    "name": "Next-Episode.net",
+    "url": "http://next-episode.net/site-search-{{{s}}}.html"
+  },
+  {
+    "bang": "npo",
+    "name": "NPO",
+    "url": "https://www.npo.nl/zoeken?term={{{s}}}"
+  },
+  {
+    "bang": "ntv",
+    "name": "Nippon TV",
+    "url": "https://www.ntv.co.jp/search/?q={{{s}}}"
+  },
+  {
+    "bang": "orf",
+    "name": "ORF TVThek",
+    "url": "http://tvthek.orf.at/search?q={{{s}}}"
+  },
+  {
+    "bang": "pbs",
+    "name": "PBS",
+    "url": "https://www.pbs.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pfwiki",
+    "name": "Phineas and Ferb Wiki",
+    "url": "http://phineasandferb.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "pop",
+    "name": "Incendar.com",
+    "url": "http://incendar.com/funko_pop_search.php?search={{{s}}}"
+  },
+  {
+    "bang": "pro7",
+    "name": "ProSieben",
+    "url": "http://www.prosieben.de/suche?q={{{s}}}"
+  },
+  {
+    "bang": "rte",
+    "name": "Raidi\u00f3 Teilif\u00eds \u00c9ireann",
+    "url": "http://www.rte.ie/search/?query={{{s}}}"
+  },
+  {
+    "bang": "rtve",
+    "name": "Corporaci\u00f3n de Radio y Televisi\u00f3n Espa\u00f1ola",
+    "url": "http://www.rtve.es/buscador/?q={{{s}}}"
+  },
+  {
+    "bang": "rvb",
+    "name": "Red vs. Blue Wiki",
+    "url": "http://rvb.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "sbmania",
+    "name": "SpongeBuddy Mania",
+    "url": "http://www.sbmania.net/advsearch.php?l=80&q={{{s}}}"
+  },
+  {
+    "bang": "sbwiki",
+    "name": "SpongeBob SquarePants Wiki",
+    "url": "http://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "serialvilla.com",
+    "name": "Serialvilla",
+    "url": "http://serialvilla.com/search? keyword={{{s}}}"
+  },
+  {
+    "bang": "serjunk",
+    "name": "Serienjunkies.de",
+    "url": "https://duckduckgo.com/?q=site%3Awww.serienjunkies.de+{{{s}}}"
+  },
+  {
+    "bang": "simpsons",
+    "name": "http://simpsons.wikia.com/wiki",
+    "url": "http://simpsons.wikia.com/wiki/Special:Search?search= {{{s}}}"
+  },
+  {
+    "bang": "siw",
+    "name": "Wikisimpsons",
+    "url": "http://simpsonswiki.com/w/index.php?title=Special%3ASearch&search={{{s}}} "
+  },
+  {
+    "bang": "southpark",
+    "name": "South Park Studios",
+    "url": "http://www.southparkstudios.com/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "soyluna",
+    "name": "Soy Luna Wiki",
+    "url": "http://soyluna.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "spongebob",
+    "name": "SpongeBob Wikia",
+    "url": "http://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "stan",
+    "name": "Stan",
+    "url": "https://play.stan.com.au/programs{{{s}}}"
+  },
+  {
+    "bang": "stargate",
+    "name": "Stargate Wiki",
+    "url": "http://stargate.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "startrek",
+    "name": "Memory Alpha",
+    "url": "http://memory-alpha.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&resultsLang=en"
+  },
+  {
+    "bang": "starwars",
+    "name": "Wookiepedia",
+    "url": "http://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&go=&fulltext=Search "
+  },
+  {
+    "bang": "su.me",
+    "name": "Serial Updates",
+    "url": "https://www.serialupdates.me/?s={{{s}}}"
+  },
+  {
+    "bang": "tardis",
+    "name": "TARDIS Data Core",
+    "url": "http://tardis.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "tbn",
+    "name": "Trinity Broadcasting Network",
+    "url": "https://www.tbn.org/search?s={{{s}}}"
+  },
+  {
+    "bang": "telkku",
+    "name": "Telkku.com",
+    "url": "http://www.telkku.com/search?searchText={{{s}}}"
+  },
+  {
+    "bang": "telsu",
+    "name": "Telsu.fi",
+    "url": "http://www.telsu.fi/{{{s}}}"
+  },
+  {
+    "bang": "tfwiki",
+    "name": "Transformers Wiki",
+    "url": "http://tfwiki.net/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "thefutoncritic",
+    "name": "The Futon Critic",
+    "url": "http://www.thefutoncritic.com/search.aspx?q={{{s}}}&type=titles"
+  },
+  {
+    "bang": "thr",
+    "name": "The Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/search/{{{s}}}"
+  },
+  {
+    "bang": "tivo",
+    "name": "TiVo",
+    "url": "http://www3.tivo.com/tivo-tco/search.do?dispatch=simplesearch&searchFor={{{s}}}"
+  },
+  {
+    "bang": "tks",
+    "name": "Trakt Shows",
+    "url": "http://trakt.tv/search/shows?q={{{s}}}"
+  },
+  {
+    "bang": "trakt",
+    "name": "Trakt",
+    "url": "http://trakt.tv/search?utf8=%E2%9C%93&query={{{s}}}"
+  },
+  {
+    "bang": "tv2",
+    "name": "TV2",
+    "url": "https://search.tv2.dk/?query={{{s}}}&sort=relevance&page=1"
+  },
+  {
+    "bang": "tv3",
+    "name": "TV3alacarta",
+    "url": "http://www.ccma.cat/tv3/alacarta/cercador/?items_pagina=15&perfil=rellevancia&profile=videos&text={{{s}}}"
+  },
+  {
+    "bang": "tvcom",
+    "name": "TV.com",
+    "url": "http://www.tv.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tvdb",
+    "name": "TheTVDB.com",
+    "url": "https://www.thetvdb.com/search?query={{{s}}}&l=en"
+  },
+  {
+    "bang": "tvguide",
+    "name": "TV Guide",
+    "url": "http://www.tvguide.com/search/index.aspx?keyword={{{s}}}"
+  },
+  {
+    "bang": "tvmaze",
+    "name": "TVmaze",
+    "url": "https://www.tvmaze.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tvnz",
+    "name": "TVNZ OnDemand",
+    "url": "https://www.tvnz.co.nz/search?q={{{s}}}"
+  },
+  {
+    "bang": "tvp",
+    "name": "TVP",
+    "url": "https://www.tvp.pl/szukaj?query={{{s}}}"
+  },
+  {
+    "bang": "tvseriesfinale",
+    "name": "TVSeriesFinale",
+    "url": "http://tvseriesfinale.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tvspielfilm",
+    "name": "TV Spielfilm",
+    "url": "http://www.tvspielfilm.de/suche/?q={{{s}}} "
+  },
+  {
+    "bang": "tvst",
+    "name": "TVShow Time",
+    "url": "http://www.tvshowtime.com/en/search?q={{{s}}}"
+  },
+  {
+    "bang": "tvthek",
+    "name": "ORF TVThek",
+    "url": "http://tvthek.orf.at/search?q={{{s}}}"
+  },
+  {
+    "bang": "tvtropes",
+    "name": "TV Tropes",
+    "url": "http://tvtropes.org/pmwiki/search_result.php?cx=partner-pub-6610802604051523%3Aamzitfn8e7v&cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&siteurl=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage"
+  },
+  {
+    "bang": "tv",
+    "name": "tv.com",
+    "url": "http://www.tv.com/search?q= {{{s}}}"
+  },
+  {
+    "bang": "tx",
+    "name": "TV Tokyo",
+    "url": "http://search2.tv-tokyo.co.jp/pc/?enc=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "vik",
+    "name": "Viki.com",
+    "url": "https://www.viki.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "voltron",
+    "name": "Voltron Wiki",
+    "url": "http://voltron.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "wdx",
+    "name": "Wikidex",
+    "url": "http://es.pokemon.wikia.com/wiki/WikiDex={{{s}}}"
+  },
+  {
+    "bang": "wer",
+    "name": "werstreamt.es",
+    "url": "https://www.werstreamt.es/filme-serien?q={{{s}}}&action_results=suchen"
+  },
+  {
+    "bang": "wikimoon",
+    "name": "WikiMoon",
+    "url": "http://wikimoon.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wlde",
+    "name": "TV Wunschliste",
+    "url": "http://www.wunschliste.de/suche/{{{s}}}"
+  },
+  {
+    "bang": "wookieepedia",
+    "name": "Star Wars Wiki",
+    "url": "http://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "bang": "yjtv",
+    "name": "Yahoo! Japan TV",
+    "url": "https://tv.yahoo.co.jp/search/?q={{{s}}}"
+  },
+  {
+    "bang": "yourtv",
+    "name": "yourTV.com.au",
+    "url": "http://www.yourtv.com.au/guide/search.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "youtv",
+    "name": "YouTV",
+    "url": "https://www.youtv.de/suche?search[q]={{{s}}}"
+  },
+  {
+    "bang": "ystream",
+    "name": "YStream.TV",
+    "url": "https://ystream.tv/q/?s={{{s}}}"
+  },
+  {
+    "bang": "ytes",
+    "name": "Youtube ES",
+    "url": "https://www.youtube.com/results?search_query={{{s}}}&gl=ES&hl=es"
+  },
+  {
+    "bang": "yttv",
+    "name": "Youtube TV",
+    "url": "https://tv.youtube.com/search/{{{s}}}"
+  },
+  {
+    "bang": "ytv",
+    "name": "yourTV.com.au",
+    "url": "http://www.yourtv.com.au/guide/search.aspx?q={{{s}}}"
+  }
+]

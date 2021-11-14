@@ -1,0 +1,412 @@
+[
+  {
+    "bang": "aclu",
+    "name": "American Civil Liberties Union",
+    "url": "https://www.aclu.org/search/{{{s}}}?show_aff=1"
+  },
+  {
+    "bang": "austlii",
+    "name": "AustLII (Australasian Legal Information Institute)",
+    "url": "http://www.austlii.edu.au/cgi-bin/sinosrch.cgi?query={{{s}}}&results=50&submit=Search&mask_world=&mask_path=&callback=on&method=auto&meta=%2Fau"
+  },
+  {
+    "bang": "avvo",
+    "name": "avvo.com",
+    "url": "https://www.avvo.com/search?query={{{s}}}&commit=Search"
+  },
+  {
+    "bang": "bailii",
+    "name": "British and Irish Legal Information Institute",
+    "url": "http://www.bailii.org/cgi-bin/sino_search_1.cgi?sort=rank&query={{{s}}}"
+  },
+  {
+    "bang": "beck",
+    "name": "beck-online",
+    "url": "https://beck-online.beck.de/Search?words={{{s}}}"
+  },
+  {
+    "bang": "bld",
+    "name": "Blacks Law Dictionary",
+    "url": "http://thelawdictionary.org/search2/?cx=partner-pub-4620319056007131%3A7293005414&cof=FORID%3A11&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "buz",
+    "name": "www.buzer.de",
+    "url": "https://www.buzer.de/s1.htm?a=&g={{{s}}}"
+  },
+  {
+    "bang": "canlii",
+    "name": "CanLII",
+    "url": "http://www.canlii.ca/en/search/search.do?all={{{s}}}"
+  },
+  {
+    "bang": "casetext",
+    "name": "casetext",
+    "url": "https://casetext.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cconst",
+    "name": "Conseil Constitutionnel",
+    "url": "http://recherche.conseil-constitutionnel.fr/?q={{{s}}}"
+  },
+  {
+    "bang": "cfr",
+    "name": "http://www.ecfr.gov/cgi-bin/ECFR",
+    "url": "http://www.ecfr.gov/cgi-bin/searchECFR?q1={{{s}}}"
+  },
+  {
+    "bang": "charlotteslaw",
+    "name": "Charlotte's Law & Fine Prints",
+    "url": "https://www.charlotteslaw.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "cib",
+    "name": "Classification Internationale des Brevets (2016)",
+    "url": "http://web2.wipo.int/classifications/ipc/ipcpub/#lang=fr&menulang=FR&refresh=page&fipcpc=yes&indexes=yes&notion=scheme&version=20160101&symbol={{{s}}}"
+  },
+  {
+    "bang": "cjeu",
+    "name": "Curia",
+    "url": "http://curia.europa.eu/juris/liste.jsf?language=en&num={{{s}}}"
+  },
+  {
+    "bang": "clfp",
+    "name": "Charlotte's Law & Fine Prints",
+    "url": "https://www.charlotteslaw.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "cocatalog",
+    "name": "Copyright Catalog (title)",
+    "url": "http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg={{{s}}}&Search_Code=TALL&CNT=25&HIST=1"
+  },
+  {
+    "bang": "cocatalogn",
+    "name": "Copyright Catalog (name)",
+    "url": "http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg={{{s}}}&Search_Code=NALL&CNT=25&HIST=1"
+  },
+  {
+    "bang": "consplus",
+    "name": "Consultant Plus",
+    "url": "https://www.consultant.ru/search/?q={{{s}}}"
+  },
+  {
+    "bang": "corp",
+    "name": "opencorporates",
+    "url": "https://opencorporates.com/companies?q={{{s}}}"
+  },
+  {
+    "bang": "curiac",
+    "name": "Curia (Case number)",
+    "url": "http://curia.europa.eu/juris/liste.jsf?pro=&lgrec=en&nat=&oqp=&dates=&lg=&language=en&jur=C%2CT%2CF&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&num={{{s}}}&td=ALL&pcs=O&avg=&page=1&mat=or&jge=&for=&cid=114819"
+  },
+  {
+    "bang": "curia",
+    "name": "InfoCuria",
+    "url": "http://curia.europa.eu/juris/liste.jsf?&num={{{s}}}"
+  },
+  {
+    "bang": "curian",
+    "name": "Curia (Name of the parties)",
+    "url": "http://curia.europa.eu/juris/liste.jsf?pro=&nat=&oqp=&dates=&lg=&language=en&jur=C%2CT%2CF&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&td=ALL&pcs=O&avg=&page=1&mat=or&parties={{{s}}}&jge=&for=&cid=114819"
+  },
+  {
+    "bang": "dbgb",
+    "name": "BGB - dejure.org",
+    "url": "http://dejure.org/gesetze/BGB/{{{s}}}.html"
+  },
+  {
+    "bang": "dejure",
+    "name": "Dejure",
+    "url": "https://dejure.org/cgi-bin/suche?Suchenach={{{s}}}"
+  },
+  {
+    "bang": "dgg",
+    "name": "GG - dejure.org",
+    "url": "http://dejure.org/gesetze/GG/{{{s}}}.html"
+  },
+  {
+    "bang": "dhc",
+    "name": "High Court of Delhi",
+    "url": "http://delhihighcourt.nic.in/SiteSearch.asp?zoom_query= {{{s}}}"
+  },
+  {
+    "bang": "doctrine",
+    "name": "Doctrine.fr",
+    "url": "https://www.doctrine.fr/?q={{{s}}}"
+  },
+  {
+    "bang": "dstgb",
+    "name": "StGB - dejure.org",
+    "url": "http://dejure.org/gesetze/StGB/{{{s}}}.html"
+  },
+  {
+    "bang": "durhg",
+    "name": "Dejure.org ",
+    "url": "http://dejure.org/cgi-bin/suche?Suchenach={{{s}}}"
+  },
+  {
+    "bang": "ecli",
+    "name": "Curia",
+    "url": "http://curia.europa.eu/juris/liste.jsf?critereEcli={{{s}}}"
+  },
+  {
+    "bang": "eff",
+    "name": "Electronic Frontier Foundation",
+    "url": "https://www.eff.org/search/site/{{{s}}}"
+  },
+  {
+    "bang": "eurlex",
+    "name": "EUR-Lex",
+    "url": "http://eur-lex.europa.eu/search.html?text={{{s}}}&scope=EURLEX&type=quick"
+  },
+  {
+    "bang": "ffch",
+    "name": "admin.ch - Feuille f\u00e9d\u00e9rale",
+    "url": "https://www.admin.ch/opc/search/?lang=fr&language[]=fr&product[]=fg&text={{{s}}}&lang=fr"
+  },
+  {
+    "bang": "findlaw",
+    "name": "FindLaw",
+    "url": "http://public.findlaw.com/LCsearch.html?entry={{{s}}}"
+  },
+  {
+    "bang": "finlex",
+    "name": "Finlex",
+    "url": "http://finlex.fi/fi/laki/haku/?search[type]=pika&search[pika]={{{s}}}"
+  },
+  {
+    "bang": "gii",
+    "name": "Gesetze im Internet",
+    "url": "http://www.gesetze-im-internet.de/cgi-bin/htsearch?config=Gesamt_bmjhome2005&method=and&words={{{s}}}"
+  },
+  {
+    "bang": "gpdp",
+    "name": "Garante Privacy",
+    "url": "https://www.gpdp.it/home/ricerca/-/search/key/{{{s}}}"
+  },
+  {
+    "bang": "hd",
+    "name": "HUDOC",
+    "url": "http://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22{{{s}}}%22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]}"
+  },
+  {
+    "bang": "hkeleg",
+    "name": "Hong Kong e-Legislation",
+    "url": "https://www.elegislation.gov.hk/results?SEARCH_OPTION=K&keyword.SEARCH_FIELD=E&keyword.SEARCH_KEYWORD={{{s}}}"
+  },
+  {
+    "bang": "hklegco",
+    "name": "Hong Kong Leg-Co",
+    "url": "https://search.legco.gov.hk/LegCoWeb/Search.aspx?lang=en&searchtype=simple&keyword={{{s}}}"
+  },
+  {
+    "bang": "hklii",
+    "name": "HKLII",
+    "url": "http://www.hklii.hk/cgi-bin/sinosrch.cgi?query={{{s}}}&results=50&submit=Search&mask_world=&mask_path=&callback=on&method=auto&meta=%2Fhklii"
+  },
+  {
+    "bang": "huco",
+    "name": "European Court of human right",
+    "url": "http://hudoc.echr.coe.int/sites/eng/Pages/search.aspx#{%22fulltext%22:[%22{{{s}}} %22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]}"
+  },
+  {
+    "bang": "ikanoon",
+    "name": "Indian Kanoon",
+    "url": "https://indiankanoon.org/search/?formInput={{{s}}}"
+  },
+  {
+    "bang": "indiankanoon",
+    "name": "Indian Kanoon",
+    "url": "https://indiankanoon.org/search/?formInput={{{s}}}"
+  },
+  {
+    "bang": "jade",
+    "name": "BarNet Jade",
+    "url": "https://jade.io/search/{{{s}}}"
+  },
+  {
+    "bang": "jusbrasil",
+    "name": "JusBrasil",
+    "url": "https://www.jusbrasil.com.br/busca?q={{{s}}}"
+  },
+  {
+    "bang": "jusbr",
+    "name": "Jusbrasil",
+    "url": "http://www.jusbrasil.com.br/busca?q={{{s}}} "
+  },
+  {
+    "bang": "justia",
+    "name": "Justia",
+    "url": "http://law.justia.com/lawsearch?query={{{s}}}"
+  },
+  {
+    "bang": "karhcj",
+    "name": "Karnataka High Court",
+    "url": "http://judgmenthck.kar.nic.in/judgments/simple-search?query={{{s}}}"
+  },
+  {
+    "bang": "kirp",
+    "name": "Krajowa Izba Radc\u00f3w Prawnych",
+    "url": "http://kirp.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "law",
+    "name": "Legal Information Institute",
+    "url": "https://www.law.cornell.edu/search/site/{{{s}}}"
+  },
+  {
+    "bang": "lawphil",
+    "name": "Lawphil.net",
+    "url": "https://cse.google.com/cse?cx=000327027907964447955:65fjwortx5c&q={{{s}}}&oq={{{s}}}&gs_l=partner-generic.3...6080.6409.0.9078.4.4.0.0.0.0.157.426.2j2.4.0.gsnos%2Cn%3D13...0.264j30168j4...1.34.partner-generic..2.2.173.cXIan67Quoc"
+  },
+  {
+    "bang": "laws",
+    "name": "Global-Regulation.com",
+    "url": "https://www.global-regulation.com/search.php?year&country&province&d=1&start&q={{{s}}}&advanced=false"
+  },
+  {
+    "bang": "lawtw",
+    "name": "Laws & Regulations Database of The Republic of China",
+    "url": "https://law.moj.gov.tw/Law/LawSearchResult.aspx?ty=ONEBAR&kw={{{s}}}"
+  },
+  {
+    "bang": "lawyer",
+    "name": "Avvo",
+    "url": "https://www.avvo.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "lexisnexis",
+    "name": "LexisNexis Australia",
+    "url": "https://www.lexisnexis.com.au/en/global-pages/search?query={{{s}}}"
+  },
+  {
+    "bang": "lexml",
+    "name": "LexML Brasil",
+    "url": "https://www.lexml.gov.br/busca/search?keyword={{{s}}}&f1-tipoDocumento="
+  },
+  {
+    "bang": "lii",
+    "name": "Legal Information Institute",
+    "url": "https://www.law.cornell.edu/search/site/{{{s}}}"
+  },
+  {
+    "bang": "lovdata",
+    "name": "Lovdata",
+    "url": "http://lovdata.no/sok?q={{{s}}}"
+  },
+  {
+    "bang": "lumen",
+    "name": "LumenDatabase",
+    "url": "http://lumendatabase.org/notices/search?utf8=\u2713&term={{{s}}}"
+  },
+  {
+    "bang": "mari",
+    "name": "Supreme Court of Indonesia",
+    "url": "http://putusan.mahkamahagung.go.id/main/pencarian/?q={{{s}}}"
+  },
+  {
+    "bang": "mhlo",
+    "name": "Mental Health Law Online",
+    "url": "http://www.mentalhealthlaw.co.uk/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "nolo",
+    "name": "Nolo.com",
+    "url": "https://www.nolo.com/search2?type=all&query={{{s}}}&location="
+  },
+  {
+    "bang": "oyez",
+    "name": "Oyez",
+    "url": "https://www.oyez.org/search/{{{s}}}"
+  },
+  {
+    "bang": "oyz",
+    "name": "Oyez",
+    "url": "https://www.oyez.org/search/{{{s}}}"
+  },
+  {
+    "bang": "patent",
+    "name": "Google Patents",
+    "url": "https://patents.google.com/?oq={{{s}}}"
+  },
+  {
+    "bang": "patg",
+    "name": "patents.google.com",
+    "url": "https://patents.google.com/?q={{{s}}}"
+  },
+  {
+    "bang": "planetdepos",
+    "name": "Planet Depos",
+    "url": "https://planetdepos.com/?s={{{s}}}"
+  },
+  {
+    "bang": "rcw",
+    "name": "Washington State Legislature: Revised Code of Washington",
+    "url": "http://apps.leg.wa.gov/RCW/default.aspx?cite={{{s}}}"
+  },
+  {
+    "bang": "recap",
+    "name": "RECAP the law",
+    "url": "http://archive.recapthelaw.org/search/advanced/?q={{{s}}}&x=0&y=0&court=&docket_number=&case_name=&pacer_case_number=&date_filed=&date_filed_end=&date_terminated=&date_terminated_end=&date_last_filing=&date_last_filing_end="
+  },
+  {
+    "bang": "ro",
+    "name": "admin.ch",
+    "url": "https://www.admin.ch/opc/search/?text={{{s}}}&lang=fr&language%5B%5D=fr&product%5B%5D=ClassifiedCompilation"
+  },
+  {
+    "bang": "rsch",
+    "name": "admin.ch -  Recueil syst\u00e9matique ",
+    "url": "https://www.admin.ch/opc/search/?text={{{s}}}&lang=fr&product[]=cc&date_range_min=&date_range_max=&d_compilation=both&d_is_in_force=yes&thesaurus=1"
+  },
+  {
+    "bang": "slaw",
+    "name": "Slaw",
+    "url": "http://www.slaw.ca/?s={{{s}}}"
+  },
+  {
+    "bang": "srch",
+    "name": "admin.ch - Systematische Rechtssammlung",
+    "url": "http://www.admin.ch/opc/search/?lang=de&language[]=de&product[]=fg&product[]=oc&product[]=cc&product[]=ba&product[]=jcd&date_range_min=&date_range_max=&d_compilation=both&d_is_in_force=yes&text={{{s}}}"
+  },
+  {
+    "bang": "tcs",
+    "name": "Texas Constitution and Statutes",
+    "url": "http://www.statutes.legis.state.tx.us/SearchResults.aspx?CP=1&Code=ZZ&Phrase={{{s}}}"
+  },
+  {
+    "bang": "teu",
+    "name": "TEU",
+    "url": "http://eur-lex.europa.eu/search.html?wh0=DN%3D12012M*&lbStatus=ALL&qid=1459001887262&DTS_DOM=EU_LAW&ARTICLE_NUM={{{s}}}&treatyStatus=ARTICLE_NUMBER&type=advanced&lang=en&SUBDOM_INIT=TREATIES&legalCelex=TEU_2012&DTS_SUBDOM=TREATIES"
+  },
+  {
+    "bang": "tmark",
+    "name": "Justia.com trademarks",
+    "url": "http://trademarks.justia.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "uklaw",
+    "name": "UK Legislation (Official Archive)",
+    "url": "http://www.legislation.gov.uk/all?title={{{s}}}"
+  },
+  {
+    "bang": "wetten",
+    "name": "Nederlandse wet- en regelgeving",
+    "url": "http://wetten.overheid.nl/zoeken/rs/2,3,4/titel/{{{s}}}"
+  },
+  {
+    "bang": "wln",
+    "name": "WestlawNext",
+    "url": "https://a.next.westlaw.com/Search/Results.html?query={{{s}}}&jurisdiction=ALLCASES"
+  },
+  {
+    "bang": "zakony",
+    "name": "Z\u00e1kony pre \u013eud\u00ed",
+    "url": "http://www.zakonypreludi.sk/main/search.aspx?text={{{s}}}"
+  },
+  {
+    "bang": "\u05d7\u05d5\u05e7",
+    "name": "Israeli Open Law project at Hebrew Wikisource",
+    "url": "https://he.wikisource.org/w/index.php?search=\u05d7\u05d5\u05e7+{{{s}}}"
+  }
+]

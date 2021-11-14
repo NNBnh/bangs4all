@@ -1,0 +1,47 @@
+[
+  {
+    "bang": "haskellwiki",
+    "name": "Haskell Wiki",
+    "url": "http://www.haskell.org/haskellwiki/Special:Search/{{{s}}}"
+  },
+  {
+    "bang": "hayoo",
+    "name": "Hayoo",
+    "url": "http://holumbus.fh-wedel.de/hayoo/hayoo.html?query={{{s}}}"
+  },
+  {
+    "bang": "hgle",
+    "name": "hoogle",
+    "url": "https://www.haskell.org/hoogle/?hoogle={{{s}}}"
+  },
+  {
+    "bang": "hgl",
+    "name": "haskell.org/hoogle",
+    "url": "https://www.haskell.org/hoogle/?hoogle={{{s}}}"
+  },
+  {
+    "bang": "h",
+    "name": "Hoogle",
+    "url": "http://www.haskell.org/hoogle/?hoogle={{{s}}}"
+  },
+  {
+    "bang": "hkg",
+    "name": "Hackage",
+    "url": "https://hackage.haskell.org/packages/search?terms={{{s}}}"
+  },
+  {
+    "bang": "ho",
+    "name": "Hoogle",
+    "url": "http://www.haskell.org/hoogle/?hoogle={{{s}}}"
+  },
+  {
+    "bang": "hoogle",
+    "name": "hoogle",
+    "url": "https://hoogle.haskell.org/?hoogle={{{s}}}&scope=set%3Astackage"
+  },
+  {
+    "bang": "stackage",
+    "name": "Hoogle at Stackage",
+    "url": "http://www.stackage.org/lts/hoogle?q={{{s}}}"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "bang": "appledev",
+    "name": "Apple Developer",
+    "url": "https://developer.apple.com/search/index.php?q={{{s}}} "
+  },
+  {
+    "bang": "cocoa",
+    "name": "Apple Developer",
+    "url": "https://developer.apple.com/search/index.php?q={{{s}}} "
+  },
+  {
+    "bang": "cocoapods",
+    "name": "Cocoapods",
+    "url": "http://cocoapods.org/?q={{{s}}}"
+  },
+  {
+    "bang": "devapple",
+    "name": "Apple Developer",
+    "url": "https://developer.apple.com/search/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "pod",
+    "name": "Cocoapods",
+    "url": "http://cocoapods.org/?q={{{s}}}"
+  }
+]

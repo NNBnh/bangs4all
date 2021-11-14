@@ -1,0 +1,82 @@
+[
+  {
+    "bang": "applerealty",
+    "name": "Apple Realty",
+    "url": "http://applesold.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bhive",
+    "name": "bhive.org",
+    "url": "https://www.bhive.org/?s={{{s}}}"
+  },
+  {
+    "bang": "domu",
+    "name": "domu",
+    "url": "https://www.domu.com/chicago/apartment-search2?domu_search={{{s}}}"
+  },
+  {
+    "bang": "homesnap",
+    "name": "Homesnap",
+    "url": "https://www.homesnap.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "nestde",
+    "name": "Nestoria Deutschland",
+    "url": "http://www.nestoria.de/{{{s}}}"
+  },
+  {
+    "bang": "nestuk",
+    "name": "Nestoria UK",
+    "url": "http://www.nestoria.co.uk/{{{s}}} "
+  },
+  {
+    "bang": "newhomes",
+    "name": "New Home Source",
+    "url": "https://www.newhomesource.com/locationhandler?searchtext={{{s}}}"
+  },
+  {
+    "bang": "openrent",
+    "name": "OpenRent ",
+    "url": "https://www.openrent.co.uk/properties-to-rent/{{{s}}}"
+  },
+  {
+    "bang": "realo",
+    "name": "Realo",
+    "url": "https://realo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "realtor",
+    "name": "Realtor.com",
+    "url": "http://www.realtor.com/realestateandhomes-search/{{{s}}}"
+  },
+  {
+    "bang": "spare",
+    "name": "SpareRoom",
+    "url": "https://www.spareroom.co.uk/flatshare/flatshare_detail.pl?flatshare_id={{{s}}}"
+  },
+  {
+    "bang": "trulia",
+    "name": "Trulia",
+    "url": "http://www.trulia.com/validate.php?tst=h&display=for+sale&search={{{s}}}&type=&min_price=min&max_price=max&min_num_beds=0&min_num_baths=0&min_size=0&submit_btn=SEARCH"
+  },
+  {
+    "bang": "walkscore",
+    "name": "Walk Score",
+    "url": "http://www.walkscore.com/score/{{{s}}}"
+  },
+  {
+    "bang": "yo",
+    "name": "YoChicago",
+    "url": "http://yochicago.com/?s={{{s}}}"
+  },
+  {
+    "bang": "zillow",
+    "name": "Zillow",
+    "url": "http://www.zillow.com/homes/{{{s}}}_rb"
+  },
+  {
+    "bang": "zoopla",
+    "name": "Zoopla",
+    "url": "http://www.zoopla.co.uk/search/?q={{{s}}}&geo_autocomplete_identifier=&country_code=&flatshare_q=&section=for-sale&search_source=nav&include_shared_ownership=true&include_retirement_homes=true&new_homes=include"
+  }
+]

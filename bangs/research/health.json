@@ -1,0 +1,547 @@
+[
+  {
+    "bang": "1177",
+    "name": "1177 V\u00e5rdguiden",
+    "url": "http://www.1177.se/Sok/?q={{{s}}}"
+  },
+  {
+    "bang": "acne",
+    "name": "Acne.org",
+    "url": "https://www.acne.org/search.php?i=&q={{{s}}}"
+  },
+  {
+    "bang": "airquality",
+    "name": "Good To Breathe In",
+    "url": "https://www.goodtobreathein.com/?zipcode={{{s}}}"
+  },
+  {
+    "bang": "alliance",
+    "name": "Alliance Champions Training Center",
+    "url": "https://alliancechampions.com/?s={{{s}}}"
+  },
+  {
+    "bang": "anmat",
+    "name": "ANMAT",
+    "url": "http://www.anmat.gov.ar/resultados.asp?cx=018082787451070703178%3Arx-vbt5pdfu&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "askapatient",
+    "name": "AskaPatient.com",
+    "url": "http://www.askapatient.com/searchresults.asp?searchField={{{s}}} "
+  },
+  {
+    "bang": "ausmed",
+    "name": "Ausmed Education",
+    "url": "http://www.ausmed.com.au/sitesearch?q={{{s}}}"
+  },
+  {
+    "bang": "bisp",
+    "name": "Bisp-Surf",
+    "url": "https://www.bisp-surf.de/Search/Results?type=AllFields&lookfor={{{s}}}&submit=Suchen&limit=20&sort=relevance"
+  },
+  {
+    "bang": "bluelight",
+    "name": "Bluelight",
+    "url": "http://cse.google.com/cse?cx=009513296995230692334:6ksgwcos37i&q={{{s}}}"
+  },
+  {
+    "bang": "bmjbp",
+    "name": "BMJ Best Practice",
+    "url": "https://bestpractice.bmj.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bulletproof",
+    "name": "Bulletproof blog",
+    "url": "https://blog.bulletproof.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bund",
+    "name": "Bund f\u00fcr Umwelt und Naturschutz",
+    "url": "https://www.bund.net/service/suchergebnis/?L=0&q={{{s}}}"
+  },
+  {
+    "bang": "bvs",
+    "name": "Biblioteca Virtual em Sa\u00fade",
+    "url": "http://pesquisa.bvsalud.org/regional/?q={{{s}}}"
+  },
+  {
+    "bang": "ccheck",
+    "name": "Codecheck",
+    "url": "https://www.codecheck.info/product.search?q={{{s}}}&OK=Suchen"
+  },
+  {
+    "bang": "cdc",
+    "name": "CDC",
+    "url": "http://www.cdc.gov/search.do?queryText={{{s}}}"
+  },
+  {
+    "bang": "cecmed",
+    "name": "CECMED",
+    "url": "https://www.cecmed.cu/search/node?keys={{{s}}}"
+  },
+  {
+    "bang": "climed",
+    "name": "Climed Sevi\u00e7os de Saude",
+    "url": "http://www.climedweb.com/wp/?s="
+  },
+  {
+    "bang": "clinicas",
+    "name": "https://clinicasyhospitales.com.co",
+    "url": "https://clinicasyhospitales.com.co/buscar?q={{{s}}}"
+  },
+  {
+    "bang": "consumerlab",
+    "name": "ConsumerLab.com",
+    "url": "https://www.consumerlab.com/Search/{{{s}}}"
+  },
+  {
+    "bang": "cosdna",
+    "name": "CosDNA (english)",
+    "url": "http://www.cosdna.com/eng/product.php?q={{{s}}}"
+  },
+  {
+    "bang": "cpt",
+    "name": "CPT Codes",
+    "url": "https://coder.aapc.com/cpt-codes/{{{s}}}"
+  },
+  {
+    "bang": "ctgov",
+    "name": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/ct2/results?term={{{s}}}"
+  },
+  {
+    "bang": "dbsnp",
+    "name": "NCBI dbSNP",
+    "url": "http://www.ncbi.nlm.nih.gov/snp?term={{{s}}}"
+  },
+  {
+    "bang": "docc",
+    "name": "DocCheck",
+    "url": "http://m.flexikon.doccheck.com/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "doccheck",
+    "name": "doccheck",
+    "url": "http://www.doccheck.com/de/search/?q={{{s}}}"
+  },
+  {
+    "bang": "dog",
+    "name": "CanIGiveMyDog",
+    "url": "http://canigivemydog.com/?s={{{s}}} "
+  },
+  {
+    "bang": "draxe",
+    "name": "Dr. Axe",
+    "url": "https://draxe.com/?s={{{s}}}"
+  },
+  {
+    "bang": "drugbank",
+    "name": "drugbank.ca",
+    "url": "http://www.drugbank.ca/search?query={{{s}}} "
+  },
+  {
+    "bang": "drugs.com",
+    "name": "Drugs.com",
+    "url": "https://www.drugs.com/search.php?searchterm={{{s}}}"
+  },
+  {
+    "bang": "drugs",
+    "name": "Drugs",
+    "url": "http://www.drugs.com/search.php?&searchterm={{{s}}}"
+  },
+  {
+    "bang": "emc",
+    "name": "Electronic Medicines Compendium",
+    "url": "https://www.medicines.org.uk/emc/search?q= {{{s}}}"
+  },
+  {
+    "bang": "emedicine",
+    "name": "Medscape Reference",
+    "url": "http://search.medscape.com/reference-search?newSearchHeader=1&queryText={{{s}}}"
+  },
+  {
+    "bang": "er",
+    "name": "Erowid",
+    "url": "https://www.erowid.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "eroexp",
+    "name": "Erowid Experience Reports",
+    "url": "https://www.erowid.org/experiences/exp.cgi?S1=0&S2=-1&C1=-1&Str={{{s}}}"
+  },
+  {
+    "bang": "eviq",
+    "name": "eviQ",
+    "url": "https://www.eviq.org.au/search?searchtext={{{s}}}"
+  },
+  {
+    "bang": "examine",
+    "name": "Examine",
+    "url": "http://examine.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "ex",
+    "name": "examine.com",
+    "url": "https://examine.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "fitfolly",
+    "name": "Fitfolly",
+    "url": "https://fitfolly.com/?s={{{s}}}"
+  },
+  {
+    "bang": "fkt",
+    "name": "Felleskatalogen",
+    "url": "https://www.felleskatalogen.no/medisin/sok?sokord={{{s}}}"
+  },
+  {
+    "bang": "ftk",
+    "name": "Farmacotherapeutisch Kompas",
+    "url": "https://www.farmacotherapeutischkompas.nl/snelzoeken?zoekterm={{{s}}}&domein=geneesmiddelen"
+  },
+  {
+    "bang": "galinos",
+    "name": "galinos.gr",
+    "url": "https://www.galinos.gr/web/drugs/main/search?q={{{s}}}"
+  },
+  {
+    "bang": "gender",
+    "name": "Gender Wiki",
+    "url": "http://gender.wikia.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "giftinfo",
+    "name": "Giftinformationscentralen",
+    "url": "http://www.giftinformation.se/searchpage/?query={{{s}}}"
+  },
+  {
+    "bang": "grepmed",
+    "name": "grepmed",
+    "url": "https://www.grepmed.com/?q={{{s}}}"
+  },
+  {
+    "bang": "hastane",
+    "name": "Hastane",
+    "url": "http://www.trhastane.com/arama.php?sehir=0&word={{{s}}} "
+  },
+  {
+    "bang": "hcpcs",
+    "name": "FindACode.com",
+    "url": "https://www.findacode.com/code.php?set=HCPCS&c={{{s}}}"
+  },
+  {
+    "bang": "hgnc",
+    "name": "HUGO Gene Nomenclature Committee (HGNC)",
+    "url": "http://www.genenames.org/cgi-bin/quick_search.pl?submit=Submit&search={{{s}}}"
+  },
+  {
+    "bang": "icd10",
+    "name": "ICD10Data.com",
+    "url": "http://www.icd10data.com/Search.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "icd9",
+    "name": "ICD9Data.com",
+    "url": "http://www.icd9data.com/Search/?q={{{s}}}"
+  },
+  {
+    "bang": "inrs",
+    "name": "INRS",
+    "url": "http://www.inrs.fr/header/recherche.html?queryStr={{{s}}}"
+  },
+  {
+    "bang": "litfl",
+    "name": "LITFL",
+    "url": "https://litfl.com/?s={{{s}}}"
+  },
+  {
+    "bang": "livestrong",
+    "name": "LIVESTRONG",
+    "url": "http://www.livestrong.com/search/?mode=standard&search={{{s}}}"
+  },
+  {
+    "bang": "lyle",
+    "name": "forums.Bodyrecomposition.com",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:forums.lylemcdonald.com"
+  },
+  {
+    "bang": "mayo",
+    "name": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/search/search-results?q={{{s}}}"
+  },
+  {
+    "bang": "mda",
+    "name": "Mark's Daily Apple",
+    "url": "http://www.marksdailyapple.com/search-results/?cx=004987908667488763946%3Akd-fp2c7jek&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&siteurl=www.marksdailyapple.com%2F&ref=&ss=1623j619159j7"
+  },
+  {
+    "bang": "medb",
+    "name": "Medbullets",
+    "url": "http://www.medbullets.com/search?cx=011011587714199370644:0fb95tj2wze&cof=FORID:9&ie=UTF-8&sa.x=10&sa.y=12&sa=Search&q={{{s}}}"
+  },
+  {
+    "bang": "medical",
+    "name": "The Free Dictionary (Medical)",
+    "url": "http://medical-dictionary.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "medlineplus",
+    "name": "MedlinePlus",
+    "url": "http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query={{{s}}}"
+  },
+  {
+    "bang": "mednar",
+    "name": "Mednar",
+    "url": "http://www.mednar.com/mednar/result-list/fullRecord:{{{s}}}"
+  },
+  {
+    "bang": "medphd",
+    "name": "Medical Phd",
+    "url": "https://medical-phd.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "medscape",
+    "name": "Medscape",
+    "url": "http://search.medscape.com/reference-search?newSearchHeader=1&queryText={{{s}}}"
+  },
+  {
+    "bang": "mercola",
+    "name": "Mercola",
+    "url": "https://search.mercola.com/results.aspx?q={{{s}}} "
+  },
+  {
+    "bang": "mfl",
+    "name": "http://www.muscleforlife.com",
+    "url": "http://www.muscleforlife.com/?s={{{s}}} "
+  },
+  {
+    "bang": "minimins",
+    "name": "MiniMins",
+    "url": "https://www.minimins.com/index.php?search/search&keywords={{{s}}}:"
+  },
+  {
+    "bang": "msdjp",
+    "name": "MSD Manual Japanese",
+    "url": "https://www.msdmanuals.com/ja-jp/\u30db\u30fc\u30e0/SearchResults?query={{{s}}}"
+  },
+  {
+    "bang": "mybrain",
+    "name": "mywellbrain",
+    "url": "https://mywellbrain.com/?s={{{s}}}"
+  },
+  {
+    "bang": "needsnest",
+    "name": "Needs Nest",
+    "url": "https://www.needsnest.com/search/?search_keywords={{{s}}}"
+  },
+  {
+    "bang": "nejm",
+    "name": "New England Journal Of Medicine",
+    "url": "http://www.nejm.org/search?q={{{s}}}&asug="
+  },
+  {
+    "bang": "nhs",
+    "name": "NHS Choices",
+    "url": "http://www.nhs.uk/Search/?q={{{s}}}"
+  },
+  {
+    "bang": "nice",
+    "name": "NICE - National Institute for Health and Care Excellence",
+    "url": "https://www.nice.org.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "nih",
+    "name": "NIH",
+    "url": "https://search.nih.gov/search?utf8=%E2%9C%93&affiliate=nih&query={{{s}}}&commit=Search&btnG.x=0&btnG.y=0&btnG=search"
+  },
+  {
+    "bang": "nsuns",
+    "name": "Dr Workout",
+    "url": "https://www.drworkout.fitness/?s={{{s}}}"
+  },
+  {
+    "bang": "nutritionfacts",
+    "name": "NutritionFacts.org",
+    "url": "https://nutritionfacts.org/?s={{{s}}}"
+  },
+  {
+    "bang": "nzf",
+    "name": "New Zealand Formulary",
+    "url": "https://nzf.org.nz/Search/Results?term={{{s}}}"
+  },
+  {
+    "bang": "omim",
+    "name": "OMIM Search",
+    "url": "http://omim.org/search?index=entry&sort=score+desc%2C+prefix_sort+desc&start=1&limit=10&search={{{s}}} "
+  },
+  {
+    "bang": "patientinfo",
+    "name": "Patient Info",
+    "url": "https://patient.info/search.asp?searchterm={{{s}}}"
+  },
+  {
+    "bang": "patient",
+    "name": "Patient Info",
+    "url": "https://patient.info/search.asp?searchterm={{{s}}}&searchcoll=All"
+  },
+  {
+    "bang": "patientuk",
+    "name": "Patient.co.uk",
+    "url": "https://patient.info/search.asp?searchterm={{{s}}}"
+  },
+  {
+    "bang": "phw",
+    "name": "Pharmawiki",
+    "url": "https://www.pharmawiki.ch/wiki/index.php?wiki={{{s}}}"
+  },
+  {
+    "bang": "pils",
+    "name": "UK Patient Information Leaflets",
+    "url": "http://patient.info/Search.asp?searchTerm={{{s}}}&collections=Condition_Leaflets"
+  },
+  {
+    "bang": "plosmed",
+    "name": "PLoS Medicine",
+    "url": "http://www.plosmedicine.org/search/simple?query={{{s}}}&filterJournals=PLoSMedicine"
+  },
+  {
+    "bang": "plunket",
+    "name": "Plunket",
+    "url": "https://www.plunket.org.nz/home/SearchForm?Search={{{s}}}&action_results=Search"
+  },
+  {
+    "bang": "pr",
+    "name": "PR Vademecum Argentina",
+    "url": "http://ar.prvademecum.com/?s={{{s}}}"
+  },
+  {
+    "bang": "pso",
+    "name": "Psoriasis-Netz",
+    "url": "https://www.psoriasis-netz.de/?s={{{s}}}"
+  },
+  {
+    "bang": "psych",
+    "name": "American Psychiatric Association",
+    "url": "https://psychiatry.org/home/search-results?k={{{s}}}"
+  },
+  {
+    "bang": "pubmed",
+    "name": "PubMed",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+  },
+  {
+    "bang": "pub",
+    "name": "Pubmed",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed?EntrezSystem2.PEntrez.Pubmed.SearchBar.Db=pubmed&term={{{s}}}"
+  },
+  {
+    "bang": "radhd",
+    "name": "r/ADHD",
+    "url": "https://www.reddit.com/r/ADHD/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "radio",
+    "name": "https://radiopaedia.org",
+    "url": "https://radiopaedia.org/search?utf8=%E2%9C%93&q={{{s}}}&scope=all"
+  },
+  {
+    "bang": "sbm",
+    "name": "Science-Based Medicine",
+    "url": "https://duckduckgo.com/?q=site%3Asciencebasedmedicine.org+{{{s}}}"
+  },
+  {
+    "bang": "scielo",
+    "name": "Scientific Electronic Library Online",
+    "url": "http://search.scielo.org/?q={{{s}}}&where=ORG"
+  },
+  {
+    "bang": "sechenovclinic",
+    "name": "www.sechenovclinic.ru",
+    "url": "http://www.sechenovclinic.ru/search/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "shiatsu",
+    "name": "Shiatsu Stijlen",
+    "url": "http://www.shiatsu-stijlen.nl/zoeken.php?cx=partner-pub-1276597034470244%3Aslojxr-8otw&cof=FORID%3A11&ie=ISO-8859-1&q={{{s}}}&sa=Zoeken"
+  },
+  {
+    "bang": "smart",
+    "name": "Smarticular",
+    "url": "https://www.smarticular.net/?s={{{s}}}"
+  },
+  {
+    "bang": "soapnote",
+    "name": "SOAPnote",
+    "url": "https://www.soapnote.org/?s={{{s}}}"
+  },
+  {
+    "bang": "solidaris",
+    "name": "Solidaris",
+    "url": "http://solidaris.be/MonsWP/Pages/recherche.aspx?k={{{s}}} "
+  },
+  {
+    "bang": "superphysique",
+    "name": "Superphysique",
+    "url": "https://www.google.fr/search?q=site:www.superphysique.org+{{{s}}}"
+  },
+  {
+    "bang": "synapse",
+    "name": "Sage Synapse",
+    "url": "https://www.synapse.org/#!Search:{{{s}}} "
+  },
+  {
+    "bang": "tripsit",
+    "name": "TripSit",
+    "url": "https://wiki.tripsit.me/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "trip",
+    "name": "Trip Database",
+    "url": "http://www.tripdatabase.com/search?criteria={{{s}}}"
+  },
+  {
+    "bang": "trrust",
+    "name": "TRRUST",
+    "url": "http://www.grnpedia.org/trrust/result.php?gene={{{s}}}&species=human&confirm=0"
+  },
+  {
+    "bang": "uptodate",
+    "name": "UpToDate",
+    "url": "http://www.uptodate.com/contents/search?search={{{s}}}"
+  },
+  {
+    "bang": "vidal",
+    "name": "VIDAL",
+    "url": "https://www.vidal.fr/recherche/index/q:{{{s}}}"
+  },
+  {
+    "bang": "voedingswaarde",
+    "name": "Voedingswaardetabel.nl",
+    "url": "http://www.voedingswaardetabel.nl/voedingswaarde/?q={{{s}}}"
+  },
+  {
+    "bang": "webmd",
+    "name": "WebMD",
+    "url": "http://www.webmd.com/search/search_results/default.aspx?query={{{s}}}"
+  },
+  {
+    "bang": "whoint",
+    "name": "World Health Organization",
+    "url": "https://www.who.int/search?query={{{s}}}"
+  },
+  {
+    "bang": "whowes",
+    "name": "wikiHow Espa\u00f1ol",
+    "url": "http://es.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "bang": "wikitox",
+    "name": "WikiTox",
+    "url": "http://curriculum.toxicology.wikispaces.net/search/view/{{{s}}}"
+  },
+  {
+    "bang": "yf",
+    "name": "Yahoo Finance",
+    "url": "http://finance.yahoo.com/q?s={{{s}}}"
+  }
+]

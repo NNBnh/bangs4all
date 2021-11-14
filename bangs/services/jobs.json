@@ -1,0 +1,437 @@
+[
+  {
+    "bang": "5",
+    "name": "Fiverr",
+    "url": "http://fiverr.com/gigs/search?query={{{s}}}"
+  },
+  {
+    "bang": "aaa",
+    "name": "AAA",
+    "url": "https://careers-calstate.aaa.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "aam",
+    "name": "AAM",
+    "url": "https://careers.aam.com/us/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "abbott",
+    "name": "Abbott",
+    "url": "https://www.jobs.abbott/us/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "adtalem",
+    "name": "Adtalem Careers",
+    "url": "https://careers.adtalem.com/us/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "adzuna",
+    "name": "Adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/search?q={{{s}}} "
+  },
+  {
+    "bang": "aijobs",
+    "name": "ai-jobs.net",
+    "url": "https://ai-jobs.net/?search_keywords={{{s}}}"
+  },
+  {
+    "bang": "alight",
+    "name": "Alight",
+    "url": "https://careers.alight.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "altru",
+    "name": "Altru Careers",
+    "url": "https://altru.greatjob.net/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "amegy",
+    "name": "Amegy Bank Careers",
+    "url": "https://careers.amegybank.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "american",
+    "name": "American National Careers",
+    "url": "https://agentcareers.americannational.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "amn",
+    "name": "AMN Careers",
+    "url": "https://jobs.amncareers.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "amplify",
+    "name": "Amplify snacks careers",
+    "url": "https://careers.amplifysnacks.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "analog",
+    "name": "Analog Devices Careers",
+    "url": "https://careers.analog.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "apinc",
+    "name": "Activision Careers",
+    "url": "https://careers.activision.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "asx",
+    "name": "Australian Securities Exchange",
+    "url": "https://search.asx.com.au/s/search.html?query={{{s}}}&collection=asx-meta&profile=web"
+  },
+  {
+    "bang": "berufenet",
+    "name": "BERUFENET - Berufsinformationen einfach finden",
+    "url": "https://berufenet.arbeitsagentur.de/berufenet/faces/index?path=null/suchergebnisse&such={{{s}}}"
+  },
+  {
+    "bang": "careerbuilder",
+    "name": "CareerBuilder",
+    "url": "http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&ch=&rs=&s_rawwords={{{s}}}&s_jobtypes=ALL&s_freshness=30&s_education=DRNS&s_freeloc=&qsbButton=Find+Jobs+%3E%3E"
+  },
+  {
+    "bang": "clinical",
+    "name": "Advanced Clinical Careers",
+    "url": "https://jobs.advancedclinical.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "computrabajo",
+    "name": "CompuTrabajo",
+    "url": "http://www.computrabajo.com.ar/ofertas-de-trabajo/?q={{{s}}}"
+  },
+  {
+    "bang": "cvm",
+    "name": "CV Market",
+    "url": "http://www.cvmarket.lt/joboffers.php?op=search&search%5Bkeyword%5D={{{s}}}"
+  },
+  {
+    "bang": "cwj",
+    "name": "CWJobs",
+    "url": "https://www.cwjobs.co.uk/jobs/{{{s}}}"
+  },
+  {
+    "bang": "dreamcareerbuilder",
+    "name": "DreamCareerBuilder",
+    "url": "https://www.dreamcareerbuilder.com/findjob.php?keyword={{{s}}}"
+  },
+  {
+    "bang": "duunitori",
+    "name": "Duunitori",
+    "url": "https://duunitori.fi/tyopaikat/?haku={{{s}}}"
+  },
+  {
+    "bang": "eluta",
+    "name": "Eluta",
+    "url": "http://www.eluta.ca/search?q={{{s}}}"
+  },
+  {
+    "bang": "emploi",
+    "name": "Jobillico",
+    "url": "https://www.jobillico.com/recherche-emploi?skwd={{{s}}}"
+  },
+  {
+    "bang": "emplois",
+    "name": "Jobillico.com",
+    "url": "https://www.jobillico.com/recherche-emploi/0?skwd={{{s}}}&scty=&icty=0&ipc=0&sil=&sjdpl=&sdl=&imc1=0&imc2=0&flat=0&flng=0&mfil=40&ipg=1&clr=1"
+  },
+  {
+    "bang": "emploismtl",
+    "name": "Jobillico Montr\u00e9al",
+    "url": "https://www.jobillico.com/recherche-emploi?skwd={{{s}}}&scty=Montr%C3%A9al%2C%20QC&icty=6185&ipc=0&sil=&sjdpl=&sdl=&imc1=0&imc2=0&flat=45.509828&flng=-73.6715&mfil=byCity&ipg=1&clr=1"
+  },
+  {
+    "bang": "empregosaqui",
+    "name": "Empregos Aqui",
+    "url": "https://www.empregosaqui.com.br/?s={{{s}}}"
+  },
+  {
+    "bang": "flexjobs",
+    "name": "Flexjobs",
+    "url": "https://www.flexjobs.com/search?search={{{s}}}&Location="
+  },
+  {
+    "bang": "glassdoor",
+    "name": "Glassdoor",
+    "url": "https://www.glassdoor.com/Job/jobs.htm?sc.keyword={{{s}}}"
+  },
+  {
+    "bang": "gld",
+    "name": "Glassdoor",
+    "url": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword={{{s}}}+&sc.keyword={{{s}}}+&locT=&locId=&jobType="
+  },
+  {
+    "bang": "goldenline",
+    "name": "GoldenLine",
+    "url": "http://www.goldenline.pl/szukaj/?q={{{s}}}"
+  },
+  {
+    "bang": "gothere",
+    "name": "gothere.sg",
+    "url": "https://gothere.sg/maps#q:{{{s}}}"
+  },
+  {
+    "bang": "indeed",
+    "name": "Indeed",
+    "url": "http://www.indeed.com/jobs?q={{{s}}}"
+  },
+  {
+    "bang": "jit",
+    "name": "Jobintree",
+    "url": "http://www.jobintree.com/emploi?keywords={{{s}}}"
+  },
+  {
+    "bang": "jiv",
+    "name": "JouwICTvacature",
+    "url": "https://www.jouwictvacature.nl/vacatures?s={{{s}}}"
+  },
+  {
+    "bang": "jmp",
+    "name": "Jemepropose.com",
+    "url": "http://www.jemepropose.com/annonces?keywords={{{s}}}"
+  },
+  {
+    "bang": "job2u",
+    "name": "JOBS IN USA",
+    "url": "https://us.job2u.org/?s={{{s}}}"
+  },
+  {
+    "bang": "job",
+    "name": "Job.am",
+    "url": "https://job.am/hy/jobs?q={{{s}}}"
+  },
+  {
+    "bang": "jobsbg",
+    "name": "jobs.bg",
+    "url": "https://www.jobs.bg/front_job_search.php?zone_id=0&distance=0&location_sid=0&all_categories=0&all_type=0&all_position_level=1&all_company_type=1&keyword={{{s}}}&last=0"
+  },
+  {
+    "bang": "jobsca",
+    "name": "Indeed Canada",
+    "url": "http://www.indeed.ca/jobs?q={{{s}}}"
+  },
+  {
+    "bang": "jobsde",
+    "name": "Jobs in Germany",
+    "url": "https://englishjobs.de/search?q={{{s}}}"
+  },
+  {
+    "bang": "jobs",
+    "name": "Indeed",
+    "url": "http://www.indeed.com/jobs?q={{{s}}}"
+  },
+  {
+    "bang": "jobsmtl",
+    "name": "Jobillico Montreal",
+    "url": "https://www.jobillico.com/search-jobs?skwd={{{s}}}&scty=Montr%C3%A9al%2C%20QC&icty=6185&ipc=0&sil=&sjdpl=&sdl=&imc1=0&imc2=0&flat=45.509828&flng=-73.6715&mfil=byCity&ipg=1&clr=1"
+  },
+  {
+    "bang": "jrdevjobs",
+    "name": "Jr.DevJobs",
+    "url": "https://www.jrdevjobs.com/jobs?query={{{s}}}"
+  },
+  {
+    "bang": "karir",
+    "name": "Dikarier.com",
+    "url": "https://dikarier.com/layanan/?keywords={{{s}}}"
+  },
+  {
+    "bang": "khamsat",
+    "name": "Khamsat | \u062e\u0645\u0633\u0627\u062a",
+    "url": "https://khamsat.com/search?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "kunu",
+    "name": "kununu.com",
+    "url": "https://www.kununu.com/de/search#/?q={{{s}}}&country=COUNTRY_DE"
+  },
+  {
+    "bang": "kununu",
+    "name": "kununu",
+    "url": "https://www.kununu.com/de/search#/?q={{{s}}}&country=COUNTRY_DE"
+  },
+  {
+    "bang": "lavoro",
+    "name": "Motore Lavoro",
+    "url": "http://www.motorelavoro.it/?q={{{s}}}"
+  },
+  {
+    "bang": "lbf",
+    "name": "La bonne formation",
+    "url": "https://labonneformation.pole-emploi.fr/toutes-les-formations?motscles={{{s}}}"
+  },
+  {
+    "bang": "lic",
+    "name": "linkedin.com/company",
+    "url": "https://www.linkedin.com/search/results/companies/?keywords={{{s}}}"
+  },
+  {
+    "bang": "linkup",
+    "name": "LinkUp",
+    "url": "http://www.linkup.com/results.php#q={{{s}}}"
+  },
+  {
+    "bang": "lowongan",
+    "name": "Lowongan Kerja Terbaru",
+    "url": "https://www.lowonganterpadu.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mjs",
+    "name": "Mining Job Search",
+    "url": "https://www.miningjobsearch.com/Mining-Jobs/Search/{{{s}}}"
+  },
+  {
+    "bang": "mojposao",
+    "name": "MojPosao",
+    "url": "https://www.moj-posao.net/Pretraga-Poslova/?keyword={{{s}}}&area=&category="
+  },
+  {
+    "bang": "mol",
+    "name": "TE-palvelut",
+    "url": "https://paikat.te-palvelut.fi/tpt/?searchPhrase={{{s}}}"
+  },
+  {
+    "bang": "monster",
+    "name": "Monster.com",
+    "url": "http://jobsearch.monster.com/Search.aspx?re=130&cy=us&brd=1&JSNONREG=1&q={{{s}}}&rad=20&rad_units=miles"
+  },
+  {
+    "bang": "mostaql",
+    "name": "Mostaql | \u0645\u0633\u062a\u0642\u0644",
+    "url": "https://mostaql.com/freelancers?keyword={{{s}}}"
+  },
+  {
+    "bang": "ogjs",
+    "name": "Oil and Gas Job Search",
+    "url": "https://www.oilandgasjobsearch.com/Oil-and-Gas-Jobs/Search/{{{s}}}"
+  },
+  {
+    "bang": "oilandgas",
+    "name": "Oil and Gas Job Search",
+    "url": "https://www.oilandgasjobsearch.com/Oil-and-Gas-Jobs/Search/{{{s}}}"
+  },
+  {
+    "bang": "payscale",
+    "name": "Payscale",
+    "url": "http://www.payscale.com/rcsearch.aspx?category=&str={{{s}}}&CountryName=United+States&SourceId=%2Fresearch%2FUS%2FCountry%3DUnited_States%2FSalary"
+  },
+  {
+    "bang": "pef",
+    "name": "www.pole-emploi.fr",
+    "url": "https://candidat.pole-emploi.fr/offres/recherche?motsCles={{{s}}}"
+  },
+  {
+    "bang": "phe",
+    "name": "Phenom People ",
+    "url": "https://careers.phenompeople.com/us/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "philips",
+    "name": "Philips Careers",
+    "url": "https://www.careers.philips.com/professional/global/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "bang": "reed",
+    "name": "reed.co.uk",
+    "url": "http://www.reed.co.uk/job/searchresults.aspx?k={{{s}}}"
+  },
+  {
+    "bang": "rn",
+    "name": "recruit.net",
+    "url": "http://india.recruit.net/search.html?query={{{s}}}&location=delhi"
+  },
+  {
+    "bang": "secjobs",
+    "name": "infosec-jobs.com",
+    "url": "https://infosec-jobs.com/?search_keywords={{{s}}}"
+  },
+  {
+    "bang": "seek",
+    "name": "Seek",
+    "url": "http://www.seek.com.au/JobSearch?SearchFrom=quick&Keywords={{{s}}}"
+  },
+  {
+    "bang": "simplyhired",
+    "name": "SimplyHired",
+    "url": "http://www.simplyhired.com/a/jobs/list/q-{{{s}}}"
+  },
+  {
+    "bang": "skipthedrive",
+    "name": "SkipTheDrive",
+    "url": "http://www.skipthedrive.com/jobs/?search={{{s}}} "
+  },
+  {
+    "bang": "slideshare",
+    "name": "SlideShare",
+    "url": "http://www.slideshare.net/search/slideshow?q={{{s}}}&submit=post&commit=Search"
+  },
+  {
+    "bang": "socompanies",
+    "name": "StackOverflow Companies",
+    "url": "https://stackoverflow.com/jobs/companies?q={{{s}}}"
+  },
+  {
+    "bang": "socp",
+    "name": "Stack Overflow Careers (Company Pages)",
+    "url": "http://careers.stackoverflow.com/companies?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "soc",
+    "name": "Stack Overflow Careers",
+    "url": "http://careers.stackoverflow.com/jobs?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "sojob",
+    "name": "StackOverflow Jobs",
+    "url": "https://stackoverflow.com/jobs?q={{{s}}}"
+  },
+  {
+    "bang": "startupjobs",
+    "name": "Startup Jobs",
+    "url": "https://startup.jobs/?q={{{s}}}"
+  },
+  {
+    "bang": "tapwage",
+    "name": "Tapwage.com",
+    "url": "https://tapwage.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "toogit",
+    "name": "Toogit",
+    "url": "https://www.toogit.com/find-freelance-jobs?JobSearch%5Bsearch_text%5D={{{s}}}"
+  },
+  {
+    "bang": "uiba",
+    "name": "Uiba",
+    "url": "http://uiba.co/?s={{{s}}}"
+  },
+  {
+    "bang": "vagas",
+    "name": "VAGAS.com.br",
+    "url": "https://www.vagas.com.br/vagas-de-{{{s}}}?"
+  },
+  {
+    "bang": "vh",
+    "name": "Vantagehunt",
+    "url": "https://www.vantagehunt.com/jobs?search={{{s}}}"
+  },
+  {
+    "bang": "w3d",
+    "name": "WeLoveDevs",
+    "url": "https://welovedevs.com/app/companies/search?query={{{s}}}&type=company"
+  },
+  {
+    "bang": "wooroll",
+    "name": "Wooroll",
+    "url": "http://www.wooroll.com/search.html?q={{{s}}}&ref=duckduckgo"
+  },
+  {
+    "bang": "workatremote",
+    "name": "WorkAtRemote",
+    "url": "https://workatremote.com/remote-{{{s}}}-jobs"
+  },
+  {
+    "bang": "workcircle",
+    "name": "Workcircle",
+    "url": "http://www.workcircle.com/jobs/?search=1&query={{{s}}}"
+  }
+]

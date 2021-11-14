@@ -1,0 +1,27 @@
+[
+  {
+    "bang": "scaladex",
+    "name": "Scala Center",
+    "url": "https://index.scala-lang.org/search?q={{{s}}} "
+  },
+  {
+    "bang": "scaladoc",
+    "name": "Scala doc",
+    "url": "http://www.scala-lang.org/api/current/?search={{{s}}}"
+  },
+  {
+    "bang": "scalai",
+    "name": "Scala Library Index",
+    "url": "https://index.scala-lang.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "scalalang",
+    "name": "Scala API",
+    "url": "http://www.scala-lang.org/api/current/?search={{{s}}}"
+  },
+  {
+    "bang": "scala",
+    "name": "scala-lang.org",
+    "url": "http://www.scala-lang.org/api/current/?search={{{s}}}"
+  }
+]

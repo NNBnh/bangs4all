@@ -1,0 +1,637 @@
+[
+  {
+    "bang": "7switch",
+    "name": "7switch",
+    "url": "https://www.7switch.com/fr/list/search/page/1?q={{{s}}}"
+  },
+  {
+    "bang": "99quotes",
+    "name": "99 Quotes",
+    "url": "https://99quotes.me/search?q={{{s}}}"
+  },
+  {
+    "bang": "aakb",
+    "name": "Aarhus Bibliotekerne",
+    "url": "https://www.aakb.dk/search/ting/{{{s}}}?"
+  },
+  {
+    "bang": "anobii",
+    "name": "anobii",
+    "url": "http://www.anobii.com/search?s=1&keyword={{{s}}}"
+  },
+  {
+    "bang": "asearchoficeandfire",
+    "name": "A Search of Ice and Fire",
+    "url": "https://asearchoficeandfire.com/?q={{{s}}}"
+  },
+  {
+    "bang": "bakatsuki",
+    "name": "Baka-Tsuki",
+    "url": "https://www.baka-tsuki.org/project/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "bato",
+    "name": "Batoto",
+    "url": "http://bato.to/search?name={{{s}}}&name_cond=c"
+  },
+  {
+    "bang": "bdb",
+    "name": "Bad Dog Books",
+    "url": "https://baddogbooks.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "bang": "beinsa",
+    "name": "beinsa.bg",
+    "url": "http://beinsa.bg/search.php?q={{{s}}}&submit=\u0422\u042a\u0420\u0421\u0418&s_type=all&id=&status=1"
+  },
+  {
+    "bang": "bibgent",
+    "name": "Bibliotheek Gent",
+    "url": "http://zoeken.gent.bibliotheek.be/?q={{{s}}}"
+  },
+  {
+    "bang": "bibliomi",
+    "name": "Sistema Bibliotecario di Milano",
+    "url": "https://milano.biblioteche.it/opac/search/lst?q={{{s}}}"
+  },
+  {
+    "bang": "biblionetka",
+    "name": "Biblionetka.pl",
+    "url": "http://www.biblionetka.pl/search.aspx?searchType=book_catalog&searchPhrase={{{s}}}"
+  },
+  {
+    "bang": "bibliotekkavlinge",
+    "name": "K\u00e4vlinge Bibliotek",
+    "url": "http://bibliotek.kavlinge.se/search?query={{{s}}}"
+  },
+  {
+    "bang": "bibparis",
+    "name": "catalogue des biblioth\u00e8ques de Paris",
+    "url": "https://bibliotheques.paris.fr/Default/search.aspx?SC=CATALOGUE&QUERY={{{s}}}"
+  },
+  {
+    "bang": "bookcrossing",
+    "name": "BookCrossing",
+    "url": "http://bookcrossing.by/books?find={{{s}}}"
+  },
+  {
+    "bang": "bookeen",
+    "name": "Bookeen Store",
+    "url": "https://www.bookeenstore.com/search?words={{{s}}}"
+  },
+  {
+    "bang": "bookfinder",
+    "name": "Book Finder",
+    "url": "http://www.bookfinder.com/search/?author=&title={{{s}}}&lang=en&submit=Begin+search&new_used=*&destination=us&currency=USD&mode=basic&st=sr&ac=qr"
+  },
+  {
+    "bang": "bookflavor",
+    "name": "Bookflavor",
+    "url": "http://bookflavor.com/#!{{{s}}}"
+  },
+  {
+    "bang": "booko",
+    "name": "Booko",
+    "url": "http://booko.com.au/books/search?q={{{s}}}"
+  },
+  {
+    "bang": "books",
+    "name": "Amazon.com",
+    "url": "https://www.amazon.com/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "bppn",
+    "name": "Bppn",
+    "url": "http://katalog.bppn.waw.pl/F?func=find-b&request={{{s}}}&find_code=WRD&adjacent=N&local_base=PRA01&x=0&y=0&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WFM&filter_request_4=&filter_code_5=WSL&filter_request_5="
+  },
+  {
+    "bang": "cbdbcz",
+    "name": "\u010ceskoslovensk\u00e1 bibliografick\u00e1 datab\u00e1ze",
+    "url": "https://cbdb.cz/hledat?text={{{s}}}"
+  },
+  {
+    "bang": "dbbook",
+    "name": "Douban",
+    "url": "https://book.douban.com/subject_search?search_text={{{s}}}&cat=1001"
+  },
+  {
+    "bang": "dbk",
+    "name": "Databaze knih",
+    "url": "http://www.databazeknih.cz/search?q={{{s}}}"
+  },
+  {
+    "bang": "dbnl",
+    "name": "http://dbnl.nl",
+    "url": "http://dbnl.nl/zoeken/zoekeninteksten/index.php?zoek={{{s}}}"
+  },
+  {
+    "bang": "dbread",
+    "name": "read.douban",
+    "url": "https://read.douban.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "docs",
+    "name": "Scribd.com",
+    "url": "http://www.scribd.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "dogob",
+    "name": "DOGO books",
+    "url": "http://www.dogobooks.com/search/{{{s}}}"
+  },
+  {
+    "bang": "d\u00f6rner",
+    "name": "B\u00fccher D\u00f6rner Onlineshop",
+    "url": "https://buecher-doerner.buchhandlung.de/shop/quickSearch?searchString={{{s}}}"
+  },
+  {
+    "bang": "downpour",
+    "name": "Downpour",
+    "url": "http://www.downpour.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "duden",
+    "name": "Duden",
+    "url": "http://www.duden.de/suchen/dudenonline/{{{s}}}"
+  },
+  {
+    "bang": "ebooki",
+    "name": "ebooki.swiatczytnikow.pl",
+    "url": "https://ebooki.swiatczytnikow.pl/szukaj/{{{s}}}"
+  },
+  {
+    "bang": "ebooko",
+    "name": "Booko (eBooks)",
+    "url": "https://booko.com.au/products/search?product_type=3&q={{{s}}}"
+  },
+  {
+    "bang": "ebrary",
+    "name": "ebrary",
+    "url": "http://site.ebrary.com/lib/alltitles/search.action?p00={{{s}}} "
+  },
+  {
+    "bang": "ensdcl",
+    "name": "San Diego County Library (EN)",
+    "url": "http://encore.sdcl.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng&suite=def"
+  },
+  {
+    "bang": "eplibrary",
+    "name": "Evanston Public Library",
+    "url": "http://ccs.polarislibrary.com/polaris/search/searchresults.aspx?ctx=19.1033.0.0.2&type=Keyword&term={{{s}}}&by=KW&sort=PD&limit=TOM=*&query=&page=0&searchid=1"
+  },
+  {
+    "bang": "esv",
+    "name": "ESV Bible",
+    "url": "http://www.esvbible.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ethl",
+    "name": "ETH Library",
+    "url": "https://search.library.ethz.ch/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=DADS&lang=en_US&offset=0"
+  },
+  {
+    "bang": "evirtat",
+    "name": "Estante Virtual (by author and/or title)",
+    "url": "http://www.estantevirtual.com.br/q/{{{s}}}"
+  },
+  {
+    "bang": "evirtau",
+    "name": "Estante Virtual (by author)",
+    "url": "http://www.estantevirtual.com.br/qau/{{{s}}}"
+  },
+  {
+    "bang": "evirtdes",
+    "name": "Estante Virtual (description)",
+    "url": "http://www.estantevirtual.com.br/qdes/{{{s}}}"
+  },
+  {
+    "bang": "evirted",
+    "name": "Estante Virtual (by publisher)",
+    "url": "http://www.estantevirtual.com.br/qed/{{{s}}}"
+  },
+  {
+    "bang": "evirt",
+    "name": "Estante Virtual (all)",
+    "url": "http://www.estantevirtual.com.br/qt/{{{s}}}"
+  },
+  {
+    "bang": "evirttit",
+    "name": "Estante Virtual (by title)",
+    "url": "http://www.estantevirtual.com.br/qtit/{{{s}}}"
+  },
+  {
+    "bang": "fanfiction",
+    "name": "Fanfiction",
+    "url": "https://www.fanfiction.net/search/?keywords={{{s}}}"
+  },
+  {
+    "bang": "fantlab",
+    "name": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u0424\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0438",
+    "url": "https://fantlab.ru/searchmain?searchstr={{{s}}}"
+  },
+  {
+    "bang": "feedbooks",
+    "name": "Feedbooks",
+    "url": "http://www.feedbooks.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "gb",
+    "name": "Google Books",
+    "url": "http://books.google.com/books?q={{{s}}}&btnG=Search+Books"
+  },
+  {
+    "bang": "gml",
+    "name": "GML Bokhandel",
+    "url": "https://www.gml.se/bocker/sok?q={{{s}}}"
+  },
+  {
+    "bang": "goodreads",
+    "name": "GoodReads",
+    "url": "http://www.goodreads.com/search/search?search_type=books&search[query]={{{s}}}"
+  },
+  {
+    "bang": "goodreadslist",
+    "name": "Goodreads Lists",
+    "url": "https://www.goodreads.com/search?search_type=lists&q={{{s}}}"
+  },
+  {
+    "bang": "googlebooks",
+    "name": "Google Books",
+    "url": "https://www.google.com/search?tbm=bks&q={{{s}}}"
+  },
+  {
+    "bang": "greads",
+    "name": "goodreads",
+    "url": "https://www.goodreads.com/search?utf8=\u2713&query={{{s}}}"
+  },
+  {
+    "bang": "gr",
+    "name": "Goodreads",
+    "url": "https://www.goodreads.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gubf",
+    "name": "Goethe Uni Bib FRA",
+    "url": "https://hds.hebis.de/ubffm/Search/Results?lookfor={{{s}}}&type=allfields&submit=Suchen"
+  },
+  {
+    "bang": "gutenberg",
+    "name": "Project Gutenberg",
+    "url": "http://www.gutenberg.org/ebooks/search/?query={{{s}}}"
+  },
+  {
+    "bang": "hclib",
+    "name": "Hennepin County Library",
+    "url": "https://hclib.bibliocommons.com/v2/search?query={{{s}}}&searchType=smart"
+  },
+  {
+    "bang": "hmcpl",
+    "name": "Huntsville-Madison County Public Library",
+    "url": "https://catalog.hmcpl.org/cgi-bin/koha/opac-search.pl?q={{{s}}}"
+  },
+  {
+    "bang": "hon",
+    "name": "honto",
+    "url": "https://honto.jp/netstore/search_10{{{s}}}.html?srchf=1&tbty=0"
+  },
+  {
+    "bang": "hpb",
+    "name": "Half Price Books",
+    "url": "https://www.hpb.com/products?utf8=%E2%9C%93&keywords={{{s}}}"
+  },
+  {
+    "bang": "ib",
+    "name": "Indiebound.org",
+    "url": "https://www.indiebound.org/search/book?keys={{{s}}}"
+  },
+  {
+    "bang": "indigo",
+    "name": "Indigo Books",
+    "url": "http://www.chapters.indigo.ca/home/search/?keywords={{{s}}}"
+  },
+  {
+    "bang": "inv",
+    "name": "inventaire.io",
+    "url": "https://inventaire.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "isbndb",
+    "name": "ISBNdb.com",
+    "url": "http://isbndb.com/search-all.html?kw={{{s}}}"
+  },
+  {
+    "bang": "isbn",
+    "name": "ISBNdb",
+    "url": "https://isbndb.com/search/books/{{{s}}}"
+  },
+  {
+    "bang": "isbnnu",
+    "name": "isbn.nu",
+    "url": "http://isbn.nu/{{{s}}}"
+  },
+  {
+    "bang": "isbnsearch",
+    "name": "ISBN Search",
+    "url": "https://isbnsearch.org/search?s={{{s}}}"
+  },
+  {
+    "bang": "jstor",
+    "name": "JSTOR",
+    "url": "http://www.jstor.org/action/doBasicSearch?Query={{{s}}}"
+  },
+  {
+    "bang": "kcpl",
+    "name": "Kenton County Public Library",
+    "url": "http://catalog.kentonlibrary.org/eg/opac/results?query={{{s}}}"
+  },
+  {
+    "bang": "ketab",
+    "name": "Ketab",
+    "url": "https://ketab.io/search?submit=\u062c\u0633\u062a\u062c\u0648&q={{{s}}}"
+  },
+  {
+    "bang": "kindle",
+    "name": "Amazon Kindle",
+    "url": "https://www.amazon.com/s/?tag=duc0c-20&url=search-alias%3Ddigital-text&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "kindlede",
+    "name": "Kindle Shop (German)",
+    "url": "https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=\u00c5M\u00c5\u017d\u00d5\u00d1&url=search-alias%3Ddigital-text&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "kindleuk",
+    "name": "Amazon UK Kindle",
+    "url": "https://www.amazon.co.uk/s/?tag=duc0c-21&url=search-alias%3Ddigital-text&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "kirkus",
+    "name": "Kirkus Reviews",
+    "url": "https://www.kirkusreviews.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "kit",
+    "name": "KIT-Bibliothek",
+    "url": "http://primo.bibliothek.kit.edu/primo_library/libweb/action/search.do?mode=Basic&vid=KIT&vl%28freeText0%29={{{s}}}&vl%28freeText0%29=test&fn=search&tab=kit&srt=date"
+  },
+  {
+    "bang": "kkbib",
+    "name": "K\u00f8benhavns Biblioteker ( Copenhagen Libraries)",
+    "url": "https://bibliotek.kk.dk/search/ting/{{{s}}}"
+  },
+  {
+    "bang": "kobo",
+    "name": "Kobo",
+    "url": "https://www.kobo.com/us/en/search?Query={{{s}}}"
+  },
+  {
+    "bang": "kthb",
+    "name": "KTH Library",
+    "url": "https://kth-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&vid=46KTH_VU1_L&search_scope=default_scope&sortby=rank&tab=default_tab&lang=en_US&mode=simple&fromRedirectFilter=true"
+  },
+  {
+    "bang": "legimi",
+    "name": "Legimi.pl",
+    "url": "https://www.legimi.pl/ebooki/?szukaj={{{s}}}"
+  },
+  {
+    "bang": "librarything",
+    "name": "LibraryThing",
+    "url": "http://www.librarything.com/search_works.php?q={{{s}}}"
+  },
+  {
+    "bang": "libreture",
+    "name": "Libreture",
+    "url": "https://www.libreture.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "librivox",
+    "name": "LibriVox",
+    "url": "http://librivox.org/newcatalog/search.php?title={{{s}}}&author=&status=all&action=Search"
+  },
+  {
+    "bang": "littre",
+    "name": "Dictionnaire Littr\u00e9",
+    "url": "http://www.littre.org/definition/{{{s}}}"
+  },
+  {
+    "bang": "lt",
+    "name": "LibraryThing",
+    "url": "https://www.librarything.com/search.php?searchtype=work&search={{{s}}}"
+  },
+  {
+    "bang": "majorsbooks",
+    "name": "Majors Books",
+    "url": "http://www.majorsbooks.com/search/?searchQuery={{{s}}}"
+  },
+  {
+    "bang": "manga",
+    "name": "MyAnimeList Manga",
+    "url": "http://myanimelist.net/manga.php?q={{{s}}}"
+  },
+  {
+    "bang": "mistborn",
+    "name": "Mistborn Wiki",
+    "url": "http://mistborn.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "mkp",
+    "name": "M\u011bstsk\u00e1 knihovna v Praze",
+    "url": "https://search.mlp.cz/cz/?query={{{s}}}&kde=all#/c_s_ol=query-eq:{{{s}}}"
+  },
+  {
+    "bang": "mna",
+    "name": "M&A Critique",
+    "url": "https://mnacritique.mergersindia.com/?s="
+  },
+  {
+    "bang": "moly",
+    "name": "Moly.hu",
+    "url": "http://moly.hu/kereses?q={{{s}}}"
+  },
+  {
+    "bang": "mondadoristore",
+    "name": "Mondadori Store",
+    "url": "http://www.mondadoristore.it/search/?tpr=10&g={{{s}}}&swe=N&search-input=active"
+  },
+  {
+    "bang": "nb",
+    "name": "Nasjonalbiblioteket",
+    "url": "http://www.nb.no/nbsok/search?page=0&menuOpen=false&instant=true&action=search&currentHit=-1&searchString={{{s}}}"
+  },
+  {
+    "bang": "ninja",
+    "name": "Ninjawords",
+    "url": "http://ninjawords.com/{{{s}}}"
+  },
+  {
+    "bang": "noslivres",
+    "name": "NosLivres",
+    "url": "http://noslivres.net/?r={{{s}}}"
+  },
+  {
+    "bang": "novelupdates",
+    "name": "Novel updates",
+    "url": "http://www.novelupdates.com/?s={{{s}}}&post_type=seriesplans"
+  },
+  {
+    "bang": "olib",
+    "name": "Open Library",
+    "url": "http://openlibrary.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "olibtext",
+    "name": "Open Library (Full Text Search)",
+    "url": "https://openlibrary.org/search/inside?q={{{s}}}"
+  },
+  {
+    "bang": "onecard",
+    "name": "South Australia Public Library",
+    "url": "https://onecard.network/client/en_AU/sapubliclibraries/search/results?qu={{{s}}}"
+  },
+  {
+    "bang": "openlib",
+    "name": "OpenLibra",
+    "url": "https://openlibra.com/en/collection/search/term/{{{s}}}"
+  },
+  {
+    "bang": "openlibrary",
+    "name": "Open Library",
+    "url": "http://openlibrary.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "ovd",
+    "name": "OverDrive",
+    "url": "https://www.overdrive.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "overdrive",
+    "name": "OverDrive",
+    "url": "https://www.overdrive.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "perrypedia",
+    "name": "Perrypedia",
+    "url": "http://www.perrypedia.proc.org/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pgfr",
+    "name": "Projet Gutenberg Fr",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=l.fr+{{{s}}}"
+  },
+  {
+    "bang": "pg",
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ppl",
+    "name": "Plymouth (Indiana) Public Library",
+    "url": "https://plymouthpubliclibrary.bibliocommons.com/search?utf8=%E2%9C%93&t=smart&search_category=keyword&q={{{s}}}"
+  },
+  {
+    "bang": "punctumbooks",
+    "name": "punctum books",
+    "url": "https://punctumbooks.com/?s={{{s}}}"
+  },
+  {
+    "bang": "royalroadl",
+    "name": "Royal Road",
+    "url": "https://royalroadl.com/fictions/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "ryfma",
+    "name": "Ryfma",
+    "url": "https://ryfma.com/search/{{{s}}}"
+  },
+  {
+    "bang": "safari",
+    "name": "Safari Books Online",
+    "url": "https://www.safaribooksonline.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "saxo",
+    "name": "SAXO.com",
+    "url": "https://www.saxo.com/dk/products/search?query={{{s}}}"
+  },
+  {
+    "bang": "scifi",
+    "name": "Worlds Without End",
+    "url": "http://www.worldswithoutend.com/searchwwe.asp?st={{{s}}} "
+  },
+  {
+    "bang": "scribd",
+    "name": "Scribd",
+    "url": "http://www.scribd.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "sdcl",
+    "name": "San Diego County Library (EN)",
+    "url": "http://encore.sdcl.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng&suite=def"
+  },
+  {
+    "bang": "shub",
+    "name": "ScribbleHub",
+    "url": "https://www.scribblehub.com/?s={{{s}}}"
+  },
+  {
+    "bang": "sjcpl",
+    "name": "St. Joeseph Co. Public Library",
+    "url": "http://stjos.sjcpl.lib.in.us/search/?searchtype=X&SORT=D&searcharg={{{s}}} "
+  },
+  {
+    "bang": "slcpl",
+    "name": "Salt Lake City Public Library",
+    "url": "http://catalog.slcpl.org/search/searchresults.aspx?term={{{s}}}"
+  },
+  {
+    "bang": "smashwords",
+    "name": "Smashwords",
+    "url": "http://www.smashwords.com/books/search?query={{{s}}}"
+  },
+  {
+    "bang": "stdebook",
+    "name": "Standard Ebooks",
+    "url": "https://standardebooks.org/ebooks/?query={{{s}}}"
+  },
+  {
+    "bang": "suub",
+    "name": "Staats- und Universit\u00e4tsbibliothek Bremen",
+    "url": "https://suche.suub.uni-bremen.de/cgi-bin/CiXbase/brewis/CiXbase_search?act=search&INDEXINFO=awCN&LAN=DE&ORDER=&IHITS=15&FHITS=15&PRECISION=220&RELEVANCE=40&NO_RBITS=&n_dtyp=1LZ&n_rtyp=ceEdX&index=L&XML_STYLE=%2Fstyles%2Fcns-DE.xml%3F20130610&dtyp=&mtyp=&section=&term={{{s}}}&CID=&x=0&y=0"
+  },
+  {
+    "bang": "tal",
+    "name": "The Anarchist Library",
+    "url": "http://theanarchistlibrary.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "thalia",
+    "name": "Thalia.de",
+    "url": "https://www.thalia.de/suche?sq={{{s}}}"
+  },
+  {
+    "bang": "volcans",
+    "name": "Librairie Les Volcans",
+    "url": "http://www.librairielesvolcans.com/listeliv.php?RECHERCHE=simple&MOTS={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "wattpad",
+    "name": "Wattpad",
+    "url": "http://www.wattpad.com/stories/search/{{{s}}}"
+  },
+  {
+    "bang": "wccls",
+    "name": "Washington County Cooperative Library Services",
+    "url": "http://catalog.wccls.org/polaris/search/searchresults.aspx?term={{{s}}}"
+  },
+  {
+    "bang": "ws",
+    "name": "Wikisource",
+    "url": "https://en.wikisource.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wwend",
+    "name": "Worlds Without End",
+    "url": "http://www.worldswithoutend.com/searchwwe.asp?st={{{s}}}"
+  }
+]

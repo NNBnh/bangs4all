@@ -1,0 +1,67 @@
+[
+  {
+    "bang": "cpan1",
+    "name": "MetaCPAN",
+    "url": "https://metacpan.org/search?q={{{s}}}&lucky=1"
+  },
+  {
+    "bang": "cpandeps",
+    "name": "CPAN Dependencies Checker",
+    "url": "http://deps.cpantesters.org/?module={{{s}}}&perl=any+version&os=any+OS"
+  },
+  {
+    "bang": "cpan",
+    "name": "MetaCPAN",
+    "url": "http://metacpan.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "cpanm",
+    "name": "MetaCPAN",
+    "url": "http://metacpan.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "mcpan",
+    "name": "MetaCPAN",
+    "url": "http://metacpan.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "metacpan",
+    "name": "MetaCPAN",
+    "url": "https://metacpan.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "oldcpan",
+    "name": "CPAN",
+    "url": "http://search.cpan.org/search?query={{{s}}}&mode=all"
+  },
+  {
+    "bang": "perldoc",
+    "name": "Perldoc Browser",
+    "url": "https://perldoc.pl/search?q={{{s}}}"
+  },
+  {
+    "bang": "perlmod6",
+    "name": "Perl 6 Modules",
+    "url": "http://modules.perl6.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "perlmod",
+    "name": "p3rl.org",
+    "url": "http://p3rl.org/{{{s}}}"
+  },
+  {
+    "bang": "perlmonks",
+    "name": "PerlMonks.org",
+    "url": "http://www.perlmonks.org/?node={{{s}}}"
+  },
+  {
+    "bang": "perl",
+    "name": "p3rl.org",
+    "url": "http://p3rl.org/{{{s}}}"
+  },
+  {
+    "bang": "searchcpan",
+    "name": "CPAN",
+    "url": "http://search.cpan.org/search?query={{{s}}}&mode=all"
+  }
+]

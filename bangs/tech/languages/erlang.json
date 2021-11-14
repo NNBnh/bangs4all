@@ -1,0 +1,22 @@
+[
+  {
+    "bang": "erl",
+    "name": "Erlang Docs",
+    "url": "http://erlang.org/doc/search/?q={{{s}}}"
+  },
+  {
+    "bang": "erlm",
+    "name": "Erlang Module Documentation",
+    "url": "http://erlang.org/doc/man/{{{s}}}.html"
+  },
+  {
+    "bang": "hexdocs",
+    "name": "Hex Docs",
+    "url": "http://hexdocs.pm/{{{s}}}"
+  },
+  {
+    "bang": "hexpm",
+    "name": "Hex.pm",
+    "url": "https://hex.pm/packages?search={{{s}}}&sort=downloads"
+  }
+]

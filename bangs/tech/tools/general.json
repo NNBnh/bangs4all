@@ -1,0 +1,12 @@
+[
+  {
+    "bang": "be",
+    "name": "Block Explorer",
+    "url": "https://blockexplorer.com/searchgo/{{{s}}}"
+  },
+  {
+    "bang": "wordnet",
+    "name": "WordNet",
+    "url": "http://wordnetweb.princeton.edu/perl/webwn?s={{{s}}}&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h="
+  }
+]

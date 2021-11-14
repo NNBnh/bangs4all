@@ -1,0 +1,287 @@
+[
+  {
+    "bang": "101",
+    "name": "101 Domain",
+    "url": "http://www.101domain.com/domain-availability-search.htm?q={{{s}}}&sa.x=0&sa.y=0"
+  },
+  {
+    "bang": "101domain",
+    "name": "101domain",
+    "url": "https://www.101domain.com/domain-availability-search.htm?q={{{s}}}"
+  },
+  {
+    "bang": "1und1",
+    "name": "1und1",
+    "url": "https://www.1und1.de/suche?query={{{s}}}"
+  },
+  {
+    "bang": "ahmia",
+    "name": "Ahmia.fi",
+    "url": "https://ahmia.fi/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ahrefs",
+    "name": "ahrefs",
+    "url": "https://ahrefs.com/site-explorer/overview/v2/subdomains/recent?target={{{s}}}"
+  },
+  {
+    "bang": "alternativeto",
+    "name": "alternativeto.net",
+    "url": "http://alternativeto.net/browse/search?q={{{s}}}"
+  },
+  {
+    "bang": "asnumber",
+    "name": "Ultratools",
+    "url": "https://www.ultratools.com/tools/asnInfoResult?domainName={{{s}}}"
+  },
+  {
+    "bang": "azure",
+    "name": "Azure Documentation",
+    "url": "https://azure.microsoft.com/en-us/search/?q={{{s}}}"
+  },
+  {
+    "bang": "blacklist",
+    "name": "MXToolbox",
+    "url": "http://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "bang": "builtwith",
+    "name": "BuiltWith",
+    "url": "https://builtwith.com/?{{{s}}}"
+  },
+  {
+    "bang": "clearweb",
+    "name": "ClearWebStats",
+    "url": "http://www.clearwebstats.com/process.php?q={{{s}}}"
+  },
+  {
+    "bang": "crt",
+    "name": "crt.sh",
+    "url": "https://crt.sh/?q={{{s}}}"
+  },
+  {
+    "bang": "ddt",
+    "name": "DuckDuckGo Tor url",
+    "url": "http://3g2upl4pq6kufc4m.onion/?q={{{s}}}"
+  },
+  {
+    "bang": "decode",
+    "name": "UrlDecode.org",
+    "url": "https://urldecode.org/?text={{{s}}}&mode=decode"
+  },
+  {
+    "bang": "dmarc",
+    "name": "MXToolbox DMARC",
+    "url": "https://mxtoolbox.com/SuperTool.aspx?action=dmarc%3a{{{s}}}&run=networktools"
+  },
+  {
+    "bang": "domaindossier",
+    "name": "Domain Dossier",
+    "url": "http://centralops.net/co/DomainDossier.aspx?addr={{{s}}}&dom_whois=true&dom_dns=true&traceroute=true&net_whois=true&svc_scan=true"
+  },
+  {
+    "bang": "domain",
+    "name": "NameCheap",
+    "url": "http://www.namecheap.com/domains/domain-name-search/results.aspx?domain={{{s}}}"
+  },
+  {
+    "bang": "domainr",
+    "name": "Domainr",
+    "url": "https://domainr.com/?q={{{s}}}"
+  },
+  {
+    "bang": "domize.com",
+    "name": "Domize",
+    "url": "https://domize.com/?q={{{s}}}"
+  },
+  {
+    "bang": "dottk",
+    "name": "Dot TK",
+    "url": "http://my.dot.tk/registration/register?domainname={{{s}}}"
+  },
+  {
+    "bang": "expired",
+    "name": "Expired Domains",
+    "url": "https://www.expireddomains.net/domain-name-search/?searchinit=1&q={{{s}}} "
+  },
+  {
+    "bang": "gandi",
+    "name": "Gandi.net",
+    "url": "https://www.gandi.net/domain/suggest?domain_list={{{s}}}"
+  },
+  {
+    "bang": "gdns",
+    "name": "Google Public DNS",
+    "url": "https://dns.google.com/query?name={{{s}}}&type=A&dnssec=true"
+  },
+  {
+    "bang": "godaddy",
+    "name": "godaddy",
+    "url": "https://www.godaddy.com/dpp/find?checkAvail=1%2c1&isc=daytona08&ci=8962&domainToCheck={{{s}}}"
+  },
+  {
+    "bang": "hideme",
+    "name": "Hide.me proxy",
+    "url": "https://nl.hideproxy.me/go.php?u={{{s}}}"
+  },
+  {
+    "bang": "hover",
+    "name": "Hover",
+    "url": "https://www.hover.com/domains/results?q={{{s}}}"
+  },
+  {
+    "bang": "hphosts",
+    "name": "hphosts",
+    "url": "http://hosts-file.net/default.asp?s={{{s}}}"
+  },
+  {
+    "bang": "hypestat",
+    "name": "hypestat",
+    "url": "http://www.{{{s}}}.hypestat.com"
+  },
+  {
+    "bang": "ids",
+    "name": "Instant Domain Search",
+    "url": "https://instantdomainsearch.com/#search={{{s}}}"
+  },
+  {
+    "bang": "iid",
+    "name": "https://www.isitdownrightnow.com",
+    "url": "https://www.isitdownrightnow.com/{{{s}}}.html"
+  },
+  {
+    "bang": "inwx",
+    "name": "InterNetworX",
+    "url": "http://www.inwx.com/en/domain/check#search={{{s}}}#region=DEFAULT"
+  },
+  {
+    "bang": "isgd",
+    "name": "is.gd",
+    "url": "https://is.gd/create.php?url={{{s}}}"
+  },
+  {
+    "bang": "iwant",
+    "name": "iWantMyName",
+    "url": "http://iwantmyname.com/search?domain={{{s}}}"
+  },
+  {
+    "bang": "iwantmyname",
+    "name": "iwantmyname",
+    "url": "https://iwantmyname.com/?domain={{{s}}}"
+  },
+  {
+    "bang": "iwmn",
+    "name": "iWantMyName",
+    "url": "https://iwantmyname.com/?domain={{{s}}}"
+  },
+  {
+    "bang": "kuribo64",
+    "name": "Kuribo64",
+    "url": "http://kuribo64.net/board/search.php?q={{{s}}}&inposts=0"
+  },
+  {
+    "bang": "mac",
+    "name": "MAC address lookup",
+    "url": "http://www.macvendorlookup.com/search/{{{s}}}"
+  },
+  {
+    "bang": "manjaro",
+    "name": "Manjaro Wiki",
+    "url": "https://wiki.manjaro.org/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "mydns",
+    "name": "My Privat DNS",
+    "url": "https://mypdns.org/trac/search?q={{{s}}}"
+  },
+  {
+    "bang": "name",
+    "name": "Name.com ",
+    "url": "http://www.name.com/name?&domain={{{s}}}"
+  },
+  {
+    "bang": "ncheap",
+    "name": "NameCheap",
+    "url": "http://www.namecheap.com/domains/domain-name-search/results.aspx?domain={{{s}}}"
+  },
+  {
+    "bang": "nc",
+    "name": "Namecheap",
+    "url": "https://www.namecheap.com/domains/registration/results.aspx?domain={{{s}}} "
+  },
+  {
+    "bang": "ninlife",
+    "name": "Nintendo Life",
+    "url": "http://www.nintendolife.com/search?q={{{s}}}&submit=Go"
+  },
+  {
+    "bang": "noi",
+    "name": "CCF NOI \u5b98\u7f51",
+    "url": "http://www.noi.cn/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "norid",
+    "name": "Norid",
+    "url": "http://www.norid.no/index.html?charset=UTF-8&page=index&sok=S\u00f8k&query={{{s}}}"
+  },
+  {
+    "bang": "qssl",
+    "name": "Qualys SSL Labs",
+    "url": "https://www.ssllabs.com/ssldb/analyze.html?d={{{s}}}&hideResults=on"
+  },
+  {
+    "bang": "riddler",
+    "name": "F-Secure Riddler",
+    "url": "https://riddler.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "sedo",
+    "name": "Sedo",
+    "url": "https://sedo.com/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "ssllabs",
+    "name": "ssllabs",
+    "url": "https://www.ssllabs.com/ssltest/analyze.html?d={{{s}}}"
+  },
+  {
+    "bang": "ssl",
+    "name": "SSL Labs",
+    "url": "https://www.ssllabs.com/ssltest/analyze.html?d={{{s}}}&latest=true"
+  },
+  {
+    "bang": "t2w",
+    "name": "Tor 2 Web",
+    "url": "https://{{{s}}}.tor2web.org"
+  },
+  {
+    "bang": "toratlas",
+    "name": "Atlas (Tor Project)",
+    "url": "https://atlas.torproject.org/#search/{{{s}}}"
+  },
+  {
+    "bang": "tor",
+    "name": "Tor 2 Web",
+    "url": "https://{{{s}}}.tor2web.org"
+  },
+  {
+    "bang": "tracemyip",
+    "name": "tracemyip",
+    "url": "http://tools.tracemyip.org/lookup/{{{s}}}"
+  },
+  {
+    "bang": "traceroute",
+    "name": "Network-Tools.com",
+    "url": "http://network-tools.com/default.asp?prog=trace&host={{{s}}}"
+  },
+  {
+    "bang": "unshorten",
+    "name": "Unshorten.me",
+    "url": "https://unshorten.me/s/{{{s}}}"
+  },
+  {
+    "bang": "wayback",
+    "name": "Internet Archive: Wayback Machine",
+    "url": "https://web.archive.org/web/*/{{{s}}}"
+  }
+]

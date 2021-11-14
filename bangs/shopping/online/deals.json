@@ -1,0 +1,762 @@
+[
+  {
+    "bang": "2eme",
+    "name": "2ememain",
+    "url": "http://www.2ememain.be/marche/2/{{{s}}}"
+  },
+  {
+    "bang": "6pm",
+    "name": "6pm.com",
+    "url": "https://www.6pm.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "abs",
+    "name": "AllBookstores",
+    "url": "http://www.allbookstores.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ai",
+    "name": "www.amazon.in",
+    "url": "https://www.amazon.in/s/ref=nb_sb_noss?tag=duc21-21&url=search-alias%3Daps&field-keywords={{{s}}} "
+  },
+  {
+    "bang": "akakce",
+    "name": "Akak\u00e7e",
+    "url": "http://www.akakce.com/arama/?q={{{s}}}"
+  },
+  {
+    "bang": "aks",
+    "name": "AllKeyShop",
+    "url": "http://www.allkeyshop.com/blog/catalogue/search-{{{s}}}"
+  },
+  {
+    "bang": "aliseeks",
+    "name": "Aliseeks",
+    "url": "http://aliseeks.com/search?SearchText={{{s}}}"
+  },
+  {
+    "bang": "alternate",
+    "name": "Alternate",
+    "url": "http://www.alternate.de/html/search.html?searchCriteria={{{s}}}"
+  },
+  {
+    "bang": "autoblip",
+    "name": "Autoblip",
+    "url": "http://www.autoblip.com/used/{{{s}}} "
+  },
+  {
+    "bang": "avito",
+    "name": "Avito",
+    "url": "https://www.avito.ru/rossiya?q={{{s}}}"
+  },
+  {
+    "bang": "awd",
+    "name": "Amazon Warehouse Deals",
+    "url": "https://www.amazon.com/s/url=search-alias%3Dwarehouse-deals&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "banggood",
+    "name": "Bang good",
+    "url": "http://www.banggood.com/index.php?keywords={{{s}}}&cat_id=0&com=search"
+  },
+  {
+    "bang": "bargain",
+    "name": "Shopping-Bargains",
+    "url": "http://www.shopping-bargains.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bartlets",
+    "name": "Bartelby",
+    "url": "https://www.bartleby.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bazos",
+    "name": "Bazo\u0161.cz",
+    "url": "http://www.bazos.cz/search.php?hledat={{{s}}}"
+  },
+  {
+    "bang": "bdeals",
+    "name": "Brad's Deals",
+    "url": "http://www.bradsdeals.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bdica",
+    "name": "Boa Dica",
+    "url": "https://www.boadica.com.br/busca-resultado?q={{{s}}}"
+  },
+  {
+    "bang": "bgpuk",
+    "name": "BoardGamePrices",
+    "url": "https://boardgameprices.co.uk/item/search?search={{{s}}}"
+  },
+  {
+    "bang": "bidvoy",
+    "name": "Bidvoy",
+    "url": "http://bidvoy.net/%22{{{s}}} "
+  },
+  {
+    "bang": "bk",
+    "name": "Blue Kangaroo",
+    "url": "https://www.bluekangaroo.com/products?term={{{s}}}"
+  },
+  {
+    "bang": "bmde",
+    "name": "BrickMerge",
+    "url": "https://www.brickmerge.de/?find={{{s}}}"
+  },
+  {
+    "bang": "bodyfit",
+    "name": "Body & Fit",
+    "url": "http://www.bodyenfitshop.nl/#twn|?tn_q={{{s}}}"
+  },
+  {
+    "bang": "brettspiele",
+    "name": "Brettspiel Angebote",
+    "url": "http://www.brettspiel-angebote.de/spiele/?s={{{s}}}&t="
+  },
+  {
+    "bang": "camerapb",
+    "name": "Camera Price Buster",
+    "url": "https://www.camerapricebuster.co.uk/Search?q={{{s}}}"
+  },
+  {
+    "bang": "ccnz",
+    "name": "Cheapies NZ",
+    "url": "https://www.cheapies.nz/search/node/{{{s}}}"
+  },
+  {
+    "bang": "cdd",
+    "name": "CheapDigitalDownload",
+    "url": "https://cheapdigitaldownload.com/catalog/search-{{{s}}}"
+  },
+  {
+    "bang": "cex",
+    "name": "CeX",
+    "url": "https://uk.webuy.com/search/index.php?stext={{{s}}}"
+  },
+  {
+    "bang": "chollo",
+    "name": "chollometro",
+    "url": "https://www.chollometro.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cmpeu",
+    "name": "compare.eu",
+    "url": "http://compare.eu/?fs={{{s}}}"
+  },
+  {
+    "bang": "cnz",
+    "name": "Cheapies NZ",
+    "url": "https://www.cheapies.nz/search/node/{{{s}}}"
+  },
+  {
+    "bang": "colormango",
+    "name": "ColorMango",
+    "url": "http://www.colormango.com/search/index.asp?keyword={{{s}}}"
+  },
+  {
+    "bang": "couponcabin",
+    "name": "CouponCabin",
+    "url": "http://www.couponcabin.com/ps/{{{s}}}/1"
+  },
+  {
+    "bang": "couponmeup",
+    "name": "CouponMeUp",
+    "url": "http://www.couponmeup.com/cgi-bin/display.pl?search=1&q={{{s}}} "
+  },
+  {
+    "bang": "coupons",
+    "name": "DealTaker",
+    "url": "http://www.dealtaker.com/site/search?q={{{s}}}"
+  },
+  {
+    "bang": "couponsurfer",
+    "name": "CouponSurfer",
+    "url": "http://www.couponsurfer.com/coupon_search.cfm?q={{{s}}}"
+  },
+  {
+    "bang": "cs",
+    "name": "CheapShark",
+    "url": "http://www.cheapshark.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "danawa",
+    "name": "Danawa",
+    "url": "http://search.danawa.com/dsearch.php?query={{{s}}}"
+  },
+  {
+    "bang": "dealabs",
+    "name": "Dealabs",
+    "url": "http://www.dealabs.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "dealagora",
+    "name": "DealAgora",
+    "url": "https://www.dealagora.com/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "dealextreme",
+    "name": "DealExtreme",
+    "url": "http://dx.com/s/{{{s}}}"
+  },
+  {
+    "bang": "dealnews",
+    "name": "Deal News",
+    "url": "http://dealnews.com/search.html?search={{{s}}}"
+  },
+  {
+    "bang": "deals",
+    "name": "r/deals",
+    "url": "https://www.reddit.com/r/deals/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "demeureetjardin",
+    "name": "Demeure et Jardin",
+    "url": "http://www.demeure-et-jardin.com/?q={{{s}}}"
+  },
+  {
+    "bang": "denicheur",
+    "name": "Le D\u00e9nicheur",
+    "url": "http://ledenicheur.fr/#rparams=ss={{{s}}} "
+  },
+  {
+    "bang": "dlc",
+    "name": "DLCompare",
+    "url": "http://www.dlcompare.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "drom",
+    "name": "drom.ru",
+    "url": "https://www.drom.ru/search/?q={{{s}}}"
+  },
+  {
+    "bang": "dtdeals",
+    "name": "DoubleTakeDeals",
+    "url": "http://www.doubletakedeals.com/searchresults?srch={{{s}}}"
+  },
+  {
+    "bang": "ebates",
+    "name": "Ebates",
+    "url": "http://www.ebates.com/search/all.htm?query={{{s}}}&position=submit&type=suggest&store_name={{{s}}}"
+  },
+  {
+    "bang": "ethrev",
+    "name": "Ethical Revolution",
+    "url": "https://ethicalrevolution.co.uk/?s={{{s}}}"
+  },
+  {
+    "bang": "eukeries",
+    "name": "eukeries",
+    "url": "https://www.eukeries.com/?s={{{s}}}"
+  },
+  {
+    "bang": "flyer",
+    "name": "Flyer Hunters",
+    "url": "https://flyerhunters.com/?s={{{s}}}"
+  },
+  {
+    "bang": "fyndiq",
+    "name": "Fyndiq",
+    "url": "https://fyndiq.se/search/?q={{{s}}}"
+  },
+  {
+    "bang": "geiz",
+    "name": "Geizhals",
+    "url": "https://geizhals.eu/?fs={{{s}}}"
+  },
+  {
+    "bang": "geizhalsde",
+    "name": "geizhals.de",
+    "url": "http://geizhals.de/?fs={{{s}}}&in="
+  },
+  {
+    "bang": "getdeals",
+    "name": "GetDeals",
+    "url": "https://getdeals.co.in/search?q={{{s}}}"
+  },
+  {
+    "bang": "ggnet",
+    "name": "GameGator",
+    "url": "https://gamegator.net/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "ghat",
+    "name": "Geizhals \u00d6sterreich",
+    "url": "https://geizhals.at/?in=&fs={{{s}}}"
+  },
+  {
+    "bang": "giga-cultures",
+    "name": "Giga Cultures",
+    "url": "http://giga-cultures.com/recherche?controller=search&search_query={{{s}}}:"
+  },
+  {
+    "bang": "groene",
+    "name": "http://groenewaterman.mijnboekhandelaar.com",
+    "url": "http://groenewaterman.mijnboekhandelaar.com/index.php?option=com_mbhbooksearch&Itemid=10008&task=gosearch&query={{{s}}}"
+  },
+  {
+    "bang": "gue",
+    "name": "guenstiger.de",
+    "url": "http://www.guenstiger.de/Katalog/Preis.pl?suche={{{s}}}"
+  },
+  {
+    "bang": "gundeals",
+    "name": "gun.deals",
+    "url": "https://gun.deals/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "bang": "gunengine",
+    "name": "GunEngine",
+    "url": "http://www.gunengine.com/guns?q={{{s}}}"
+  },
+  {
+    "bang": "gunwatcher",
+    "name": "GunWatcher",
+    "url": "https://gunwatcher.com/Search/{{{s}}}"
+  },
+  {
+    "bang": "gzh",
+    "name": "Geizhals",
+    "url": "http://www.geizhals.at/eu/?such={{{s}}}"
+  },
+  {
+    "bang": "hfqpdb",
+    "name": "Harbor Freight Tools Coupon Database",
+    "url": "http://www.hfqpdb.com/search/{{{s}}}"
+  },
+  {
+    "bang": "hfs",
+    "name": "Hifishark",
+    "url": "https://www.hifishark.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "hotline",
+    "name": "Hotline",
+    "url": "http://hotline.ua/sr/?q={{{s}}}"
+  },
+  {
+    "bang": "hotukdeals",
+    "name": "Hotukdeals",
+    "url": "http://www.hotukdeals.com/search?action=search&keywords={{{s}}}"
+  },
+  {
+    "bang": "hukd",
+    "name": "HotUKDeals",
+    "url": "http://www.hotukdeals.com/search?action=search&keywords={{{s}}}"
+  },
+  {
+    "bang": "humbledeals",
+    "name": "Humble Bundle",
+    "url": "https://www.humblebundle.com/store/search?sort=discount&search={{{s}}}"
+  },
+  {
+    "bang": "idealoes",
+    "name": "Idealo.es",
+    "url": "https://www.idealo.es/resultados.html?q={{{s}}}"
+  },
+  {
+    "bang": "idealo",
+    "name": "idealo.de",
+    "url": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}"
+  },
+  {
+    "bang": "inab",
+    "name": "INeedaBargain.com",
+    "url": "http://www.ineedabargain.com/deals/search?q={{{s}}} "
+  },
+  {
+    "bang": "instantgaming",
+    "name": "Instant Gaming",
+    "url": "https://www.instant-gaming.com/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "isthereanydeal",
+    "name": "IsThereAnyDeal",
+    "url": "https://isthereanydeal.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "istoric-preturi",
+    "name": "https://www.istoric-preturi.info",
+    "url": "https://www.istoric-preturi.info/search/{{{s}}}"
+  },
+  {
+    "bang": "itad",
+    "name": "IsThereAnyDeal",
+    "url": "https://isthereanydeal.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "koopjedeal",
+    "name": "koopjedeal",
+    "url": "https://www.koopjedeal.nl/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "laopinione",
+    "name": "LaOpinione.com",
+    "url": "https://laopinione.com/?s={{{s}}}"
+  },
+  {
+    "bang": "lbcidf",
+    "name": "Le Bon Coin IDF",
+    "url": "https://www.leboncoin.fr/recherche/?text={{{s}}}&regions=12"
+  },
+  {
+    "bang": "lbc",
+    "name": "Le Bon Coin",
+    "url": "http://www.leboncoin.fr/recherche/?text={{{s}}}"
+  },
+  {
+    "bang": "lbcra",
+    "name": "Le Bon Coin Rhone-Alpes",
+    "url": "https://www.leboncoin.fr/recherche/?text={{{s}}}&regions=22"
+  },
+  {
+    "bang": "leboncoin",
+    "name": "Le Bon Coin",
+    "url": "https://www.leboncoin.fr/recherche/?text={{{s}}}"
+  },
+  {
+    "bang": "lizzart",
+    "name": "Lizzart - Original Handmade in France",
+    "url": "http://www.lizzart.fr/boutique/tout/recherche.html?keyword={{{s}}}&limitstart=0&option=com_virtuemart&view=category"
+  },
+  {
+    "bang": "massdrop",
+    "name": "Massdrop",
+    "url": "https://drop.com/search/{{{s}}}/drops"
+  },
+  {
+    "bang": "midday",
+    "name": "Midday Somewhere",
+    "url": "https://www.middaysomewhere.com/prices/search?q={{{s}}}"
+  },
+  {
+    "bang": "mlivre",
+    "name": "Mercado Livre",
+    "url": "http://lista.mercadolivre.com.br/{{{s}}}#D[A:{{{s}}}]"
+  },
+  {
+    "bang": "mluy",
+    "name": "Mercado Libre",
+    "url": "http://listado.mercadolibre.com.uy/{{{s}}}"
+  },
+  {
+    "bang": "monstercoupons",
+    "name": "Monster-Coupons",
+    "url": "https://monster-coupons.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "mudah",
+    "name": "Mudah.my",
+    "url": "https://m.mudah.my/list?q={{{s}}}&ca=9_3_s&sa=&cg=&catname=All+Categories&o=1&f=p&srch=1&so=1"
+  },
+  {
+    "bang": "mydealz",
+    "name": "MyDealz",
+    "url": "https://www.mydealz.de/search?q={{{s}}}"
+  },
+  {
+    "bang": "mysku",
+    "name": "Mysku.ru",
+    "url": "http://mysku.ru/search/topics/?q={{{s}}}"
+  },
+  {
+    "bang": "mys",
+    "name": "mysupermarket.co.uk",
+    "url": "http://www.mysupermarket.co.uk/Shopping/FindProducts.aspx?Query={{{s}}}"
+  },
+  {
+    "bang": "oas",
+    "name": "Offres \u00e0 Saisir",
+    "url": "https://www.offresasaisir.fr/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "olxbg",
+    "name": "OLX Bulgaria",
+    "url": "https://www.olx.bg/ads/?q={{{s}}}"
+  },
+  {
+    "bang": "olxlb",
+    "name": "OLX Lebanon",
+    "url": "https://olxliban.com/en/ads/q-{{{s}}}"
+  },
+  {
+    "bang": "olx",
+    "name": "OLX Poland",
+    "url": "https://www.olx.pl/oferty/q- {{{s}}}"
+  },
+  {
+    "bang": "olxua",
+    "name": "OLX Ukraine",
+    "url": "http://olx.ua/uk/list/q-{{{s}}}"
+  },
+  {
+    "bang": "overstock",
+    "name": "Overstock",
+    "url": "http://www.overstock.com/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "ozbargain",
+    "name": "OzBargain",
+    "url": "https://www.ozbargain.com.au/search/node/{{{s}}}"
+  },
+  {
+    "bang": "ozb",
+    "name": "Oz Bargain",
+    "url": "https://www.ozbargain.com.au/search/node/{{{s}}}"
+  },
+  {
+    "bang": "pass",
+    "name": "passwird.com",
+    "url": "http://www.passwird.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "pdl",
+    "name": "Place des Libraires",
+    "url": "https://www.placedeslibraires.fr/listeliv.php?mots_recherche={{{s}}}&base=allbooks"
+  },
+  {
+    "bang": "pelando",
+    "name": "Pelando",
+    "url": "https://www.pelando.com.br/search?q={{{s}}}"
+  },
+  {
+    "bang": "pennydeals",
+    "name": "best of deals and coupons",
+    "url": "http://pennydeals.in/usearch.php?search={{{s}}}"
+  },
+  {
+    "bang": "peppernl",
+    "name": "Pepper NL",
+    "url": "https://nl.pepper.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "planetkey",
+    "name": "PlanetKey",
+    "url": "https://www.planetkey.de/suche/?s={{{s}}}"
+  },
+  {
+    "bang": "preloved",
+    "name": "Preloved",
+    "url": "http://preloved.com/?q={{{s}}}"
+  },
+  {
+    "bang": "pricegrabber",
+    "name": "Price Grabber",
+    "url": "http://www.pricegrabber.com/{{{s}}}/products.html/form_keyword={{{s}}}/st=query/sv=findit_top"
+  },
+  {
+    "bang": "pricehk",
+    "name": "Price.com.hk",
+    "url": "http://www.price.com.hk/search.php?g=A&q={{{s}}}"
+  },
+  {
+    "bang": "pricerun",
+    "name": "Pricerunner",
+    "url": "http://www.pricerunner.dk/search?q={{{s}}}"
+  },
+  {
+    "bang": "pricespy",
+    "name": "pricespy.co.nz",
+    "url": "https://pricespy.co.nz/search?search={{{s}}}"
+  },
+  {
+    "bang": "promobit",
+    "name": "Promobit",
+    "url": "https://www.promobit.com.br/buscar?q={{{s}}}"
+  },
+  {
+    "bang": "psuk",
+    "name": "pricespyuk",
+    "url": "https://pricespy.co.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "qpon",
+    "name": "Qpongo",
+    "url": "http://qpongo.com/ddgsearch.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "redable",
+    "name": "Redable",
+    "url": "https://www.redable.nl/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "redflagdeals",
+    "name": "Red Flag Deals",
+    "url": "http://www.redflagdeals.com/search/?={{{s}}}"
+  },
+  {
+    "bang": "retailmenot",
+    "name": "RetailgMeNot",
+    "url": "http://www.retailmenot.com/view/{{{s}}}"
+  },
+  {
+    "bang": "reviews",
+    "name": "ReviewsCon",
+    "url": "https://reviewscon.com/?s={{{s}}}&post_type=&catid="
+  },
+  {
+    "bang": "rmn",
+    "name": "RetailMeNot",
+    "url": "http://www.retailmenot.com/s/{{{s}}}"
+  },
+  {
+    "bang": "rokomari",
+    "name": "rokomari.com",
+    "url": "http://rokomari.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "sal",
+    "name": "Salidzini.lv",
+    "url": "http://www.salidzini.lv/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "sd",
+    "name": "SlickDeals",
+    "url": "https://slickdeals.net/newsearch.php?q={{{s}}}&searcharea=deals&searchin=first"
+  },
+  {
+    "bang": "shoopde",
+    "name": "Shoop.de",
+    "url": "https://www.shoop.de/suche?q={{{s}}}"
+  },
+  {
+    "bang": "shopomo",
+    "name": "Shopomo",
+    "url": "http://www.shopomo.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "skelbiu",
+    "name": "Skelbiu",
+    "url": "http://skelbiu.lt/skelbimai/?keywords={{{s}}}"
+  },
+  {
+    "bang": "skinflint",
+    "name": "Skinflint",
+    "url": "http://skinflint.co.uk/?fs={{{s}}}"
+  },
+  {
+    "bang": "skroutz",
+    "name": "Skroutz",
+    "url": "https://www.skroutz.gr/search?keyphrase={{{s}}}"
+  },
+  {
+    "bang": "slickdeals",
+    "name": "SlickDeals",
+    "url": "http://slickdeals.net/sdsearch.php?forumchoice%5B%5D=9&search={{{s}}}&mode=forum&showposts=0&sdsearch_archive=0&firstpost=1"
+  },
+  {
+    "bang": "s&m",
+    "name": "https://st-sm.com/sante-et-minceur",
+    "url": "https://st-sm.com/sante-et-minceur/en/search?s={{{s}}}"
+  },
+  {
+    "bang": "smzdm",
+    "name": "\u4ec0\u4e48\u503c\u5f97\u4e70",
+    "url": "https://search.smzdm.com/?c=home&s={{{s}}}"
+  },
+  {
+    "bang": "spx",
+    "name": "Surplex",
+    "url": "https://www.surplex.com/de/maschinen.html?tx_surplex_pi1%5Bsword%5D={{{s}}}"
+  },
+  {
+    "bang": "steal",
+    "name": "StealEngine",
+    "url": "https://www.stealengine.com/?q={{{s}}}"
+  },
+  {
+    "bang": "swoopge",
+    "name": "Swoop.ge discounts in Georgia",
+    "url": "https://www.swoop.ge/search?query={{{s}}}"
+  },
+  {
+    "bang": "swoop",
+    "name": "Swoop",
+    "url": "https://www.swoop.ge/search?query={{{s}}}"
+  },
+  {
+    "bang": "thriftb",
+    "name": "ThriftBooks",
+    "url": "https://www.thriftbooks.com/browse/?b.search={{{s}}}"
+  },
+  {
+    "bang": "tlh",
+    "name": "The Last Hunt",
+    "url": "https://thelasthunt.com/search?type=product&q={{{s}}}"
+  },
+  {
+    "bang": "tn-annonces",
+    "name": "Tunisie Annonces",
+    "url": "http://www.tunisie-annonce.com/search.asp?cx=partner-pub-4455074141785177%3Aabc2p7-5h3d&cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&sa=Rechercher&siteurl=www.tunisie-annonce.com%2F&ref=&ss=1479j334475j10"
+  },
+  {
+    "bang": "touslesprix",
+    "name": "Touslesprix.com",
+    "url": "https://www.touslesprix.com/achat,{{{s}}}.html"
+  },
+  {
+    "bang": "tractorhouse",
+    "name": "TractorHouse",
+    "url": "https://www.tractorhouse.com/listings/farm-equipment/for-sale/list/?fulltext={{{s}}}"
+  },
+  {
+    "bang": "tropicalprice",
+    "name": "Tropical Price",
+    "url": "https://tropicalprice.com/?query={{{s}}}"
+  },
+  {
+    "bang": "tsc",
+    "name": "The Shopping Channel",
+    "url": "https://www.theshoppingchannel.com/search/{{{s}}}"
+  },
+  {
+    "bang": "twpw",
+    "name": "Tweakers Pricewatch",
+    "url": "https://tweakers.net/pricewatch/zoeken/?keyword={{{s}}}"
+  },
+  {
+    "bang": "ubh",
+    "name": "YouBeHero",
+    "url": "https://www.youbehero.com/gr/search/causes?loose_type=1&term={{{s}}}"
+  },
+  {
+    "bang": "vc",
+    "name": "VoucherCodes",
+    "url": "https://www.vouchercodes.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ving",
+    "name": "Ving",
+    "url": "http://www.ving.no/searchresult?q={{{s}}}"
+  },
+  {
+    "bang": "vipon",
+    "name": "Vipon",
+    "url": "https://www.vipon.com/promotion/index?search={{{s}}}"
+  },
+  {
+    "bang": "voda",
+    "name": "Vodafone.it",
+    "url": "http://www.vodafone.it/area-utente/appmanager/fai-da-te/Common?_nfpb=true&_pageLabel=P5000626721379247340997&categoryId=&pageNumber=&slideNumber=&defaultView=true&searchQuery={{{s}}}"
+  },
+  {
+    "bang": "voteformost",
+    "name": "voteformost",
+    "url": "https://voteformost.net/?s={{{s}}}"
+  },
+  {
+    "bang": "wikiarms",
+    "name": "WikiArms",
+    "url": "http://www.wikiarms.com/guns?q={{{s}}}"
+  },
+  {
+    "bang": "yay",
+    "name": "YAY.BG",
+    "url": "https://www.yay.bg/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "bang": "zulily",
+    "name": "zulily",
+    "url": "http://www.zulily.com/{{{s}}}?fromSearch=true&searchTerm={{{s}}}"
+  }
+]

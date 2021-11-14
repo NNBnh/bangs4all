@@ -1,0 +1,132 @@
+[
+  {
+    "bang": "apt",
+    "name": "Ubuntu Packages Search",
+    "url": "https://packages.ubuntu.com/search?keywords={{{s}}}&searchon=all&suite=all&section=all"
+  },
+  {
+    "bang": "asku",
+    "name": "Ask Ubuntu",
+    "url": "http://askubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "aubuntu",
+    "name": "AskUbuntu",
+    "url": "http://askubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "docubufr",
+    "name": "Documentation Ubuntu-fr",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Adoc.ubuntu-fr.org"
+  },
+  {
+    "bang": "docubu",
+    "name": "Ubuntu Documentation",
+    "url": "https://help.ubuntu.com/search.html?cof=FORID%3A9&cx=004599128559784038176%3Avj_p0xo-nng&ie=UTF-8&q={{{s}}}&sa=Search"
+  },
+  {
+    "bang": "puc",
+    "name": "Ubuntu Packages Search",
+    "url": "http://packages.ubuntu.com/{{{s}}}"
+  },
+  {
+    "bang": "uapps",
+    "name": "Ubuntu Apps Directory",
+    "url": "https://apps.ubuntu.com/cat/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ubhu",
+    "name": "Ubuntu.hu",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:ubuntu.hu"
+  },
+  {
+    "bang": "ubottu",
+    "name": "Ubottu.com",
+    "url": "http://ubottu.com/factoids.cgi?search={{{s}}}"
+  },
+  {
+    "bang": "ubufr",
+    "name": "https://www.ubuntu-fr.org",
+    "url": "https://duckduckgo.com/?q=site%3Aubuntu-fr.org+{{{s}}}&ia=web"
+  },
+  {
+    "bang": "ubuntuchina",
+    "name": "Ubuntu China Forum",
+    "url": "https://forum.ubuntu.org.cn/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "ubuntuforums",
+    "name": "Ubuntu Forums",
+    "url": "http://ubuntuforums.org/search.php?do=process&query={{{s}}}"
+  },
+  {
+    "bang": "ubuntufr",
+    "name": "ubuntu-fr",
+    "url": "https://www.google.fr/search?q={{{s}}}+site%3Aubuntu-fr.org&gws_rd=ssl"
+  },
+  {
+    "bang": "ubuntuf",
+    "name": "Ubuntu Forums",
+    "url": "http://ubuntuforums.org/search.php?do=process&query={{{s}}}"
+  },
+  {
+    "bang": "ubuntutr",
+    "name": "Ubuntu T\u00fcrkiye",
+    "url": "http://forum.ubuntu-tr.net/index.php?action=search;q={{{s}}}"
+  },
+  {
+    "bang": "ubuntu",
+    "name": "Ubuntu",
+    "url": "https://www.ubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ubuntuusers",
+    "name": "Ubuntuusers",
+    "url": "http://ubuntuusers.de/search/?query={{{s}}}&area=all"
+  },
+  {
+    "bang": "ubuntuwikide",
+    "name": "Ubuntuusers Wiki",
+    "url": "http://duckduckgo.com/?q=site%3Awiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "bang": "uman",
+    "name": "Ubuntu Manpage",
+    "url": "https://manpages.ubuntu.com/cgi-bin/search.py?q={{{s}}}"
+  },
+  {
+    "bang": "upackages",
+    "name": "Ubuntu Packages",
+    "url": "http://packages.ubuntu.com/search?keywords={{{s}}}&searchon=names&suite=all&section=all"
+  },
+  {
+    "bang": "upkg",
+    "name": "Ubuntu Launchpad Package Page",
+    "url": "https://launchpad.net/ubuntu/+source/{{{s}}}"
+  },
+  {
+    "bang": "uude",
+    "name": "Ubuntuusers",
+    "url": "https://duckduckgo.com/?q=site%3Aubuntuusers.de+{{{s}}}"
+  },
+  {
+    "bang": "uu",
+    "name": "Ubuntuusers.de",
+    "url": "https://duckduckgo.com/?q=site%3Aubuntuusers.de+{{{s}}}"
+  },
+  {
+    "bang": "uuwiki",
+    "name": "Ubuntu Users Wiki",
+    "url": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "bang": "uuw",
+    "name": "Ubuntuusers.de Wiki",
+    "url": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "bang": "uwiki",
+    "name": "Ubuntu Wiki",
+    "url": "https://wiki.ubuntu.com/Home?action=fullsearch&context=180&value={{{s}}}"
+  }
+]

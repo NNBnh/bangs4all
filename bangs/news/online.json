@@ -1,0 +1,187 @@
+[
+  {
+    "bang": "1p5",
+    "name": "OnePeterFive",
+    "url": "https://onepeterfive.com/?s={{{s}}}"
+  },
+  {
+    "bang": "2nn",
+    "name": "2NN",
+    "url": "https://www.2nn.jp/word/{{{s}}}"
+  },
+  {
+    "bang": "a.a",
+    "name": "Akt\u00fcel Adam",
+    "url": "https://aktueladam.com/?s={{{s}}} "
+  },
+  {
+    "bang": "allsides",
+    "name": "AllSides",
+    "url": "https://www.allsides.com/allsides-search-results?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "bang": "art",
+    "name": "https://www.aparatorul.md",
+    "url": "https://www.aparatorul.md/?s={{{s}}}"
+  },
+  {
+    "bang": "banned",
+    "name": "banned.video",
+    "url": "https://banned.video/?q={{{s}}}"
+  },
+  {
+    "bang": "beebom",
+    "name": "Beebom",
+    "url": "https://beebom.com/?s={{{s}}}"
+  },
+  {
+    "bang": "champion",
+    "name": "Champion runner",
+    "url": "https://championrunner.com/?s={{{s}}}"
+  },
+  {
+    "bang": "channel4",
+    "name": "Channel 4",
+    "url": "http://www.channel4.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "channel5",
+    "name": "Channel 5",
+    "url": "http://www.channel5.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cheddar",
+    "name": "Cheddar",
+    "url": "https://cheddar.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cnh",
+    "name": "Conservative Home",
+    "url": "https://www.conservativehome.com/?s={{{s}}}"
+  },
+  {
+    "bang": "digi24",
+    "name": "Digi24",
+    "url": "https://www.digi24.ro/cautare?q={{{s}}}"
+  },
+  {
+    "bang": "e1",
+    "name": "e1",
+    "url": "https://www.e1.ru/news/search/?search={{{s}}}"
+  },
+  {
+    "bang": "entrance",
+    "name": "EntranceAdda - Best Exam Portal",
+    "url": "https://entranceadda.in/?s={{{s}}}"
+  },
+  {
+    "bang": "ev",
+    "name": "Electrek",
+    "url": "https://cse.google.com/cse?cx=008464549922976904202:3wy4ipwvlno&q={{{s}}}&oq={{{s}}}&gs_l=partner-generic.3...27208.27522.3.27758.3.3.0.0.0.0.67.174.3.3.0.gsnos%2Cn%3D13...0.1844j1376214j6j1...1.34.partner-generic..3.2.102.qiNHoIwD47w"
+  },
+  {
+    "bang": "gmanews",
+    "name": "GMA NEWS",
+    "url": "https://www.gmanetwork.com/news/search/?q={{{s}}}"
+  },
+  {
+    "bang": "gufolm",
+    "name": "Guide for Lords Mobile",
+    "url": "https://guideforlm.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "jrs",
+    "name": "Jesuit Refugee Service Belgium",
+    "url": "https://jrsbelgium.org/spip.php?page=recherche&recherche={{{s}}}"
+  },
+  {
+    "bang": "kl",
+    "name": "KabarLinux",
+    "url": "https://kabarlinux.id/?s={{{s}}}"
+  },
+  {
+    "bang": "life",
+    "name": "LifeSite",
+    "url": "https://www.lifesitenews.com/archives/search/?q={{{s}}}"
+  },
+  {
+    "bang": "metalit",
+    "name": "Metalitalia.com",
+    "url": "https://metalitalia.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mybb",
+    "name": "MyBroadband",
+    "url": "https://mybroadband.co.za/news/?s={{{s}}}"
+  },
+  {
+    "bang": "ncr",
+    "name": "National Catholic Register",
+    "url": "https://www.ncregister.com/search/results?q={{{s}}}"
+  },
+  {
+    "bang": "news24",
+    "name": "News 24",
+    "url": "https://www.news24.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "pcwelt",
+    "name": "PC-Welt",
+    "url": "https://www.pcwelt.de/suche?searchStr={{{s}}}"
+  },
+  {
+    "bang": "pewnews",
+    "name": "Pew News",
+    "url": "https://pewnews.org/?s={{{s}}}"
+  },
+  {
+    "bang": "prab",
+    "name": "prabhasakshi",
+    "url": "https://www.prabhasakshi.com/topics/{{{s}}}"
+  },
+  {
+    "bang": "press",
+    "name": "PR Wire Pro",
+    "url": "https://prwirepro.com/?s={{{s}}}"
+  },
+  {
+    "bang": "salon",
+    "name": "Salon.com",
+    "url": "https://www.salon.com/search/{{{s}}}"
+  },
+  {
+    "bang": "slatefr",
+    "name": "Slate.fr",
+    "url": "https://www.slate.fr/search?mot-cle={{{s}}}"
+  },
+  {
+    "bang": "tt",
+    "name": "Texas Tribune",
+    "url": "https://www.texastribune.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "unilad",
+    "name": "UNILAD",
+    "url": "https://www.unilad.co.uk/search/{{{s}}}"
+  },
+  {
+    "bang": "wng",
+    "name": "World News Group",
+    "url": "https://world.wng.org/search/site/{{{s}}}"
+  },
+  {
+    "bang": "wppl",
+    "name": "Wirtualn Polska",
+    "url": "https://szukaj.wp.pl/szukaj.html?q={{{s}}}"
+  },
+  {
+    "bang": "\u043d\u043f\u0441\u0434",
+    "name": "\u041d\u041f\u0421\u0414",
+    "url": "https://npsd.party/?s={{{s}}}"
+  },
+  {
+    "bang": "\u10d0\u10e1\u10e2\u10e0\u10dd",
+    "name": "Astronet.Ge",
+    "url": "http://astronet.ge/?s={{{s}}}"
+  }
+]

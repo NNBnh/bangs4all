@@ -1,0 +1,1232 @@
+[
+  {
+    "bang": "1gabba",
+    "name": "1gabba",
+    "url": "http://1gabba.net/frontpage?title={{{s}}}"
+  },
+  {
+    "bang": "2hu",
+    "name": "TouhouDB",
+    "url": "https://touhoudb.com/Search?filter={{{s}}}"
+  },
+  {
+    "bang": "4chmu",
+    "name": "4chan music board",
+    "url": "https://boards.4chan.org/mu/catalog#s={{{s}}}"
+  },
+  {
+    "bang": "4shared",
+    "name": "4shared",
+    "url": "http://search.4shared.com/q/CCAD/1/{{{s}}}"
+  },
+  {
+    "bang": "7digital",
+    "name": "7digital",
+    "url": "https://www.7digital.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "8tracks",
+    "name": "8tracks",
+    "url": "http://8tracks.com/explore/all?q={{{s}}}"
+  },
+  {
+    "bang": "911",
+    "name": "911tabs",
+    "url": "http://www.911tabs.com/search.php?search={{{s}}}&type=band"
+  },
+  {
+    "bang": "911s",
+    "name": "911 Tabs (Songs)",
+    "url": "http://www.911tabs.com/search.php?search={{{s}}}&type=song"
+  },
+  {
+    "bang": "aae",
+    "name": "Album Art Exchange",
+    "url": "http://www.albumartexchange.com/covers.php?q={{{s}}}"
+  },
+  {
+    "bang": "\u00e0ax",
+    "name": "Album Art Exchange",
+    "url": "http://www.albumartexchange.com/covers?fltr=ALL&sort=TITLE&q={{{s}}}"
+  },
+  {
+    "bang": "aax",
+    "name": "Album Art Exchange",
+    "url": "http://www.albumartexchange.com/covers.php?q={{{s}}}"
+  },
+  {
+    "bang": "adsr",
+    "name": "ADSR Sounds",
+    "url": "https://www.adsrsounds.com/?src={{{s}}}"
+  },
+  {
+    "bang": "air1",
+    "name": "Air1",
+    "url": "http://www.air1.com/search.aspx?searchterm={{{s}}}"
+  },
+  {
+    "bang": "albumartcd",
+    "name": "Albumart (Music)",
+    "url": "http://www.albumart.org/index.php?skey={{{s}}}&itempage=1&newsearch=1&searchindex=Music"
+  },
+  {
+    "bang": "albumartdvd",
+    "name": "Albumart (DVD)",
+    "url": "http://www.albumart.org/index.php?skey={{{s}}}&itempage=1&newsearch=1&searchindex=DVD"
+  },
+  {
+    "bang": "allmus",
+    "name": "All Music",
+    "url": "https://www.allmusic.com/search/all/{{{s}}}"
+  },
+  {
+    "bang": "allsongs",
+    "name": "AllSongs",
+    "url": "http://allsongs.tv/search/?q={{{s}}}"
+  },
+  {
+    "bang": "amademp3",
+    "name": "Amazon.de",
+    "url": "https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Ddigital-music&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amg",
+    "name": "Allmusic",
+    "url": "http://www.allmusic.com/search/all/{{{s}}}"
+  },
+  {
+    "bang": "amguy",
+    "name": "Angry Metal Guy",
+    "url": "https://www.angrymetalguy.com/?s={{{s}}}"
+  },
+  {
+    "bang": "amoeba",
+    "name": "Ameoba music",
+    "url": "https://www.amoeba.com/search/all/?s={{{s}}}"
+  },
+  {
+    "bang": "anghami",
+    "name": "anghami",
+    "url": "https://www.anghami.com/search/{{{s}}}"
+  },
+  {
+    "bang": "angry",
+    "name": "Angry Metal Guy",
+    "url": "https://www.angrymetalguy.com/?s={{{s}}}"
+  },
+  {
+    "bang": "aoty",
+    "name": "Album of The Year",
+    "url": "https://www.albumoftheyear.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "applemusic",
+    "name": "Apple Music",
+    "url": "https://itunes.apple.com/search?term={{{s}}}&entity=musicTrack"
+  },
+  {
+    "bang": "audf",
+    "name": "Audacity Forum",
+    "url": "https://forum.audacityteam.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "audiofanzine",
+    "name": "Audiofanzine",
+    "url": "http://fr.audiofanzine.com/recherche/{{{s}}}.html"
+  },
+  {
+    "bang": "audionetwork",
+    "name": "Audio Network",
+    "url": "http://www.audionetwork.com/show-production-results.aspx?stype=4&keywords={{{s}}}"
+  },
+  {
+    "bang": "bandcamp",
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bbcmusic",
+    "name": "BBC Music",
+    "url": "http://www.bbc.co.uk/music/search-results?q={{{s}}}"
+  },
+  {
+    "bang": "bctag",
+    "name": "Bandcamp tags",
+    "url": "http://bandcamp.com/tag/{{{s}}}"
+  },
+  {
+    "bang": "beatport",
+    "name": "Beatport",
+    "url": "https://www.beatport.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "beet",
+    "name": "Beets Documentation",
+    "url": "https://beets.readthedocs.io/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "besteveralbums",
+    "name": "Besteveralbum",
+    "url": "https://www.besteveralbums.com/search.php?s_o=all&s_q={{{s}}}"
+  },
+  {
+    "bang": "bleep",
+    "name": "Bleep",
+    "url": "https://bleep.com/search/query?q={{{s}}}"
+  },
+  {
+    "bang": "bndc",
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bocpages",
+    "name": "bocpages",
+    "url": "http://bocpages.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "boomkat",
+    "name": "boomkat",
+    "url": "http://boomkat.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "botb",
+    "name": "Battle of the Bits",
+    "url": "https://duckduckgo.com/?q=site%3Abattleofthebits.org+{{{s}}}"
+  },
+  {
+    "bang": "bpm",
+    "name": "Song Bpm",
+    "url": "https://songbpm.com/{{{s}}}"
+  },
+  {
+    "bang": "bppro",
+    "name": "Beatport Pro",
+    "url": "https://pro.beatport.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bst",
+    "name": "Barbershop Tags",
+    "url": "http://www.barbershoptags.com/dbpage.php?pg=tags&go=Go&_searchq={{{s}}}"
+  },
+  {
+    "bang": "chordie",
+    "name": "http://www.chordie.com",
+    "url": "http://www.chordie.com/?q={{{s}}}"
+  },
+  {
+    "bang": "chordify",
+    "name": "Chordify",
+    "url": "https://chordify.net/?search={{{s}}}"
+  },
+  {
+    "bang": "chordwiki",
+    "name": "Chord Wiki",
+    "url": "https://ja.chordwiki.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "cliggo",
+    "name": "Cliggo",
+    "url": "https://www.music.cliggo.com/search/{{{s}}}"
+  },
+  {
+    "bang": "concerts",
+    "name": "Pollstar",
+    "url": "http://www.pollstar.com/tour/searchall.pl?By=All&Content={{{s}}}&go_green.x=0&go_green.y=0"
+  },
+  {
+    "bang": "cowboylyrics",
+    "name": "Cowboy Lyrics",
+    "url": "https://www.cowboylyrics.com/search.html?cx=partner-pub-1248082249428003%3A7921416976&ie=UTF-8&q={{{s}}}&cof=FORID%3A10&siteurl=cowboylyrics.com%2F&ref=&ss=346j47246j4"
+  },
+  {
+    "bang": "cpdl",
+    "name": "Choral Public Domain Library",
+    "url": "http://www1.cpdl.org/wiki/index.php/Special:Search?search={{{s}}}&fulltext=Keyword+search"
+  },
+  {
+    "bang": "critique",
+    "name": "CritiqueBrainz",
+    "url": "https://critiquebrainz.org/search/?query={{{s}}}&type=artist"
+  },
+  {
+    "bang": "dashradio",
+    "name": "Dash Radio",
+    "url": "http://dashradio.com/?q={{{s}}}"
+  },
+  {
+    "bang": "datpiff",
+    "name": "Datpiff",
+    "url": "http://datpiff.com/mixtapes-search?criteria={{{s}}}&sort=rating"
+  },
+  {
+    "bang": "ddjt",
+    "name": "Digital DJ Tips",
+    "url": "https://www.digitaldjtips.com/?s={{{s}}}"
+  },
+  {
+    "bang": "dirble",
+    "name": "Dirble",
+    "url": "http://dirble.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "discogs",
+    "name": "Discogs",
+    "url": "http://www.discogs.com/search?q={{{s}}}&btn=&type=all"
+  },
+  {
+    "bang": "dorfor",
+    "name": "Dorico forum",
+    "url": "https://www.steinberg.net/forums/search.php?keywords={{{s}}}&fid%5B0%5D=246"
+  },
+  {
+    "bang": "dz",
+    "name": "Deezer",
+    "url": "https://www.deezer.com/search/{{{s}}}"
+  },
+  {
+    "bang": "emusic",
+    "name": "eMusic",
+    "url": "https://www.emusic.com/search/{{{s}}}"
+  },
+  {
+    "bang": "equipboard",
+    "name": "Equipboard",
+    "url": "http://equipboard.com/search?search_term={{{s}}}"
+  },
+  {
+    "bang": "etree",
+    "name": "Live Music Archive",
+    "url": "http://archive.org/search.php?query={{{s}}}%20AND%20collection%3Aetree"
+  },
+  {
+    "bang": "ffm",
+    "name": "Fast Food Music",
+    "url": "https://fastfoodmusic.com/?s={{{s}}}"
+  },
+  {
+    "bang": "fma",
+    "name": "Free Music Archive",
+    "url": "http://freemusicarchive.org/search/?quicksearch={{{s}}}&sort=track_interest"
+  },
+  {
+    "bang": "fnb",
+    "name": "Fanburst",
+    "url": "https://www.fanburst.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "freesfx",
+    "name": "freeSFX",
+    "url": "http://www.freesfx.co.uk/sfx/{{{s}}}"
+  },
+  {
+    "bang": "gaana",
+    "name": "Gaana",
+    "url": "https://gaana.com/search/{{{s}}}"
+  },
+  {
+    "bang": "generasia",
+    "name": "generasia",
+    "url": "http://www.generasia.com/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "gplaym",
+    "name": "Google Play Music",
+    "url": "https://play.google.com/store/search?q={{{s}}}&c=music"
+  },
+  {
+    "bang": "gratefuldead",
+    "name": "Grateful Dead Concerts",
+    "url": "http://archive.org/search.php?query={{{s}}}%20AND%20collection%3AGratefulDead"
+  },
+  {
+    "bang": "guitartabs",
+    "name": "GuitarTabsExplorer.com",
+    "url": "http://www.guitartabsexplorer.com/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "hdt",
+    "name": "HDtracks.com",
+    "url": "https://www.hdtracks.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "hymn",
+    "name": "HYMN",
+    "url": "http://hymn.se/?s={{{s}}}"
+  },
+  {
+    "bang": "hymnse",
+    "name": "HYMN",
+    "url": "http://hymn.se/?s={{{s}}}"
+  },
+  {
+    "bang": "hypem",
+    "name": "The Hype Machine",
+    "url": "http://hypem.com/#!/search/{{{s}}}/1"
+  },
+  {
+    "bang": "icecast",
+    "name": "Icecast Directory",
+    "url": "http://dir.xiph.org/search?search={{{s}}} "
+  },
+  {
+    "bang": "imslp",
+    "name": "IMSLP",
+    "url": "http://imslp.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "itunesartist",
+    "name": "iTunes ",
+    "url": "https://itunes.apple.com/us/artist/{{{s}}}"
+  },
+  {
+    "bang": "ituneses",
+    "name": "iTunes (Spain)",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aitunes.apple.com%2Fes%2F"
+  },
+  {
+    "bang": "jamendo",
+    "name": "Jamendo",
+    "url": "https://www.jamendo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "jam",
+    "name": "Jamendo",
+    "url": "https://www.jamendo.com/en/search?qs=q={{{s}}}"
+  },
+  {
+    "bang": "jgf",
+    "name": "The Jazz Guitar Forum",
+    "url": "http://www.jazzguitar.be/forum/search.php?searchid={{{s}}}"
+  },
+  {
+    "bang": "jguitar",
+    "name": "JGuitar",
+    "url": "http://jguitar.com/chordsearch?chordsearch={{{s}}}"
+  },
+  {
+    "bang": "jn",
+    "name": "Jellynote",
+    "url": "https://www.jellynote.com/en/search?q={{{s}}}"
+  },
+  {
+    "bang": "joco",
+    "name": "JoCopedia",
+    "url": "http://www.jonathancoulton.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "junodl",
+    "name": "Juno Download",
+    "url": "http://www.junodownload.com/search/?q[all][0]={{{s}}}"
+  },
+  {
+    "bang": "kkbox",
+    "name": "KKBOX",
+    "url": "https://www.kkbox.com/search.php?search=mix&word={{{s}}}"
+  },
+  {
+    "bang": "kollekt",
+    "name": "Kollekt.FM",
+    "url": "https://kollekt.fm/search/?q={{{s}}}&type=all"
+  },
+  {
+    "bang": "kpop",
+    "name": "allkpop",
+    "url": "https://www.allkpop.com/search/articles/{{{s}}}"
+  },
+  {
+    "bang": "kvr",
+    "name": "KVR Audio",
+    "url": "http://www.kvraudio.com/q.php?search=1&q={{{s}}}"
+  },
+  {
+    "bang": "lastfm",
+    "name": "Last.fm",
+    "url": "http://www.last.fm/search?q={{{s}}}"
+  },
+  {
+    "bang": "last.fm",
+    "name": "Last.fm",
+    "url": "http://www.last.fm/search?q={{{s}}}&from=ac"
+  },
+  {
+    "bang": "lcuerdanet",
+    "name": "La Cuerda.net",
+    "url": "http://acordes.lacuerda.net/busca.php?exp={{{s}}} "
+  },
+  {
+    "bang": "lfm",
+    "name": "last.fm",
+    "url": "http://www.last.fm/music/{{{s}}}"
+  },
+  {
+    "bang": "librefm",
+    "name": "libre.fm",
+    "url": "http://libre.fm/search.php?search_term={{{s}}}"
+  },
+  {
+    "bang": "liveplasma",
+    "name": "LivePlasma",
+    "url": "http://www.liveplasma.com/#/artist/{{{s}}} "
+  },
+  {
+    "bang": "lma",
+    "name": "Live Music Archive",
+    "url": "http://archive.org/search.php?query={{{s}}}%20AND%20collection%3Aetree"
+  },
+  {
+    "bang": "lm",
+    "name": "LiveMixtapes",
+    "url": "http://www.livemixtapes.com/main.php?artist={{{s}}}"
+  },
+  {
+    "bang": "m163",
+    "name": "\u7f51\u6613\u4e91\u97f3\u4e50",
+    "url": "http://music.163.com/#/search/m/?s={{{s}}}"
+  },
+  {
+    "bang": "m3s",
+    "name": "MPSkull",
+    "url": "https://www.mp3skulls.icu/mp3/{{{s}}}.html"
+  },
+  {
+    "bang": "maalbum",
+    "name": "Metal Archives",
+    "url": "http://www.metal-archives.com/search?searchString={{{s}}}&type=album_title"
+  },
+  {
+    "bang": "maband",
+    "name": "Metal Archives",
+    "url": "http://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "bang": "mab",
+    "name": "Encyclopaedia metallum",
+    "url": "http://www.metal-archives.com/search?type=band_name&searchString={{{s}}}"
+  },
+  {
+    "bang": "march",
+    "name": "Metal Archives",
+    "url": "http://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "bang": "mbannotation",
+    "name": "MusicBrainz Annotations",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=annotation"
+  },
+  {
+    "bang": "mbarea",
+    "name": "MusicBrainz Areas",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=area"
+  },
+  {
+    "bang": "mbartist",
+    "name": "MusicBrainz Artists",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=artist"
+  },
+  {
+    "bang": "mbcdstub",
+    "name": "MusicBrainz CD Stubs",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=cdstub"
+  },
+  {
+    "bang": "mbeditor",
+    "name": "MusicBrainz Editors",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=editor"
+  },
+  {
+    "bang": "mbe",
+    "name": "MusicBrainz events",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=event&method=indexed"
+  },
+  {
+    "bang": "mbevent",
+    "name": "MusicBrainz events",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=event"
+  },
+  {
+    "bang": "mbinstrument",
+    "name": "MusicBrainz instruments",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=instrument"
+  },
+  {
+    "bang": "mblabel",
+    "name": "MusicBrainz Labels",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=label"
+  },
+  {
+    "bang": "mbl",
+    "name": "MusicBrainz labels",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=label&method=indexed"
+  },
+  {
+    "bang": "mb",
+    "name": "MusicBrainz",
+    "url": "http://musicbrainz.org/search/textsearch.html?type=artist&query={{{s}}}&handlearguments=1"
+  },
+  {
+    "bang": "mbplace",
+    "name": "MusicBrainz Places",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=place"
+  },
+  {
+    "bang": "mbp",
+    "name": "MusicBrainz places",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=place&method=indexed"
+  },
+  {
+    "bang": "mbrc",
+    "name": "MusicBrainz Recordings",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=recording"
+  },
+  {
+    "bang": "mbrec",
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=recording&method=indexed"
+  },
+  {
+    "bang": "mbrecording",
+    "name": "MusicBrainz Recordings",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=recording"
+  },
+  {
+    "bang": "mbreleasegroup",
+    "name": "MusicBrainz Release Groups",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=release_group"
+  },
+  {
+    "bang": "mbrelease",
+    "name": "MusicBrainz Releases",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=release"
+  },
+  {
+    "bang": "mbrg",
+    "name": "MusicBrainz Release Group",
+    "url": "http://musicbrainz.org/search?query={{{s}}}&type=release_group&method=indexed"
+  },
+  {
+    "bang": "mbr",
+    "name": "MusicBrainz Releases",
+    "url": "http://musicbrainz.org/search?type=release&query={{{s}}}&handlearguments=1"
+  },
+  {
+    "bang": "mbseries",
+    "name": "MusicBrainz series",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=series"
+  },
+  {
+    "bang": "mbtag",
+    "name": "MusicBrainz tags",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=tag"
+  },
+  {
+    "bang": "mbw",
+    "name": "MusicBrainz work",
+    "url": "http://musicbrainz.org/search?query={{{s}}}&type=work&method=indexed"
+  },
+  {
+    "bang": "mbwork",
+    "name": "MusicBrainz Works",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=work"
+  },
+  {
+    "bang": "mcat",
+    "name": "Monstercat",
+    "url": "https://www.monstercat.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "mcatwiki",
+    "name": "Monstercat Wiki",
+    "url": "http://monstercat.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "mdj",
+    "name": "Mixing.DJ",
+    "url": "http://mixing.dj/?s={{{s}}}"
+  },
+  {
+    "bang": "metalarch",
+    "name": "Metal Archives",
+    "url": "http://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "bang": "metal",
+    "name": "Encyclopedia Metallum (The Metal Archives)",
+    "url": "http://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "bang": "metallum",
+    "name": "Encyclopaedia Metallum",
+    "url": "https://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "bang": "metalstorm",
+    "name": "Metal Storm",
+    "url": "http://www.metalstorm.net/home/search.php?search_where=band&search_what={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "midi",
+    "name": "freemidi.org",
+    "url": "https://freemidi.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "mix",
+    "name": "Cogimix",
+    "url": "https://www.cogimix.com/?q={{{s}}}"
+  },
+  {
+    "bang": "mixesdb",
+    "name": "MixesDB",
+    "url": "http://www.mixesdb.com/db/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "mmoz",
+    "name": "MusicMoz",
+    "url": "https://musicmoz.org/search/search.cgi?search={{{s}}}"
+  },
+  {
+    "bang": "mod",
+    "name": "Modarchive",
+    "url": "http://modarchive.org/index.php?request=search&query={{{s}}}&submit=Find&search_type=filename_or_songtitle"
+  },
+  {
+    "bang": "msammler",
+    "name": "Musik-Sammler",
+    "url": "https://www.musik-sammler.de/search/{{{s}}}"
+  },
+  {
+    "bang": "musescore",
+    "name": "MuseScore.com",
+    "url": "http://musescore.com/sheetmusic?text={{{s}}}"
+  },
+  {
+    "bang": "musicbrainz",
+    "name": "MusicBrainz",
+    "url": "http://musicbrainz.org/search/textsearch.html?type=artist&query={{{s}}}&handlearguments=1"
+  },
+  {
+    "bang": "musicmap",
+    "name": "music-map",
+    "url": "http://www.music-map.com/{{{s}}}"
+  },
+  {
+    "bang": "musicme",
+    "name": "MusicMe",
+    "url": "http://www.musicme.com/page.php?q={{{s}}}"
+  },
+  {
+    "bang": "musicmoz",
+    "name": "MusicMoz",
+    "url": "http://musicmoz.org/search/search.cgi?search={{{s}}}"
+  },
+  {
+    "bang": "musiker-board",
+    "name": "Musiker Board",
+    "url": "https://www.google.de/search?q={{{s}}}+site%3Awww.musiker-board.de&oq=Schaffer+site%3Awww.musiker-board.de"
+  },
+  {
+    "bang": "musipedia",
+    "name": "Musipedia",
+    "url": "http://www.musipedia.org/result.html?tx_mpsearch_pi1[pc]={{{s}}}&tx_mpsearch_pi1[submit_button]=Search"
+  },
+  {
+    "bang": "musopen",
+    "name": "Musopen",
+    "url": "http://musopen.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "muzofon",
+    "name": "Muzofon",
+    "url": "http://muzofon.com/search/{{{s}}}"
+  },
+  {
+    "bang": "mvdb",
+    "name": "mvdbase",
+    "url": "http://www.mvdbase.com/index.php?term={{{s}}}&field=vid&page=results"
+  },
+  {
+    "bang": "myt",
+    "name": "YouTube Music",
+    "url": "https://music.youtube.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "nem",
+    "name": "\u7f51\u6613\u4e91\u97f3\u4e50(NeteaseMusic)",
+    "url": "http://music.163.com/#/search/m/?s={{{s}}}"
+  },
+  {
+    "bang": "nin",
+    "name": "Nine Inch Nails Wiki",
+    "url": "http://www.ninwiki.com/index.php?title=Special:Search&redirs=0&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "noteflight",
+    "name": "Noteflight",
+    "url": "http://www.noteflight.com/public_scores#/search/{{{s}}}"
+  },
+  {
+    "bang": "ocremix",
+    "name": "OverClocked Remix",
+    "url": "http://ocremix.org/quicksearch/remix/?qs_query={{{s}}}"
+  },
+  {
+    "bang": "ondarock",
+    "name": "OndaRock",
+    "url": "http://www.ondarock.it/websearch.php?domains=www.ondarock.it&q={{{s}}}&sitesearch=www.ondarock.it&client=pub-4895368002735382&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23117dd2%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A7292ab%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0569b7%3BLC%3A0569b7%3BT%3A191919%3BGFNT%3A73baf2%3BGIMP%3A73baf2%3BFORID%3A11&hl=it"
+  },
+  {
+    "bang": "pengicau",
+    "name": "pengicau",
+    "url": "https://pengicau.com/w/index.php?search={{{s}}}&title=Special%3ASearch&fulltext=1"
+  },
+  {
+    "bang": "phish",
+    "name": "Phish.Net",
+    "url": "http://phish.net/song/?s={{{s}}}"
+  },
+  {
+    "bang": "phset",
+    "name": "phish.net",
+    "url": "http://phi.sh/{{{s}}}"
+  },
+  {
+    "bang": "plattentests",
+    "name": "Plattentests.de",
+    "url": "http://www.plattentests.de/suche.php?parameter=all&suche={{{s}}}"
+  },
+  {
+    "bang": "playmusic",
+    "name": "https://play.google.com/music/listen#/now",
+    "url": "https://play.google.com/music/listen#/sr/{{{s}}}"
+  },
+  {
+    "bang": "progrock",
+    "name": "progrock archives",
+    "url": "http://www.progarchives.com/google-search-results.asp?cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&cx=partner-pub-0447992028883143%3Aj1syec-2iv1&sa=submit&siteurl=www.progarchives.com%2F&ref=&ss=515j83611j5"
+  },
+  {
+    "bang": "qimalbum",
+    "name": "Qu\u00e9bec Info Musique",
+    "url": "http://www.qim.com/albums/albums.asp?search={{{s}}}"
+  },
+  {
+    "bang": "qima",
+    "name": "Qu\u00e9bec Info Musique",
+    "url": "http://www.qim.com/albums/albums.asp?search={{{s}}}"
+  },
+  {
+    "bang": "qimartiste",
+    "name": "Qu\u00e9bec Info Musique",
+    "url": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}"
+  },
+  {
+    "bang": "qim",
+    "name": "Qu\u00e9bec Info Musique",
+    "url": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}"
+  },
+  {
+    "bang": "qobuz",
+    "name": "Qobuz",
+    "url": "http://www.qobuz.com/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "quebecinfomusique",
+    "name": "Qu\u00e9bec Info Musique",
+    "url": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}"
+  },
+  {
+    "bang": "qwm",
+    "name": "Qwant Music",
+    "url": "https://www.qwant.com/music/search?q={{{s}}}"
+  },
+  {
+    "bang": "radiojavan",
+    "name": "RadioJavan",
+    "url": "https://www.radiojavan.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "rateyourmusic",
+    "name": "Rate Your Music",
+    "url": "http://rateyourmusic.com/search?searchterm={{{s}}}&searchtype=a"
+  },
+  {
+    "bang": "reciva",
+    "name": "Reciva",
+    "url": "https://www.reciva.com/stations/search?q={{{s}}}"
+  },
+  {
+    "bang": "reverbnation",
+    "name": "Reverb Nation",
+    "url": "https://www.reverbnation.com/main/search?q={{{s}}}"
+  },
+  {
+    "bang": "rg",
+    "name": "Rap Genius",
+    "url": "http://rapgenius.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ringtones",
+    "name": "Downloadringtones.mobi",
+    "url": "https://downloadringtones.mobi/?s={{{s}}}"
+  },
+  {
+    "bang": "rj",
+    "name": "RadioJavan",
+    "url": "https://www.radiojavan.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "robertchristgau",
+    "name": "Robert Christgau CG",
+    "url": "https://robertchristgau.com/get_artist.php?name={{{s}}}"
+  },
+  {
+    "bang": "rockit",
+    "name": "Rockit",
+    "url": "https://www.rockit.it/web/cerca.php?k={{{s}}}"
+  },
+  {
+    "bang": "rockol",
+    "name": "Rockol",
+    "url": "http://www.rockol.it/search.php?s={{{s}}}"
+  },
+  {
+    "bang": "rollingstoneit",
+    "name": "Rolling Stone Italia",
+    "url": "http://www.rollingstone.it/?s={{{s}}}"
+  },
+  {
+    "bang": "ryg",
+    "name": "RateYourMusic Genre",
+    "url": "https://rateyourmusic.com/genre/{{{s}}}"
+  },
+  {
+    "bang": "rymgenre",
+    "name": "Rate Your Music genre search",
+    "url": "https://rateyourmusic.com/search?searchtype=g&searchterm={{{s}}}"
+  },
+  {
+    "bang": "rymrelease",
+    "name": "rateyourmusic.com",
+    "url": "https://rateyourmusic.com/search?searchterm={{{s}}}&type=l"
+  },
+  {
+    "bang": "rymr",
+    "name": "Rate Your Music (All releases)",
+    "url": "https://rateyourmusic.com/search?searchtype=l&searchterm={{{s}}}"
+  },
+  {
+    "bang": "sampled",
+    "name": "whosampled",
+    "url": "http://www.whosampled.com/search/artists/?q={{{s}}}"
+  },
+  {
+    "bang": "scaruffi",
+    "name": "Scaruffi",
+    "url": "https://duckduckgo.com/?q=site%3Ascaruffi.com+{{{s}}}"
+  },
+  {
+    "bang": "sc",
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "senta",
+    "name": "SENTIREASCOLTARE",
+    "url": "http://sentireascoltare.com/?s={{{s}}}"
+  },
+  {
+    "bang": "sheetmusicdirect",
+    "name": "sheetmusicdirect.com",
+    "url": "http://www.sheetmusicdirect.com/Search.aspx?query={{{s}}}"
+  },
+  {
+    "bang": "shoutcast",
+    "name": "Shoutcast Streaming Internet Radio",
+    "url": "https://directory.shoutcast.com/Search?query={{{s}}}"
+  },
+  {
+    "bang": "shs",
+    "name": "SecondHandSongs",
+    "url": "https://secondhandsongs.com/search?search_text={{{s}}}"
+  },
+  {
+    "bang": "shz",
+    "name": "Shazam",
+    "url": "http://www.shazam.com/de/search/{{{s}}}"
+  },
+  {
+    "bang": "skyrock",
+    "name": "SkyRock",
+    "url": "http://www.skyrock.com/search/people/?q={{{s}}}"
+  },
+  {
+    "bang": "sl",
+    "name": "Setlist.fm",
+    "url": "http://www.setlist.fm/search?query={{{s}}}"
+  },
+  {
+    "bang": "sndcld",
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "som",
+    "name": "Spirit of Metal",
+    "url": "http://www.spirit-of-metal.com/find.php?nom={{{s}}}"
+  },
+  {
+    "bang": "son2teuf",
+    "name": "Son2Teuf",
+    "url": "http://son2teuf.org/search/category_sort/Page-1?searchphrase=any&searchword={{{s}}}&view=search"
+  },
+  {
+    "bang": "soruso",
+    "name": "Soruso",
+    "url": "https://soruso.com/?s={{{s}}}"
+  },
+  {
+    "bang": "soundcloud",
+    "name": "SoundCloud",
+    "url": "http://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "soundonsound",
+    "name": "soundonsound.com",
+    "url": "https://www.soundonsound.com/search/all/{{{s}}} "
+  },
+  {
+    "bang": "sound",
+    "name": "Soundcloud",
+    "url": "https://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "soundtrackinfo",
+    "name": "Soundtrack info project",
+    "url": "http://www.soundtrackinfo.com/search/{{{s}}}"
+  },
+  {
+    "bang": "splice",
+    "name": "Splice",
+    "url": "https://splice.com/sounds/search?q={{{s}}}"
+  },
+  {
+    "bang": "spotifysearch",
+    "name": "Spotify",
+    "url": "https://open.spotify.com/search/results/{{{s}}}"
+  },
+  {
+    "bang": "spotify",
+    "name": "Spotify",
+    "url": "https://open.spotify.com/search/{{{s}}}"
+  },
+  {
+    "bang": "spt",
+    "name": "Spotify",
+    "url": "https://open.spotify.com/search/results/{{{s}}}"
+  },
+  {
+    "bang": "sputnikmusic",
+    "name": "Sputnik Music",
+    "url": "https://www.sputnikmusic.com/search_results.php?search_in=Bands&search_text={{{s}}}"
+  },
+  {
+    "bang": "tab4u",
+    "name": "tab4u",
+    "url": "http://www.tab4u.com/resultsSimple?tab=songs&type=song&q={{{s}}}"
+  },
+  {
+    "bang": "tab",
+    "name": "911 Tabs",
+    "url": "http://www.911tabs.com/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "tabcrawler",
+    "name": "Tabcrawler",
+    "url": "http://tabcrawler.com/search/{{{s}}}"
+  },
+  {
+    "bang": "tabsb",
+    "name": "Ultimate Guitar",
+    "url": "http://www.ultimate-guitar.com/search.php?search_type=band&value={{{s}}}"
+  },
+  {
+    "bang": "tabs",
+    "name": "Ultimate Guitar",
+    "url": "http://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "bang": "thb",
+    "name": "THBWiki",
+    "url": "https://thwiki.cc/%E7%89%B9%E6%AE%8A:%E6%90%9C%E7%B4%A2?search={{{s}}}&go=%E5%89%8D%E5%BE%80&searchToken=d3hpaqueyzu0cl5im2izrofz8"
+  },
+  {
+    "bang": "theorytab",
+    "name": "Theorytab",
+    "url": "https://www.hooktheory.com/theorytab/results?path={{{s}}}"
+  },
+  {
+    "bang": "thesession",
+    "name": "The Session",
+    "url": "https://thesession.org/tunes/search?type=&mode=&q={{{s}}}"
+  },
+  {
+    "bang": "tidal",
+    "name": "Tidal",
+    "url": "https://listen.tidal.com/search/{{{s}}}"
+  },
+  {
+    "bang": "tjp",
+    "name": "Tower Records Online",
+    "url": "https://tower.jp/search/item/{{{s}}}"
+  },
+  {
+    "bang": "tmbw",
+    "name": "This MIght Be a Wiki",
+    "url": "http://tmbw.net/wiki/Special:Search?search={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "tmt",
+    "name": "Tiny Mix Tapes",
+    "url": "http://www.tinymixtapes.com/?search={{{s}}}"
+  },
+  {
+    "bang": "trackitdown",
+    "name": "Trackitdown",
+    "url": "http://www.trackitdown.net/search/keyword?q={{{s}}}"
+  },
+  {
+    "bang": "tsj",
+    "name": "The Singles Jukebox",
+    "url": "http://www.thesinglesjukebox.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tubafm",
+    "name": "Tuba FM",
+    "url": "http://fm.tuba.pl/artysta/{{{s}}}"
+  },
+  {
+    "bang": "tunebat",
+    "name": "Tunebat",
+    "url": "https://tunebat.com/Search?q={{{s}}}"
+  },
+  {
+    "bang": "tunef",
+    "name": "TuneFind",
+    "url": "https://www.tunefind.com/search/site?q={{{s}}}"
+  },
+  {
+    "bang": "tunein",
+    "name": "TuneIn",
+    "url": "http://tunein.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ufret",
+    "name": "U-\u30d5\u30ec\u30c3\u30c8",
+    "url": "http://www.ufret.jp/search.php?key={{{s}}}"
+  },
+  {
+    "bang": "uketabs",
+    "name": "Ukulele Tabs",
+    "url": "https://www.ukulele-tabs.com/search-uke-chords.html?find={{{s}}}"
+  },
+  {
+    "bang": "uku",
+    "name": "Ukutabs",
+    "url": "https://ukutabs.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ultimateguitar",
+    "name": "Ultimate Guitar",
+    "url": "http://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "bang": "um3bd",
+    "name": "http://um3bd.free.fr",
+    "url": "http://um3bd.free.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "utaite",
+    "name": "Utaite Database",
+    "url": "http://utaitedb.net/Search?filter={{{s}}}"
+  },
+  {
+    "bang": "vocadb",
+    "name": "VocaDB",
+    "url": "http://vocadb.net/Search?filter={{{s}}}"
+  },
+  {
+    "bang": "vse",
+    "name": "Vintage Synth Explorer",
+    "url": "http://www.vintagesynth.com/google_results.php?cx=partner-pub-9231860735104128%3A7369484958&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.vintagesynth.com%2F&ref=&ss=572j143576j4"
+  },
+  {
+    "bang": "whosampled",
+    "name": "Who Sampled",
+    "url": "http://whosampled.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "wwp",
+    "name": "https://www.whatpeopleplay.com",
+    "url": "https://www.whatpeopleplay.com/search/all/{{{s}}}"
+  },
+  {
+    "bang": "wynk",
+    "name": "https://wynk.in",
+    "url": "https://wynk.in/music/detailsearch/{{{s}}}?q={{{s}}}"
+  },
+  {
+    "bang": "xgau",
+    "name": "Robert Christgau",
+    "url": "http://www.robertchristgau.com/get_artist.php?name={{{s}}}"
+  },
+  {
+    "bang": "yamusic",
+    "name": "Yandex Music",
+    "url": "https://music.yandex.ru/search?text={{{s}}}"
+  },
+  {
+    "bang": "yamu",
+    "name": "yandex music",
+    "url": "https://music.yandex.ru/search?text={{{s}}}"
+  },
+  {
+    "bang": "ytmusic",
+    "name": "YouTube Music",
+    "url": "https://music.youtube.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ytmu",
+    "name": "YouTube Music",
+    "url": "https://music.youtube.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "yz",
+    "name": "youzeek",
+    "url": "http://youzeek.com/?lng=RU#xPAGE_V3-Artist_%3Flng%3DRU%26Artist%3D{{{s}}}%26page%3DGeneral"
+  },
+  {
+    "bang": "zaycev",
+    "name": "\u0417\u0430\u0439\u0446\u0435\u0432.\u043d\u0435\u0442!",
+    "url": "https://zaycev.net/search.html?query_search={{{s}}}"
+  },
+  {
+    "bang": "zikinf",
+    "name": "Zikinf",
+    "url": "https://www.zikinf.com/recherche/?query={{{s}}}"
+  },
+  {
+    "bang": "zmp3",
+    "name": "ZING MP3",
+    "url": "http://mp3.zing.vn/tim-kiem/bai-hat.html?q={{{s}}} "
+  },
+  {
+    "bang": "zwj",
+    "name": "http://wiki.killuglyradio.com/wiki/Main_Page",
+    "url": "http://wiki.killuglyradio.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}"
+  },
+  {
+    "bang": "\u044f\u043c\u0443",
+    "name": "Yandex Music",
+    "url": "https://music.yandex.com/search?text={{{s}}}"
+  }
+]

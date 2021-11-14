@@ -1,0 +1,1987 @@
+[
+  {
+    "bang": "3dbrew",
+    "name": "3DBrew",
+    "url": "http://3dbrew.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "42",
+    "name": "42 Intra",
+    "url": "https://profile.intra.42.fr/searches/search?query={{{s}}}"
+  },
+  {
+    "bang": "acp",
+    "name": "Apache Cordova Plugins Registry",
+    "url": "http://plugins.cordova.io/#/search?search={{{s}}}"
+  },
+  {
+    "bang": "adc",
+    "name": "Apple Developer Center",
+    "url": "https://developer.apple.com/search/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "adev",
+    "name": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "adf",
+    "name": "Apple dev form",
+    "url": "https://forums.developer.apple.com/search.jspa?q={{{s}}}"
+  },
+  {
+    "bang": "agerrit",
+    "name": "Android Code Review (Gerrit)",
+    "url": "https://android-review.googlesource.com/q/{{{s}}}"
+  },
+  {
+    "bang": "ahk",
+    "name": "AutoHotkey",
+    "url": "http://www.autohotkey.com/search/search.php?site=4&refine=0&template_demo=phpdig.html&result_page=search.php&search=Go+...&limite=100&option=start&path=docs/&query_string={{{s}}}"
+  },
+  {
+    "bang": "alfred",
+    "name": "Alfred",
+    "url": "https://www.alfredapp.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "alg",
+    "name": "Algomation",
+    "url": "http://www.algomation.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "algo",
+    "name": "Algorithmia",
+    "url": "https://algorithmia.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ampwhat",
+    "name": "&what;",
+    "url": "http://www.amp-what.com/unicode/search/{{{s}}}"
+  },
+  {
+    "bang": "andar",
+    "name": "Android Arsenal",
+    "url": "https://android-arsenal.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "andev",
+    "name": "Android Developers",
+    "url": "https://developer.android.com/s/results/?q={{{s}}}"
+  },
+  {
+    "bang": "android",
+    "name": "Android Developers",
+    "url": "https://developer.android.com/s/results/?q={{{s}}}"
+  },
+  {
+    "bang": "apm",
+    "name": "Atom Packages",
+    "url": "https://atom.io/packages/search?q={{{s}}}"
+  },
+  {
+    "bang": "appengine",
+    "name": "App Engine Docs",
+    "url": "http://code.google.com/query/#p=appengine&q={{{s}}}"
+  },
+  {
+    "bang": "arb",
+    "name": "Awesome Ruby (LibHun)",
+    "url": "https://ruby.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "arcgisres",
+    "name": "ArcGIS Resource Center",
+    "url": "http://resources.arcgis.com/content/search-result?searchKeyWord={{{s}}}"
+  },
+  {
+    "bang": "arduino",
+    "name": "Arduino Stack Exchange",
+    "url": "http://arduino.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "armadeus",
+    "name": "Armadeus Project",
+    "url": "http://www.armadeus.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "armtemp",
+    "name": "Azure Quickstart Templates",
+    "url": "https://azure.microsoft.com/de-de/resources/templates/?term={{{s}}}"
+  },
+  {
+    "bang": "askubuntu",
+    "name": "Ask Ubuntu",
+    "url": "http://askubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "au3",
+    "name": "AutoIt Forums",
+    "url": "https://www.autoitscript.com/forum/search/?q={{{s}}}"
+  },
+  {
+    "bang": "autosar",
+    "name": "Autosar",
+    "url": "https://www.autosar.org/nc/document-search/?tx_sysgsearch_pi1%5Bquery%5D={{{s}}}"
+  },
+  {
+    "bang": "baeldung",
+    "name": "Baeldung",
+    "url": "https://www.baeldung.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bash",
+    "name": "Bash",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:mywiki.wooledge.org,wiki.bash-hackers.org"
+  },
+  {
+    "bang": "bazel",
+    "name": "bazel documentation",
+    "url": "https://docs.bazel.build/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "bb",
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org/repo/all/?name={{{s}}}"
+  },
+  {
+    "bang": "bbcs",
+    "name": "Bitbucket Code Search",
+    "url": "https://bitbucket.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "bbjs",
+    "name": " Babylon.js documentation",
+    "url": "https://doc.babylonjs.com/search/?bjsq={{{s}}}"
+  },
+  {
+    "bang": "bbus",
+    "name": "Bitbucket User",
+    "url": "https://bitbucket.org/{{{s}}}"
+  },
+  {
+    "bang": "bcp",
+    "name": "Best Current Practices",
+    "url": "http://tools.ietf.org/html/bcp{{{s}}}"
+  },
+  {
+    "bang": "bcwiki",
+    "name": "Bitcoin Wiki",
+    "url": "https://en.bitcoin.it/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "bdgc",
+    "name": "BitDegree Online Courses",
+    "url": "https://www.bitdegree.org/search?q={{{s}}}&src=ukw"
+  },
+  {
+    "bang": "bdgl",
+    "name": "BitDegree Learn",
+    "url": "https://www.bitdegree.org/learn/search?query={{{s}}}"
+  },
+  {
+    "bang": "blcy",
+    "name": "BlockCypher",
+    "url": "https://live.blockcypher.com/btc/address/{{{s}}}"
+  },
+  {
+    "bang": "blenderapi",
+    "name": "Blender API",
+    "url": "https://docs.blender.org/api/current/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "bmo",
+    "name": "Mozilla Bugzilla",
+    "url": "https://bugzilla.mozilla.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "boto3",
+    "name": "Boto 3 Docs",
+    "url": "https://boto3.readthedocs.io/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "bountysource",
+    "name": "Bountysource",
+    "url": "https://www.bountysource.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bugzilla",
+    "name": "Bugzilla",
+    "url": "https://bugzilla.mozilla.org/buglist.cgi?quicksearch={{{s}}} "
+  },
+  {
+    "bang": "c74",
+    "name": "Cycling '74",
+    "url": "https://cycling74.com/search/page/1/{{{s}}}"
+  },
+  {
+    "bang": "cbottle",
+    "name": "Codebottle",
+    "url": "https://codebottle.io/?q={{{s}}}"
+  },
+  {
+    "bang": "cfn",
+    "name": "AWS CloudFormation Documentation",
+    "url": "http://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation-guide&searchQuery={{{s}}}&this_doc_product=AWS+CloudFormation&this_doc_guide=User+Guide&doc_locale=en_us#facet_doc_product=AWS%20CloudFormation&facet_doc_guide=User%20Guide"
+  },
+  {
+    "bang": "cheat",
+    "name": "https://devhints.io",
+    "url": "https://devhints.io/{{{s}}}"
+  },
+  {
+    "bang": "chmod",
+    "name": "Chmod Calculator",
+    "url": "https://chmodcommand.com/chmod-{{{s}}}"
+  },
+  {
+    "bang": "ckt",
+    "name": "Creation Kit",
+    "url": "http://www.creationkit.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "cloogle",
+    "name": "Cloogle",
+    "url": "http://cloogle.org/#{{{s}}}"
+  },
+  {
+    "bang": "cmake",
+    "name": "CMake documentation",
+    "url": "https://cmake.org/cmake/help/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "codebottle",
+    "name": "CodeBottle",
+    "url": "https://codebottle.io/?q={{{s}}}"
+  },
+  {
+    "bang": "codedgar",
+    "name": "Codedgar",
+    "url": "https://codedgar.com.ve/?s={{{s}}}"
+  },
+  {
+    "bang": "codeforces",
+    "name": "Codeforces",
+    "url": "http://codeforces.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "codegov",
+    "name": "Code.gov",
+    "url": "https://code.gov/search?query={{{s}}}"
+  },
+  {
+    "bang": "codekx",
+    "name": "code.kx",
+    "url": "https://code.kx.com/q/search?query={{{s}}}"
+  },
+  {
+    "bang": "computerhope",
+    "name": "Computer Hope",
+    "url": "https://www.computerhope.com/search2.htm?q={{{s}}}"
+  },
+  {
+    "bang": "cordovapl",
+    "name": "Apache Cordova Plugins Registry",
+    "url": "http://plugins.cordova.io/#/search?search={{{s}}}"
+  },
+  {
+    "bang": "cpen",
+    "name": "Codepen",
+    "url": "http://codepen.io/search?q={{{s}}}&limit=all&depth=everything&show_forks=false"
+  },
+  {
+    "bang": "cproj",
+    "name": "Code Project",
+    "url": "http://www.codeproject.com/search.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "crate",
+    "name": "crate.io",
+    "url": "https://crate.io/docs/stable/search.html?check_keywords=yes&area=default&q={{{s}}}"
+  },
+  {
+    "bang": "crbug",
+    "name": "Chromium bugs",
+    "url": "https://bugs.chromium.org/p/chromium/issues/list?q={{{s}}}"
+  },
+  {
+    "bang": "cr",
+    "name": "codereview.stackexchange.com",
+    "url": "http://codereview.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "crdb",
+    "name": "CockroachDB Docs",
+    "url": "https://www.cockroachlabs.com/docs/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "crypto",
+    "name": "Crypto Stack Exchange",
+    "url": "http://crypto.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "csharp",
+    "name": "C# MSDN",
+    "url": "http://social.msdn.microsoft.com/Search/en-US?query={{{s}}}&Refinement=126&ac=8"
+  },
+  {
+    "bang": "csound",
+    "name": "csounds",
+    "url": "http://www.csounds.com/manual/html/{{{s}}}.html"
+  },
+  {
+    "bang": "csst",
+    "name": "CSS-Tricks",
+    "url": "https://css-tricks.com/?s={{{s}}}"
+  },
+  {
+    "bang": "cstheory",
+    "name": "Theoretical Computer Science - Stack Exchange",
+    "url": "http://cstheory.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cv",
+    "name": "Cross Validated",
+    "url": "https://stats.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cw",
+    "name": "CodeWars",
+    "url": "https://www.codewars.com/kata/search/?q={{{s}}}"
+  },
+  {
+    "bang": "cwe",
+    "name": "Common Weakness Enumeration",
+    "url": "https://cse.google.com/cse?oe=utf8&ie=utf8&source=uds&q={{{s}}}&start=0&cx=012899561505164599335:tb0er0xsk_o"
+  },
+  {
+    "bang": "cyg64",
+    "name": "Cygwin Package Search",
+    "url": "https://cygwin.com/cgi-bin2/package-grep.cgi?grep={{{s}}}&arch=x86_64"
+  },
+  {
+    "bang": "daniweb",
+    "name": "DaniWeb",
+    "url": "https://www.daniweb.com/search/index?q={{{s}}}"
+  },
+  {
+    "bang": "dart",
+    "name": "dartlang",
+    "url": "http://www.dartlang.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "dartpub",
+    "name": "Dart Packages",
+    "url": "https://pub.dartlang.org/packages?q={{{s}}}"
+  },
+  {
+    "bang": "dbasx",
+    "name": "DBA StackExchange",
+    "url": "http://dba.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dbo",
+    "name": "BukkitDev",
+    "url": "http://dev.bukkit.org/search/?search={{{s}}}"
+  },
+  {
+    "bang": "dd",
+    "name": "DevDocs",
+    "url": "https://devdocs.io/#q={{{s}}}"
+  },
+  {
+    "bang": "ddh1",
+    "name": "ddh1",
+    "url": "http://ddh1.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "bang": "ddh",
+    "name": "DuckDuckHack",
+    "url": "https://duck.co/ia?q={{{s}}}"
+  },
+  {
+    "bang": "ddso",
+    "name": "Stack Overflow via DuckDuckGo",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:stackoverflow.com"
+  },
+  {
+    "bang": "defkey",
+    "name": "defkey",
+    "url": "https://defkey.com/search?irq={{{s}}}"
+  },
+  {
+    "bang": "dev",
+    "name": "DevDocs",
+    "url": "https://devdocs.io/#q={{{s}}}"
+  },
+  {
+    "bang": "devdocs",
+    "name": "DevDocs",
+    "url": "https://devdocs.io/#q={{{s}}}"
+  },
+  {
+    "bang": "developpez",
+    "name": "Developpez.com",
+    "url": "http://www.developpez.com/recherche/?q={{{s}}}&sa.x=0&sa.y=0&sa=Go&cx=006424388311999799839:-31tnf0iuqy&cof=FORID:9&ie=ISO-8859-1&siteurl=www.developpez.com"
+  },
+  {
+    "bang": "devhints",
+    "name": "Dev Hints",
+    "url": "https://devhints.io/?q={{{s}}}"
+  },
+  {
+    "bang": "devo",
+    "name": "Dev.Opera ",
+    "url": "http://dev.opera.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dev.to",
+    "name": "dev.to",
+    "url": "https://dev.to/search?q={{{s}}}"
+  },
+  {
+    "bang": "devtube",
+    "name": "DevTube",
+    "url": "http://dev.tube?q={{{s}}}"
+  },
+  {
+    "bang": "dfman",
+    "name": "DragonFly BSD manual pages",
+    "url": "http://leaf.dragonflybsd.org/cgi/web-man?command={{{s}}}&section=ANY"
+  },
+  {
+    "bang": "dh",
+    "name": "Docker Hub",
+    "url": "https://hub.docker.com/search/?q={{{s}}}&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0"
+  },
+  {
+    "bang": "die",
+    "name": "Linux.die.net man pages",
+    "url": "http://www.die.net/search/?q={{{s}}}&sa=Search&ie=ISO-8859-1&cx=partner-pub-5823754184406795%3A54htp1rtx5u&cof=FORID%3A9"
+  },
+  {
+    "bang": "dig",
+    "name": "dig Lookup",
+    "url": "http://networking.ringofsaturn.com/Tools/dig.php?domain=ANY+{{{s}}}"
+  },
+  {
+    "bang": "django",
+    "name": "Django Docs",
+    "url": "http://docs.djangoproject.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "djticket",
+    "name": "Django Ticket",
+    "url": "https://code.djangoproject.com/ticket/{{{s}}}"
+  },
+  {
+    "bang": "docksal",
+    "name": "Docksal",
+    "url": "https://docksal.readthedocs.io/en/master/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "docs.rs",
+    "name": "docs.rs",
+    "url": "https://docs.rs/releases/search?query={{{s}}}"
+  },
+  {
+    "bang": "dpcs",
+    "name": "PCsoft",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:doc.pcsoft.fr&ia=web"
+  },
+  {
+    "bang": "dpolicy",
+    "name": "Debian Policy Manual",
+    "url": "https://www.debian.org/doc/debian-policy {{{s}}}"
+  },
+  {
+    "bang": "dpub",
+    "name": "Dartlang Packages",
+    "url": "http://pub.dartlang.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "dreamincode",
+    "name": "Dream In Code",
+    "url": "http://www.dreamincode.net/forums/index.php?app=core&module=search&section=search&do=quick_search&search_app=core&fromsearch=1&search_term={{{s}}}&search_app=forums"
+  },
+  {
+    "bang": "drs",
+    "name": "Docs.rs - Documentation for Rust packages",
+    "url": "https://docs.rs/{{{s}}}"
+  },
+  {
+    "bang": "ducx",
+    "name": "Fabasoft app.ducx Help",
+    "url": "http://help.appducx.com/index.php?topic=doc/Search-Result/index_en.htm&q={{{s}}}"
+  },
+  {
+    "bang": "dvlp",
+    "name": "developpez.com",
+    "url": "http://www.developpez.com/recherche/?q={{{s}}}&sa.x=-1376&sa.y=-2&cx=006424388311999799839%3A-31tnf0iuqy&cof=FORID%3A9&ie=ISO-8859-1&siteurl=www.developpez.com%2F%3Fq%3Dmicrosoft&ref=&ss=1463j290467j10"
+  },
+  {
+    "bang": "dvp",
+    "name": "Developpez.com",
+    "url": "http://www.developpez.com/recherche/?cx=006424388311999799839%3A-31tnf0iuqy&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}&sa=Rechercher"
+  },
+  {
+    "bang": "dxr",
+    "name": "Mozilla DXR Code Search",
+    "url": "https://dxr.mozilla.org/mozilla-central/search?q={{{s}}}"
+  },
+  {
+    "bang": "eclipsewiki",
+    "name": "Eclipse Wiki (Eclipsepedia)",
+    "url": "https://wiki.eclipse.org/index.php?search={{{s}}}&fulltext=search"
+  },
+  {
+    "bang": "eecms",
+    "name": "ExpressionEngine User Guide",
+    "url": "https://docs.expressionengine.com/search/latest/?q={{{s}}}"
+  },
+  {
+    "bang": "ee",
+    "name": "ellislab",
+    "url": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fellislab.com%2Fforums%2F+{{{s}}}"
+  },
+  {
+    "bang": "elastic",
+    "name": "Elasticsearch Documentation",
+    "url": "https://www.elastic.co/search?q={{{s}}}&section=Learn%2FDocs%2F"
+  },
+  {
+    "bang": "elbaul",
+    "name": "El Baul del Programador",
+    "url": "http://elbauldelprogramador.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ele",
+    "name": "Electron",
+    "url": "https://electronjs.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "emacswiki",
+    "name": "EmacsWiki.org",
+    "url": "https://duckduckgo.com/?q=site:emacswiki.org+{{{s}}}"
+  },
+  {
+    "bang": "emacu",
+    "name": "E-Maculation",
+    "url": "https://emaculation.com/doku.php/mac_emulation?do=search&id=mac_emulation&q={{{s}}}"
+  },
+  {
+    "bang": "est",
+    "name": "Emacs Stack Exchange",
+    "url": "http://emacs.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ext",
+    "name": "FILExt",
+    "url": "http://filext.com/file-extension/{{{s}}}"
+  },
+  {
+    "bang": "ezt",
+    "name": "Easytrieve Document",
+    "url": "https://docops.ca.com/ca-easytrieve/11-6/en/search?q={{{s}}}&max=10&key=CAET116"
+  },
+  {
+    "bang": "fastai",
+    "name": "fast.ai forums",
+    "url": "https://forums.fast.ai/search?q={{{s}}}"
+  },
+  {
+    "bang": "fccf",
+    "name": "freeCodeCamp Forum",
+    "url": "https://www.freecodecamp.org/forum/search?q= {{{s}}}"
+  },
+  {
+    "bang": "fdobugs",
+    "name": "freedesktop.org bugs",
+    "url": "https://bugs.freedesktop.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "fmedoc",
+    "name": "Safe software FME documentation",
+    "url": "https://www.safe.com/search/?site-search={{{s}}}&site=docs.safe.com"
+  },
+  {
+    "bang": "fmekb",
+    "name": "Safe.com knowledge center",
+    "url": "https://knowledge.safe.com/search.html?f=&type=question+OR+idea+OR+kbentry&c=&redirect=search%2Fsearch&sort=relevance&q={{{s}}}:"
+  },
+  {
+    "bang": "fmp",
+    "name": "FileMaker Community",
+    "url": "https://community.filemaker.com/en/s/global-search/{{{s}}}"
+  },
+  {
+    "bang": "fps",
+    "name": "Fedora Packages Search",
+    "url": "https://apps.fedoraproject.org/packages/s/{{{s}}}"
+  },
+  {
+    "bang": "frink",
+    "name": "Frink Web Interface",
+    "url": "http://www.futureboy.us/fsp/frink.fsp?fromVal={{{s}}}"
+  },
+  {
+    "bang": "fr",
+    "name": "Larousse French Dictionary",
+    "url": "http://www.larousse.fr/dictionnaires/francais/{{{s}}}"
+  },
+  {
+    "bang": "fxr",
+    "name": "FreeBSD Cross Reference",
+    "url": "http://fxr.watson.org/fxr/ident?i={{{s}}}"
+  },
+  {
+    "bang": "gbugs",
+    "name": "Gentoo's Bugzilla",
+    "url": "https://bugs.gentoo.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "gcp",
+    "name": "Google Cloud Platform",
+    "url": "https://cloud.google.com/s/results/?q={{{s}}}"
+  },
+  {
+    "bang": "gdb",
+    "name": "GDB Debugger",
+    "url": "http://duckduckgo.com/?q=site:sourceware.org/gdb/current/onlinedocs/gdb/+{{{s}}}"
+  },
+  {
+    "bang": "gdd",
+    "name": "Godot Engine Documentation",
+    "url": "http://docs.godotengine.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "gdev",
+    "name": "Gamedev Stackexchange",
+    "url": "https://gamedev.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "geekbench",
+    "name": "Geekbench Browser",
+    "url": "http://browser.geekbench.com/v4/cpu/search?q={{{s}}}"
+  },
+  {
+    "bang": "gfg",
+    "name": "geeksforgeeks",
+    "url": "https://www.geeksforgeeks.org/?q={{{s}}}"
+  },
+  {
+    "bang": "ghc",
+    "name": "GitHub Code",
+    "url": "https://github.com/search?utf8=\u2713&q={{{s}}}&type=Code"
+  },
+  {
+    "bang": "ghcode",
+    "name": "Github (code search)",
+    "url": "https://github.com/search?utf8=\u2713&q={{{s}}}&type=Code"
+  },
+  {
+    "bang": "gh",
+    "name": "GitHub",
+    "url": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "ghio",
+    "name": "Github User Pages",
+    "url": "https://duckduckgo.com/?q=site%3Agithub.io+{{{s}}}&ia=web"
+  },
+  {
+    "bang": "ghrepo",
+    "name": "GitHub Repo",
+    "url": "https://github.com/{{{s}}}"
+  },
+  {
+    "bang": "ghr",
+    "name": "Github",
+    "url": "https://github.com/{{{s}}}"
+  },
+  {
+    "bang": "ght",
+    "name": "Github - Trending",
+    "url": "https://github.com/trending/{{{s}}}"
+  },
+  {
+    "bang": "ghtopic",
+    "name": "GitHub Topic",
+    "url": "https://github.com/topic/{{{s}}}"
+  },
+  {
+    "bang": "ghuser",
+    "name": "GitHub",
+    "url": "https://github.com/search?type=Users&q={{{s}}}"
+  },
+  {
+    "bang": "ghus",
+    "name": "Github User",
+    "url": "https://github.com/{{{s}}}"
+  },
+  {
+    "bang": "gisse",
+    "name": "Stack Exchange",
+    "url": "https://gis.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gist",
+    "name": "Github Gists",
+    "url": "https://gist.github.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gitdocs",
+    "name": "Git Documentation",
+    "url": "https://git-scm.com/search/results?search={{{s}}}"
+  },
+  {
+    "bang": "git",
+    "name": "Github",
+    "url": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "githubhelp",
+    "name": "GitHub Help",
+    "url": "https://help.github.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "githubstars",
+    "name": "Github Stars",
+    "url": "https://github.com/stars?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "gitignore",
+    "name": "gitignore.io",
+    "url": "https://www.gitignore.io/api/{{{s}}}"
+  },
+  {
+    "bang": "gitote",
+    "name": "Gitote",
+    "url": "https://gitote.in/explore/repos?q={{{s}}}"
+  },
+  {
+    "bang": "git-scm",
+    "name": "Git",
+    "url": "http://git-scm.com/search/results?search={{{s}}}"
+  },
+  {
+    "bang": "glab",
+    "name": "GitLab",
+    "url": "https://gitlab.com/search?utf8=\u2713&search={{{s}}}"
+  },
+  {
+    "bang": "glitch",
+    "name": "Glitch",
+    "url": "https://glitch.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gnomewiki",
+    "name": "GNOME Wiki",
+    "url": "https://wiki.gnome.org/Home?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "bang": "godot",
+    "name": "Godot Docs",
+    "url": "http://docs.godotengine.org/en/stable/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "gradle",
+    "name": "Gradle",
+    "url": "http://duckduckgo.com/?q=site%3Agradle.org+{{{s}}}"
+  },
+  {
+    "bang": "grafikart",
+    "name": "Grafikart",
+    "url": "http://www.grafikart.fr/search?q={{{s}}}"
+  },
+  {
+    "bang": "groovy",
+    "name": "Groovy Documentation",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:docs.groovy-lang.org"
+  },
+  {
+    "bang": "gso",
+    "name": "Google over StackOverflow",
+    "url": "https://google.com/search?q=%2B%5Binurl%3Ahttp%3A%2F%2Fstackoverflow.com%5D+{{{s}}}"
+  },
+  {
+    "bang": "gtmz",
+    "name": "GeekTimes",
+    "url": "https://geektimes.ru/search/?q={{{s}}}"
+  },
+  {
+    "bang": "haxelib",
+    "name": "Haxelib",
+    "url": "http://lib.haxe.org/search?v={{{s}}}"
+  },
+  {
+    "bang": "hdu",
+    "name": "Hangzhou Dianzi University Online Judge",
+    "url": "http://acm.hdu.edu.cn/search.php?field=problem&key={{{s}}}"
+  },
+  {
+    "bang": "herber",
+    "name": "Herber",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aherber.de"
+  },
+  {
+    "bang": "heroku",
+    "name": "Heroku Devcenter",
+    "url": "http://devcenter.heroku.com/articles?q={{{s}}}"
+  },
+  {
+    "bang": "hg",
+    "name": "Mecurial",
+    "url": "https://www.mercurial-scm.org/wiki/Mercurial?action=fullsearch&context=180&value={{{s}}}&titlesearch=Title"
+  },
+  {
+    "bang": "hnd",
+    "name": "Hacker News",
+    "url": "https://hn.algolia.com/?query={{{s}}}&sort=byDate"
+  },
+  {
+    "bang": "host",
+    "name": "IP Lookup",
+    "url": "http://networking.ringofsaturn.com/Tools/dig.php?domain=ANY+{{{s}}}"
+  },
+  {
+    "bang": "hou",
+    "name": "Houdini Documentation",
+    "url": "https://cse.google.com/cse?cx=001106583893786776783%3Au81vudxhm7a&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.sidefx.com%2Fdocs%2Fhoudini%2F&ref=www.sidefx.com%2Fdocs%2F&ss=504j116288j4"
+  },
+  {
+    "bang": "how",
+    "name": "howCode",
+    "url": "https://howcode.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "htcat",
+    "name": "https://http.cat",
+    "url": "https://http.cat/{{{s}}}"
+  },
+  {
+    "bang": "htmldog",
+    "name": "HTML Dog",
+    "url": "http://www.htmldog.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "http",
+    "name": "HTTP Status Codes",
+    "url": "https://httpstatuses.com/{{{s}}} "
+  },
+  {
+    "bang": "ibmkc",
+    "name": "IBM Knowledge Center",
+    "url": "https://www.ibm.com/support/knowledgecenter/en/search/{{{s}}}"
+  },
+  {
+    "bang": "ietf",
+    "name": "The IETF",
+    "url": "http://datatracker.ietf.org/doc/search/?name={{{s}}}&activeDrafts=on&rfcs=on"
+  },
+  {
+    "bang": "imagelayers",
+    "name": "ImageLayers",
+    "url": "https://imagelayers.io/?images={{{s}}}"
+  },
+  {
+    "bang": "infoq",
+    "name": "InfoQ",
+    "url": "http://www.infoq.com/search.action?queryString={{{s}}}"
+  },
+  {
+    "bang": "inteli",
+    "name": "Intel Intrinsics Guide",
+    "url": "https://software.intel.com/sites/landingpage/IntrinsicsGuide/#!=undefined&text={{{s}}}"
+  },
+  {
+    "bang": "jme",
+    "name": "jMonkeyEngine Forum",
+    "url": "https://hub.jmonkeyengine.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "juejin",
+    "name": "Juejin",
+    "url": "https://juejin.im/search?query= {{{s}}}&type=all"
+  },
+  {
+    "bang": "kamailio",
+    "name": "Kamailio",
+    "url": "https://www.kamailio.org/w/?s={{{s}}}"
+  },
+  {
+    "bang": "katacoda",
+    "name": "katacoda",
+    "url": "https://katacoda.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "kbugs",
+    "name": "KDE Bugs",
+    "url": "https://bugs.kde.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "kcommunity",
+    "name": "KDE Community Wiki",
+    "url": "http://community.kde.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "koha",
+    "name": "Koha Bugzilla",
+    "url": "https://bugs.koha-community.org/bugzilla3/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "kprojects",
+    "name": "KDE Git Projects",
+    "url": "https://projects.kde.org/search?q={{{s}}}&all_words=1&projects=1&submit=Submit"
+  },
+  {
+    "bang": "ktb",
+    "name": "KDE TechBase",
+    "url": "http://techbase.kde.org/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "ktechbase",
+    "name": "KDE TechBase",
+    "url": "http://techbase.kde.org/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "l1sp",
+    "name": "Lisp Docs",
+    "url": "http://l1sp.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "lapack",
+    "name": "Netlib",
+    "url": "http://www.netlib.org/lapack/complex16/{{{s}}}.f"
+  },
+  {
+    "bang": "lcr",
+    "name": "Linux Cross Reference",
+    "url": "http://lxr.free-electrons.com/ident?i={{{s}}}"
+  },
+  {
+    "bang": "len",
+    "name": "Mothereff.in Byte Counter",
+    "url": "https://mothereff.in/byte-counter#{{{s}}}"
+  },
+  {
+    "bang": "levi",
+    "name": "Levi D. Smith Games",
+    "url": "https://levidsmith.com/?s={{{s}}}"
+  },
+  {
+    "bang": "libraries",
+    "name": "libraries.io",
+    "url": "https://libraries.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "libuv",
+    "name": "Libuv API Docs",
+    "url": "http://docs.libuv.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "lio",
+    "name": "https://libraries.io",
+    "url": "https://libraries.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "llvm",
+    "name": "LLVM Compiler Infrastructure",
+    "url": "https://duckduckgo.com/?q=site%3Allvm.org+{{{s}}}"
+  },
+  {
+    "bang": "loh",
+    "name": "LibreOffice Help",
+    "url": "https://help.libreoffice.org/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "losource",
+    "name": "LibreOffice Source Code",
+    "url": "http://opengrok.libreoffice.org/search?q={{{s}}}&project=core"
+  },
+  {
+    "bang": "lpbug",
+    "name": "Launchpad Bugs",
+    "url": "https://bugs.launchpad.net/bugs/+bugs?field.searchtext={{{s}}}"
+  },
+  {
+    "bang": "lp",
+    "name": "Launchpad",
+    "url": "https://launchpad.net/+search?field.text={{{s}}}"
+  },
+  {
+    "bang": "lunaavr",
+    "name": "Luna (AVR)",
+    "url": "http://avr.myluna.de/doku.php?do=search&id={{{s}}}"
+  },
+  {
+    "bang": "lxiny",
+    "name": "learnxinyminutes.com",
+    "url": "https://learnxinyminutes.com/docs/{{{s}}}"
+  },
+  {
+    "bang": "lxml",
+    "name": "MARC Linux Kernel",
+    "url": "http://marc.info/?l=linux-kernel&w=2&r=1&s={{{s}}}&q=b"
+  },
+  {
+    "bang": "lynda",
+    "name": "Lynda.com",
+    "url": "http://www.lynda.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "man-k",
+    "name": "man-k.org",
+    "url": "http://man-k.org/search?q={{{s}}}&dist=NetBSD-current"
+  },
+  {
+    "bang": "mariadb",
+    "name": "Mariadb",
+    "url": "https://mariadb.com/kb/en/+search/?q={{{s}}}"
+  },
+  {
+    "bang": "mathjax",
+    "name": "MathJax",
+    "url": "http://docs.mathjax.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "mbsdman",
+    "name": "MirBSD Manpages",
+    "url": "https://www.mirbsd.org/man.cgi?q={{{s}}} "
+  },
+  {
+    "bang": "md",
+    "name": "Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}"
+  },
+  {
+    "bang": "mdnio",
+    "name": "mdn.io",
+    "url": "https://mdn.io/{{{s}}}"
+  },
+  {
+    "bang": "mdn",
+    "name": "Mozilla Developer Network",
+    "url": "https://developer.mozilla.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "mdn.s",
+    "name": "Mozilla Developer Network",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Adeveloper.mozilla.org"
+  },
+  {
+    "bang": "metappcg",
+    "name": "Meta Programming Problems & Code Golf",
+    "url": "https://codegolf.meta.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mime",
+    "name": "Mime Types Database",
+    "url": "http://mimeapplication.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "moddota",
+    "name": "ModDota",
+    "url": "https://moddota.com/forums/search?Search={{{s}}}"
+  },
+  {
+    "bang": "mongo",
+    "name": "MongoDB",
+    "url": "http://docs.mongodb.org/manual/search/?query={{{s}}}"
+  },
+  {
+    "bang": "mozdxr",
+    "name": "Mozilla DXR",
+    "url": "https://dxr.mozilla.org/mozilla-central/search?q={{{s}}}"
+  },
+  {
+    "bang": "mozsf",
+    "name": "Mozilla Searchfox",
+    "url": "http://searchfox.org/mozilla-central/search?q={{{s}}}"
+  },
+  {
+    "bang": "msd",
+    "name": "Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}"
+  },
+  {
+    "bang": "msmalware",
+    "name": "MS Malware Encyclopedia",
+    "url": "http://www.microsoft.com/security/portal/Threat/Encyclopedia/Search.aspx?query={{{s}}}"
+  },
+  {
+    "bang": "mso",
+    "name": "Meta Stack Overflow",
+    "url": "https://meta.stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mssql",
+    "name": "Microsoft TechNet SQL Server",
+    "url": "https://social.technet.microsoft.com/Search/en-US/sqlserver?query={{{s}}}&Refinement=30&ac=4"
+  },
+  {
+    "bang": "murl",
+    "name": "murlengine",
+    "url": "https://murlengine.com/api/en/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "neo4j",
+    "name": "Neo4j",
+    "url": "https://neo4j.com/?s={{{s}}}"
+  },
+  {
+    "bang": "nesdev",
+    "name": "NESDev Wiki",
+    "url": "http://wiki.nesdev.com/w/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=1"
+  },
+  {
+    "bang": "nettuts",
+    "name": "Nettuts+",
+    "url": "https://code.tutsplus.com/tutorials/search/{{{s}}}"
+  },
+  {
+    "bang": "ng4",
+    "name": "Angular 4 API",
+    "url": "https://angular.io/api?query={{{s}}}"
+  },
+  {
+    "bang": "npmjs",
+    "name": "npm",
+    "url": "https://www.npmjs.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "npms",
+    "name": "NPM Search",
+    "url": "http://npmsearch.com/?q={{{s}}}"
+  },
+  {
+    "bang": "nullbyte",
+    "name": "Null Byte",
+    "url": "https://null-byte.wonderhowto.com/search/{{{s}}} "
+  },
+  {
+    "bang": "oapi",
+    "name": "http://overapi.com",
+    "url": "http://overapi.com/{{{s}}}"
+  },
+  {
+    "bang": "occ",
+    "name": "OpenClassroom Cours",
+    "url": "https://openclassrooms.com/courses?q={{{s}}}"
+  },
+  {
+    "bang": "oco",
+    "name": "OCamlOscope",
+    "url": "https://camlspotter.github.io/ocamloscope.html?q={{{s}}}"
+  },
+  {
+    "bang": "opc",
+    "name": "OpenClassrooms",
+    "url": "http://fr.openclassrooms.com/recherche/?search={{{s}}}"
+  },
+  {
+    "bang": "openradar",
+    "name": "OpenRadar",
+    "url": "http://openradar.appspot.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "oreilly",
+    "name": "O'Reilly",
+    "url": "http://search.oreilly.com/?q={{{s}}}"
+  },
+  {
+    "bang": "orly",
+    "name": "https://learning.oreilly.com/home",
+    "url": "https://learning.oreilly.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "osdev",
+    "name": "OSDev Wiki",
+    "url": "https://wiki.osdev.org/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "osdn",
+    "name": "OSDN",
+    "url": "https://osdn.net/search/?iq={{{s}}}"
+  },
+  {
+    "bang": "osmc",
+    "name": "OSMC",
+    "url": "https://discourse.osmc.tv/search?q={{{s}}}"
+  },
+  {
+    "bang": "ourdocs",
+    "name": "Umbraco Documentation",
+    "url": "https://our.umbraco.com/search?q={{{s}}}&cat=documentation"
+  },
+  {
+    "bang": "ov",
+    "name": "StackOverflow",
+    "url": "http://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "owasp",
+    "name": "OWASP",
+    "url": "https://www.owasp.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pcasio",
+    "name": "Plan\u00e8te Casio",
+    "url": "https://www.planet-casio.com/Fr/aide/recherche.php?q={{{s}}}"
+  },
+  {
+    "bang": "pctrl",
+    "name": "Package Control",
+    "url": "https://packagecontrol.io/search/{{{s}}}"
+  },
+  {
+    "bang": "perch",
+    "name": "Perch Forum",
+    "url": "http://forum.grabaperch.com/forum/search?query={{{s}}}"
+  },
+  {
+    "bang": "pgdocs",
+    "name": "PostgreSQL documentation",
+    "url": "http://www.postgresql.org/search/?u=%2Fdocs%2F&q={{{s}}}"
+  },
+  {
+    "bang": "pio",
+    "name": "PlatformIO Libraries",
+    "url": "http://platformio.org/lib/search?query={{{s}}}"
+  },
+  {
+    "bang": "pls",
+    "name": "pluralsight",
+    "url": "https://www.pluralsight.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "pony",
+    "name": "Pony Standard Library",
+    "url": "https://stdlib.ponylang.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "posh",
+    "name": "Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}"
+  },
+  {
+    "bang": "postgresql",
+    "name": "PostgreSQL.org",
+    "url": "http://www.postgresql.org/search?q={{{s}}}&a=1&submit=Search"
+  },
+  {
+    "bang": "ppcg",
+    "name": "Programming Puzzles & Code Golf Stack Exchange",
+    "url": "https://codegolf.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ppdev",
+    "name": "PayPal Developer",
+    "url": "https://developer.paypal.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pragprog",
+    "name": "The Pragmatic Bookshelf",
+    "url": "https://pragprog.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "prfc",
+    "name": "Pretty-RFC",
+    "url": "http://pretty-rfc.herokuapp.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "primfx",
+    "name": "PrimFX",
+    "url": "https://www.primfx.com/q/{{{s}}}"
+  },
+  {
+    "bang": "procomm",
+    "name": "Progress Community",
+    "url": "https://community.progress.com/search#q={{{s}}}"
+  },
+  {
+    "bang": "prog",
+    "name": "programmers.stackexchange.com",
+    "url": "http://programmers.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "program",
+    "name": "CodeSpeedy",
+    "url": "https://www.codespeedy.com/?s={{{s}}}"
+  },
+  {
+    "bang": "programmableweb",
+    "name": "ProgrammableWeb",
+    "url": "http://www.programmableweb.com/search/{{{s}}}"
+  },
+  {
+    "bang": "progress",
+    "name": "Progress",
+    "url": "http://knowledgebase.progress.com/pkb_Home?q={{{s}}}"
+  },
+  {
+    "bang": "pro",
+    "name": "programmers.stackexchange.com",
+    "url": "http://programmers.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "psimplified",
+    "name": "Programming Simplified",
+    "url": "http://www.programmingsimplified.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "puredata",
+    "name": "Pure Data",
+    "url": "http://puredata.info/search?SearchableText={{{s}}}"
+  },
+  {
+    "bang": "purs",
+    "name": "Pursuit",
+    "url": "https://pursuit.purescript.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "py35",
+    "name": "Python 3.5 Documentation",
+    "url": "https://docs.python.org/3.5/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "pygame",
+    "name": "Pygame",
+    "url": "https://www.pygame.org/docs/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "pyqt5",
+    "name": "PyQt5",
+    "url": "https://www.riverbankcomputing.com/static/Docs/PyQt5/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "qiita",
+    "name": "Qiita",
+    "url": "http://qiita.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "qs",
+    "name": "Qlik Sense Help",
+    "url": "https://help.qlik.com/en-US/search/?q={{{s}}}"
+  },
+  {
+    "bang": "qt5",
+    "name": "Qt 5 Documentation",
+    "url": "http://doc.qt.io/qt-5/search-results.html?q={{{s}}}"
+  },
+  {
+    "bang": "qt",
+    "name": "Qt Documentation",
+    "url": "https://doc.qt.io/qt-5/search-results.html?q={{{s}}}"
+  },
+  {
+    "bang": "quay",
+    "name": "Quay",
+    "url": "https://quay.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "railscasts",
+    "name": "RailsCasts",
+    "url": "http://railscasts.com/?search={{{s}}}"
+  },
+  {
+    "bang": "raspberrypi",
+    "name": "Raspberry Pi",
+    "url": "http://www.raspberrypi.org/?s={{{s}}}"
+  },
+  {
+    "bang": "ray",
+    "name": "Ray Wenderlich",
+    "url": "https://www.raywenderlich.com/?s={{{s}}}"
+  },
+  {
+    "bang": "rb",
+    "name": "Current ruby docs",
+    "url": "https://rubydocs.org/d/ruby-latest/?q={{{s}}}"
+  },
+  {
+    "bang": "readthedocs",
+    "name": "Read The Docs",
+    "url": "https://readthedocs.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "regexper",
+    "name": "Regexper ",
+    "url": "https://regexper.com/#{{{s}}}"
+  },
+  {
+    "bang": "repl",
+    "name": "repl.it",
+    "url": "https://repl.it/languages/{{{s}}}"
+  },
+  {
+    "bang": "rfc",
+    "name": "IETF RFC",
+    "url": "https://tools.ietf.org/html/rfc{{{s}}}"
+  },
+  {
+    "bang": "rfcr",
+    "name": "Online RFC Reader",
+    "url": "http://www.rfcreader.com/#rfc{{{s}}}"
+  },
+  {
+    "bang": "rosettacode",
+    "name": "RosettaCode.org",
+    "url": "http://rosettacode.org/mw/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "rowiki",
+    "name": "ROBLOX Wiki",
+    "url": "https://developer.roblox.com/search#stq={{{s}}}"
+  },
+  {
+    "bang": "rpi-so",
+    "name": "Raspberry pi Stackexchange",
+    "url": "http://raspberrypi.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rpmfind",
+    "name": "RPMfind.net",
+    "url": "http://rpmfind.net/linux/rpm2html/search.php?query={{{s}}}&submit=Search+..."
+  },
+  {
+    "bang": "rpm",
+    "name": "RPMfind.net",
+    "url": "http://rpmfind.net/linux/rpm2html/search.php?query={{{s}}}&submit=Search+..."
+  },
+  {
+    "bang": "rs-docs",
+    "name": "docs.rs (rust crate documentation)",
+    "url": "https://docs.rs/{{{s}}}"
+  },
+  {
+    "bang": "rs-std",
+    "name": "std library docs for rust",
+    "url": "https://doc.rust-lang.org/std/index.html?search={{{s}}}"
+  },
+  {
+    "bang": "rstc",
+    "name": "Rosetta Code",
+    "url": "http://rosettacode.org/mw/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "rtdlinux",
+    "name": "https://kernel.readthedocs.io/en/sphinx-samples",
+    "url": "https://kernel.readthedocs.io/en/sphinx-samples/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "rtd",
+    "name": "Read the Docs",
+    "url": "https://readthedocs.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "rtfd",
+    "name": "Read the Docs",
+    "url": "http://{{{s}}}.rtfd.io"
+  },
+  {
+    "bang": "rustdoc",
+    "name": "RustDocs",
+    "url": "https://doc.rust-lang.org/std/?search={{{s}}}"
+  },
+  {
+    "bang": "rustd",
+    "name": "The Rust Standard Library Documentation",
+    "url": "https://doc.rust-lang.org/std/?search={{{s}}}"
+  },
+  {
+    "bang": "rustrfc",
+    "name": "Rust RFC GitHub.com",
+    "url": "https://github.com/rust-lang/rfcs/issues?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "rust",
+    "name": "Rust stdlib docs",
+    "url": "https://doc.rust-lang.org/std/?search={{{s}}}"
+  },
+  {
+    "bang": "sap",
+    "name": "SAP Launchpad",
+    "url": "https://launchpad.support.sap.com/#/solutions/notesv2/?q={{{s}}}"
+  },
+  {
+    "bang": "sb2",
+    "name": "Scratch",
+    "url": "https://scratch.mit.edu/search/projects?q={{{s}}}"
+  },
+  {
+    "bang": "scalaapi",
+    "name": "Scala Standard Library",
+    "url": "http://www.scala-lang.org/api/current/index.html?search={{{s}}}"
+  },
+  {
+    "bang": "scilab",
+    "name": "Scilab Documentation",
+    "url": "https://help.scilab.org/docs/6.0.0/en_US/search/{{{s}}}"
+  },
+  {
+    "bang": "scode",
+    "name": "Searchcode",
+    "url": "https://searchcode.com/?q={{{s}}}"
+  },
+  {
+    "bang": "scrapy",
+    "name": "scrapy docs",
+    "url": "http://doc.scrapy.org/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "scratchforums",
+    "name": "Scratch Forums Search",
+    "url": "https://scratchforums.asun.co/search?q={{{s}}}"
+  },
+  {
+    "bang": "sdb",
+    "name": "syntaxdb.com",
+    "url": "https://syntaxdb.com/reference/search?utf8=\u2713&search={{{s}}}"
+  },
+  {
+    "bang": "se80",
+    "name": "SAP Development Objects",
+    "url": "https://www.se80.co.uk/action/search_results.htm?q={{{s}}}"
+  },
+  {
+    "bang": "sechat",
+    "name": "Stack Exchange Chat",
+    "url": "https://chat.stackexchange.com/rooms/{{{s}}}"
+  },
+  {
+    "bang": "securityheaders",
+    "name": "securityheaders.io",
+    "url": "https://securityheaders.io/?q={{{s}}}&followRedirects=on"
+  },
+  {
+    "bang": "sfse",
+    "name": "Salesforce Stack Exchange",
+    "url": "http://salesforce.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sg",
+    "name": "Sourcegraph",
+    "url": "https://sourcegraph.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sha256",
+    "name": "Cryptography.cc",
+    "url": "https://cryptography.cc/convert?text={{{s}}}&algorithm=sha256"
+  },
+  {
+    "bang": "shadertoy",
+    "name": "shadertoy.com",
+    "url": "https://www.shadertoy.com/results?query={{{s}}} "
+  },
+  {
+    "bang": "shards",
+    "name": "Crystal Shards",
+    "url": "https://crystalshards.org/?filter={{{s}}}"
+  },
+  {
+    "bang": "sikuli",
+    "name": "Sikuli",
+    "url": "http://doc.sikuli.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "simplicite",
+    "name": "Simplicit\u00e9.io",
+    "url": "https://www.simplicite.io/resources/search?q={{{s}}}"
+  },
+  {
+    "bang": "sitepoint",
+    "name": "Sitepoint",
+    "url": "https://www.sitepoint.com/?s={{{s}}}"
+  },
+  {
+    "bang": "skb",
+    "name": "kb.workfusion.com",
+    "url": "https://kb.workfusion.com/dosearchsite.action?cql=siteSearch+~+%22{{{s}}}%22&queryString={{{s}}}"
+  },
+  {
+    "bang": "sku",
+    "name": "skUnity",
+    "url": "https://docs.skunity.com/syntax/search/{{{s}}}"
+  },
+  {
+    "bang": "slibs",
+    "name": "SearchLibs",
+    "url": "http://searchlibs.com/?q={{{s}}}"
+  },
+  {
+    "bang": "sobash",
+    "name": "Stack Overflow Bash Search",
+    "url": "http://stackoverflow.com/search?q=[bash]+{{{s}}}"
+  },
+  {
+    "bang": "sod",
+    "name": "Stackoverflow with DuckDuckGo",
+    "url": "https://duckduckgo.com/?q=site:stackoverflow.com+{{{s}}}"
+  },
+  {
+    "bang": "sog",
+    "name": "Stack Overflow via Google",
+    "url": "https://www.google.com/search?q=site%3Astackoverflow.com+{{{s}}}"
+  },
+  {
+    "bang": "sonarcloud",
+    "name": "SonarCloud",
+    "url": "https://sonarcloud.io/explore/projects?search={{{s}}}"
+  },
+  {
+    "bang": "sopt",
+    "name": "Stack Overflow em Portugu\u00eas",
+    "url": "https://pt.stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "soscrapy",
+    "name": "Stack Overflow",
+    "url": "http://stackoverflow.com/search?q={{{s}}}[scrapy]"
+  },
+  {
+    "bang": "so",
+    "name": "Stack Overflow",
+    "url": "http://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sourcegraph",
+    "name": "Sourcegraph",
+    "url": "https://sourcegraph.com/github.com/{{{s}}}"
+  },
+  {
+    "bang": "sphereon",
+    "name": "Sphereon",
+    "url": "https://sphereon.com/?s={{{s}}}"
+  },
+  {
+    "bang": "spip",
+    "name": "SPIP",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:spip.net"
+  },
+  {
+    "bang": "springsource",
+    "name": "SpringSource",
+    "url": "http://www.springsource.org/search/google?query={{{s}}}"
+  },
+  {
+    "bang": "sqlsh",
+    "name": "SQL.sh",
+    "url": "http://sql.sh/?s={{{s}}}&submit=Rechercher"
+  },
+  {
+    "bang": "srcforge",
+    "name": "SourceForge",
+    "url": "http://sourceforge.net/directory/os:windows/freshness:recently-updated/?q={{{s}}}"
+  },
+  {
+    "bang": "stackoverflow",
+    "name": "StackOverflow",
+    "url": "http://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "stack",
+    "name": "Stack Overflow",
+    "url": "http://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "subldoc",
+    "name": "Sublime Text Unofficial Documentation",
+    "url": "http://docs.sublimetext.info/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "sublforum",
+    "name": "Sublime Text Forum",
+    "url": "https://forum.sublimetext.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "superuser",
+    "name": "SuperUser",
+    "url": "http://superuser.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "su",
+    "name": "SuperUser",
+    "url": "http://superuser.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "swift",
+    "name": "Swift Standard Library",
+    "url": "https://developer.apple.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "swi",
+    "name": "SWI-Prolog",
+    "url": "http://www.swi-prolog.org/search?for={{{s}}}"
+  },
+  {
+    "bang": "symbolhound",
+    "name": "Symbol Hound",
+    "url": "http://symbolhound.com/?q={{{s}}}"
+  },
+  {
+    "bang": "sym",
+    "name": "Symbolhound",
+    "url": "http://symbolhound.com/?q={{{s}}}"
+  },
+  {
+    "bang": "teflo",
+    "name": "Tensor Flow",
+    "url": "https://www.tensorflow.org/s/results/?q={{{s}}}"
+  },
+  {
+    "bang": "tei",
+    "name": "TEI",
+    "url": "http://www.tei-c.org/?s={{{s}}}"
+  },
+  {
+    "bang": "terat",
+    "name": "teratail",
+    "url": "https://teratail.com/questions/search?q={{{s}}}&conditions=and"
+  },
+  {
+    "bang": "tf",
+    "name": "Tensor Flow",
+    "url": "https://www.tensorflow.org/s/results/?q={{{s}}}"
+  },
+  {
+    "bang": "thinktutorial",
+    "name": "Th!ink",
+    "url": "http://thinktutorial.com/index.php?s={{{s}}}"
+  },
+  {
+    "bang": "tkkrlab",
+    "name": "tkkrlab",
+    "url": "http://tkkrlab.nl/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "tmg",
+    "name": "Terraform Module Registry",
+    "url": "https://registry.terraform.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "tost",
+    "name": "Toster",
+    "url": "https://toster.ru/search?q={{{s}}}"
+  },
+  {
+    "bang": "travis",
+    "name": "Travis CI",
+    "url": "https://travis-ci.org/search/{{{s}}}"
+  },
+  {
+    "bang": "tupo",
+    "name": "Tutorials Point",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Awww.tutorialspoint.com&ia=web"
+  },
+  {
+    "bang": "typo3",
+    "name": "typo3.org",
+    "url": "https://typo3.org/search/?tx_solr[q]={{{s}}}"
+  },
+  {
+    "bang": "ucf",
+    "name": "Unicode Character Finder",
+    "url": "http://www.mclean.net.nz/ucf/?q={{{s}}}"
+  },
+  {
+    "bang": "uct",
+    "name": "unicode-table.com",
+    "url": "http://unicode-table.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "uea",
+    "name": "Unreal Engine 4 Answerhub",
+    "url": "https://answers.unrealengine.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "uni",
+    "name": "Search for character(s) in Unicode",
+    "url": "http://unicode-search.net/unicode-namesearch.pl?term={{{s}}}"
+  },
+  {
+    "bang": "unityanswers",
+    "name": "Unity Answers",
+    "url": "http://answers.unity3d.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "unitym",
+    "name": "Unity Manual",
+    "url": "http://docs.unity3d.com/Manual/30_search.html?q={{{s}}}"
+  },
+  {
+    "bang": "unitysr",
+    "name": "Unity Scripting Reference",
+    "url": "http://docs.unity3d.com/ScriptReference/30_search.html?q={{{s}}}"
+  },
+  {
+    "bang": "unity",
+    "name": "Unity",
+    "url": "http://unity3d.com/search?gq={{{s}}} "
+  },
+  {
+    "bang": "unix",
+    "name": "The Unix Tree",
+    "url": "http://minnie.tuhs.org/cgi-bin/utree.pl?filesearch={{{s}}}&submit=Go"
+  },
+  {
+    "bang": "vdc",
+    "name": "Valve Developer Community",
+    "url": "https://developer.valvesoftware.com/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "vimawesome",
+    "name": "Vim Awesome",
+    "url": "http://vimawesome.com/?q={{{s}}}"
+  },
+  {
+    "bang": "vimdoc",
+    "name": "Vimdoc",
+    "url": "http://vimdoc.sourceforge.net/search.php?search={{{s}}}&docs=help"
+  },
+  {
+    "bang": "vimw",
+    "name": "Vim Tips wiki",
+    "url": "http://vim.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "viso",
+    "name": "Vi @ stackExchange",
+    "url": "https://vi.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "vscode",
+    "name": "Visual Studio Code Extensions",
+    "url": "https://marketplace.visualstudio.com/search?term={{{s}}}&target=VSCode&sortBy=Relevance"
+  },
+  {
+    "bang": "vtkcd",
+    "name": "Visualization Toolkit (VTK) class documentation (devel)",
+    "url": "http://www.vtk.org/doc/nightly/html/class{{{s}}}.html"
+  },
+  {
+    "bang": "vtluug",
+    "name": "vtluug wiki",
+    "url": "https://vtluug.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "vuetify",
+    "name": "Vuetifyjs",
+    "url": "https://vuetifyjs.com/en/components/{{{s}}}#{{{s}}}"
+  },
+  {
+    "bang": "w3scn",
+    "name": "w3school\u4e2d\u6587",
+    "url": "http://www.google.com/search?q={{{s}}}+site:w3school.com.cn"
+  },
+  {
+    "bang": "w3v",
+    "name": "W3C Validator",
+    "url": "https://validator.w3.org/nu/?doc={{{s}}}"
+  },
+  {
+    "bang": "web",
+    "name": "Webopedia",
+    "url": "https://www.webopedia.com/sgsearch/results?q={{{s}}}"
+  },
+  {
+    "bang": "whatruns",
+    "name": "whatruns",
+    "url": "https://www.whatruns.com/website/{{{s}}}"
+  },
+  {
+    "bang": "whh",
+    "name": "Web Hosting Hub",
+    "url": "https://www.webhostinghub.com/help/search?searchword={{{s}}}"
+  },
+  {
+    "bang": "windev",
+    "name": "Windows Developer Feedback",
+    "url": "https://wpdev.uservoice.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "wpacf",
+    "name": "Advanced Custom Fields (WordPress)",
+    "url": "https://support.advancedcustomfields.com/forums/search?bbp_search={{{s}}}"
+  },
+  {
+    "bang": "wpackagist",
+    "name": "WordPress Packagist",
+    "url": "https://wpackagist.org/search?q={{{s}}}&type=any&search="
+  },
+  {
+    "bang": "wpvip",
+    "name": "WordPress VIP",
+    "url": "https://vip.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "wwdc",
+    "name": "ASCIIwwdc",
+    "url": "http://asciiwwdc.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wxmp",
+    "name": "search wechat miniprogram documents",
+    "url": "https://developers.weixin.qq.com/doc/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "xamarin",
+    "name": "Xamarin developer",
+    "url": "https://developer.xamarin.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "xdadev",
+    "name": "XDA Developers",
+    "url": "http://forum.xda-developers.com/sitesearch.php?q={{{s}}}"
+  },
+  {
+    "bang": "xdaf",
+    "name": "XDA Developers Forum",
+    "url": "http://forum.xda-developers.com/sitesearch.php?q={{{s}}}"
+  },
+  {
+    "bang": "xda",
+    "name": "XDA Developers",
+    "url": "https://forum.xda-developers.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "xep",
+    "name": "XMPP Extensions",
+    "url": "https://xmpp.org/extensions/xep-{{{s}}}.html"
+  },
+  {
+    "bang": "xf",
+    "name": "Xojo Forums",
+    "url": "https://forum.xojo.com/conversations/all?search={{{s}}}"
+  },
+  {
+    "bang": "xiny",
+    "name": "Learn X in Y Minutes",
+    "url": "https://learnxinyminutes.com/docs/{{{s}}}"
+  },
+  {
+    "bang": "ypw",
+    "name": "Yocto Project Wiki",
+    "url": "https://wiki.yoctoproject.org/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "ytrack",
+    "name": "YouTrack",
+    "url": "https://youtrack.jetbrains.com/issues?q={{{s}}}"
+  },
+  {
+    "bang": "zdoom",
+    "name": "ZDoom Wiki",
+    "url": "http://zdoom.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "zds",
+    "name": "ZesteDeSavoir",
+    "url": "http://zestedesavoir.com/rechercher/?q={{{s}}}"
+  },
+  {
+    "bang": "zxr",
+    "name": "Zephyr Cross Reference",
+    "url": "https://elixir.bootlin.com/zephyr/latest/ident/{{{s}}}"
+  }
+]

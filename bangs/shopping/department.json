@@ -1,0 +1,692 @@
+[
+  {
+    "bang": "ace",
+    "name": "Ace Hardware",
+    "url": "http://www.acehardware.com/search/index.jsp?kwCatId=&kw={{{s}}}&origkw={{{s}}}&f=Taxonomy/ACE/19541496&sr=1"
+  },
+  {
+    "bang": "argosie",
+    "name": "Argos Ireland",
+    "url": "http://www.argos.ie/webapp/wcs/stores/servlet/Search?storeId=10152&catalogId=14551&langId=111&searchTerms={{{s}}}"
+  },
+  {
+    "bang": "asda",
+    "name": "Asda Groceries",
+    "url": "https://groceries.asda.com/asda-webstore/landing/home.shtml#/search/{{{s}}}"
+  },
+  {
+    "bang": "autozone",
+    "name": "AutoZone",
+    "url": "http://www.autozone.com/searchresult?searchText={{{s}}}"
+  },
+  {
+    "bang": "barnesandnoble",
+    "name": "Barnes & Noble",
+    "url": "https://www.barnesandnoble.com/s/{{{s}}}"
+  },
+  {
+    "bang": "bbuy",
+    "name": "Best Buy",
+    "url": "http://www.bestbuy.com/site/Brands/Apple/pcmcat128500050005.c?id=pcmcat128500050005&pageType=REDIRECT&issolr=1&searchterm={{{s}}}"
+  },
+  {
+    "bang": "bbyc",
+    "name": "Bestbuy.ca",
+    "url": "https://m.bestbuy.ca/en-CA/search?search={{{s}}}"
+  },
+  {
+    "bang": "bestbuy",
+    "name": "BestBuy",
+    "url": "http://www.bestbuy.com/site/olspage.jsp?id=pcat17071&type=page&st={{{s}}}&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960"
+  },
+  {
+    "bang": "bevmo",
+    "name": "BevMo",
+    "url": "http://www.bevmo.com/Shop/ProductList.aspx/_/D-{{{s}}}/N-/Ntt-{{{s}}}?DNID=Home&Dx=mode%2Bmatchany&fromsearch=true&Ntk=All&Ntx=mode%2Bmatchany"
+  },
+  {
+    "bang": "bh",
+    "name": "B&H Photo Video",
+    "url": "http://www.bhphotovideo.com/c/search?Ntt={{{s}}}"
+  },
+  {
+    "bang": "bigw",
+    "name": "Big W",
+    "url": "https://www.bigw.com.au/search/?text={{{s}}}&category="
+  },
+  {
+    "bang": "biltema",
+    "name": "Biltema",
+    "url": "http://www.biltema.se/sv/Sok/?query={{{s}}}"
+  },
+  {
+    "bang": "build",
+    "name": "Build.com",
+    "url": "http://www.build.com/index.cfm?page=search:browse&term={{{s}}}"
+  },
+  {
+    "bang": "bunnings",
+    "name": "Bunnings Warehouse",
+    "url": "https://www.bunnings.com.au/search/products?q={{{s}}}&redirectFrom=Any"
+  },
+  {
+    "bang": "bunware",
+    "name": "Bunnings Warehouse",
+    "url": "http://www.bunnings.com.au/search/products?q={{{s}}} &redirectFrom=Any"
+  },
+  {
+    "bang": "bws",
+    "name": "BWS",
+    "url": "https://bws.com.au/search?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "canadiantire",
+    "name": "Canadian Tire",
+    "url": "http://www.canadiantire.ca/en/search-results.html?searchByTerm=true&q={{{s}}}"
+  },
+  {
+    "bang": "clas",
+    "name": "Clas Ohlson",
+    "url": "https://www.clasohlson.com/se/view/content/search?searchKey=All&search_prefix={{{s}}}"
+  },
+  {
+    "bang": "clasno",
+    "name": "Clas Ohlson Norge",
+    "url": "https://www.clasohlson.com/no/view/content/search?searchKey=All&search_prefix={{{s}}}"
+  },
+  {
+    "bang": "continente",
+    "name": "Continente",
+    "url": "http://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k={{{s}}}"
+  },
+  {
+    "bang": "coopathome",
+    "name": "Coop at Home",
+    "url": "https://www.coopathome.ch/search/?text={{{s}}}"
+  },
+  {
+    "bang": "coop_de",
+    "name": "Coop (DE)",
+    "url": "http://www.coop.ch/pb/site/search/search/2057/Lde/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=de&_sid=4aea1684-910e-4741-9099-86fff3d8a570"
+  },
+  {
+    "bang": "coop_fr",
+    "name": "Coop (FR)",
+    "url": "http://www.coop.ch/pb/site/search/search/2057/Lfr/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=fr&_sid=2fae98df-7f08-49a8-86b5-38148b71ebdb"
+  },
+  {
+    "bang": "coop_it",
+    "name": "Coop (IT)",
+    "url": "http://www.coop.ch/pb/site/search/search/2057/Lit/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=it&_sid=537d493c-9c35-41dc-8881-d878b57e702f"
+  },
+  {
+    "bang": "costcoca",
+    "name": "Costco Canada",
+    "url": "https://www.costco.ca/CatalogSearch?dept=All&keyword={{{s}}}"
+  },
+  {
+    "bang": "costco",
+    "name": "Costco.com",
+    "url": "http://www.costco.com/CatalogSearch?storeId=10301&catalogId=10701&langId=-1&keyword={{{s}}}"
+  },
+  {
+    "bang": "ct",
+    "name": "Canadian Tire",
+    "url": "http://www.canadiantire.ca/en/search-results.html?q={{{s}}}"
+  },
+  {
+    "bang": "danielshomecenter",
+    "name": "Daniel's Home Center",
+    "url": "https://www.danielshomecenter.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "danmurphys",
+    "name": "Dan Murphy's",
+    "url": "https://www.danmurphys.com.au/search?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "debenhams",
+    "name": "Debenhams",
+    "url": "http://www.debenhams.com/search/{{{s}}}"
+  },
+  {
+    "bang": "djones",
+    "name": "David Jones",
+    "url": "https://search.www.davidjones.com/search?w={{{s}}}"
+  },
+  {
+    "bang": "ebgamesca",
+    "name": "EB Games Canada",
+    "url": "https://www.ebgames.ca/SearchResult/QuickSearch?q={{{s}}}"
+  },
+  {
+    "bang": "eddiebauer",
+    "name": "Eddie Bauer",
+    "url": "https://www.eddiebauer.com/search/a-search.jsp?sTerm={{{s}}}"
+  },
+  {
+    "bang": "ejumbo",
+    "name": "Jumbo",
+    "url": "http://www.e-jumbo.gr/pages/searchProducts.aspx?lang=el&search-for={{{s}}}"
+  },
+  {
+    "bang": "fye",
+    "name": "FYE",
+    "url": "https://www.fye.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "g4y",
+    "name": "games4you.rs",
+    "url": "http://games4you.rs/search-glavni?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "bang": "galaxus",
+    "name": "Galaxus.ch",
+    "url": "https://www.galaxus.ch/de/Search?searchSectors=0&q={{{s}}}"
+  },
+  {
+    "bang": "gameza",
+    "name": "Game South Africa",
+    "url": "https://www.game.co.za/game-za/en/search/?text={{{s}}}"
+  },
+  {
+    "bang": "gamma",
+    "name": "Gamma",
+    "url": "https://www.gamma.nl/assortiment/zoeken?text={{{s}}}"
+  },
+  {
+    "bang": "gcenter",
+    "name": "Guitar Center",
+    "url": "https://www.guitarcenter.com/search?typeAheadSuggestion=true&typeAheadRedirect=true&Ntt={{{s}}}"
+  },
+  {
+    "bang": "gdhimx",
+    "name": "www.gandhi.com.mx",
+    "url": "http://www.gandhi.com.mx/catalogsearch/result/?q={{{s}}} "
+  },
+  {
+    "bang": "hannaford",
+    "name": "Hannaford",
+    "url": "http://www.hannaford.com/catalog/search.cmd?form_state=searchForm&keyword={{{s}}}"
+  },
+  {
+    "bang": "hdc",
+    "name": "Home Depot Canada",
+    "url": "https://www.homedepot.ca/en/home/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "hdx",
+    "name": "Home Depot",
+    "url": "http://www.homedepot.com/s/{{{s}}}"
+  },
+  {
+    "bang": "hema",
+    "name": "HEMA",
+    "url": "https://www.hema.nl/search?q={{{s}}}&lang=nl_NL"
+  },
+  {
+    "bang": "hft",
+    "name": "Harbor Freight Tools",
+    "url": "http://www.harborfreight.com/catalogsearch/result?q={{{s}}}"
+  },
+  {
+    "bang": "hndk",
+    "name": "Harald Nyborg (Denmark/Danmark)",
+    "url": "https://www.harald-nyborg.dk/search?q={{{s}}}"
+  },
+  {
+    "bang": "hnse",
+    "name": "Harald Nyborg (Sweden/Sverige)",
+    "url": "http://www.harald-nyborg.se/search?q={{{s}}}"
+  },
+  {
+    "bang": "hode",
+    "name": "Home Depot",
+    "url": "http://www.homedepot.com/s/{{{s}}}?NCNI-5"
+  },
+  {
+    "bang": "homebase",
+    "name": "Homebase",
+    "url": "http://www.homebase.co.uk/webapp/wcs/stores/servlet/Search?storeId=10151&catalogId=1500001201&langId=110&searchTerms={{{s}}}&authToken="
+  },
+  {
+    "bang": "homedepotca",
+    "name": "Home Depot Canada",
+    "url": "https://www.homedepot.ca/en/home/search.html?q={{{s}}}#!q={{{s}}}"
+  },
+  {
+    "bang": "homedepot",
+    "name": "The Home Depot",
+    "url": "https://www.homedepot.com/s/{{{s}}}"
+  },
+  {
+    "bang": "hvnorman",
+    "name": "Harvey Norman",
+    "url": "https://www.harveynorman.com.au/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "ikeaau",
+    "name": "IKEA Australia",
+    "url": "http://www.ikea.com/au/en/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ikeabe",
+    "name": "Ikea Belgium",
+    "url": "http://www.ikea.com/be/nl/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ikeaca",
+    "name": "Ikea Canada",
+    "url": "https://www.ikea.com/ca/en/search/products/?q={{{s}}}"
+  },
+  {
+    "bang": "ikeach",
+    "name": "ikea.ch",
+    "url": "http://www.ikea.com/ch/de/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ikeacs",
+    "name": "Ikea Czech Republic",
+    "url": "https://www.ikea.com/cz/cs/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ikeade",
+    "name": "Ikea Germany",
+    "url": "https://www.ikea.com/de/de/search/products/?q={{{s}}}"
+  },
+  {
+    "bang": "ikeaes",
+    "name": "Ikea Spain",
+    "url": "https://www.ikea.com/es/es/search/products/?q={{{s}}}"
+  },
+  {
+    "bang": "ikeafr",
+    "name": "Ikea FR",
+    "url": "http://www.ikea.com/fr/fr/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ikeaie",
+    "name": "Ikea Ireland",
+    "url": "http://www.ikea.com/ie/en/search/?query={{{s}}} "
+  },
+  {
+    "bang": "ikea",
+    "name": "Ikea",
+    "url": "http://www.ikea.com/us/en/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ikeanl",
+    "name": "IKEA Nederland",
+    "url": "https://www.ikea.com/nl/nl/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ikeauk",
+    "name": "IKEA UK",
+    "url": "https://www.ikea.com/gb/en/search/products/?q={{{s}}}"
+  },
+  {
+    "bang": "iprice",
+    "name": "iprice",
+    "url": "https://iprice.my/search/?term={{{s}}}"
+  },
+  {
+    "bang": "joann",
+    "name": "Joann",
+    "url": "https://www.joann.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "jula",
+    "name": "Jula",
+    "url": "https://www.jula.se/search/?query={{{s}}}"
+  },
+  {
+    "bang": "jumbo",
+    "name": "Jumbo",
+    "url": "https://www.jumbo.pt/Frontoffice/search/{{{s}}}"
+  },
+  {
+    "bang": "kmartau",
+    "name": "Kmart Australia",
+    "url": "https://www.kmart.com.au/webapp/wcs/stores/servlet/SearchDisplay?searchTerm={{{s}}}&categoryId=&storeId=10701&catalogId=10102&langId=-1&pageSize=30&beginIndex=0&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView="
+  },
+  {
+    "bang": "kmart",
+    "name": "Kmart",
+    "url": "http://www.kmart.com/shc/s/search_10151_10104?keyword={{{s}}}"
+  },
+  {
+    "bang": "kohls",
+    "name": "Kohl's",
+    "url": "http://www.kohls.com/search.jsp?search={{{s}}}"
+  },
+  {
+    "bang": "kroger",
+    "name": "Kroger",
+    "url": "https://www.kroger.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "leons",
+    "name": "Leon's Furniture",
+    "url": "https://www.leons.ca/pages/search-results?limit=48&q={{{s}}}"
+  },
+  {
+    "bang": "liquorland",
+    "name": "Liquorland",
+    "url": "https://www.liquorland.com.au/Search?q={{{s}}}"
+  },
+  {
+    "bang": "llbean",
+    "name": "L. L. Bean",
+    "url": "http://www.llbean.com/llb/search/?freeText={{{s}}}&init=1"
+  },
+  {
+    "bang": "loblaws",
+    "name": "Loblaws",
+    "url": "https://www.loblaws.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "bang": "lowesca",
+    "name": "Lowes Canada",
+    "url": "https://www.lowes.ca/search/{{{s}}}.html"
+  },
+  {
+    "bang": "lowes",
+    "name": "Lowes",
+    "url": "http://www.lowes.com/SearchCatalogDisplay?Ntt={{{s}}}#!"
+  },
+  {
+    "bang": "luch",
+    "name": "Lush",
+    "url": "https://de.lush.com/search/site/{{{s}}}"
+  },
+  {
+    "bang": "luxor",
+    "name": "Knihkupectv\u00ed NeoLuxor",
+    "url": "http://neoluxor.cz/vyhledavani/?query={{{s}}}"
+  },
+  {
+    "bang": "macys",
+    "name": "Macy's",
+    "url": "https://www.macys.com/shop/featured/{{{s}}}"
+  },
+  {
+    "bang": "makro",
+    "name": "Makro.cz",
+    "url": "https://www.makro.cz/vyhledavani?q={{{s}}}"
+  },
+  {
+    "bang": "mands",
+    "name": "Marks & Spencer",
+    "url": "http://www.marksandspencer.com/gp/search?field-keywords={{{s}}}"
+  },
+  {
+    "bang": "meijer",
+    "name": "Meijer",
+    "url": "http://www.meijer.com/catalog/search_command.cmd?keyword={{{s}}}&tierId="
+  },
+  {
+    "bang": "menards",
+    "name": "Menards",
+    "url": "https://www.menards.com/main/search.html?search={{{s}}}"
+  },
+  {
+    "bang": "michaels",
+    "name": "Michaels Stores",
+    "url": "http://www.michaels.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "migros_de",
+    "name": "Migros (DE)",
+    "url": "https://search.migros.ch/de/q:{{{s}}}"
+  },
+  {
+    "bang": "migros_fr",
+    "name": "Migros (FR)",
+    "url": "https://search.migros.ch/de/q:{{{s}}}"
+  },
+  {
+    "bang": "migros_it",
+    "name": "Migros (IT)",
+    "url": "https://search.migros.ch/de/q:{{{s}}}"
+  },
+  {
+    "bang": "mll",
+    "name": "Manitoba Liquor Marts",
+    "url": "https://www.liquormarts.ca/search-products/%25/{{{s}}}"
+  },
+  {
+    "bang": "myer",
+    "name": "Myer",
+    "url": "https://www.myer.com.au/search?query={{{s}}}"
+  },
+  {
+    "bang": "nordstrom",
+    "name": "Nordstrom",
+    "url": "http://shop.nordstrom.com/sr?origin=keywordsearch&keyword={{{s}}}"
+  },
+  {
+    "bang": "obiat",
+    "name": "Obi Austria",
+    "url": "https://www.obi.at/searchresult/?isi=true&searchTerm={{{s}}}"
+  },
+  {
+    "bang": "officedepot",
+    "name": "OfficeDepot",
+    "url": "http://www.officedepot.com/catalog/search.do?Ntt={{{s}}}"
+  },
+  {
+    "bang": "oworks",
+    "name": "Officeworks",
+    "url": "https://www.officeworks.com.au/shop/SearchDisplay?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "pacific",
+    "name": "Pacific Packaging Products",
+    "url": "https://www.pacificpkg.com/search.php?kw={{{s}}}"
+  },
+  {
+    "bang": "petco",
+    "name": "Petco",
+    "url": "http://www.petco.com/shop/SearchDisplay?categoryId=&storeId=10151&catalogId=10051&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=24&fromPageValue=search&searchTerm={{{s}}}"
+  },
+  {
+    "bang": "petsmartca",
+    "name": "PetSmart Canada",
+    "url": "http://www.petsmart.ca/search?SearchTerm={{{s}}}"
+  },
+  {
+    "bang": "petsmart",
+    "name": "PetSmart",
+    "url": "http://www.petsmart.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pier1",
+    "name": "Pier1 Imports",
+    "url": "https://www.pier1.com/on/demandware.store/Sites-pier1_us-Site/default/Search-ShowContent?q={{{s}}}"
+  },
+  {
+    "bang": "plaisio",
+    "name": "plaisio.gr",
+    "url": "http://www.plaisio.gr/search.aspx?query={{{s}}}&catalogue=all&mode=searchlist"
+  },
+  {
+    "bang": "pnp",
+    "name": "Pick n Pay",
+    "url": "http://shop.pnp.co.za/b2c_pnp/b2c/display/(cpgsize=12&layout=5.1-6_2_4_86_92_8_3&uiarea=1&carea=%24ROOT&cpgnum=1&cquery={{{s}}})/.do?rf=y"
+  },
+  {
+    "bang": "pricero",
+    "name": "price.ro",
+    "url": "https://www.price.ro/index.php?action=q&text={{{s}}}&submit=Cauta"
+  },
+  {
+    "bang": "psa",
+    "name": "Palmetto State Armory",
+    "url": "https://palmettostatearmory.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "publix",
+    "name": "Publix",
+    "url": "http://www.publix.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "rcss",
+    "name": "Real Canadian Superstore",
+    "url": "https://www.realcanadiansuperstore.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "bang": "rei",
+    "name": "REI",
+    "url": "https://www.rei.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rusta",
+    "name": "Rusta",
+    "url": "http://www.rusta.com/se/Sok/{{{s}}}"
+  },
+  {
+    "bang": "samsclub",
+    "name": "Sam's Club",
+    "url": "https://www.samsclub.com/sams/search/searchResults.jsp?searchTerm={{{s}}}&searchCategoryId=all"
+  },
+  {
+    "bang": "screwfix",
+    "name": "Screwfix",
+    "url": "https://www.screwfix.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "searsca",
+    "name": "Sears Canada",
+    "url": "http://www.sears.ca/en/search?q={{{s}}}&lang=default"
+  },
+  {
+    "bang": "sears",
+    "name": "Sears",
+    "url": "http://www.sears.com/shc/s/search_10153_12605?keyword={{{s}}}"
+  },
+  {
+    "bang": "sherwin",
+    "name": "Sherwin-Williams",
+    "url": "https://www.sherwin-williams.com/SearchDisplay?categoryId=&storeId=10151&catalogId=11051&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=list&beginIndex=0&searchType=1000&pageSize=6&globalSearch=true&searchTerm={{{s}}}#facet:&productBeginIndex:0&contentBeginIndex:0&orderBy:&orderByContent:&pageView:list&minPrice:&maxPrice:&pageSize:&"
+  },
+  {
+    "bang": "shopyourway",
+    "name": "Shop Your Way",
+    "url": "http://www.shopyourway.com/search/products?q={{{s}}}"
+  },
+  {
+    "bang": "smiths",
+    "name": "smithsfoodanddrug",
+    "url": "https://www.smithsfoodanddrug.com/search?query={{{s}}}&searchType=natural"
+  },
+  {
+    "bang": "sobeys",
+    "name": "Sobeys",
+    "url": "http://www.sobeys.com/en/search/?search={{{s}}}"
+  },
+  {
+    "bang": "staplesca",
+    "name": "Staples Canada",
+    "url": "http://www.staples.ca/{{{s}}}/directory_{{{s}}}_20051_1_20001"
+  },
+  {
+    "bang": "stax",
+    "name": "Stax Trade Centers",
+    "url": "http://www.staxtradecentres.co.uk/search/?keys={{{s}}}"
+  },
+  {
+    "bang": "superstore",
+    "name": "Real Canadian Superstore",
+    "url": "https://www.realcanadiansuperstore.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "bang": "syw",
+    "name": "Shop Your Way",
+    "url": "http://www.shopyourway.com/search/products?q={{{s}}}"
+  },
+  {
+    "bang": "targetau",
+    "name": "Target Australia",
+    "url": "https://www.target.com.au/search?text={{{s}}}"
+  },
+  {
+    "bang": "target",
+    "name": "Target",
+    "url": "http://www.target.com/s?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "tcu",
+    "name": "thecubicle.us",
+    "url": "http://thecubicle.us/advanced_search_result.php?search_in_description=0&keywords={{{s}}}"
+  },
+  {
+    "bang": "tesco",
+    "name": "Tesco UK",
+    "url": "http://www.tesco.com/groceries/product/search/default.aspx?searchBox={{{s}}}"
+  },
+  {
+    "bang": "tgtau",
+    "name": "Target Australia",
+    "url": "https://www.target.com.au/search?text={{{s}}}"
+  },
+  {
+    "bang": "thebrick",
+    "name": "The Brick",
+    "url": "https://www.thebrick.com/pages/search-results?limit=48&q={{{s}}}"
+  },
+  {
+    "bang": "thermatru",
+    "name": "Therma-tru Doors",
+    "url": "https://www.thermatru.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "thriftyfoods",
+    "name": "Thrifty Foods",
+    "url": "https://www.thriftyfoods.com/search?k={{{s}}}"
+  },
+  {
+    "bang": "tsco",
+    "name": "Tractor Supply Co",
+    "url": "https://www.tractorsupply.com/tsc/search/{{{s}}}"
+  },
+  {
+    "bang": "verkkokauppa",
+    "name": "Verkkokauppa.com",
+    "url": "https://www.verkkokauppa.com/fi/search/?query={{{s}}}"
+  },
+  {
+    "bang": "walmart",
+    "name": "Walmart",
+    "url": "https://www.walmart.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "wegmans",
+    "name": "Wegmans",
+    "url": "https://www.wegmans.com/search.html?searchKey={{{s}}}"
+  },
+  {
+    "bang": "wickes",
+    "name": "Wickes",
+    "url": "https://www.wickes.co.uk/search?text={{{s}}}"
+  },
+  {
+    "bang": "wilko",
+    "name": "wilko",
+    "url": "http://www.wilko.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "woolies",
+    "name": "Woolworths",
+    "url": "https://www.woolworths.com.au/shop/search/products?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "woolworths",
+    "name": "Woolworths",
+    "url": "https://www.woolworths.com.au/shop/search/products?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "zehrs",
+    "name": "Zehrs Markets",
+    "url": "https://www.zehrs.ca/search/?search-bar={{{s}}}"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "bang": "abcnotation",
+    "name": "abcnotation.com",
+    "url": "http://abcnotation.com/searchTunes?q={{{s}}}&f=c&o=a&s=0"
+  },
+  {
+    "bang": "pollstar",
+    "name": "Pollstar",
+    "url": "http://pollstar.com/tour/searchall.pl?By=All&Content={{{s}}}&go_green.x=0&go_green.y=0"
+  },
+  {
+    "bang": "popsike",
+    "name": "Popsike",
+    "url": "http://www.popsike.com/php/quicksearch.php?searchtext={{{s}}}"
+  },
+  {
+    "bang": "songsterr",
+    "name": "Songsterr",
+    "url": "http://www.songsterr.com/a/wa/search?pattern={{{s}}}"
+  },
+  {
+    "bang": "stabs",
+    "name": "Songsterr",
+    "url": "http://www.songsterr.com/a/wa/search?pattern={{{s}}}"
+  }
+]

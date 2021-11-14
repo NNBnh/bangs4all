@@ -1,0 +1,117 @@
+[
+  {
+    "bang": "alpine",
+    "name": "Alpine packages",
+    "url": "http://pkgs.alpinelinux.org/packages?name={{{s}}}"
+  },
+  {
+    "bang": "ccr",
+    "name": "Chakra Community Repository",
+    "url": "https://ccr.chakralinux.org/packages.php?O=0&K={{{s}}}&do_Search=+Go+"
+  },
+  {
+    "bang": "chart",
+    "name": "Helm Charts",
+    "url": "https://hub.helm.sh/charts?q={{{s}}}"
+  },
+  {
+    "bang": "d1pkg",
+    "name": "Devuan Package information",
+    "url": "https://pkginfo.devuan.org/cgi-bin/d1pkgweb-query?search={{{s}}}&release=any"
+  },
+  {
+    "bang": "debianpack",
+    "name": "Debian Packages",
+    "url": "https://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "equo",
+    "name": "Sabayon Entropy Packages",
+    "url": "https://packages.sabayon.org/quicksearch?q={{{s}}}"
+  },
+  {
+    "bang": "fink",
+    "name": "Fink Project",
+    "url": "http://pdb.finkproject.org/pdb/browse.php?summary={{{s}}}"
+  },
+  {
+    "bang": "geoip",
+    "name": "InfoSniper",
+    "url": "http://www.infosniper.net/index.php?ip_address={{{s}}}"
+  },
+  {
+    "bang": "hyper",
+    "name": "hyperbola.info",
+    "url": "https://www.hyperbola.info/packages/?q={{{s}}}"
+  },
+  {
+    "bang": "itninja",
+    "name": "IT-Ninja",
+    "url": "http://www.itninja.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "nr",
+    "name": "Nixpkgs Repository",
+    "url": "https://github.com/NixOS/nixpkgs/search?q={{{s}}}"
+  },
+  {
+    "bang": "openbsdports",
+    "name": "marc.info",
+    "url": "https://marc.info/?l=openbsd-ports&w=2&r=1&s={{{s}}}&q=b"
+  },
+  {
+    "bang": "openrepos",
+    "name": "OpenRepos",
+    "url": "https://openrepos.net/search/node/{{{s}}}"
+  },
+  {
+    "bang": "packman",
+    "name": "PackMan",
+    "url": "http://packman.links2linux.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "parabola",
+    "name": "Parabola GNU/Linux-libre",
+    "url": "https://www.parabola.nu/packages/?q={{{s}}}"
+  },
+  {
+    "bang": "sbopkg",
+    "name": "SlackBuilds.org",
+    "url": "https://slackbuilds.org/result/?search={{{s}}}"
+  },
+  {
+    "bang": "sbo",
+    "name": "SlackBuilds.org",
+    "url": "http://slackbuilds.org/result/?search={{{s}}}"
+  },
+  {
+    "bang": "slackpkg",
+    "name": "Slackware Package Browser",
+    "url": "http://packages.slackware.com/?search={{{s}}}"
+  },
+  {
+    "bang": "sos",
+    "name": "Software OpenSuse",
+    "url": "http://software.opensuse.org/search?q={{{s}}}&search_devel=false&search_unsupported=false"
+  },
+  {
+    "bang": "susepkg",
+    "name": "OpenSUSE Software search",
+    "url": "https://software.opensuse.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "ubuntupack",
+    "name": "Ubuntu Packages",
+    "url": "http://packages.ubuntu.com/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "up",
+    "name": "Ubuntu Packages",
+    "url": "http://packages.ubuntu.com/search?keywords={{{s}}}&searchon=names"
+  },
+  {
+    "bang": "xbps",
+    "name": "Void Packages",
+    "url": "https://github.com/void-linux/void-packages/search?q[]=filename%3Atemplate+path%3A%2Fsrcpkgs&q[]={{{s}}}&s=indexed"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "bang": "codex",
+    "name": "WordPress Codex",
+    "url": "http://codex.wordpress.org/?search={{{s}}}"
+  },
+  {
+    "bang": "divi",
+    "name": "Divi",
+    "url": "https://www.elegantthemes.com/documentation/?s={{{s}}}&submit.x=0&submit.y=0"
+  },
+  {
+    "bang": "grottopress",
+    "name": "GrottoPress",
+    "url": "https://www.grottopress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "pagely",
+    "name": "Pagely",
+    "url": "https://pagely.com/?s={{{s}}}"
+  },
+  {
+    "bang": "queryposts",
+    "name": "QueryPosts",
+    "url": "http://queryposts.com/?s={{{s}}}"
+  },
+  {
+    "bang": "wpd",
+    "name": "WP Plugin Directory",
+    "url": "http://wpplugindirectory.org/?s={{{s}}}"
+  },
+  {
+    "bang": "wpse",
+    "name": "WordPress StackExchange",
+    "url": "http://wordpress.stackexchange.com/search?q={{{s}}} "
+  }
+]

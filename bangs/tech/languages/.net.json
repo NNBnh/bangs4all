@@ -1,0 +1,42 @@
+{
+  "dnab": {
+    "name": ".NET API Browser",
+    "url": "https://docs.microsoft.com/en-us/dotnet/api/?term={{{s}}}"
+  },
+  "dotnetapi": {
+    "name": ".NET API",
+    "url": "https://docs.microsoft.com/en-us/dotnet/api/?term={{{s}}}"
+  },
+  "dotnet": {
+    "name": "Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}&scope=.NET"
+  },
+  "msdotnet": {
+    "name": "Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}&scope=.NET"
+  },
+  "ms.net": {
+    "name": "Microsoft .Net API",
+    "url": "https://docs.microsoft.com/en-us/dotnet/api/?view=netframework-4.7&term={{{s}}}"
+  },
+  "netcore2api": {
+    "name": ".NET API Browser - .NET Core 2.0",
+    "url": "https://docs.microsoft.com/en-us/dotnet/api/?view=netcore-2.0&term={{{s}}}"
+  },
+  ".net": {
+    "name": "DotNet Docs",
+    "url": "http://www.searchdotnet.com/results.aspx?cx=002213837942349435108:jki1okx03jq&q={{{s}}}&sa=Search+.NET+sites&cof=FORID:9&siteurl=www.searchdotnet.com"
+  },
+  "netsrc": {
+    "name": "DotNet Reference Sources",
+    "url": "http://referencesource.microsoft.com/#q={{{s}}}"
+  },
+  "nuget": {
+    "name": "nuget gallery",
+    "url": "http://nuget.org/packages?q={{{s}}}&sortOrder=package-download-count"
+  },
+  "pinvoke": {
+    "name": "Pinvoke.net",
+    "url": "http://pinvoke.net/search.aspx?search={{{s}}}"
+  }
+}

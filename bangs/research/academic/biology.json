@@ -1,0 +1,32 @@
+[
+  {
+    "bang": "abcam",
+    "name": "Abcam",
+    "url": "https://www.abcam.com/products?keywords={{{s}}}"
+  },
+  {
+    "bang": "alaus",
+    "name": "Atlas of Living Australia",
+    "url": "https://bie.ala.org.au/search?q={{{s}}}"
+  },
+  {
+    "bang": "b4kids",
+    "name": "Biology4kids",
+    "url": "http://www.biology4kids.com/search.html?cx=partner-pub-9168758629909687%3A9553394167&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search"
+  },
+  {
+    "bang": "encode",
+    "name": "ENCODE",
+    "url": "https://www.encodeproject.org/search/?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "protein",
+    "name": "NCBI Protein",
+    "url": "https://www.ncbi.nlm.nih.gov/protein/?term={{{s}}}"
+  },
+  {
+    "bang": "spekbio",
+    "name": "Spektrum Akademischer Verlag - Lexikon der Biologie",
+    "url": "https://www.spektrum.de/lexikon/biologie/?q={{{s}}}"
+  }
+]

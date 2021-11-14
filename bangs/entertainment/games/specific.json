@@ -1,0 +1,1937 @@
+[
+  {
+    "bang": "4cc",
+    "name": "Implyingrigged",
+    "url": "http://implyingrigged.info/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "aard",
+    "name": "AardWiki",
+    "url": "http://www.aardwolf.com/wiki/index.php/Site/Search?q={{{s}}}"
+  },
+  {
+    "bang": "aaw",
+    "name": "Ace Attorney Wiki",
+    "url": "http://aceattorney.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "bang": "acwiki",
+    "name": "Assassin's Creed Wiki",
+    "url": "https://assassinscreed.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "adom",
+    "name": "ADOM Wiki",
+    "url": "http://ancardia.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "ahdb",
+    "name": "ArkhamDB",
+    "url": "https://arkhamdb.com/find?q={{{s}}}"
+  },
+  {
+    "bang": "ahw",
+    "name": "Arkham Horror Wiki",
+    "url": "http://www.arkhamhorrorwiki.com/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "aion",
+    "name": "Aion Wiki",
+    "url": "http://aion.wikia.com/wiki/index.php?search={{{s}}}&fulltext=0"
+  },
+  {
+    "bang": "anoikis",
+    "name": "Anoik.is",
+    "url": "http://anoik.is/systems/{{{s}}}"
+  },
+  {
+    "bang": "aoe2r",
+    "name": "AOE 2 Reddit Page",
+    "url": "https://www.reddit.com/r/aoe2/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "aoe",
+    "name": "Age of Empires Wiki",
+    "url": "http://ageofempires.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "arcgames",
+    "name": "ArcGames",
+    "url": "http://www.arcgames.com/en/games/all-games/query/{{{s}}}"
+  },
+  {
+    "bang": "arkpedia",
+    "name": "Ark Gamepedia",
+    "url": "http://ark.gamepedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "arkwiki",
+    "name": "Ark official Wiki",
+    "url": "http://ark.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "arms",
+    "name": "ARMS Institute",
+    "url": "https://armswiki.org/wiki/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "arr",
+    "name": "GamerEscape",
+    "url": "http://ffxiv.gamerescape.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "artifact",
+    "name": "Artifact Wiki",
+    "url": "https://artifact.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "a-tm",
+    "name": "Ateam Forum",
+    "url": "http://forum.a-tm.co.jp/search?q=hello&searchJSON={%22keywords%22%3A%22{{{s}}}%22}"
+  },
+  {
+    "bang": "awesomenauts",
+    "name": "Awesomenauts Wiki",
+    "url": "http://awesomenauts.gamepedia.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "azlane",
+    "name": "Azur Lane Wiki",
+    "url": "https://azurlane.koumakan.jp/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "bcm",
+    "name": "Brawl Custom Music",
+    "url": "http://www.brawlcustommusic.com/index.php?song={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "bcw",
+    "name": "Box Critters Wiki",
+    "url": "https://boxcritters.wiki/?search={{{s}}}"
+  },
+  {
+    "bang": "bigfish",
+    "name": "Big Fish Games",
+    "url": "http://www.bigfishgames.com/download-games/search.html?search={{{s}}}"
+  },
+  {
+    "bang": "bloodcat",
+    "name": "Bloodcat Beatmap Mirror",
+    "url": "https://bloodcat.com/osu/?q={{{s}}}&c=b&s=&m=&g=&l="
+  },
+  {
+    "bang": "bloonswiki",
+    "name": "Bloons Wiki",
+    "url": "http://bloons.wikia.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bocca",
+    "name": "BestOnlineCasinoCA",
+    "url": "https://bestonlinecasinoca.com/?s={{{s}}}"
+  },
+  {
+    "bang": "borderlands",
+    "name": "Borderlands Wiki",
+    "url": "http://borderlands.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "brst",
+    "name": "Brawl Stars Wiki",
+    "url": "https://brawlstars.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "cbwiki",
+    "name": "Combine OverWiki",
+    "url": "http://combineoverwiki.net/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "cdda",
+    "name": "Cataclysm: Dark Days Ahead wiki",
+    "url": "http://cddawiki.chezzo.com/cdda_wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "cddai",
+    "name": "CDDA Item Browser",
+    "url": "http://cdda-trunk.chezzo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cddaw",
+    "name": "Cataclysm: Dark Days Ahead wiki",
+    "url": "http://cddawiki.chezzo.com/cdda_wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "cgg",
+    "name": "Champion.gg",
+    "url": "http://champion.gg/champion/{{{s}}}"
+  },
+  {
+    "bang": "championgg",
+    "name": "Champion.gg",
+    "url": "http://champion.gg/champion/{{{s}}}"
+  },
+  {
+    "bang": "chess",
+    "name": "Chess.com",
+    "url": "https://www.chess.com/topic/{{{s}}}"
+  },
+  {
+    "bang": "chessgames",
+    "name": "Chess Games",
+    "url": "http://www.chessgames.com/perl/ezsearch.pl?search={{{s}}}"
+  },
+  {
+    "bang": "chgg",
+    "name": "Champion.gg",
+    "url": "http://champion.gg/champion/{{{s}}}"
+  },
+  {
+    "bang": "civ",
+    "name": "Civilization Wikia",
+    "url": "http://civilization.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "ck2",
+    "name": "CK2Wiki",
+    "url": "https://ck2.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "ckiiwiki",
+    "name": "Crusader Kings II Wiki",
+    "url": "https://ck2.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "clashofclans",
+    "name": "Clash of Clans",
+    "url": "http://clashofclans.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1#"
+  },
+  {
+    "bang": "codpedia",
+    "name": "Call of Duty eSports Wiki",
+    "url": "https://cod.esportspedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "codw",
+    "name": "Call of Duty Wiki",
+    "url": "http://callofduty.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "combodeck",
+    "name": "ComboDeck",
+    "url": "http://combodeck.net/Query/{{{s}}} "
+  },
+  {
+    "bang": "crawldb",
+    "name": "##Crawl Learndb",
+    "url": "https://loom.shalott.org/learndb.html#{{{s}}}"
+  },
+  {
+    "bang": "crw",
+    "name": "Clash Royale Wiki",
+    "url": "https://clashroyale.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "csgostats",
+    "name": "CSGO-STATS.NET",
+    "url": "https://csgo-stats.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "cslq",
+    "name": "Liquipedia Counter-Strike Wiki",
+    "url": "http://wiki.teamliquid.net/counterstrike/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "cstrade",
+    "name": "/r/globaloffensivetrade",
+    "url": "https://www.reddit.com/r/GlobalOffensiveTrade/search?q={{{s}}}&restrict_sr=on&sort=new&t=all"
+  },
+  {
+    "bang": "cub",
+    "name": "Cubash",
+    "url": "https://cubash.com/users?filter=0&query={{{s}}}"
+  },
+  {
+    "bang": "d20srd",
+    "name": "The Hypertext d20 SRD",
+    "url": "http://www.d20srd.org/search.htm?q={{{s}}}"
+  },
+  {
+    "bang": "d20",
+    "name": "The Hypertext d20 SRD",
+    "url": "http://www.d20srd.org/search.htm?q={{{s}}}"
+  },
+  {
+    "bang": "d2gp",
+    "name": "Dota2 Gamepedia",
+    "url": "http://dota2.gamepedia.com/Special:Search/{{{s}}}"
+  },
+  {
+    "bang": "d2",
+    "name": "Light.gg",
+    "url": "https://www.light.gg/db/search/?q={{{s}}}"
+  },
+  {
+    "bang": "d2w",
+    "name": "Diablo II Wiki",
+    "url": "http://diablo2.diablowiki.net/index.php?title=Special%3ASearch&redirs=1&search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "bang": "danm",
+    "name": "Dragon Age NexusMods",
+    "url": "https://www.nexusmods.com/dragonage/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "bang": "dawiki",
+    "name": "Dragon Age wiki",
+    "url": "https://dragonage.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "dbd",
+    "name": "Dead by Daylight Wiki",
+    "url": "https://deadbydaylight.gamepedia.com/index.php?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "bang": "dbguide",
+    "name": "Dotabuff Hero Guides",
+    "url": "https://www.dotabuff.com/heroes/{{{s}}}/guides"
+  },
+  {
+    "bang": "dcss",
+    "name": "Crawl Wiki",
+    "url": "http://crawl.chaosforge.org/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "ddnet",
+    "name": "DDrace Network",
+    "url": "https://ddnet.tw/players/{{{s}}}"
+  },
+  {
+    "bang": "ddwiki",
+    "name": "Official Darkest Dungeon Wiki",
+    "url": "https://darkestdungeon.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "debate",
+    "name": "debate.org",
+    "url": "http://www.debate.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "dfwiki",
+    "name": "DwarfFortress Wiki",
+    "url": "http://dwarffortresswiki.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "divinipedia",
+    "name": "Divinipedia",
+    "url": "http://kidicarus.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "dndwiki",
+    "name": "Dungeons and Dragons Wiki",
+    "url": "http://dungeons.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "dontstarve",
+    "name": "http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki",
+    "url": "http://dont-starve-game.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "dorf",
+    "name": "DwarfFortress Wiki",
+    "url": "http://dwarffortresswiki.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "dota2",
+    "name": "Teamliquid Wiki",
+    "url": "http://wiki.teamliquid.net/dota2/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "dotabuff",
+    "name": "Dotabuff",
+    "url": "http://www.dotabuff.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dota",
+    "name": "Dota 2 Wiki",
+    "url": "http://dota2.gamepedia.com/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "dotlan",
+    "name": "Dotlan EVE Maps",
+    "url": "http://evemaps.dotlan.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "dq",
+    "name": "Dragon Quest Wiki",
+    "url": "http://dragon-quest.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "dragcave",
+    "name": "Dragon Cave Wiki",
+    "url": "http://dragcave.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "ds2w",
+    "name": "Dark Souls 2 Wiki",
+    "url": "http://darksouls2.wikidot.com/search:site/q/{{{s}}}"
+  },
+  {
+    "bang": "ds3w",
+    "name": "Dark Souls 3 Wiki",
+    "url": "http://darksouls3.wikidot.com/search:site/a/p/q/{{{s}}}"
+  },
+  {
+    "bang": "dsw",
+    "name": "Dark Souls Wiki",
+    "url": "http://darksouls.wikidot.com/search:site/q/{{{s}}}"
+  },
+  {
+    "bang": "duff",
+    "name": "DOTABUFF",
+    "url": "http://www.dotabuff.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dustloop",
+    "name": "Dustloop Wiki",
+    "url": "http://www.dustloop.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "dwarf",
+    "name": "dwarf fortress wiki",
+    "url": "http://dwarffortresswiki.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "earthbound",
+    "name": "Earthbound Wiki",
+    "url": "http://earthbound.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "ecowiki",
+    "name": "Eco Wiki",
+    "url": "https://eco.gamepedia.com/index.php?search={{{s}}}&title=Special:Search"
+  },
+  {
+    "bang": "edf",
+    "name": "Elite Dangerous Forum",
+    "url": "https://forums.frontier.co.uk/search.php?do=process&query={{{s}}}"
+  },
+  {
+    "bang": "edhrec",
+    "name": "EDHREC",
+    "url": "https://edhrec.com/cards/{{{s}}}"
+  },
+  {
+    "bang": "edw",
+    "name": "Elite: Dangerous Wiki",
+    "url": "http://elite-dangerous.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "egs",
+    "name": "Epic Games Store",
+    "url": "https://www.epicgames.com/store/en-US/store-search?q={{{s}}}"
+  },
+  {
+    "bang": "ehu",
+    "name": "Evony Hookups",
+    "url": "http://www.evonyhookups.info/?s={{{s}}}"
+  },
+  {
+    "bang": "enkcwiki",
+    "name": "Kancolle Wiki",
+    "url": "http://en.kancollewiki.net/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "eorde",
+    "name": "Eorzea-Datenbank",
+    "url": "https://de.finalfantasyxiv.com/lodestone/playguide/db/search/?q={{{s}}}"
+  },
+  {
+    "bang": "eor",
+    "name": "Eorzea Database",
+    "url": "https://eu.finalfantasyxiv.com/lodestone/playguide/db/search/?q={{{s}}}"
+  },
+  {
+    "bang": "eorfr",
+    "name": "Base de donn\u00e9es d'\u00c9orz\u00e9a",
+    "url": "https://fr.finalfantasyxiv.com/lodestone/playguide/db/search/?q={{{s}}}"
+  },
+  {
+    "bang": "epic",
+    "name": "Epic Games",
+    "url": "https://www.epicgames.com/bing-search?keyword={{{s}}}"
+  },
+  {
+    "bang": "eq2",
+    "name": "EQ2i",
+    "url": "http://eq2.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "esea",
+    "name": "ESEA",
+    "url": "http://play.esea.net/index.php?s=search&query={{{s}}}"
+  },
+  {
+    "bang": "espcod",
+    "name": "COD Esportspedia",
+    "url": "http://cod.esportspedia.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "esphalo",
+    "name": "Halo Esportspedia",
+    "url": "http://halo.esportspedia.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "esplol",
+    "name": "LoL Esportspedia",
+    "url": "http://lol.esportspedia.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "espsmite",
+    "name": "SMITE Esportspedia",
+    "url": "http://smite.esportspedia.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "eternalwarcry",
+    "name": "Eternal Warcry",
+    "url": "https://eternalwarcry.com/cards?Query={{{s}}}"
+  },
+  {
+    "bang": "etf2l",
+    "name": "ETF2L",
+    "url": "http://etf2l.org/search/{{{s}}}"
+  },
+  {
+    "bang": "eu3",
+    "name": "Europa Universalis III Wiki",
+    "url": "http://www.eu3wiki.com/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "eu4",
+    "name": "EU4 Wiki",
+    "url": "https://eu4.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "eu4wiki",
+    "name": "Europa Universalis IV Wiki",
+    "url": "https://eu4.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "euw.op",
+    "name": "op.gg",
+    "url": "http://euw.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "evecentral",
+    "name": "Eve-Central",
+    "url": "https://eve-central.com/home/typesearch.html?search={{{s}}}"
+  },
+  {
+    "bang": "evec",
+    "name": "EVE-Central",
+    "url": "http://eve-central.com/home/typesearch.html?search={{{s}}}"
+  },
+  {
+    "bang": "eve",
+    "name": "Eve Online",
+    "url": "http://wiki.eveonline.com/en/wiki/Special:Search/{{{s}}} "
+  },
+  {
+    "bang": "evemarket",
+    "name": "EVE Marketdata",
+    "url": "https://eve-marketdata.com/price_check.php?type_name_header={{{s}}}"
+  },
+  {
+    "bang": "evesearch",
+    "name": "EVE Search",
+    "url": "http://eve-search.com/search/{{{s}}}"
+  },
+  {
+    "bang": "eveu",
+    "name": "EVE University Wiki",
+    "url": "http://wiki.eveuniversity.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "ewc",
+    "name": "Eternal Warcry: Cards",
+    "url": "https://eternalwarcry.com/cards?query={{{s}}}"
+  },
+  {
+    "bang": "f3nm",
+    "name": "Fallout 3 NexusMods",
+    "url": "https://www.nexusmods.com/fallout3/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "bang": "factorio",
+    "name": "Factorio wiki",
+    "url": "https://wiki.factorio.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "factoriomods",
+    "name": "Factorio Mods",
+    "url": "https://mods.factorio.com/query/{{{s}}}"
+  },
+  {
+    "bang": "fallenlondon",
+    "name": "Fallen London wiki",
+    "url": "http://fallenlondon.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "fallout",
+    "name": "Fallout Wikia",
+    "url": "http://fallout.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "fantasylife",
+    "name": "Fantasy Life Wikia",
+    "url": "http://fantasy-life.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "bang": "fe7",
+    "name": "Fire Emblem Fandom Wiki",
+    "url": "https://fireemblem.fandom.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "fehw",
+    "name": "Fire Emblem Heroes Wiki",
+    "url": "https://feheroes.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "few",
+    "name": "Fire Emblem Wiki",
+    "url": "https://fireemblemwiki.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "fewiki",
+    "name": "Fire Emblem Wiki",
+    "url": "https://fireemblemwiki.org/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "fextrads3",
+    "name": "Dark Souls 3 wiki",
+    "url": "https://darksouls3.wiki.fextralife.com/{{{s}}}"
+  },
+  {
+    "bang": "ffinv",
+    "name": "\ud30c\ud31014 \uc778\ubca4",
+    "url": "http://ff14.inven.co.kr/dataninfo/item/?itemname={{{s}}}&datagroup=search"
+  },
+  {
+    "bang": "ffwiki",
+    "name": "Final Fantasy Wiki",
+    "url": "http://finalfantasy.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "ffxiv",
+    "name": "Final Fantasy XIV A Realm Reborn Wiki",
+    "url": "https://ffxiv.consolegameswiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "finalfantasy",
+    "name": "Final Fantasy Wiki",
+    "url": "http://finalfantasy.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "fnite",
+    "name": "Reddit Fortnite BR",
+    "url": "https://www.reddit.com/r/FortNiteBR/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "fnvnm",
+    "name": "Fallout New Vegas NexusMods",
+    "url": "https://www.nexusmods.com/newvegas/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "bang": "fort",
+    "name": "Fortnite Wiki",
+    "url": "https://fortnite.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "fortnitestats",
+    "name": "Fortnite stats",
+    "url": "https://fortnitestats.com/stats/{{{s}}}"
+  },
+  {
+    "bang": "fow",
+    "name": "Force Of Will  English Card Database",
+    "url": "http://www.fowtcg.com/cards?w={{{s}}}"
+  },
+  {
+    "bang": "fowg",
+    "name": "Force of Will German Database",
+    "url": "https://www.fowsystem.com/de/Kartendatenbank?page=&CERCA=cerca&cardname={{{s}}}&block=ALL&edition=ALL&REGATT=or&cardnumber=&ABILITYTEXT=&ATKMIN=0&ATKMAX=2500&DEFMIN=0&DEFMAX=2500"
+  },
+  {
+    "bang": "fusionfall",
+    "name": "FusionFall Wikia",
+    "url": "http://fusionfall.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "futhead",
+    "name": "Futhead",
+    "url": "http://www.futhead.com/16/players/?name={{{s}}}"
+  },
+  {
+    "bang": "gamersgate",
+    "name": "GamersGate",
+    "url": "http://gamersgate.com/games?q={{{s}}}"
+  },
+  {
+    "bang": "gatherer",
+    "name": "Gatherer",
+    "url": "http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[{{{s}}}]"
+  },
+  {
+    "bang": "gbf",
+    "name": "Granblue Fantasy Wiki",
+    "url": "https://gbf.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "gearr",
+    "name": "Gamers Escape FFXIV",
+    "url": "http://ffxiv.gamerescape.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "getracker",
+    "name": "Ge-Tracker",
+    "url": "https://www.ge-tracker.com/names/{{{s}}}"
+  },
+  {
+    "bang": "goiw",
+    "name": "Guns of Icarus Wiki",
+    "url": "https://gunsoficarusonline.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "gothic",
+    "name": "Gothic-Almanach",
+    "url": "https://almanach.worldofgothic.de/index.php/Spezial:Suche?search={{{s}}}"
+  },
+  {
+    "bang": "gotrade",
+    "name": "/r/globaloffensivetrade",
+    "url": "https://www.reddit.com/r/GlobalOffensiveTrade/search?q={{{s}}}&restrict_sr=on&sort=new&t=all"
+  },
+  {
+    "bang": "grog",
+    "name": "Le Guide du r\u00f4liste galactique",
+    "url": "https://duckduckgo.com/?q=site%3Alegrog.org+{{{s}}}"
+  },
+  {
+    "bang": "guardiana",
+    "name": "Guardiana",
+    "url": "http://www.guardiana.net/MDG-Database/Search/?search_value={{{s}}} "
+  },
+  {
+    "bang": "guildwiki",
+    "name": "Guild Wiki",
+    "url": "http://www.guildwiki.org/index.php?title=Special%3ASearch&redirs=0&search={{{s}}}&fulltext=Search&ns0=1"
+  },
+  {
+    "bang": "gw2bltc",
+    "name": "GW2BLTC",
+    "url": "https://www.gw2bltc.com/en/tp/search?name={{{s}}}"
+  },
+  {
+    "bang": "gw2de",
+    "name": "Guild Wars 2 Wiki Deutsch",
+    "url": "https://wiki-de.guildwars2.com/index.php?search={{{s}}}&go=Seite"
+  },
+  {
+    "bang": "gw2fr",
+    "name": "Guild Wars 2 Wiki Fran\u00e7ais",
+    "url": "http://wiki-fr.guildwars2.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "gw2",
+    "name": "Guild Wars 2 Wiki",
+    "url": "https://wiki.guildwars2.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "gw2tp",
+    "name": "GW2TP",
+    "url": "https://www.gw2tp.com/search?name={{{s}}}"
+  },
+  {
+    "bang": "gwentdb",
+    "name": "GwentDB",
+    "url": "http://www.gwentdb.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "gwentify",
+    "name": "Gwentify",
+    "url": "http://gwentify.com/cards/?st={{{s}}}"
+  },
+  {
+    "bang": "habbotrading",
+    "name": "Habbo Ruilwaarde",
+    "url": "http://www.ruilwaarde.nl/?p={{{s}}}"
+  },
+  {
+    "bang": "halopedia",
+    "name": "Halopedia",
+    "url": "http://www.halopedia.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "hearthpwn",
+    "name": "Hearthpwn",
+    "url": "http://www.hearthpwn.com/search?search={{{s}}}#t1:cards"
+  },
+  {
+    "bang": "hearthstone",
+    "name": "Hearthstone Wiki",
+    "url": "http://hearthstone.gamepedia.com/?search={{{s}}}"
+  },
+  {
+    "bang": "heroes",
+    "name": "Heroes Hearth",
+    "url": "https://heroeshearth.com/hero/{{{s}}}"
+  },
+  {
+    "bang": "hippie",
+    "name": "HippieStation wiki",
+    "url": "https://wiki.hippiestation.com//index.php?title=Special%3ASearch&profile=default&search={{{s}}}"
+  },
+  {
+    "bang": "hkw",
+    "name": "Hollow Knight Wiki",
+    "url": "http://hollowknight.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "hlp",
+    "name": "Hard-Light Productions",
+    "url": "https://hlp-search.tproxy.de/search?q={{{s}}}"
+  },
+  {
+    "bang": "hltv",
+    "name": "HLTV.org",
+    "url": "https://www.hltv.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "hoi3",
+    "name": "Hearts of Iron 3 Wiki",
+    "url": "http://www.hoi3wiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "hoi4",
+    "name": "Hearts of Iron IV wiki",
+    "url": "https://hoi4.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "hswiki",
+    "name": "Hearthstone: Heroes of Warcraft Wiki",
+    "url": "http://hearthstone.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "iaw",
+    "name": "Infinity WIki",
+    "url": "http://infinitythewiki.com/en/{{{s}}}"
+  },
+  {
+    "bang": "icaruspedia",
+    "name": "Icaruspedia",
+    "url": "http://www.kidicaruswiki.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "idg",
+    "name": "Doomworld/idgames",
+    "url": "https://www.doomworld.com/idgames//index.php?search=1&field=title&sort=time&order=desc&word={{{s}}}"
+  },
+  {
+    "bang": "idolmawiki",
+    "name": "THE IDOLM@STER Wiki",
+    "url": "http://idolmaster.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "imas",
+    "name": "Project iM@S Wiki",
+    "url": "http://www.project-imas.com/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "inkipedia",
+    "name": "Inkipedia",
+    "url": "http://splatoonwiki.org/w/index.php?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "irowiki",
+    "name": "IroWiki",
+    "url": "http://irowiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "isaac",
+    "name": "The Binding of Isaac Rebirth Wiki",
+    "url": "http://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "jid",
+    "name": "Jellyneo Item Database",
+    "url": "https://items.jellyneo.net/search/?name={{{s}}}"
+  },
+  {
+    "bang": "kancolle",
+    "name": "Kantai Collection Wiki",
+    "url": "http://kancolle.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "kcmm",
+    "name": "KittyCorp: MeowMix",
+    "url": "http://kc-mm.com/?s={{{s}}}"
+  },
+  {
+    "bang": "khinsider",
+    "name": "Kingdom Hearts Insider",
+    "url": "http://www.khinsider.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "khwiki",
+    "name": "Kingdom Hearts Wiki",
+    "url": "https://www.khwiki.com/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "kol",
+    "name": "The KoLwiki",
+    "url": "http://kol.coldfront.net/thekolwiki/index.php/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "kolw",
+    "name": "Kingdom of Loathing Wiki",
+    "url": "http://kol.coldfront.net/thekolwiki/index.php/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "ksp",
+    "name": "Kerbal Space Program Wiki",
+    "url": "http://wiki.kerbalspaceprogram.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "kspwiki",
+    "name": "Kerbal Space Program Wiki",
+    "url": "http://wiki.kerbalspaceprogram.com/w/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "lcsgo",
+    "name": "Liquipedia CS:GO",
+    "url": "http://wiki.teamliquid.net/counterstrike/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "ldota",
+    "name": "Liquipedia Dota 2 Wiki",
+    "url": "http://wiki.teamliquid.net/dota2/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "learnlol",
+    "name": "league of legends summoner school",
+    "url": "https://www.reddit.com/r/summonerschool/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "lgw",
+    "name": "libregamewiki",
+    "url": "https://libregamewiki.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "light",
+    "name": "light.gg",
+    "url": "https://www.light.gg/db/search/?q={{{s}}} "
+  },
+  {
+    "bang": "liquidpedia",
+    "name": "Liquidpedia",
+    "url": "http://wiki.teamliquid.net/starcraft2/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "liquipedia",
+    "name": "Liquipedia2",
+    "url": "http://wiki.teamliquid.net/starcraft2/index.php?title=Special%3ASearch&go=Go&search={{{s}}}"
+  },
+  {
+    "bang": "lk",
+    "name": "LolKing",
+    "url": "http://www.lolking.net/search?name={{{s}}}"
+  },
+  {
+    "bang": "lmwiki",
+    "name": "Luigi's Mansion Wiki",
+    "url": "http://luigi-mansion.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "lolchamp",
+    "name": "lolalytics",
+    "url": "https://lolalytics.com/ranked/worldwide/current/diamond/plus/champion/{{{s}}}"
+  },
+  {
+    "bang": "lolcounter",
+    "name": "LOL counter",
+    "url": "http://www.lolcounter.com/champions/{{{s}}}"
+  },
+  {
+    "bang": "lolking",
+    "name": "LolKing",
+    "url": "http://www.lolking.net/search?name={{{s}}}"
+  },
+  {
+    "bang": "lolpro",
+    "name": "LoL Pro",
+    "url": "http://www.lolpro.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "lolwiki",
+    "name": "League of Legends Wiki",
+    "url": "http://leagueoflegends.wikia.com/wiki/Special:Search?search={{{s}}} "
+  },
+  {
+    "bang": "lotrow",
+    "name": "LOTRO-Wiki",
+    "url": "http://lotro-wiki.com/index.php?search={{{s}}}&button=&title=Special%3ASearch"
+  },
+  {
+    "bang": "mabiwiki",
+    "name": "Mabinogi World Wiki",
+    "url": "http://wiki.mabinogiworld.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "mario",
+    "name": "Super Mario Wiki",
+    "url": "https://www.mariowiki.com/{{{s}}}"
+  },
+  {
+    "bang": "mariowiki",
+    "name": "Super Mario Wiki",
+    "url": "http://www.mariowiki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "mdb",
+    "name": "MoriDB",
+    "url": "http://moridb.com/items/search?q={{{s}}}"
+  },
+  {
+    "bang": "megaman",
+    "name": "Mega Man Knowledge Base",
+    "url": "http://megaman.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "megamitensei",
+    "name": "Megami Tensei Wikia",
+    "url": "http://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "me",
+    "name": "Mass Effect Wiki",
+    "url": "http://masseffect.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "metroidwiki",
+    "name": "Metroid Wiki",
+    "url": "http://www.metroidwiki.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "mgw",
+    "name": "Metal Gear Wiki",
+    "url": "http://metalgear.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "mh",
+    "name": "The Monster Hunter Wiki",
+    "url": "http://monsterhunter.wikia.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "mhwiki",
+    "name": "The Monster Hunter Wiki",
+    "url": "http://monsterhunter.wikia.com/wiki/index.php?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "miitopia",
+    "name": "Miitopia WIki",
+    "url": "http://miitopia.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "bang": "mkrw",
+    "name": "Mario Kart Racing Wiki",
+    "url": "http://mariokart.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "mmr",
+    "name": "What is My MMR",
+    "url": "https://na.whatismymmr.com/{{{s}}}"
+  },
+  {
+    "bang": "mnm",
+    "name": "Morrowind NexusMods",
+    "url": "https://www.nexusmods.com/morrowind/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "bang": "mosaik",
+    "name": "IngressMosail",
+    "url": "https://ingressmosaik.com/search?f={{{s}}}"
+  },
+  {
+    "bang": "mtgcm",
+    "name": "MagicCardMarket",
+    "url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString={{{s}}}"
+  },
+  {
+    "bang": "mtgg",
+    "name": "MTG Gatherer",
+    "url": "http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[{{{s}}}]"
+  },
+  {
+    "bang": "mtgh",
+    "name": "MTG-Hunter",
+    "url": "http://mtg-hunter.com/?q={{{s}}}"
+  },
+  {
+    "bang": "mtgwtf",
+    "name": "mtg.wtf",
+    "url": "https://mtg.wtf/card?q={{{s}}}"
+  },
+  {
+    "bang": "mts",
+    "name": "Mod the Sims",
+    "url": "http://www.modthesims.info/browse.php?tag={{{s}}}"
+  },
+  {
+    "bang": "na.op",
+    "name": "op.gg",
+    "url": "http://na.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "nava",
+    "name": "Naval Action Wiki",
+    "url": "http://www.navalactionwiki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "necrod",
+    "name": "Crypt of the NecroDancer Wikia",
+    "url": "http://crypt-of-the-necrodancer.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns1=1&ns2=1&ns3=1&ns4=1&ns5=1&ns6=1&ns7=1&ns8=1&ns9=1&ns10=1&ns11=1&ns12=1&ns13=1&ns14=1&ns15=1&ns110=1&ns111=1&ns828=1&ns829=1&ns1201=1#advanced"
+  },
+  {
+    "bang": "nepu",
+    "name": "Hyperdimension Neptunia Wiki",
+    "url": "http://neptunia.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "nfsw",
+    "name": "Need for Speed Wiki",
+    "url": "http://nfs.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "nh",
+    "name": "NetHack Wiki",
+    "url": "https://nethackwiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "nintendowiki",
+    "name": "Nintendo Wiki",
+    "url": "http://nintendo.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "nitrome",
+    "name": "Nitrome",
+    "url": "http://www.nitrome.com/search.php?id={{{s}}}&search_type=default"
+  },
+  {
+    "bang": "nms",
+    "name": "No Man's Sky Wiki",
+    "url": "https://nomanssky.gamepedia.com/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "noita",
+    "name": "Noita Wiki",
+    "url": "https://noita.gamepedia.com/{{{s}}}"
+  },
+  {
+    "bang": "nook",
+    "name": "Nookipedia",
+    "url": "http://nookipedia.com/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "nsr",
+    "name": "NationStates",
+    "url": "https://nationstates.net/region={{{s}}}"
+  },
+  {
+    "bang": "nuclearthrone",
+    "name": "Nuclear Throne Wiki",
+    "url": "http://nuclear-throne.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "nwvault",
+    "name": "Neverwinter Vault",
+    "url": "https://neverwintervault.org/search/node/{{{s}}}"
+  },
+  {
+    "bang": "oni",
+    "name": "Oxygen Not Included Wiki",
+    "url": "http://oxygennotincluded.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "onm",
+    "name": "Oblivion NexusMods",
+    "url": "https://www.nexusmods.com/oblivion/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "bang": "ooc",
+    "name": "Out of Cards",
+    "url": "https://outof.cards/search/?query={{{s}}}"
+  },
+  {
+    "bang": "opbr",
+    "name": "OP.GG Brazil - League of Legends Summoners statistics and MMR",
+    "url": "http://br.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "opendota",
+    "name": "OpenDota",
+    "url": "https://www.opendota.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "opeuw",
+    "name": "OP.GG",
+    "url": "http://euw.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "opggeuw",
+    "name": "OP.GG",
+    "url": "http://euw.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "op.gg",
+    "name": "op.gg",
+    "url": "http://www.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "opg",
+    "name": "Opgg Champion",
+    "url": "http://www.op.gg/champion/{{{s}}}"
+  },
+  {
+    "bang": "oplas",
+    "name": "OP.GG LAS - League of Legends Summoners statistics and MMR",
+    "url": "http://las.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "opna",
+    "name": "OP.GG North America - League of Legends Summoners statistics and MMR",
+    "url": "http://na.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "opoce",
+    "name": "OP.GG Oceania - League of Legends Summoners statistics and MMR",
+    "url": "http://oce.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "opru",
+    "name": "OP.GG Russia - League of Legends Summoners statistics and MMR",
+    "url": "http://ru.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "opskins",
+    "name": "OPSkins",
+    "url": "https://opskins.com/index.php?search_item={{{s}}}&min=&max=&grade=Grade&type=Type&sort=f&loc=shop_search"
+  },
+  {
+    "bang": "optr",
+    "name": "OP.GG Turkey - League of Legends Summoners statistics and MMR",
+    "url": "http://tr.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "osrsge",
+    "name": "The Old School Runescape Grand Exchange",
+    "url": "http://services.runescape.com/m=itemdb_oldschool/results?query={{{s}}}"
+  },
+  {
+    "bang": "osrshs",
+    "name": "Old School Runescape Hiscores",
+    "url": "http://services.runescape.com/m=hiscore_oldschool/hiscorepersonal.ws?user1={{{s}}}"
+  },
+  {
+    "bang": "osrs",
+    "name": "Old School RuneScape Wiki",
+    "url": "https://oldschool.runescape.wiki/?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "osrswiki",
+    "name": "Old School Runescape Wiki",
+    "url": "https://oldschool.runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "bang": "osrsw",
+    "name": "OSRS Official Wiki",
+    "url": "https://oldschool.runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "bang": "osus",
+    "name": "osu!search",
+    "url": "http://osusearch.com/search/?title={{{s}}}"
+  },
+  {
+    "bang": "overwatch",
+    "name": "Overwatch Wiki",
+    "url": "http://overwatch.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1#"
+  },
+  {
+    "bang": "owgamepedia",
+    "name": "Overwatch Gamepedia",
+    "url": "https://overwatch.gamepedia.com/index.php?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "bang": "owliquipedia",
+    "name": "Overwatch Liquipedia",
+    "url": "https://liquipedia.net/overwatch/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pad",
+    "name": "Puzzle & Dragons Wiki",
+    "url": "http://pad.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "bang": "payday",
+    "name": "Payday Wiki",
+    "url": "http://payday.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "pbc",
+    "name": "Probuilds Champion",
+    "url": "https://www.probuilds.net/champions/details/{{{s}}}"
+  },
+  {
+    "bang": "pdx",
+    "name": "Puzzle & Dragons Database",
+    "url": "http://puzzledragonx.com/en/search.asp?q={{{s}}}&searchoption=1"
+  },
+  {
+    "bang": "pfs",
+    "name": "d20PFSRD",
+    "url": "https://cse.google.com/cse?cx=006680642033474972217%3A6zo0hx_wle8&q={{{s}}}"
+  },
+  {
+    "bang": "phun",
+    "name": "PHUN Forum",
+    "url": "http://phun.freeforums.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "pikipedia",
+    "name": "Pikipedia",
+    "url": "http://www.pikminwiki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "playonlinux",
+    "name": "playonlinux",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aplayonlinux.com"
+  },
+  {
+    "bang": "pmwiki",
+    "name": "Paper Mario Wiki",
+    "url": "http://papermario.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "poedb",
+    "name": "Path of Exile Database",
+    "url": "http://poedb.tw/us/search.php?Search={{{s}}}"
+  },
+  {
+    "bang": "poegp",
+    "name": "Path of Exile Gamepedia",
+    "url": "https://pathofexile.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "poepage",
+    "name": "Path of Exile page",
+    "url": "http://pathofexile.gamepedia.com/{{{s}}}"
+  },
+  {
+    "bang": "potco",
+    "name": "Pirates Online Wiki",
+    "url": "https://piratesonline.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "probuilds",
+    "name": "Probuilds",
+    "url": "https://www.probuilds.net/champions/details/{{{s}}}"
+  },
+  {
+    "bang": "pubgwiki",
+    "name": "PLAYERUNKNOWN'S BATTLEGROUNDS Wiki",
+    "url": "https://pubg.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pzw",
+    "name": "Project Zomboid Wiki",
+    "url": "https://pzwiki.net/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "rbn",
+    "name": "rbnorway",
+    "url": "http://rbnorway.org/?s={{{s}}}"
+  },
+  {
+    "bang": "remywiki",
+    "name": "RemyWiki",
+    "url": "https://remywiki.com/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "rhq",
+    "name": "RuneHQ",
+    "url": "http://www.runehq.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "rlr",
+    "name": "Rocket League Reddit",
+    "url": "https://www.reddit.com/r/RocketLeague/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "rlw",
+    "name": "Rocket League Wiki",
+    "url": "https://rocketleague.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "rmw",
+    "name": "Rimworld Wiki",
+    "url": "https://rimworldwiki.com/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "robloxg",
+    "name": "Roblox Games",
+    "url": "https://www.roblox.com/games/?Keyword={{{s}}}"
+  },
+  {
+    "bang": "roblox",
+    "name": "Roblox",
+    "url": "https://www.roblox.com/games/?Keyword={{{s}}}"
+  },
+  {
+    "bang": "robloxu",
+    "name": "Roblox users",
+    "url": "https://www.roblox.com/search/users?keyword={{{s}}}"
+  },
+  {
+    "bang": "roguebasin",
+    "name": "RogueBasin",
+    "url": "http://roguebasin.roguelikedevelopment.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "ror2",
+    "name": "Risk of Rain 2 Wiki",
+    "url": "https://riskofrain2.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "rs07",
+    "name": "Old School RuneScape Wiki",
+    "url": "https://oldschool.runescape.wiki/w/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "rscape",
+    "name": "RuneScape Wiki",
+    "url": "https://runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "bang": "rsge",
+    "name": "The RuneScape Grand Exchange",
+    "url": "http://services.runescape.com/m=itemdb_rs/results?query={{{s}}}"
+  },
+  {
+    "bang": "rsg",
+    "name": "Rockstar Games",
+    "url": "https://www.rockstargames.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "rs",
+    "name": "The RuneScape Wiki",
+    "url": "https://runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "bang": "rswikin",
+    "name": "Runescape Wiki (new)",
+    "url": "https://runescape.wiki/?search=test&title=Special%3ASearch&fulltext={{{s}}}"
+  },
+  {
+    "bang": "rswiki",
+    "name": "Runescape Wiki",
+    "url": "https://runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "bang": "rtboi",
+    "name": "Binding of Isaac subreddit",
+    "url": "https://www.reddit.com/r/bindingofisaac/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "runescape",
+    "name": "Runescape Wiki",
+    "url": "https://runescape.wiki/w/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "rustlabs",
+    "name": "Rustlabs",
+    "url": "https://rustlabs.com/search={{{s}}}"
+  },
+  {
+    "bang": "sarna",
+    "name": "Sarna",
+    "url": "http://www.sarna.net/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "scryfall",
+    "name": "Scryfall",
+    "url": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sdv",
+    "name": "Official Stardew Valley Wiki",
+    "url": "http://stardewvalleywiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "sega",
+    "name": "SegaRetro",
+    "url": "https://segaretro.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "senseis",
+    "name": "Sensei's Library",
+    "url": "http://senseis.xmp.net/?searchstring={{{s}}}&fullsearch.x=0&fullsearch.y=0&searchtype=either "
+  },
+  {
+    "bang": "serenes",
+    "name": "Serenes Forest",
+    "url": "https://serenesforest.net/?s={{{s}}}"
+  },
+  {
+    "bang": "sfa",
+    "name": "Scryfall",
+    "url": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sfl",
+    "name": "Scryfall",
+    "url": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sit",
+    "name": "schoolido.lu",
+    "url": "http://schoolido.lu/cards/?search={{{s}}}&name=&rarity=&attribute=&is_promo=&is_special=&is_event=&skill=&translated_collection=&collection=&main_unit=&sub_unit=&idol_school=&idol_year=&release_after=&release_before=&view=cards&albumbuilder_account=15585&account=&ordering=id&reverse_order=on"
+  },
+  {
+    "bang": "smite",
+    "name": "Smite Wiki",
+    "url": "http://smite.gamepedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "snn",
+    "name": "Sonic News Network",
+    "url": "http://sonic.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "solomid",
+    "name": "Solomid",
+    "url": "http://www.solomid.net/searchresults.php?q={{{s}}}"
+  },
+  {
+    "bang": "splatoon",
+    "name": "Inkpedia",
+    "url": "http://splatoonwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "srd",
+    "name": "The Hypertext d20 SRD",
+    "url": "http://www.d20srd.org/search.htm?q={{{s}}}"
+  },
+  {
+    "bang": "sretro",
+    "name": "Sonic Retro",
+    "url": "http://info.sonicretro.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "sri",
+    "name": "SteamRep (by ID)",
+    "url": "http://steamrep.com/id/{{{s}}}"
+  },
+  {
+    "bang": "srk",
+    "name": "Shoryuken",
+    "url": "http://shoryuken.com/?s={{{s}}}"
+  },
+  {
+    "bang": "srrl",
+    "name": "Rocket League Reddit",
+    "url": "https://www.reddit.com/r/RocketLeague/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "ssb",
+    "name": "SmashWiki",
+    "url": "http://www.ssbwiki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "starbounder",
+    "name": "Starbound Wiki",
+    "url": "http://starbounder.org/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "starbound",
+    "name": "Starbound Wiki",
+    "url": "http://starbounder.org/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "steammarket",
+    "name": "Steam Community Market",
+    "url": "http://steamcommunity.com/market/search?q={{{s}}}"
+  },
+  {
+    "bang": "stellaris",
+    "name": "Stellaris Wiki",
+    "url": "https://stellaris.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "stsw",
+    "name": "Slay the spire Wiki | Fandom powered by Wikia",
+    "url": "https://slay-the-spire.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "subnautica",
+    "name": "Subnautica Wiki",
+    "url": "http://subnautica.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "svw",
+    "name": "Stardew Valley Wiki",
+    "url": "http://stardewvalleywiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "tas",
+    "name": "TASVideos",
+    "url": "http://tasvideos.org/Search.html?key={{{s}}} "
+  },
+  {
+    "bang": "tbc",
+    "name": "Tibia",
+    "url": "http://www.tibia.com/community/?subtopic=characters&name={{{s}}}"
+  },
+  {
+    "bang": "telefang",
+    "name": "Wikifang",
+    "url": "http://wiki.telefang.net/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "tera",
+    "name": "Tera Wiki",
+    "url": "http://tera.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "terraria",
+    "name": "Official Terraria Wiki",
+    "url": "https://terraria.gamepedia.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "teswiki",
+    "name": "The Elder Scrolls WIki",
+    "url": "http://elderscrolls.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "tf2bp",
+    "name": "Backpack.tf",
+    "url": "http://backpack.tf/id/{{{s}}}"
+  },
+  {
+    "bang": "tf2r",
+    "name": "Team Fortress 2 subreddit",
+    "url": "https://www.reddit.com/r/tf2/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "tf2wiki",
+    "name": "Team Fortress Official Wiki",
+    "url": "http://wiki.teamfortress.com/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "tgs",
+    "name": "/tg/station 13 Wiki",
+    "url": "https://tgstation13.org/wiki//index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "thgw",
+    "name": "Tony Hawk Games Wiki",
+    "url": "http://tonyhawkgames.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "thmods",
+    "name": "ThMods",
+    "url": "http://thmods.com/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "thwiki",
+    "name": "Touhouwiki (English)",
+    "url": "http://en.touhouwiki.net/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "thw",
+    "name": "Touhou Wiki",
+    "url": "http://en.touhouwiki.net/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "tibia",
+    "name": "Tibia",
+    "url": "https://secure.tibia.com/community/?subtopic=characters&name={{{s}}}"
+  },
+  {
+    "bang": "tibiawiki",
+    "name": "Tibia Wikia",
+    "url": "http://tibia.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "tld",
+    "name": "Liquipedia Dota 2 Wiki",
+    "url": "http://wiki.teamliquid.net/dota2/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "tl",
+    "name": "Team Liquid",
+    "url": "http://www.teamliquid.net/forum/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "tmarket",
+    "name": "Torn Market",
+    "url": "https://www.torn.com/imarket.php#/p=shop&step=shop&type=&searchname={{{s}}}"
+  },
+  {
+    "bang": "toswikia",
+    "name": "Tower of Saviors Wikia",
+    "url": "http://towerofsaviors.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "touhou",
+    "name": "Touhou Wiki",
+    "url": "http://en.touhouwiki.net/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "triplea",
+    "name": "Axis & Allies Wiki",
+    "url": "http://axisandallies.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1#"
+  },
+  {
+    "bang": "trueachievements",
+    "name": "TrueAchievements",
+    "url": "https://www.trueachievements.com/searchresults.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "truesteam",
+    "name": "TrueSteamAchievements",
+    "url": "https://truesteamachievements.com/searchresults.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "truetrophies",
+    "name": "TrueTrophies",
+    "url": "https://www.truetrophies.com/searchresults.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "trw",
+    "name": "Traveller RPG",
+    "url": "http://wiki.travellerrpg.com/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "ttr",
+    "name": "Toontown Rewritten",
+    "url": "http://toontownrewritten.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "tww",
+    "name": "The Witcher Wiki",
+    "url": "http://witcher.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "uesp",
+    "name": "The Unofficial Elder Scrolls Pages",
+    "url": "http://en.uesp.net/w/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "ugg",
+    "name": "U.GG",
+    "url": "https://u.gg/opensearch/?query={{{s}}}"
+  },
+  {
+    "bang": "ukcsgo",
+    "name": "UKCSGO",
+    "url": "http://ukcsgo.com/forums/search/{{{s}}}"
+  },
+  {
+    "bang": "uniwiki",
+    "name": "UniWiki",
+    "url": "https://wiki.eveuniversity.org/index.php?title=Special%3ASearch&search={{{s}}}&button="
+  },
+  {
+    "bang": "uqm",
+    "name": "Ultranomicon",
+    "url": "http://wiki.uqm.stack.nl/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "uq",
+    "name": "Ultronomicon",
+    "url": "http://wiki.uqm.stack.nl/script/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "bang": "uschess",
+    "name": "US Chess Federation",
+    "url": "http://www.uschess.org/datapage/player-search.php?name={{{s}}}&state=ANY&ratingmin=&ratingmax=&order=N&rating=R&mode=Find"
+  },
+  {
+    "bang": "uwo",
+    "name": "SSJOY Uncharted waters Korean wiki",
+    "url": "https://www.ssjoy.org/dho/?vid=&mid=home&act=IS&is_target=all&is_keyword={{{s}}}"
+  },
+  {
+    "bang": "vault",
+    "name": "The Vault Fallout Wiki",
+    "url": "http://fallout.gamepedia.com/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "vic2",
+    "name": "Victoria 2 Wiki",
+    "url": "https://vic2.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "vortexcg",
+    "name": "Vorteex Cloud Gaming",
+    "url": "https://vortex.gg/games?title={{{s}}}"
+  },
+  {
+    "bang": "vossey",
+    "name": "Vossey.com",
+    "url": "http://www.vossey.com/recherche/index.php?ac=recherche&titre={{{s}}}"
+  },
+  {
+    "bang": "vtmb",
+    "name": "Vampire: The Masquerade - Blooslines wiki",
+    "url": "http://vtmb.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "wfde",
+    "name": "Warframe Wiki (DE)",
+    "url": "http://de.warframe.wikia.com/wiki/Spezial:Suche?search={{{s}}}"
+  },
+  {
+    "bang": "wfen",
+    "name": "WARFRAME Wiki",
+    "url": "http://warframe.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "wfwiki",
+    "name": "WARFRAME Wiki",
+    "url": "http://warframe.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wfw",
+    "name": "WARFRAME Wiki",
+    "url": "http://warframe.wikia.com/wiki/Special:WikiaSearch?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "wikibound",
+    "name": "WikiBound",
+    "url": "http://wikibound.info/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "wikirby",
+    "name": "Wikirby",
+    "url": "http://wikirby.com/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikitroid",
+    "name": "Wikitroid",
+    "url": "http://metroid.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wolw",
+    "name": "West of Loathing Wiki",
+    "url": "https://westofloathing.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "worms",
+    "name": "Worms Knowledge Base",
+    "url": "http://worms2d.info/?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wosrs",
+    "name": "Old School RuneScape Wiki",
+    "url": "https://oldschool.runescape.wiki/?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "bang": "wurm",
+    "name": "Wurmpedia",
+    "url": "http://wurmpedia.com/index.php?search={{{s}}}&fulltext=Search&title=Special%3ASearch"
+  },
+  {
+    "bang": "xenoblade",
+    "name": "Xenoblade Wiki",
+    "url": "http://xenoblade.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "xivdb",
+    "name": "XIVDB",
+    "url": "http://xivdb.com/?search={{{s}}}"
+  },
+  {
+    "bang": "xiv",
+    "name": "XIV:DB",
+    "url": "http://xivdb.com/?search={{{s}}}"
+  },
+  {
+    "bang": "ygo",
+    "name": "Yu-Gi-Oh! Wikia",
+    "url": "http://yugioh.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "ypp",
+    "name": "Puzzle Pirates YPPedia",
+    "url": "https://yppedia.puzzlepirates.com/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "yugiohdb",
+    "name": "Yu-Gi-Oh! Card Database",
+    "url": "http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=1&keyword={{{s}}}&stype=1&ctype=&starfr=&starto=&atkfr=&atkto=&deffr=&defto=&othercon=1"
+  },
+  {
+    "bang": "yume100",
+    "name": "Yume100 Wiki",
+    "url": "http://yume100prince.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "zameq2",
+    "name": "ZAM - EQ2",
+    "url": "http://eq2.zam.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "zameq",
+    "name": "ZAM - EQ",
+    "url": "http://everquest.allakhazam.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "zbsamp",
+    "name": "Zapadni Balkan SA:MP",
+    "url": "http://www.zbsamp.com/index.php?action=search2;search={{{s}}}"
+  },
+  {
+    "bang": "zd",
+    "name": "Zelda Dungeon",
+    "url": "https://www.zeldadungeon.net/?s={{{s}}}"
+  },
+  {
+    "bang": "zeldapedia",
+    "name": "Zeldapedia",
+    "url": "http://zelda.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "zeldauniverse",
+    "name": "Zelda Universe",
+    "url": "http://www.zeldauniverse.net/?s={{{s}}}"
+  },
+  {
+    "bang": "zeldawiki",
+    "name": "Zelda Wiki",
+    "url": "https://zelda.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "zkb",
+    "name": "zKillboard",
+    "url": "https://zkillboard.com/search/{{{s}}}"
+  },
+  {
+    "bang": "zu",
+    "name": "Zelda Universe",
+    "url": "http://www.zeldauniverse.net/?s={{{s}}}"
+  },
+  {
+    "bang": "zw",
+    "name": "Zelda Wiki",
+    "url": "https://zelda.gamepedia.com/index.php?search={{{s}}}"
+  }
+]

@@ -1,0 +1,1807 @@
+[
+  {
+    "bang": "1mg",
+    "name": "1mg",
+    "url": "https://www.1mg.com/search/all?name={{{s}}}"
+  },
+  {
+    "bang": "24au",
+    "name": "24au.ru",
+    "url": "https://krsk.au.ru/nextauction/?search={{{s}}}"
+  },
+  {
+    "bang": "2dehands",
+    "name": "2dehands.be",
+    "url": "http://www.2dehands.be/markt?qq={{{s}}}"
+  },
+  {
+    "bang": "2ememain",
+    "name": "2ememain.be",
+    "url": "http://www.2ememain.be/marche/?qq={{{s}}}"
+  },
+  {
+    "bang": "2xmc",
+    "name": "2xmoinscher",
+    "url": "https://www.2xmoinscher.com/r?q={{{s}}}"
+  },
+  {
+    "bang": "999",
+    "name": "999.md",
+    "url": "https://999.md/ru/search?query={{{s}}}"
+  },
+  {
+    "bang": "abuela",
+    "name": "Mi abuela vende",
+    "url": "http://miabuelavende.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "bang": "ae",
+    "name": "aliexpress.com",
+    "url": "https://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+  },
+  {
+    "bang": "a.es",
+    "name": "Amazon ES",
+    "url": "https://www.amazon.es/s/ref=nb_sb_noss?__mk_es_ES=\u00c5M\u00c5\u017d\u00d5\u00d1&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "agorail",
+    "name": "Agora.co.il",
+    "url": "https://agora.co.il/toGet.asp?iseek={{{s}}}"
+  },
+  {
+    "bang": "aj",
+    "name": "http://amazon.co.jp",
+    "url": "https://www.amazon.co.jp/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "akiduki",
+    "name": "akizukidenshi",
+    "url": "http://akizukidenshi.com/catalog/goods/search.aspx?keyword= {{{s}}}&goods=&number=&name=&min_price=&max_price=&search.x=0&search.y=0"
+  },
+  {
+    "bang": "alberthein",
+    "name": "Albert Hein",
+    "url": "http://www.ah.nl/zoeken?rq={{{s}}}"
+  },
+  {
+    "bang": "alibaba",
+    "name": "Alibaba",
+    "url": "http://www.alibaba.com/trade/search?SearchText={{{s}}}"
+  },
+  {
+    "bang": "aliexpress",
+    "name": "Aliexpress",
+    "url": "http://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+  },
+  {
+    "bang": "almedina",
+    "name": "Livraria Almedina",
+    "url": "https://www.almedina.net/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "alobg",
+    "name": "alo.bg",
+    "url": "https://www.alo.bg/searchq/?q={{{s}}}"
+  },
+  {
+    "bang": "amcloud",
+    "name": "Amazon Cloud",
+    "url": "https://www.amazon.com/clouddrive/#G=0&path={{{s}}}"
+  },
+  {
+    "bang": "amkt",
+    "name": "Atlassian Marketplace",
+    "url": "https://marketplace.atlassian.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "amznin",
+    "name": "Amazon India",
+    "url": "https://www.amazon.in/s?field-keywords={{{s}}}"
+  },
+  {
+    "bang": "angelajey",
+    "name": "Angela Jey",
+    "url": "https://www.angelajey.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "bang": "anifit",
+    "name": "Die Katzothek | Gesundes und artgerechtes Katzenfutter von Anifit",
+    "url": "https://katzothek.provital.com/content/partners/katzothek/futtershop/de/article_search?article_name={{{s}}}"
+  },
+  {
+    "bang": "apro",
+    "name": "aprohirdetesingyen.hu",
+    "url": "https://aprohirdetesingyen.hu/osszes-hirdetes/kereses--{{{s}}}"
+  },
+  {
+    "bang": "armslist",
+    "name": "ARMSLIST",
+    "url": "https://www.armslist.com/classifieds/search?search={{{s}}}&location=usa&category=all&posttype=7&ships="
+  },
+  {
+    "bang": "arnoldbusck",
+    "name": "Arnold Busck",
+    "url": "https://www.arnoldbusck.dk/soeg?s={{{s}}}&cid=alle"
+  },
+  {
+    "bang": "artfire",
+    "name": "ArtFire",
+    "url": "http://www.artfire.com/browse/?term={{{s}}}"
+  },
+  {
+    "bang": "asd",
+    "name": "Amazon Smile Deutschland",
+    "url": "https://smile.amazon.de/s?url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "asics",
+    "name": "asics",
+    "url": "http://www.asics.com/us/en-us/search?text={{{s}}}"
+  },
+  {
+    "bang": "atcomp",
+    "name": "AT Computers",
+    "url": "https://www.atcmarket.cz/zbozi?hledani=true&zb={{{s}}}"
+  },
+  {
+    "bang": "audiogon",
+    "name": "Audiogon",
+    "url": "https://app.audiogon.com/listings?&global_search_text={{{s}}}"
+  },
+  {
+    "bang": "aukro",
+    "name": "Aukro",
+    "url": "http://aukro.cz/listing.php/search?string={{{s}}}"
+  },
+  {
+    "bang": "away",
+    "name": "Get Away Gear",
+    "url": "https://www.getawaygear.com/index.php?page=search&sPattern={{{s}}}"
+  },
+  {
+    "bang": "ay",
+    "name": "AboutYou",
+    "url": "https://www.aboutyou.de/suche?term={{{s}}}&search_source=ddgo"
+  },
+  {
+    "bang": "bambali",
+    "name": "Bambali",
+    "url": "https://duckduckgo.com/?q=site%3Abambali.net+{{{s}}}"
+  },
+  {
+    "bang": "bazarbg",
+    "name": "bazar.bg",
+    "url": "https://bazar.bg/obiavi?q={{{s}}}"
+  },
+  {
+    "bang": "bcamp",
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bc",
+    "name": "Blockchain",
+    "url": "http://blockchain.info/search/{{{s}}} "
+  },
+  {
+    "bang": "bertrand",
+    "name": "Livraria Bertrand",
+    "url": "https://www.bertrand.pt/pesquisa/{{{s}}}"
+  },
+  {
+    "bang": "bestprice",
+    "name": "BestPrice",
+    "url": "http://www.bestprice.gr/search?q={{{s}}}"
+  },
+  {
+    "bang": "bestsellinglover",
+    "name": "BestsellingLover.com",
+    "url": "https://www.bestsellinglover.com/search-now?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  },
+  {
+    "bang": "bgggm",
+    "name": "na",
+    "url": "http://boardgamegeek.com/geekmarket/search?q={{{s}}}"
+  },
+  {
+    "bang": "bgunikat",
+    "name": "Sterling silver jewelry",
+    "url": "https://bgunikat.eu/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "bang": "biblio",
+    "name": "Biblio",
+    "url": "http://biblio.com/search.php?keyisbn={{{s}}}"
+  },
+  {
+    "bang": "bidorbuy",
+    "name": "bidorbuy",
+    "url": "http://www.bidorbuy.co.za/search/{{{s}}} "
+  },
+  {
+    "bang": "bigstock",
+    "name": "Bigstock",
+    "url": "http://www.bigstockphoto.com/search/{{{s}}}"
+  },
+  {
+    "bang": "bikedsct",
+    "name": "Bike-Discount",
+    "url": "https://www.bike-discount.de/de/suche?q={{{s}}}"
+  },
+  {
+    "bang": "bilka",
+    "name": "Bilka",
+    "url": "https://www.bilka.dk/s%C3%B8g?tekst={{{s}}}"
+  },
+  {
+    "bang": "bkl",
+    "name": "\u535a\u5ba2\u4f86",
+    "url": "http://search.books.com.tw/search/query/key/{{{s}}}/cat/all"
+  },
+  {
+    "bang": "bland",
+    "name": "Bland.is",
+    "url": "https://bland.is/classified/default.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "blueapron",
+    "name": "Blue Apron",
+    "url": "http://blueapron.com/?q={{{s}}}"
+  },
+  {
+    "bang": "bmp",
+    "name": "https://bookmyparts.com",
+    "url": "https://bookmyparts.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "bang": "bolha",
+    "name": "Bolha",
+    "url": "http://www.bolha.com/iskanje?q={{{s}}}"
+  },
+  {
+    "bang": "bonfire",
+    "name": "Bonfire",
+    "url": "https://www.bonfire.com/results/{{{s}}}"
+  },
+  {
+    "bang": "booklooker",
+    "name": "Booklooker",
+    "url": "http://www.booklooker.de/B%C3%BCcher/Angebote/infotext={{{s}}}?lid=1"
+  },
+  {
+    "bang": "buchpreis24",
+    "name": "Buchpreis24",
+    "url": "https://www.buchpreis24.de/stichwort/{{{s}}}"
+  },
+  {
+    "bang": "bukalapak",
+    "name": "Bukalapak",
+    "url": "https://www.bukalapak.com/products?utf8=%E2%9C%93&search%5Bkeywords%5D={{{s}}}"
+  },
+  {
+    "bang": "buyee",
+    "name": "buyee",
+    "url": "http://buyee.jp/item/search?query={{{s}}} "
+  },
+  {
+    "bang": "cafr",
+    "name": "Carrefour",
+    "url": "http://www.carrefour.fr/?q={{{s}}}"
+  },
+  {
+    "bang": "caho",
+    "name": "Cardhoarder",
+    "url": "https://www.cardhoarder.com/cards?data[search]={{{s}}}"
+  },
+  {
+    "bang": "carsales",
+    "name": "Carsales",
+    "url": "https://www.carsales.com.au/cars/results/?q=CarAll.keyword({{{s}}}).&area=Stock&vertical=car&WT.z_srchsrcx=makemodel"
+  },
+  {
+    "bang": "cda",
+    "name": "CDA",
+    "url": "http://cda.chronomania.net/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "cdiver",
+    "name": "ChronoDiver.com",
+    "url": "https://chronodivers.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ceb",
+    "name": "eBay: completed listings",
+    "url": "https://www.ebay.com/csc/items/?_nkw={{{s}}}+&LH_Complete=1"
+  },
+  {
+    "bang": "cgl",
+    "name": "craigslist",
+    "url": "https://pittsburgh.craigslist.org/search/sss?query={{{s}}}"
+  },
+  {
+    "bang": "chairish",
+    "name": "Chairish",
+    "url": "https://www.chairish.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "clamps",
+    "name": "Clamps",
+    "url": "https://www.encole.com/search/{{{s}}}"
+  },
+  {
+    "bang": "clarks",
+    "name": "Clarks",
+    "url": "https://www.clarks.co.uk/search/?text={{{s}}}"
+  },
+  {
+    "bang": "classrr",
+    "name": "Classrr",
+    "url": "https://www.classrr.com/classroom/list?q={{{s}}}"
+  },
+  {
+    "bang": "cl",
+    "name": "Craigslist",
+    "url": "https://www.craigslist.org/search/sss?query={{{s}}}"
+  },
+  {
+    "bang": "cm",
+    "name": "CM.Center",
+    "url": "https://cm.center/catalog/?q={{{s}}}"
+  },
+  {
+    "bang": "cocklestorm",
+    "name": "Cocklestorm Fencing Ltd",
+    "url": "http://www.cocklestorm.com/catalogsearch/result/?q={{{s}}} "
+  },
+  {
+    "bang": "cog",
+    "name": "Cloud of Goods",
+    "url": "https://www.cloudofgoods.com/s/products?query={{{s}}}"
+  },
+  {
+    "bang": "cpap",
+    "name": "CPAP.com",
+    "url": "http://www.cpap.com/productSearch.php?q=1&query={{{s}}}"
+  },
+  {
+    "bang": "craigslist",
+    "name": "Craigslist",
+    "url": "http://craigslist.org/search/sss?query={{{s}}}"
+  },
+  {
+    "bang": "crcom",
+    "name": "CloudRetails",
+    "url": "https://www.cloudretails.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "crowdsupply",
+    "name": "CrowdSupply",
+    "url": "https://www.crowdsupply.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dafoodmall",
+    "name": "dafoodmall",
+    "url": "http://www.dafoodmall.com/goods/search.asp?sword={{{s}}}"
+  },
+  {
+    "bang": "dba",
+    "name": "Den Bl\u00e5 Avis",
+    "url": "http://www.dba.dk/soeg/?soeg={{{s}}}"
+  },
+  {
+    "bang": "decathlonit",
+    "name": "Decathlon Italia",
+    "url": "http://www.decathlon.it/Comprare/{{{s}}}"
+  },
+  {
+    "bang": "decitre",
+    "name": "Decitre",
+    "url": "http://www.decitre.fr/rechercher/result/?q={{{s}}}"
+  },
+  {
+    "bang": "depop",
+    "name": "Depop",
+    "url": "https://www.depop.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "dhgate",
+    "name": "DHGate",
+    "url": "http://www.dhgate.com/wholesale/search.do?act=search&supplierid=&isfactory=&sus=&searchkey={{{s}}}&catalog=#search"
+  },
+  {
+    "bang": "direncnet",
+    "name": "Diren\u00e7.net",
+    "url": "https://www.direnc.net/arama?q={{{s}}}"
+  },
+  {
+    "bang": "dnsshop",
+    "name": "DNS",
+    "url": "http://www.dns-shop.ru/search/?q={{{s}}}"
+  },
+  {
+    "bang": "donedeal",
+    "name": "Done Deal",
+    "url": "https://www.donedeal.ie/all?words={{{s}}}"
+  },
+  {
+    "bang": "eat",
+    "name": "ebay.at",
+    "url": "https://www.ebay.at/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "e.at",
+    "name": "Ebay Austria",
+    "url": "https://www.ebay.at/sch/i.html?_nkw={{{s}}}"
+  },
+  {
+    "bang": "eau",
+    "name": "ebay.com.au",
+    "url": "https://www.ebay.com.au/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebat",
+    "name": "ebay.at",
+    "url": "http://www.ebay.at/sch/i.html?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebau",
+    "name": "ebay.com.au",
+    "url": "https://www.ebay.com.au/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebayat",
+    "name": "ebay.at",
+    "url": "https://www.ebay.at/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebayau",
+    "name": "ebay.com.au",
+    "url": "https://www.ebay.com.au/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebaybe",
+    "name": "ebay.be",
+    "url": "https://www.befr.ebay.be/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebayca",
+    "name": "ebay.ca",
+    "url": "https://www.ebay.ca/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebaych",
+    "name": "ebay.ch",
+    "url": "https://www.ebay.ch/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebayde",
+    "name": "ebay.de",
+    "url": "https://www.ebay.de/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebay",
+    "name": "eBay",
+    "url": "https://www.ebay.com/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebayes",
+    "name": "ebay (ES)",
+    "url": "https://www.ebay.es/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebayfr",
+    "name": "ebay.fr",
+    "url": "https://www.ebay.fr/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebaygr",
+    "name": "ebay.gr",
+    "url": "http://search.eim.ebay.gr/?kw={{{s}}}"
+  },
+  {
+    "bang": "ebayhk",
+    "name": "ebay.com.hk",
+    "url": "http://shop.ebay.com.hk/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebayie",
+    "name": "ebay.ie",
+    "url": "https://www.ebay.ie/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebayin",
+    "name": "ebay.in",
+    "url": "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebayit",
+    "name": "ebay.it",
+    "url": "https://www.ebay.it/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebaykleinanzeigen",
+    "name": "Ebay Kleinanzeigen",
+    "url": "https://www.ebay-kleinanzeigen.de/s-{{{s}}}/k0"
+  },
+  {
+    "bang": "ebaymy",
+    "name": "ebay.com.my",
+    "url": "http://shop.ebay.com.my/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebaynl",
+    "name": "ebay.nl",
+    "url": "https://www.ebay.nl/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebayph",
+    "name": "ebay.ph",
+    "url": "http://shop.ebay.ph/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebaypl",
+    "name": "ebay.pl",
+    "url": "http://shop.ebay.pl/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebaysg",
+    "name": "ebay.com.sg",
+    "url": "http://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebayuk",
+    "name": "ebay.co.uk",
+    "url": "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebbe",
+    "name": "ebay.be",
+    "url": "https://www.befr.ebay.be/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebca",
+    "name": "ebay.ca",
+    "url": "https://www.ebay.ca/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebch",
+    "name": "ebay.ch",
+    "url": "https://www.ebay.ch/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebde",
+    "name": "ebay.de",
+    "url": "https://www.ebay.de/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "eb",
+    "name": "eBay",
+    "url": "https://www.ebay.com/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebe",
+    "name": "ebay.be",
+    "url": "https://www.befr.ebay.be/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebes",
+    "name": "ebay (ES)",
+    "url": "https://www.ebay.es/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebfr",
+    "name": "ebay.fr",
+    "url": "https://www.ebay.fr/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebgr",
+    "name": "ebay.gr",
+    "url": "http://search.eim.ebay.gr/?kw={{{s}}}"
+  },
+  {
+    "bang": "ebhk",
+    "name": "ebay.com.hk",
+    "url": "http://shop.ebay.com.hk/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebie",
+    "name": "ebay.ie",
+    "url": "https://www.ebay.ie/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebin",
+    "name": "ebay.in",
+    "url": "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebit",
+    "name": "ebay.it",
+    "url": "https://www.ebay.it/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebmy",
+    "name": "ebay.com.my",
+    "url": "http://shop.ebay.com.my/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebnl",
+    "name": "ebay.nl",
+    "url": "https://www.ebay.nl/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebph",
+    "name": "ebay.ph",
+    "url": "http://shop.ebay.ph/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebpl",
+    "name": "ebay.pl",
+    "url": "http://shop.ebay.pl/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebseller",
+    "name": "eBay",
+    "url": "http://www.ebay.com/sch/{{{s}}}/m.html"
+  },
+  {
+    "bang": "ebsg",
+    "name": "ebay.com.sg",
+    "url": "http://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "ebth",
+    "name": "Everything But the House",
+    "url": "https://www.ebth.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ebuild",
+    "name": "Gentoo Packages",
+    "url": "http://gpo.zugaina.org/Search?search={{{s}}}"
+  },
+  {
+    "bang": "ebuilds",
+    "name": "Gentoo Packages",
+    "url": "http://gpo.zugaina.org/Search?search={{{s}}}"
+  },
+  {
+    "bang": "ebuk",
+    "name": "ebay.co.uk",
+    "url": "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ebyrec",
+    "name": "eBay Records",
+    "url": "https://www.ebay.com/sch/176985/i.html?_nkw={{{s}}}"
+  },
+  {
+    "bang": "eca",
+    "name": "ebay.ca",
+    "url": "https://www.ebay.ca/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ech",
+    "name": "ebay.ch",
+    "url": "https://www.ebay.ch/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ede",
+    "name": "ebay.de",
+    "url": "https://www.ebay.de/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "e.de",
+    "name": "Ebay Germany",
+    "url": "http://www.ebay.de/sch/i.html?_nkw={{{s}}}"
+  },
+  {
+    "bang": "e",
+    "name": "eBay",
+    "url": "https://www.ebay.com/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ees",
+    "name": "ebay (ES)",
+    "url": "https://www.ebay.es/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "efr",
+    "name": "ebay.fr",
+    "url": "https://www.ebay.fr/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "egr",
+    "name": "ebay.gr",
+    "url": "http://search.eim.ebay.gr/?kw={{{s}}}"
+  },
+  {
+    "bang": "ehk",
+    "name": "ebay.com.hk",
+    "url": "http://shop.ebay.com.hk/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "eie",
+    "name": "ebay.ie",
+    "url": "https://www.ebay.ie/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ein",
+    "name": "ebay.in",
+    "url": "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "eit",
+    "name": "ebay.it",
+    "url": "https://www.ebay.it/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "ekac",
+    "name": "ebay Kleinanzeigen Aachen",
+    "url": "https://www.ebay-kleinanzeigen.de/s-aachen/{{{s}}}/k0l1921"
+  },
+  {
+    "bang": "ekh",
+    "name": "eBay Kleinanzeigen Hamburg",
+    "url": "https://www.ebay-kleinanzeigen.de/s-hamburg/{{{s}}}/k0l9409"
+  },
+  {
+    "bang": "ekhr",
+    "name": "Kleinanzeigen Hannover",
+    "url": "https://www.ebay-kleinanzeigen.de/s-hannover/{{{s}}}/k0l3155"
+  },
+  {
+    "bang": "ekk",
+    "name": "ebay Kleinanzeigen K\u00f6ln",
+    "url": "https://www.ebay-kleinanzeigen.de/s-koeln/{{{s}}}/k0l945"
+  },
+  {
+    "bang": "ekl",
+    "name": "eBay Kleinanzeigen Leipzig",
+    "url": "https://www.ebay-kleinanzeigen.de/s-leipzig/{{{s}}}/k0l4233"
+  },
+  {
+    "bang": "ekm",
+    "name": "eBay Kleinanzeigen M\u00fcnchen",
+    "url": "https://www.ebay-kleinanzeigen.de/s-muenchen/{{{s}}}/k0l6411"
+  },
+  {
+    "bang": "ellos",
+    "name": "Ellos",
+    "url": "https://www.ellos.se/search?SearchTerm={{{s}}}"
+  },
+  {
+    "bang": "em",
+    "name": "eBay Motors",
+    "url": "http://motors.shop.ebay.com/eBay-Motors-/6000/i.html?_nkw={{{s}}}&_trksid=p2050885.m570.l1313&_rdc=1"
+  },
+  {
+    "bang": "emy",
+    "name": "ebay.com.my",
+    "url": "http://shop.ebay.com.my/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "engineering360",
+    "name": "IHS Engineering360",
+    "url": "http://www.globalspec.com/search/all?query={{{s}}}"
+  },
+  {
+    "bang": "enl",
+    "name": "ebay.nl",
+    "url": "https://www.ebay.nl/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "envatomarkettheme",
+    "name": "Envato Marketplace",
+    "url": "https://themeforest.net/search?term={{{s}}}"
+  },
+  {
+    "bang": "eph",
+    "name": "ebay.ph",
+    "url": "http://shop.ebay.ph/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "epl",
+    "name": "ebay.pl",
+    "url": "http://shop.ebay.pl/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "es1",
+    "name": "Ethnic Smart Wholesale",
+    "url": "https://www.ethnicsmart.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "esg",
+    "name": "ebay.com.sg",
+    "url": "http://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "bang": "esseffr",
+    "name": "ESSEF (fr)",
+    "url": "http://www.essef.be/fr/cataloog/index.search.asp?zoek={{{s}}} "
+  },
+  {
+    "bang": "essefn",
+    "name": "ESSEF (nl)",
+    "url": "http://www.essef.be/ndl/cataloog/index.search.asp?zoek={{{s}}}"
+  },
+  {
+    "bang": "estantevirtual",
+    "name": "Estante Virtual",
+    "url": "https://www.estantevirtual.com.br/busca?utf8=\u2713&type=q&new=&q={{{s}}}"
+  },
+  {
+    "bang": "euk",
+    "name": "ebay.co.uk",
+    "url": "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "bang": "e.uk",
+    "name": "Ebay UK",
+    "url": "http://www.ebay.co.uk/sch/i.html?_nkw={{{s}}}"
+  },
+  {
+    "bang": "eurobuch",
+    "name": "Eurobuch",
+    "url": "http://www.eurobuch.com/buch/isbn/3838758854.html?author=&coverState=&doAbeDe=1&doAchtungBuecher=1&doAko=1&doAlibris=1&doAmazon=1&doAmazonCa=1&doAmazonCom=1&doAmazonEs=1&doAmazonFr=1&doAmazonIt=1&doAmazonUk=1&doAudibile=1&doAudiobooks=1&doAum=1&doBUCH=1&doBUCHCH=1&doBbBuch=1&doBetterworld=1&doBiblio=1&doBlackwell=1&doBn=1&doBoeken=1&doBolCom=1&doBookdepository=1&doBooklooker=1&doBruna=1&doBuch24=1&doBuchfreund=1&doBuchmarie=1&doBuecherDe=1&doCasaDelLibro=1&doCiando=1&doEBS=1&doEBay=1&doEBooknl=1&doEbooks=1&doEbookscom=1&doEci=1&doElsevier=1&doFnac=1&doFoyles=1&doGoogle=1&doHive=1&doHoepli=1&doIbs=1&doImosver=1&doIndigo=1&doJokers=1&doKobo=1&doLaFeltrinelli=1&doLehmanns=1&doLibri=1&doLibriEB=1&doLibroco=1&doLuisterboeken=1&doMedimops=1&doMondadori=1&doMusicroom=1&doNotenbuch=1&doOnderwijsboek=1&doProlibri=1&doProxis=1&doRegalfrei=1&doRheinberg=1&doScholastic=1&doStudystore=1&doThaliaAt=1&doThaliaCh=1&doThaliaDe=1&doThriftbooks=1&doVoordeelboekenonline=1&doWaterstones=1&doWebster=1&doZVAB=1&fromDateDays=7&isbn=&land=&maxJahr=&maxPrice=&mediatype=0&minJahr=&minPrice=&noBids=0&noReprint=0&pageLen=20&proSearch=&professionalState=&publisher=&search={{{s}}}&search_submit=suchen&sisbn=&title=&updatePresets=1&updateProState=1&usedState="
+  },
+  {
+    "bang": "fairmondo",
+    "name": "Fairmondo",
+    "url": "https://www.fairmondo.de/articles?article_search_form[q]={{{s}}}"
+  },
+  {
+    "bang": "farr",
+    "name": "www.farrvintners.com",
+    "url": "https://www.farrvintners.com/winelist.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "fcpeuro",
+    "name": "FCP Euro",
+    "url": "https://www.fcpeuro.com/products?utf8=%E2%9C%93&keywords={{{s}}}"
+  },
+  {
+    "bang": "finn",
+    "name": "Finn.no",
+    "url": "https://www.finn.no/globalsearchlander.html?searchKeys=&q={{{s}}}"
+  },
+  {
+    "bang": "firebox",
+    "name": "Firebox",
+    "url": "http://www.firebox.com/search/{{{s}}}"
+  },
+  {
+    "bang": "fonq",
+    "name": "fonq",
+    "url": "http://www.fonq.be/nl_BE/search/?search_term={{{s}}}#s=2"
+  },
+  {
+    "bang": "funplass",
+    "name": "Funplass",
+    "url": "https://funplass.com/recherche.php?what={{{s}}}&where=0&when=0"
+  },
+  {
+    "bang": "g2a",
+    "name": "G2A",
+    "url": "https://www.g2a.com/?search={{{s}}}"
+  },
+  {
+    "bang": "gamemar",
+    "name": "GameMar",
+    "url": "https://www.gamemar.com/?s={{{s}}}"
+  },
+  {
+    "bang": "gearbest",
+    "name": "GearBest",
+    "url": "http://www.gearbest.com/{{{s}}} -_gear"
+  },
+  {
+    "bang": "gear",
+    "name": "Gbase.com",
+    "url": "https://www.gbase.com/gear?q={{{s}}}"
+  },
+  {
+    "bang": "geecr",
+    "name": "GEECR",
+    "url": "https://geecr.com/search/{{{s}}}"
+  },
+  {
+    "bang": "getty",
+    "name": "Getty Images",
+    "url": "https://www.gettyimages.com/photos/{{{s}}}"
+  },
+  {
+    "bang": "gittigidiyor",
+    "name": "GittiGidiyor",
+    "url": "http://www.gittigidiyor.com/arama/?k={{{s}}}"
+  },
+  {
+    "bang": "gladrys",
+    "name": "gladrys",
+    "url": "http://gladrys.com/search0results-plant{{{s}}}.html"
+  },
+  {
+    "bang": "glyde",
+    "name": "Glyde",
+    "url": "http://glyde.com/stores/glyde#!display_as=2&s_query={{{s}}}"
+  },
+  {
+    "bang": "gmr",
+    "name": "Gumraod",
+    "url": "https://gumroad.com/discover?query={{{s}}}"
+  },
+  {
+    "bang": "goood",
+    "name": "The Goood Shop",
+    "url": "https://thegooodshop.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "bang": "grailed",
+    "name": "grailed",
+    "url": "http://www.grailed.com/search?search={{{s}}} "
+  },
+  {
+    "bang": "grills",
+    "name": "Grills Catalog",
+    "url": "https://www.grillscatalog.com/?s={{{s}}}"
+  },
+  {
+    "bang": "groupon",
+    "name": "Groupon",
+    "url": "https://www.groupon.com/browse/?query={{{s}}}"
+  },
+  {
+    "bang": "gumau",
+    "name": "Gumtree",
+    "url": "http://www.gumtree.com.au/s-{{{s}}}/k0"
+  },
+  {
+    "bang": "gumtreeau",
+    "name": "Gumtree Australia",
+    "url": "http://www.gumtree.com.au/s-{{{s}}}/k0"
+  },
+  {
+    "bang": "gumtree",
+    "name": "gmtr",
+    "url": "http://www.gumtree.com.au/s-melbourne/{{{s}}} /k0l3001317"
+  },
+  {
+    "bang": "gumtreepl",
+    "name": "Gumtree Polska",
+    "url": "https://www.gumtree.pl/s-{{{s}}}/v1q0p1"
+  },
+  {
+    "bang": "gumtreeuk",
+    "name": "Gumtree UK",
+    "url": "https://www.gumtree.com/search?search_category=all&q={{{s}}}"
+  },
+  {
+    "bang": "gumtreeza",
+    "name": "Gumtree South Africa",
+    "url": "https://www.gumtree.co.za/s-{{{s}}}/v1q0p1"
+  },
+  {
+    "bang": "gunbroker",
+    "name": "GunBroker",
+    "url": "http://www.gunbroker.com/All/BI.aspx?Keywords={{{s}}}"
+  },
+  {
+    "bang": "hadd",
+    "name": "Handmade Add",
+    "url": "https://handmade-add.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "bang": "hapshoe",
+    "name": "Hapshoe.com | Akl\u0131ndaki Ayakkab\u0131, T\u0131kla Aya\u011f\u0131na Gelsin !",
+    "url": "https://www.hapshoe.com/Arama?1&kelime={{{s}}}"
+  },
+  {
+    "bang": "highsnob",
+    "name": "highsnobiety",
+    "url": "http://www.highsnobiety.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hive",
+    "name": "Hive",
+    "url": "https://www.hive.co.uk/Search/Keyword?keyword={{{s}}}"
+  },
+  {
+    "bang": "hood",
+    "name": "Hood.de - Auktionen und Online Shopping",
+    "url": "https://www.hood.de/suchergebnisse.htm?q={{{s}}}"
+  },
+  {
+    "bang": "housetrip",
+    "name": "HouseTrip",
+    "url": "http://www.housetrip.com/en/search-holiday-apartments/{{{s}}}?guests=2"
+  },
+  {
+    "bang": "hpecas",
+    "name": "hpecas",
+    "url": "https://hpecas.com/pesquisa?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  },
+  {
+    "bang": "humblebest",
+    "name": "Humble Bundle",
+    "url": "https://www.humblebundle.com/store/search?sort=bestselling&search={{{s}}}"
+  },
+  {
+    "bang": "huuto",
+    "name": "Huuto",
+    "url": "http://www.huuto.net/hakutulos?words={{{s}}}"
+  },
+  {
+    "bang": "hvstore",
+    "name": "HV-Store",
+    "url": "https://www.hv-store.de/navi.php?qs={{{s}}}: "
+  },
+  {
+    "bang": "ibs",
+    "name": "Internet Bookshop Italia",
+    "url": "https://www.ibs.it/search/?ts=as&query={{{s}}}"
+  },
+  {
+    "bang": "ikman",
+    "name": "Ikman",
+    "url": "https://ikman.lk/en/ads?query={{{s}}}"
+  },
+  {
+    "bang": "indiamart",
+    "name": "IndiaMART",
+    "url": "http://dir.indiamart.com/cgi/catprdsearch.mp?ss={{{s}}}"
+  },
+  {
+    "bang": "indiegogo",
+    "name": "Indiegogo",
+    "url": "https://www.indiegogo.com/search#/?q={{{s}}}"
+  },
+  {
+    "bang": "indyaconnects",
+    "name": "indyaconnects",
+    "url": "http://www.indyaconnects.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "inter",
+    "name": "Interencheres",
+    "url": "https://www.interencheres.com/recherche/lots?search={{{s}}}&area=france"
+  },
+  {
+    "bang": "intheclouds",
+    "name": "INTHECLOUDS",
+    "url": "https://intheclouds.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "isb",
+    "name": "isbns.net",
+    "url": "http://www.isbns.net/search/?query={{{s}}} "
+  },
+  {
+    "bang": "jetpens",
+    "name": "JetPens",
+    "url": "http://www.jetpens.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "j",
+    "name": "Jet.com",
+    "url": "https://jet.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "jofogas",
+    "name": "J\u00f3fog\u00e1s",
+    "url": "http://www.jofogas.hu/magyarorszag?q={{{s}}}"
+  },
+  {
+    "bang": "jualusg",
+    "name": "Jual Usg",
+    "url": "https://www.jualusg2d3dmurah.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "jumbosupermarkt",
+    "name": "Jumbo Supermarkten",
+    "url": "http://www.jumbo.com/zoeken?SearchTerm={{{s}}}"
+  },
+  {
+    "bang": "KarmaPlace",
+    "name": "KarmaPlace",
+    "url": "http://www.karmaplace.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "kaskus",
+    "name": "Kaskus - The Largest Indonesian Community",
+    "url": "https://www.kaskus.co.id/search?q={{{s}}}"
+  },
+  {
+    "bang": "kfs",
+    "name": "Keyforsteam",
+    "url": "http://www.keyforsteam.de/catalogue/search-{{{s}}}"
+  },
+  {
+    "bang": "kijijigm",
+    "name": "Kijiji Great Montreal",
+    "url": "http://www.kijiji.ca/b-grand-montreal/{{{s}}}/k0l80002"
+  },
+  {
+    "bang": "kijijiit",
+    "name": "kijiji.it",
+    "url": "http://www.kijiji.it/{{{s}}}"
+  },
+  {
+    "bang": "kijiji",
+    "name": "Kijiji",
+    "url": "https://www.kijiji.ca/b-search.html?formSubmit=true&pageNumber=1&searchView=LIST&sortByName=dateDesc&urgentOnly=false&keywords={{{s}}}&SearchCategory=0"
+  },
+  {
+    "bang": "kijijiog",
+    "name": "Kijiji Ottawa/Gatineau",
+    "url": "https://www.kijiji.ca/b-ottawa-gatineau-area/{{{s}}}/k0l1700184?dc=true"
+  },
+  {
+    "bang": "kijijiyyc",
+    "name": "Kijiji Calgary",
+    "url": "https://www.kijiji.ca/b-calgary/{{{s}}}/k0l1700199?dc=true"
+  },
+  {
+    "bang": "kinguin",
+    "name": "Kinguin",
+    "url": "http://www.kinguin.net/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "kissbb",
+    "name": "KissKissBankBank",
+    "url": "http://www.kisskissbankbank.com/fr/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "klein",
+    "name": "eBay Kleinanzeigen",
+    "url": "https://www.ebay-kleinanzeigen.de/{{{s}}}/k0"
+  },
+  {
+    "bang": "kp",
+    "name": "Kupujemprodajem",
+    "url": "https://www.kupujemprodajem.com/search.php?action=list&data%5Bad_kind%5D=&data%5Bad_type%5D=&data%5Bfollow%5D=&data%5Bad_kind_type%5D=&data%5Btip_oglasa%5D=&data%5Bcategory_id%5D=&data%5Bgroup_id%5D=&data%5Blocation_id%5D=&data%5Blocation_radius%5D=&data%5Bhas_photo%5D=&data%5Bcondition%5D=&data%5Bperiod%5D=&data%5Border%5D=&data%5Bcar_model%5D=&data%5Bvehicle_power_min%5D=&data%5Bvehicle_power_max%5D=&data%5Bvehicle_cc_min%5D=&data%5Bvehicle_cc_max%5D=&data%5Bvehicle_km_min%5D=&data%5Bvehicle_km_max%5D=&data%5Bvehicle_make_year_min%5D=&data%5Bvehicle_make_year_max%5D=&data%5Bcar_body_type%5D=&data%5Bcar_fuel_type%5D=&data%5Bcar_doors%5D=&data%5Bcar_gearbox%5D=&data%5Bvehicle_aircondition%5D=&data%5Bvehicle_drive%5D=&data%5Bprice_from%5D=&data%5Bprice_to%5D=&dummy=name&data%5Bkeywords%5D={{{s}}} &=&=&=&=&=&=&return_url=aW5kZXgucGhw"
+  },
+  {
+    "bang": "kraftly",
+    "name": "Kraftly",
+    "url": "https://kraftly.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "kslc",
+    "name": "ksl.com Classifieds",
+    "url": "https://www.ksl.com/classifieds/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "lazadaid",
+    "name": "Lazada Indonesia",
+    "url": "http://www.lazada.co.id/catalog/?q={{{s}}} "
+  },
+  {
+    "bang": "laz",
+    "name": "Lazada",
+    "url": "http://www.lazada.com.ph/catalog/?q={{{s}}}"
+  },
+  {
+    "bang": "lazth",
+    "name": "Lazada Thailand",
+    "url": "http://www.lazada.co.th/catalog/?scs=0&q={{{s}}} "
+  },
+  {
+    "bang": "ledom",
+    "name": "LeDom",
+    "url": "https://ledom.com.ua/search?controller=search&orderby=position&orderway=desc&search_category=all&s={{{s}}}"
+  },
+  {
+    "bang": "liquidation",
+    "name": "Liquidation",
+    "url": "http://www.liquidation.com/auction/search?cmd=keyword&searchparam_words={{{s}}}&flag=new"
+  },
+  {
+    "bang": "litres",
+    "name": "Litres",
+    "url": "https://www.litres.ru/pages/rmd_search/?q={{{s}}}"
+  },
+  {
+    "bang": "lively",
+    "name": "shirts.ly",
+    "url": "https://shirts.ly/shop?search={{{s}}}"
+  },
+  {
+    "bang": "lzdsg",
+    "name": "Lazada Singapore",
+    "url": "http://www.lazada.sg/catalog/?q={{{s}}}"
+  },
+  {
+    "bang": "magiccardmarket",
+    "name": "Magic Card Market",
+    "url": "https://www.cardmarket.com/en/Magic/MainPage/showSearchResult?searchFor={{{s}}}"
+  },
+  {
+    "bang": "mall",
+    "name": "Mall.cz",
+    "url": "https://www.mall.cz/hledej?s={{{s}}}"
+  },
+  {
+    "bang": "maltapark",
+    "name": "Maltapark",
+    "url": "https://www.maltapark.com/search?c=s1&search={{{s}}}"
+  },
+  {
+    "bang": "markt",
+    "name": "Markt.de",
+    "url": "http://www.markt.de/muenchen/keywords,{{{s}}}/suche.htm"
+  },
+  {
+    "bang": "marktplaats",
+    "name": "Marktplaats",
+    "url": "https://www.marktplaats.nl/z.html?query={{{s}}}"
+  },
+  {
+    "bang": "mar",
+    "name": "marktplaats.nl",
+    "url": "http://marktplaats.nl/z.html?query={{{s}}}"
+  },
+  {
+    "bang": "mathem",
+    "name": "Mathem",
+    "url": "https://www.mathem.se/sok?q={{{s}}}"
+  },
+  {
+    "bang": "mbglick",
+    "name": "Moses B. Glick",
+    "url": "http://www.mbglick.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "mcm",
+    "name": "Magic Card Market",
+    "url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString={{{s}}}"
+  },
+  {
+    "bang": "medimops",
+    "name": "Medimops",
+    "url": "http://www.medimops.de/produkte-C0/?fcIsSearch=1&searchparam={{{s}}}"
+  },
+  {
+    "bang": "melorra",
+    "name": "Melorra",
+    "url": "https://www.melorra.com/jewellery/search/?q={{{s}}}:"
+  },
+  {
+    "bang": "mercarijp",
+    "name": "mercari JP",
+    "url": "https://www.mercari.com/jp/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "mercari",
+    "name": "mercari US",
+    "url": "https://www.mercari.com/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "metalscrap",
+    "name": "Roma and Mac Metal Scrap Corporation",
+    "url": "https://romaandmacmetalscrap.com/?product_cat=0&s={{{s}}}"
+  },
+  {
+    "bang": "mkm",
+    "name": "Magic Card Market",
+    "url": "https://www.cardmarket.com/en/Magic/Products/Search?searchString={{{s}}}"
+  },
+  {
+    "bang": "mlar",
+    "name": "Mercado Libre Argentina",
+    "url": "http://listado.mercadolibre.com.ar/{{{s}}}"
+  },
+  {
+    "bang": "mmoga",
+    "name": "MMOGA",
+    "url": "https://www.mmoga.de/advanced_search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "mmz",
+    "name": "Cardmarket Manamaze",
+    "url": "https://www.cardmarket.com/en/Magic/MainPage/browseUserProducts?idCategory=1&idUser=25674&resultsPage=0&cardName={{{s}}}"
+  },
+  {
+    "bang": "modcloth",
+    "name": "ModCloth",
+    "url": "http://www.modcloth.com/shop/search?keyword={{{s}}} "
+  },
+  {
+    "bang": "moglix",
+    "name": "Moglix",
+    "url": "https://www.moglix.com/search?controller=search&orderby=position&orderway=desc&search_query= {{{s}}}&submit_search=Search"
+  },
+  {
+    "bang": "mtgotraders",
+    "name": "MTGO Traders",
+    "url": "http://www.mtgotraders.com/store/search.php?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "musicstack",
+    "name": "MusicStack",
+    "url": "http://www.musicstack.com/show.cgi?find={{{s}}}"
+  },
+  {
+    "bang": "muusikoiden",
+    "name": "Muusikoiden.net",
+    "url": "https://muusikoiden.net/tori/haku.php?keyword={{{s}}}&title_only=0&location=all&province=&city=&type=all&price_min=&price_max=&category=all&with_image=0"
+  },
+  {
+    "bang": "mya",
+    "name": "market.yandex.ru",
+    "url": "https://market.yandex.ru/search?text={{{s}}}"
+  },
+  {
+    "bang": "mybestbrands",
+    "name": "MYBESTBRANDS",
+    "url": "http://www.mybestbrands.de/search/?q={{{s}}}"
+  },
+  {
+    "bang": "myc",
+    "name": "mycomicshop",
+    "url": "https://www.mycomicshop.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "nasp",
+    "name": "Naver Shopping",
+    "url": "https://search.shopping.naver.com/search/all.nhn?query={{{s}}}&cat_id=&frm=NVSHATC"
+  },
+  {
+    "bang": "nettimarkkina",
+    "name": "NettiMarkkina",
+    "url": "https://www.nettimarkkina.com/haku?tag_cld=Y&site=A&status_typeF=F&status_typeR=R&status_typeP=P&search_keyword[]={{{s}}}&"
+  },
+  {
+    "bang": "njuskalo",
+    "name": "Njuskalo.hr",
+    "url": "https://www.njuskalo.hr/?ctl=search_ads&keywords={{{s}}}"
+  },
+  {
+    "bang": "obi",
+    "name": "OBI",
+    "url": "https://www.obi.de/decom/search/{{{s}}}"
+  },
+  {
+    "bang": "oglasnik",
+    "name": "Oglasnik",
+    "url": "https://www.oglasnik.hr/search?q={{{s}}}&category_id="
+  },
+  {
+    "bang": "okidoki",
+    "name": "okidoki kuulutused",
+    "url": "http://www.okidoki.ee/buy/all/?query={{{s}}}"
+  },
+  {
+    "bang": "okkazeo",
+    "name": "Okkazeo",
+    "url": "https://www.okkazeo.com/jeux/searchJeux?rech_nom={{{s}}}"
+  },
+  {
+    "bang": "olxar",
+    "name": "OLX Argentina",
+    "url": "https://www.olx.com.ar/nf/search/{{{s}}}"
+  },
+  {
+    "bang": "olxbb",
+    "name": "OLX",
+    "url": "https://bahiablanca.olx.com.ar/nf/search/{{{s}}}"
+  },
+  {
+    "bang": "olxbr",
+    "name": "OLX.com.br",
+    "url": "http://www.olx.com.br/brasil?q={{{s}}}"
+  },
+  {
+    "bang": "olxid",
+    "name": "Olxid",
+    "url": "https://m.olx.co.id/all-results/q-{{{s}}} "
+  },
+  {
+    "bang": "olxin",
+    "name": "Olx India",
+    "url": "https://www.olx.in/?{{{s}}}"
+  },
+  {
+    "bang": "olxph",
+    "name": "OLX Philippines",
+    "url": "https://www.olx.ph/all-results?q={{{s}}}"
+  },
+  {
+    "bang": "olxpl",
+    "name": "OLX.pl",
+    "url": "http://olx.pl/oferty/q-{{{s}}}"
+  },
+  {
+    "bang": "olxpt",
+    "name": "OLX Portugal",
+    "url": "https://www.olx.pt/ads/q-{{{s}}}"
+  },
+  {
+    "bang": "olxro",
+    "name": "OLX Romania",
+    "url": "https://www.olx.ro/ads/?q={{{s}}}"
+  },
+  {
+    "bang": "ombe",
+    "name": "OMBE.com",
+    "url": "http://www.ombe.com/find/{{{s}}} "
+  },
+  {
+    "bang": "orell",
+    "name": "Orell F\u00fcssli",
+    "url": "https://www.orellfuessli.ch/suche?utf8=%E2%9C%93&filterPATHROOT=&sq={{{s}}}"
+  },
+  {
+    "bang": "osta",
+    "name": "osta.ee",
+    "url": "http://www.osta.ee/index.php?q[q]={{{s}}}&fuseaction=search.search&q[show_items]=1&q[show_shop]=1&q[cat]=1000&search=OTSI"
+  },
+  {
+    "bang": "oup",
+    "name": "offerup",
+    "url": "https://offerup.com/search/?q= {{{s}}}"
+  },
+  {
+    "bang": "pbswap",
+    "name": "PaperBackSwap",
+    "url": "http://www.paperbackswap.com/book/browser.php?k={{{s}}}"
+  },
+  {
+    "bang": "peixe",
+    "name": "Peixeurbano",
+    "url": "https://www.peixeurbano.com.br/#q={{{s}}}"
+  },
+  {
+    "bang": "philibert",
+    "name": "Philibert",
+    "url": "http://www.philibertnet.com/fr/recherche?orderby=position&orderway=desc&search_query={{{s}}}&submit_search=C%27est+parti+%21"
+  },
+  {
+    "bang": "prom",
+    "name": "Prom",
+    "url": "https://prom.ua/search?search_term={{{s}}}"
+  },
+  {
+    "bang": "r10",
+    "name": "Rakuten Ichiba",
+    "url": "https://search.rakuten.co.jp/search/mall/{{{s}}}"
+  },
+  {
+    "bang": "rakde",
+    "name": "Rakuten.de",
+    "url": "https://www.rakuten.de/suchen/{{{s}}}?category=0"
+  },
+  {
+    "bang": "rakuten",
+    "name": "Rakuten",
+    "url": "http://search.rakuten.co.jp/search/mall/{{{s}}}"
+  },
+  {
+    "bang": "ricardo",
+    "name": "Ricardo",
+    "url": "https://www.ricardo.ch/de/s/{{{s}}}"
+  },
+  {
+    "bang": "rtfr",
+    "name": "Rakuten France",
+    "url": "https://fr.shopping.rakuten.com/s/{{{s}}}"
+  },
+  {
+    "bang": "rubylane",
+    "name": "Ruby Lane",
+    "url": "http://www.rubylane.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "s6all",
+    "name": "Society6 (all content)",
+    "url": "http://society6.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "sahibinden",
+    "name": "sahibinden.com",
+    "url": "http://www.sahibinden.com/kelime-ile-arama?query_text={{{s}}}"
+  },
+  {
+    "bang": "sanalpazar",
+    "name": "Sanal Pazar",
+    "url": "http://www.sanalpazar.com/urunara?criteria={{{s}}}"
+  },
+  {
+    "bang": "scg",
+    "name": "StarCityGames",
+    "url": "http://sales.starcitygames.com/search.php?substring={{{s}}}"
+  },
+  {
+    "bang": "searsoutlet",
+    "name": "Sears Outlet",
+    "url": "http://www.searsoutlet.com/d/products.jsp?md=srh_md&stxt={{{s}}}"
+  },
+  {
+    "bang": "s.fyapp",
+    "name": "Shopify App Store",
+    "url": "https://apps.shopify.com/search?q={{{s}}}&st_source="
+  },
+  {
+    "bang": "shopcade",
+    "name": "Shopcade",
+    "url": "https://www.shopcade.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "shopclues",
+    "name": "SHOPCLUES",
+    "url": "http://shopclues.com/?q={{{s}}}: "
+  },
+  {
+    "bang": "shopeeph",
+    "name": "Shopee",
+    "url": "https://shopee.ph/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "shpock",
+    "name": "Shpock",
+    "url": "https://en.shpock.com/q/{{{s}}}"
+  },
+  {
+    "bang": "skapiec",
+    "name": "http://www.skapiec.pl",
+    "url": "http://www.skapiec.pl/szukaj/w_calym_serwisie/{{{s}}}"
+  },
+  {
+    "bang": "spare-part",
+    "name": "KFZ-Schlachter",
+    "url": "https://kfz-schlachter.de/Store?q={{{s}}}"
+  },
+  {
+    "bang": "speur",
+    "name": "Speurders",
+    "url": "http://www.speurders.nl/overzicht/?query={{{s}}}"
+  },
+  {
+    "bang": "stockx",
+    "name": "StockX",
+    "url": "https://stockx.com/search?s={{{s}}}"
+  },
+  {
+    "bang": "subito",
+    "name": "Subito.it",
+    "url": "http://www.subito.it/annunci-italia/vendita/usato/?q={{{s}}}"
+  },
+  {
+    "bang": "swappa",
+    "name": "swappa.com",
+    "url": "https://swappa.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tb",
+    "name": "OLX.co.id (Tokobagus)",
+    "url": "http://www.olx.co.id/halaman/mencari/{{{s}}}/search"
+  },
+  {
+    "bang": "tbooks",
+    "name": "Thriftbooks",
+    "url": "https://www.thriftbooks.com/browse/?b.search={{{s}}}#b.oos"
+  },
+  {
+    "bang": "tcol",
+    "name": "todocoleccion",
+    "url": "https://www.todocoleccion.net/buscador?bu={{{s}}}"
+  },
+  {
+    "bang": "thrive",
+    "name": "Thrive Market",
+    "url": "https://thrivemarket.com/search/results?filter%5Bsearch%5D={{{s}}}"
+  },
+  {
+    "bang": "tinglesa",
+    "name": "Tienda Inglesa Uy",
+    "url": "https://www.tiendainglesa.com.uy/busqueda?0,0,{{{s}}},0"
+  },
+  {
+    "bang": "tiwimb",
+    "name": "This is why I'm broke",
+    "url": "http://www.thisiswhyimbroke.com/{{{s}}}"
+  },
+  {
+    "bang": "tkpd",
+    "name": "Tokopedia",
+    "url": "https://www.tokopedia.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tm",
+    "name": "Trade Me",
+    "url": "http://www.trademe.co.nz/Browse/SearchResults.aspx?searchString={{{s}}}"
+  },
+  {
+    "bang": "tokobagus",
+    "name": "OLX.co.id (Tokobagus)",
+    "url": "http://www.olx.co.id/halaman/mencari/{{{s}}}/search"
+  },
+  {
+    "bang": "tokopedia",
+    "name": "www.tokopedia.com",
+    "url": "https://www.tokopedia.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "topachat",
+    "name": "Topachat",
+    "url": "http://www.topachat.com/pages/recherche.php?mc={{{s}}}"
+  },
+  {
+    "bang": "toped",
+    "name": "Tokopedia",
+    "url": "https://www.tokopedia.com/search?st=product&q={{{s}}}"
+  },
+  {
+    "bang": "tori",
+    "name": "Tori",
+    "url": "https://www.tori.fi/koko_suomi?q={{{s}}}"
+  },
+  {
+    "bang": "toutvendre",
+    "name": "ToutVendre",
+    "url": "https://www.toutvendre.fr/s?k={{{s}}}"
+  },
+  {
+    "bang": "tpt",
+    "name": "Teachers Pay Teachers",
+    "url": "https://www.teacherspayteachers.com/Browse/Search:{{{s}}}"
+  },
+  {
+    "bang": "trademachines",
+    "name": "TradeMachines",
+    "url": "https://trademachines.com/search?phrase={{{s}}} "
+  },
+  {
+    "bang": "trademe",
+    "name": "TradeMe",
+    "url": "http://www.trademe.co.nz/Browse/SearchResults.aspx?searchString={{{s}}}"
+  },
+  {
+    "bang": "tradera",
+    "name": "Tradera",
+    "url": "http://www.tradera.com/finding.mvc/itemlisting?header=true&search={{{s}}}"
+  },
+  {
+    "bang": "trouva",
+    "name": "Trouva",
+    "url": "https://www.trouva.com/shop/search/{{{s}}}"
+  },
+  {
+    "bang": "trulytexan",
+    "name": "Truly Texan",
+    "url": "http://www.trulytexan.com/?{{{s}}}"
+  },
+  {
+    "bang": "tti",
+    "name": "Tutti ticino",
+    "url": "http://www.tutti.ch/ticino?q={{{s}}}"
+  },
+  {
+    "bang": "tundra",
+    "name": "Tundra",
+    "url": "https://www.tundra.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tuttich",
+    "name": "tutti.ch",
+    "url": "http://www.tutti.ch/ganze-schweiz?q={{{s}}} "
+  },
+  {
+    "bang": "tutti",
+    "name": "www.tutti.ch",
+    "url": "https://www.tutti.ch/de/li/ganze-schweiz?q={{{s}}}"
+  },
+  {
+    "bang": "tva",
+    "name": "Tweakers Vraag & Aanbod",
+    "url": "https://tweakers.net/aanbod/zoeken/?keyword={{{s}}}"
+  },
+  {
+    "bang": "ukappstore",
+    "name": "UK Appstore",
+    "url": "https://duckduckgo.com/?q=site%3Aapps.apple.com%2Fgb%2Fapp%2F+{{{s}}}"
+  },
+  {
+    "bang": "upwork",
+    "name": "Upwork",
+    "url": "https://www.upwork.com/o/jobs/browse/?q={{{s}}}"
+  },
+  {
+    "bang": "urbout",
+    "name": "Urban Outfitters",
+    "url": "http://www.urbanoutfitters.com/fr/catalog/search.jsp?q={{{s}}}"
+  },
+  {
+    "bang": "vatera",
+    "name": "Vatera",
+    "url": "http://www.vatera.hu/listings/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "vcp",
+    "name": "VCP Sanit\u00e4rfachhandel",
+    "url": "http://shop.vcp-san.at/index.php?main_page=advanced_search_result&search_in_description=1&keyword={{{s}}}"
+  },
+  {
+    "bang": "vs",
+    "name": "Vivid Seats",
+    "url": "http://www.vividseats.com/Search.action?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "waitrose",
+    "name": "Waitrose",
+    "url": "http://www.waitrose.com/shop/HeaderSearchCmd?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "webstore",
+    "name": "Webstore",
+    "url": "http://www.webstore.com/search.php?option=basic_search&basic_search={{{s}}}&form_basic_search=Search"
+  },
+  {
+    "bang": "whitetailproperties",
+    "name": "Whitetail Properties",
+    "url": "https://www.whitetailproperties.com/hunting-land/filtered-search?search_mode=all&keywords={{{s}}}"
+  },
+  {
+    "bang": "willhaben",
+    "name": "Willhaben",
+    "url": "http://www.willhaben.at/iad/kaufen-und-verkaufen/marktplatz?keyword={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "wlhb",
+    "name": "Willhaben",
+    "url": "https://www.willhaben.at/iad/kaufen-und-verkaufen/marktplatz?keyword={{{s}}}"
+  },
+  {
+    "bang": "yad2",
+    "name": "Yad2- Search Second hand items (Hebrew)",
+    "url": "https://www.yad2.co.il/products/all?info={{{s}}}"
+  },
+  {
+    "bang": "yajp",
+    "name": "Yahoo! Auctions Japan",
+    "url": "http://auctions.search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "bang": "yamarket",
+    "name": "Ya Market",
+    "url": "https://ya-market.org/products?search={{{s}}}"
+  },
+  {
+    "bang": "yama",
+    "name": "Yandex.Market",
+    "url": "https://market.yandex.ru/search?text={{{s}}}"
+  },
+  {
+    "bang": "youla",
+    "name": "Youla / \u042e\u043b\u0430",
+    "url": "https://youla.ru/?q={{{s}}}"
+  },
+  {
+    "bang": "zappos",
+    "name": "Zappos",
+    "url": "https://www.zappos.com/{{{s}}}"
+  },
+  {
+    "bang": "zbozi",
+    "name": "Zbo\u017e\u00ed.cz",
+    "url": "http://www.zbozi.cz/hledani/?q={{{s}}}"
+  },
+  {
+    "bang": "zen",
+    "name": "ZENZO Arcade",
+    "url": "https://arcade.zenzo.io/search?for={{{s}}}"
+  },
+  {
+    "bang": "zoomthelist",
+    "name": "zoomthelist",
+    "url": "http://zoomthelist.com/?q={{{s}}}"
+  },
+  {
+    "bang": "zoom",
+    "name": "Zoom",
+    "url": "http://www.zoom.com.br/search?q={{{s}}}"
+  },
+  {
+    "bang": "\u067e\u062e\u0634\u0633\u062a\u0627\u0631\u0647",
+    "name": "\u0634\u0631\u06a9\u062a \u067e\u062e\u0634 \u0633\u062a\u0627\u0631\u0647",
+    "url": "https://setareh-co.com/?s={{{s}}}&submit="
+  }
+]

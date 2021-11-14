@@ -1,0 +1,452 @@
+[
+  {
+    "bang": "4chnews",
+    "name": "4chan's /news/ board",
+    "url": "https://boards.4chan.org/news/catalog#s={{{s}}}"
+  },
+  {
+    "bang": "aiden",
+    "name": "Aiden Promtions",
+    "url": "https://aidenpromotions.com/blog/?s=phones {{{s}}}"
+  },
+  {
+    "bang": "aja",
+    "name": "Al Jazeera America",
+    "url": "http://america.aljazeera.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "aje",
+    "name": "Al Jazeera (English)",
+    "url": "http://www.aljazeera.com/Search/?q={{{s}}}"
+  },
+  {
+    "bang": "bbart",
+    "name": "Breitbart",
+    "url": "http://www.breitbart.com/search/?s={{{s}}}"
+  },
+  {
+    "bang": "bbc",
+    "name": "BBC.co.uk",
+    "url": "http://www.bbc.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "bbcfood",
+    "name": "BBC Food",
+    "url": "http://www.bbc.co.uk/food/recipes/search?keywords={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "bbcm",
+    "name": "BBC Mundo",
+    "url": "http://www.bbc.co.uk/mundo/search/?q={{{s}}}"
+  },
+  {
+    "bang": "bbcnews",
+    "name": "BBC News",
+    "url": "http://www.bbc.co.uk/search/news/?q={{{s}}}"
+  },
+  {
+    "bang": "bjp",
+    "name": "BJP",
+    "url": "http://www.bjp.org/?searchword={{{s}}}&searchphrase=exact&limit=20&ordering=newest&view=search&option=com_search"
+  },
+  {
+    "bang": "breitbart",
+    "name": "Breitbart News",
+    "url": "http://www.breitbart.com/search/?s={{{s}}}"
+  },
+  {
+    "bang": "capital",
+    "name": "Capital.bg",
+    "url": "https://www.capital.bg/search.php?stext={{{s}}}"
+  },
+  {
+    "bang": "cctv",
+    "name": "CCTV",
+    "url": "http://so.cntv.cn/language/english/?qtext={{{s}}}"
+  },
+  {
+    "bang": "cerb",
+    "name": "Cerberusbyte",
+    "url": "https://www.cerberusbyte.com/?s={{{s}}}"
+  },
+  {
+    "bang": "chilango",
+    "name": "Chilango",
+    "url": "https://www.chilango.com/?s={{{s}}}"
+  },
+  {
+    "bang": "chosun",
+    "name": "The Chosun Ilbo",
+    "url": "http://nsearch.chosun.com/search/total.search?query={{{s}}}"
+  },
+  {
+    "bang": "clarin",
+    "name": "Clar\u00edn",
+    "url": "https://www.clarin.com/buscador/?q={{{s}}}"
+  },
+  {
+    "bang": "cnne",
+    "name": "CNN en espa\u00f1ol",
+    "url": "http://cnnespanol.cnn.com/?s={{{s}}}"
+  },
+  {
+    "bang": "corriere",
+    "name": "Corriere della Sera",
+    "url": "http://sitesearch.corriere.it/forward.jsp?q={{{s}}}"
+  },
+  {
+    "bang": "cubanet",
+    "name": "Cubanet",
+    "url": "http://www.cubanet.org/?s={{{s}}}"
+  },
+  {
+    "bang": "darc",
+    "name": "https://www.d-archive.org",
+    "url": "https://www.d-archive.org/?s={{{s}}}"
+  },
+  {
+    "bang": "dnevnik",
+    "name": "Dnevnik.bg",
+    "url": "https://www.dnevnik.bg/search/{{{s}}}"
+  },
+  {
+    "bang": "el19",
+    "name": "El 19 Digital",
+    "url": "https://www.el19digital.com/busqueda/articulos?q={{{s}}}"
+  },
+  {
+    "bang": "enwn",
+    "name": "English WIkinews",
+    "url": "https://en.wikinews.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "estadao",
+    "name": "O Estado de S. Paulo",
+    "url": "https://busca.estadao.com.br/?q={{{s}}}"
+  },
+  {
+    "bang": "euronewsen",
+    "name": "Euronews English",
+    "url": "http://www.euronews.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "eveningstandard",
+    "name": "London Evening Standard",
+    "url": "http://www.standard.co.uk/search/site/{{{s}}} "
+  },
+  {
+    "bang": "f1",
+    "name": "F1Zone",
+    "url": "http://www.f1zone.net/news/index.php?s={{{s}}}"
+  },
+  {
+    "bang": "firstpost",
+    "name": "FIRSTPOST",
+    "url": "http://www.firstpost.com/?s={{{s}}}"
+  },
+  {
+    "bang": "fld",
+    "name": "Front Line Defenders",
+    "url": "https://www.frontlinedefenders.org/en/search/{{{s}}}"
+  },
+  {
+    "bang": "folha",
+    "name": "Folha de S. Paulo",
+    "url": "http://search.folha.com.br/search?q={{{s}}}"
+  },
+  {
+    "bang": "francheval",
+    "name": "Francheval News",
+    "url": "https://news.francheval.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "freedompress",
+    "name": "Freedom of the Press Foundation",
+    "url": "https://freedom.press/search/?query={{{s}}}"
+  },
+  {
+    "bang": "frontalux",
+    "name": "LesFrontaliers",
+    "url": "http://www.lesfrontaliers.lu/search?text={{{s}}}"
+  },
+  {
+    "bang": "ghananews",
+    "name": "GhanaNews.xyz",
+    "url": "https://ghananews.xyz/?s={{{s}}}"
+  },
+  {
+    "bang": "gnat",
+    "name": "Google News Austria",
+    "url": "https://www.google.at/#q={{{s}}}&tbm=nws"
+  },
+  {
+    "bang": "heute",
+    "name": "ZDF heute",
+    "url": "https://www.zdf.de/suche?q={{{s}}}&synth=true&sender=heute.de&from=&to=&attrs="
+  },
+  {
+    "bang": "hotn",
+    "name": "Hotnews.ro",
+    "url": "https://www.hotnews.ro/cauta/{{{s}}}/1"
+  },
+  {
+    "bang": "inn",
+    "name": "Israel National News - Arutz Sheva 7",
+    "url": "https://www.israelnationalnews.com/Search.aspx?string={{{s}}}"
+  },
+  {
+    "bang": "intaljazeera",
+    "name": "Aljazeera",
+    "url": "http://www.aljazeera.com/Services/Search/?q={{{s}}}"
+  },
+  {
+    "bang": "int",
+    "name": "Internazionale",
+    "url": "http://www.internazionale.it/search/?q={{{s}}}"
+  },
+  {
+    "bang": "iol",
+    "name": "IOL",
+    "url": "https://www.iol.co.za/search?q={{{s}}}"
+  },
+  {
+    "bang": "ishr",
+    "name": "ishr.ch",
+    "url": "http://www.ishr.ch/advanced-search?term={{{s}}} "
+  },
+  {
+    "bang": "islam21c",
+    "name": "Islam21c",
+    "url": "https://www.Islam21c.com/?s={{{s}}}"
+  },
+  {
+    "bang": "jwes",
+    "name": "Sitio oficial de los testigos de Jehov\u00e1: jw.org",
+    "url": "https://www.jw.org/es/b\u00fasquedas/?q={{{s}}}:"
+  },
+  {
+    "bang": "koherald",
+    "name": "The Korea Herald",
+    "url": "http://www.koreaherald.com/search/index.php?q={{{s}}}&kr=0"
+  },
+  {
+    "bang": "lesoir",
+    "name": "Le Soir",
+    "url": "https://www.lesoir.be/archives/recherche?word={{{s}}}&sort=date%20desc&datefilter=lastyear&form_build_id=form-OccakxlLTXnbavxnbgZGoqHzkT0bEeOrjy3PPlFais4&form_id=dpidamwidgets_damsimplesearch_content_type_search_form"
+  },
+  {
+    "bang": "lf",
+    "name": "LesFrontaliers",
+    "url": "http://www.lesfrontaliers.lu/search?text={{{s}}}"
+  },
+  {
+    "bang": "lpo",
+    "name": "La Pol\u00edtica Online",
+    "url": "http://www.lapoliticaonline.com/0/buscar/index.vnc?id={{{s}}}"
+  },
+  {
+    "bang": "lqdn",
+    "name": "La Quadrature du Net",
+    "url": "https://www.laquadrature.net/fr/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "bang": "lvdl",
+    "name": "lavocedellelotte.it",
+    "url": "https://www.lavocedellelotte.it/it/?s={{{s}}}"
+  },
+  {
+    "bang": "macwelt",
+    "name": "Macwelt",
+    "url": "http://www.macwelt.de/suche?searchStr={{{s}}}"
+  },
+  {
+    "bang": "military",
+    "name": "https://www.military-stuff.org",
+    "url": "https://www.military-stuff.org/?s={{{s}}}"
+  },
+  {
+    "bang": "monde",
+    "name": "Le Monde",
+    "url": "https://www.lemonde.fr/recherche/?search_keywords={{{s}}}"
+  },
+  {
+    "bang": "msn",
+    "name": "MSN",
+    "url": "https://www.msn.al/?s={{{s}}}"
+  },
+  {
+    "bang": "myo",
+    "name": "Medios y Opini\u00f3n",
+    "url": "http://www.plazademayo.com/mediosyopinion/?s={{{s}}}"
+  },
+  {
+    "bang": "newsde",
+    "name": "DuckDuckGo News Germany",
+    "url": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=de-de"
+  },
+  {
+    "bang": "newsfr",
+    "name": "DuckDuckGo News France",
+    "url": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=fr-fr"
+  },
+  {
+    "bang": "newsmx",
+    "name": "DuckDuckGo News Mexico",
+    "url": "https://duckduckgo.com/?q={{{s}}}&iar=news&kl=mx-es&ia=news"
+  },
+  {
+    "bang": "newsnow",
+    "name": "NewsNow",
+    "url": "http://www.newsnow.co.uk/h/?search={{{s}}}"
+  },
+  {
+    "bang": "nrc",
+    "name": "NRC",
+    "url": "http://www.nrc.nl/php/zoeken.php?cx=000950122183490940160%3Afse5ljfbq2u&q={{{s}}}&ie=anci&sa=&cof=FORID%3A9#449"
+  },
+  {
+    "bang": "piratetimes",
+    "name": "Pirate Times",
+    "url": "http://piratetimes.net/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "portal12",
+    "name": "portal12.bg",
+    "url": "https://portal12.bg/search?q={{{s}}}"
+  },
+  {
+    "bang": "publicintelligence",
+    "name": "Public Intelligence",
+    "url": "https://publicintelligence.net/?s={{{s}}}"
+  },
+  {
+    "bang": "redtram",
+    "name": "RedTram",
+    "url": "https://ru.redtram.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "reuq",
+    "name": "Reuters",
+    "url": "http://www.reuters.com/search/news?blob={{{s}}}"
+  },
+  {
+    "bang": "reuters",
+    "name": "Reuters",
+    "url": "https://www.reuters.com/search/news?blob={{{s}}}"
+  },
+  {
+    "bang": "rtes",
+    "name": "RT en Espa\u00f1ol",
+    "url": "https://actualidad.rt.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rtoday",
+    "name": "RT - Russial Today",
+    "url": "https://www.rt.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "/?s",
+    "name": "ActiveHi News",
+    "url": "https://activehi.com/?s={{{s}}}"
+  },
+  {
+    "bang": "srv",
+    "name": "Stuk Rood Vlees",
+    "url": "http://stukroodvlees.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "steigan",
+    "name": "Steigan.no",
+    "url": "https://steigan.no/?s={{{s}}}"
+  },
+  {
+    "bang": "stortinget",
+    "name": "Stortinget",
+    "url": "https://sok.stortinget.no/?querytext={{{s}}}"
+  },
+  {
+    "bang": "telegraph",
+    "name": "Telegraph",
+    "url": "https://www.telegraph.co.uk/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "thehimalayantimes",
+    "name": "The Himalayan Times",
+    "url": "https://thehimalayantimes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "theregister",
+    "name": "the register",
+    "url": "http://search.theregister.co.uk/?q={{{s}}}&advanced=1&author=&date=the+dawn+of+time&site=all+The+Register+sites&results_per_page=100"
+  },
+  {
+    "bang": "theverge",
+    "name": "The Verge",
+    "url": "http://www.theverge.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "theweek",
+    "name": "The Week",
+    "url": "http://www.theweek.co.uk/search/site/{{{s}}}"
+  },
+  {
+    "bang": "toi",
+    "name": "The Times of India",
+    "url": "http://timesofindia.indiatimes.com/topic/{{{s}}}"
+  },
+  {
+    "bang": "trn",
+    "name": "The Real News",
+    "url": "https://therealnews.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tweak",
+    "name": "Tweakers",
+    "url": "https://tweakers.net/zoeken/?keyword={{{s}}}"
+  },
+  {
+    "bang": "@",
+    "name": "Twitter User Page",
+    "url": "https://twitter.com/{{{s}}}"
+  },
+  {
+    "bang": "u24",
+    "name": "Urgente24",
+    "url": "http://www.urgente24.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "unspider",
+    "name": "UN-SPIDER Knowledge Portal",
+    "url": "http://www.un-spider.org/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "bang": "videonews",
+    "name": "Video News",
+    "url": "https://www.videonews.com/?s={{{s}}}"
+  },
+  {
+    "bang": "voan",
+    "name": "Voice of America News",
+    "url": "https://www.voanews.com/s?k={{{s}}}&tab=all&pi=1&r=any&pp=10"
+  },
+  {
+    "bang": "wikileaks",
+    "name": "WikiLeaks",
+    "url": "https://search.wikileaks.org/?q={{{s}}}"
+  },
+  {
+    "bang": "wion",
+    "name": "WION",
+    "url": "http://www.wionews.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wrh",
+    "name": "What Really Happened",
+    "url": "http://whatreallyhappened.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "wsws",
+    "name": "Word Socialist Web Site",
+    "url": "https://www.wsws.org/en/search.html?sectionId=&maxResults=100&phrase={{{s}}}&submit=Search"
+  }
+]

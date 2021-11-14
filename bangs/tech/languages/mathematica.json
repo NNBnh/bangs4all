@@ -1,0 +1,12 @@
+[
+  {
+    "bang": "mathematica",
+    "name": "Mathematica",
+    "url": "http://reference.wolfram.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "wmse",
+    "name": "Mathematica Stack Exchange",
+    "url": "https://mathematica.stackexchange.com/search?q={{{s}}}"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "bang": "battledex",
+    "name": "Pokemon Go Hub Battledex",
+    "url": "https://pokemongohub.net/?s={{{s}}}"
+  },
+  {
+    "bang": "bpa",
+    "name": "Bulbapedia",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/{{{s}}}"
+  },
+  {
+    "bang": "bpedia",
+    "name": "Bulbapedia",
+    "url": "http://bulbapedia.bulbagarden.net/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "bulbapedia",
+    "name": "Bulbapedia",
+    "url": "http://bulbapedia.bulbagarden.net/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "dex6g",
+    "name": "Pokdex Pokebip",
+    "url": "https://www.pokebip.com/pokedex/index.php?phppage=recherche&req={{{s}}}"
+  },
+  {
+    "bang": "pkmce",
+    "name": "Pok\u00e9mon Central Wiki",
+    "url": "http://wiki.pokemoncentral.it/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pocewiki",
+    "name": "Pok\u00e9mon Central Wiki",
+    "url": "http://wiki.pokemoncentral.it/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pokebrickbronze",
+    "name": "Pok\u00e9mon Brick Bronze Wikia",
+    "url": "http://brickbronze.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "pokecommunity",
+    "name": "Pok\u00e9community",
+    "url": "https://www.pokecommunity.com/search.php?do=q{{{s}}}"
+  },
+  {
+    "bang": "pokedb",
+    "name": "Pokemon Database",
+    "url": "http://pokemondb.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "pokedex",
+    "name": "Pokemon Official Website Pokedex",
+    "url": "https://www.pokemon.com/us/pokedex/{{{s}}}"
+  },
+  {
+    "bang": "pokemmo",
+    "name": "Pokemon MMO Wiki",
+    "url": "http://pokemmo.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "pokemondb",
+    "name": "Pok\u00e9mon Database",
+    "url": "http://pokemondb.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "pokepedia",
+    "name": "Pokepedia",
+    "url": "http://www.pokepedia.fr/index.php?title=Special%3ARecherche&search={{{s}}}"
+  },
+  {
+    "bang": "pokewiki",
+    "name": "Pok\u00e9Wiki",
+    "url": "http://www.pokewiki.de/index.php?search={{{s}}}&button=&title=Spezial%3ASuche"
+  },
+  {
+    "bang": "ptcg",
+    "name": "PkmnCards",
+    "url": "http://pkmncards.com/?s={{{s}}}&display=card&sort=date"
+  },
+  {
+    "bang": "pwde",
+    "name": "http://www.pokewiki.de",
+    "url": "http://www.pokewiki.de/index.php?search={{{s}}}&title=Spezial%3ASuche&go=Seite"
+  },
+  {
+    "bang": "serebii",
+    "name": "Serebii",
+    "url": "http://www.serebii.net/search.shtml?cx=018410473690156091934%3A6gahkiyodbi&cof=FORID%3A11&q={{{s}}}&sa=Search&siteurl=www.serebii.net%2Findex2.shtml"
+  },
+  {
+    "bang": "showdown",
+    "name": "Pok\u00e9mon Showdown",
+    "url": "http://dex.pokemonshowdown.com/?q={{{s}}}"
+  },
+  {
+    "bang": "smgsm",
+    "name": "Smogon Dex Sun and Moon",
+    "url": "http://www.smogon.com/dex/sm/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smogonbw",
+    "name": "Strategy Pokedex Black and White Smogon",
+    "url": "http://www.smogon.com/dex/bw/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smogondp",
+    "name": "Strategy Pokedex Diamond Perl Smogon",
+    "url": "http://www.smogon.com/dex/dp/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smogongs",
+    "name": "Strategy Pokedex Gold Silver Smogon",
+    "url": "http://www.smogon.com/dex/gs/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smogonrb",
+    "name": "Strategy Pokedex Re Blue Smogon",
+    "url": "http://www.smogon.com/dex/rb/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smogon",
+    "name": "Smogon University",
+    "url": "https://www.smogon.com/dex/sm/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smogonsm",
+    "name": "Smogon",
+    "url": "http://www.smogon.com/dex/sm/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smogonxy",
+    "name": "Smogon X/Y strategydex",
+    "url": "http://www.smogon.com/dex/xy/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smogrs",
+    "name": "Smogon R_S",
+    "url": "http://www.smogon.com/dex/rs/pokemon/{{{s}}}"
+  },
+  {
+    "bang": "smog",
+    "name": "Smogon University",
+    "url": "http://www.smogon.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "veekun",
+    "name": "Veekun Pokedex",
+    "url": "http://veekun.com/dex/lookup?lookup={{{s}}}"
+  },
+  {
+    "bang": "waapt",
+    "name": "We Are All Pok\u00e9mon Trainers Wiki",
+    "url": "https://waapt.wiki.tropi.us/wiki/Special:Search/{{{s}}}"
+  },
+  {
+    "bang": "wdex",
+    "name": "WikiDex",
+    "url": "http://es.pokemon.wikia.com/wiki/Especial:Buscar?query={{{s}}}"
+  },
+  {
+    "bang": "wikidex",
+    "name": "WikiDex",
+    "url": "https://www.wikidex.net/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wkdx",
+    "name": "Wikidex",
+    "url": "https://www.wikidex.net/index.php?title=Especial:Buscar&search={{{s}}}"
+  }
+]

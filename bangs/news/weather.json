@@ -1,0 +1,307 @@
+[
+  {
+    "bang": "14",
+    "name": "14-tage-wettervorhersage.de",
+    "url": "https://14-tage-wettervorhersage.de/suche/?q={{{s}}}&lg=de"
+  },
+  {
+    "bang": "3bm",
+    "name": "3Bmeteo",
+    "url": "https://www.3bmeteo.com/meteo/{{{s}}}"
+  },
+  {
+    "bang": "accuweather",
+    "name": "AccuWeather",
+    "url": "http://www.accuweather.com/us-city-list.asp?zipcode={{{s}}}"
+  },
+  {
+    "bang": "aemet",
+    "name": "AEMET",
+    "url": "http://www.aemet.es/es/buscador?modo=and&orden=n&tipo=sta&str={{{s}}}"
+  },
+  {
+    "bang": "aqicn",
+    "name": "Real-time Air Quality Index (AQI) ",
+    "url": "http://aqicn.org/city/{{{s}}}"
+  },
+  {
+    "bang": "bbcw",
+    "name": "BBC Weather",
+    "url": "https://www.bbc.co.uk/weather/search?s={{{s}}}"
+  },
+  {
+    "bang": "bfx",
+    "name": "Bergfex",
+    "url": "https://www.bergfex.at/suchen/?q={{{s}}}"
+  },
+  {
+    "bang": "buien",
+    "name": "http://www.buienalarm.nl",
+    "url": "http://www.buienalarm.nl/location/{{{s}}}"
+  },
+  {
+    "bang": "bw",
+    "name": "Bing Weather",
+    "url": "https://www.bing.com/weather/forecast?q={{{s}}}"
+  },
+  {
+    "bang": "chm",
+    "name": "La chaine m\u00e9t\u00e9o",
+    "url": "https://www.lachainemeteo.com/synthese-previsions-meteo-{{{s}}}"
+  },
+  {
+    "bang": "climatempo",
+    "name": "Climatempo",
+    "url": "http://www.climatempo.com.br/?q={{{s}}}"
+  },
+  {
+    "bang": "dmiby",
+    "name": "DMI Byvejr",
+    "url": "http://www.dmi.dk/byindex?by={{{s}}}"
+  },
+  {
+    "bang": "dmi",
+    "name": "DMI Byvejr",
+    "url": "http://www.dmi.dk/byindex?by={{{s}}}"
+  },
+  {
+    "bang": "dwd",
+    "name": "Deutscher Wetterdienst (WarnWetter)",
+    "url": "https://www.dwd.de/DE/wetter/warnungen/warnWetter_node.html?ort={{{s}}}"
+  },
+  {
+    "bang": "et",
+    "name": "El Tiempo",
+    "url": "http://www.eltiempo.es/buscar?q={{{s}}}"
+  },
+  {
+    "bang": "fmi",
+    "name": "Ilmatieteen Laitos",
+    "url": "http://ilmatieteenlaitos.fi/saa/{{{s}}}"
+  },
+  {
+    "bang": "ilm",
+    "name": "ilmeteo.it",
+    "url": "http://www.ilmeteo.it/meteo/{{{s}}}"
+  },
+  {
+    "bang": "knmi",
+    "name": "Koninklijk Nederlands Meterologisch Instituut",
+    "url": "https://knmi.nl/zoeken?q={{{s}}}"
+  },
+  {
+    "bang": "mblue",
+    "name": "meteoblue",
+    "url": "https://www.meteoblue.com/?q={{{s}}}"
+  },
+  {
+    "bang": "meteociel",
+    "name": "Meteociel",
+    "url": "http://www.meteociel.fr/prevville.php?action=getville&ville={{{s}}}"
+  },
+  {
+    "bang": "meteofr",
+    "name": "M\u00e9t\u00e9o-France",
+    "url": "http://www.meteofrance.com/recherche/resultats?facet=previsions&lieuId=&lieuType=&search-type=previsions&query={{{s}}}"
+  },
+  {
+    "bang": "meteomedia",
+    "name": "MeteoMedia",
+    "url": "https://www.meteomedia.com/ca/search?q={{{s}}}"
+  },
+  {
+    "bang": "met",
+    "name": "Meteox",
+    "url": "http://meteox.de/search.aspx?s={{{s}}}"
+  },
+  {
+    "bang": "metoffice",
+    "name": "Met Office",
+    "url": "http://www.metoffice.gov.uk/public/weather/location-search/sitename?searchLocation={{{s}}}"
+  },
+  {
+    "bang": "metoff",
+    "name": "Met Office",
+    "url": "http://www.metoffice.gov.uk/public/weather/location-search/sitename?searchLocation={{{s}}}"
+  },
+  {
+    "bang": "mgm",
+    "name": "T\u00fcrkiye Cumhuriyeti Orman ve Su \u0130\u015fleri Bakanl\u0131\u011f\u0131 Meteoroloji Genel M\u00fcd\u00fcrl\u00fc\u011f\u00fc",
+    "url": "https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il={{{s}}}"
+  },
+  {
+    "bang": "msui",
+    "name": "Meteo Suisse / Schweiz",
+    "url": "https://www.meteoswiss.admin.ch/home/search.html?query={{{s}}} "
+  },
+  {
+    "bang": "mwu",
+    "name": "Mobile Weather Underground",
+    "url": "http://mobile.wunderground.com/q/{{{s}}}"
+  },
+  {
+    "bang": "noaa",
+    "name": "NOAA",
+    "url": "http://forecast.weather.gov/zipcity.php?inputstring={{{s}}}"
+  },
+  {
+    "bang": "nws",
+    "name": "National Weather Service",
+    "url": "http://forecast.weather.gov/zipcity.php?inputstring={{{s}}}"
+  },
+  {
+    "bang": "owm",
+    "name": "Open Weather Map",
+    "url": "http://openweathermap.org/find?q={{{s}}}"
+  },
+  {
+    "bang": "pollen",
+    "name": "National Allergy Forecast",
+    "url": "https://www.pollen.com/forecast/current/pollen/{{{s}}}"
+  },
+  {
+    "bang": "reittiopas",
+    "name": "Reittiopas",
+    "url": "http://www.reittiopas.fi/?showsearchformsaved=hide&from_in= {{{s}}}&from=&via_in=&via=&via_time=0&to_in= {{{s}}}&to=&hour=15&minute=39&timetype=departure&date_cb=on&day=7&month=7&year=2015&cmargin=3&wspeed=70&method=1&stz=0&mc1=0&mc2=0&mc3=0&mc4=0&mc5=0&mc6=0&mc0=1&nroutes=3&gotoHash="
+  },
+  {
+    "bang": "smhi",
+    "name": "SMHI - Swedish Meteorological and Hydrological Institute",
+    "url": "https://www.smhi.se/sok?query={{{s}}}"
+  },
+  {
+    "bang": "sun",
+    "name": "Sunrise Sunset",
+    "url": "https://sunrise-sunset.org/search?location={{{s}}}"
+  },
+  {
+    "bang": "tenkijp",
+    "name": "tenki.jp(\u65e5\u672c\u6c17\u8c61\u5354\u4f1a/)",
+    "url": "http://www.tenki.jp/search/zip/?keyword={{{s}}}"
+  },
+  {
+    "bang": "twn",
+    "name": "The Weather Network",
+    "url": "https://www.theweathernetwork.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wc",
+    "name": "The Weather Channel",
+    "url": "http://www.weather.com/search/enhancedlocalsearch?where={{{s}}}&loctypes=1/5/9/11/13/19"
+  },
+  {
+    "bang": "weatherbug",
+    "name": "WeatherBug",
+    "url": "http://weather.weatherbug.com/Common/SearchResults.html?loc={{{s}}}&nav_section=1&zcode=z6169&lang_id=en-us&country=US&x=0&y=0&is_search=true"
+  },
+  {
+    "bang": "weatherchannel",
+    "name": "The Weather Channel",
+    "url": "http://www.weather.com/search/enhancedlocalsearch?where={{{s}}}&loctypes=1/5/9/11/13/19"
+  },
+  {
+    "bang": "weathergc",
+    "name": "Environment Canada Weather Office",
+    "url": "https://weather.gc.ca/city/jump_e.html?city={{{s}}}"
+  },
+  {
+    "bang": "weatherspark",
+    "name": "Weather Spark",
+    "url": "http://weatherspark.com/#!dashboard;q={{{s}}}"
+  },
+  {
+    "bang": "weather",
+    "name": "Weather.com",
+    "url": "http://www.weather.com/search/enhancedlocalsearch?where={{{s}}}&loctypes=1/5/9/11/13/19/&from=hdr"
+  },
+  {
+    "bang": "weathforyou",
+    "name": "Weather For You",
+    "url": "https://www.weatherforyou.com/reports/index.php?forecast=zandh&pands={{{s}}}&Submit=Get+Weather"
+  },
+  {
+    "bang": "weeronline",
+    "name": "Weeronline",
+    "url": "http://www.weeronline.nl/Go/Search/SearchResults?searchCriteria={{{s}}}&pageIndex=0&searchAction=WeatherInformation"
+  },
+  {
+    "bang": "wetterde",
+    "name": "wetter.de",
+    "url": "http://www.wetter.de/suche.html?search={{{s}}}"
+  },
+  {
+    "bang": "wetteronline",
+    "name": "Wetter Online",
+    "url": "https://www.wetteronline.de/wetter/{{{s}}}"
+  },
+  {
+    "bang": "wetter",
+    "name": "wetter.com",
+    "url": "http://www.wetter.com/suche/?q={{{s}}}"
+  },
+  {
+    "bang": "wgov",
+    "name": "forecast.weather.gov",
+    "url": "http://forecast.weather.gov/zipcity.php?inputstring={{{s}}} "
+  },
+  {
+    "bang": "wg",
+    "name": "WunderGround",
+    "url": "https://www.wunderground.com/cgi-bin/findweather/getForecast?query={{{s}}}"
+  },
+  {
+    "bang": "wmv",
+    "name": "meteovista",
+    "url": "http://www.meteovista.com/Go/Search/SearchResults?searchCriteria={{{s}}}&pageIndex=0&searchAction=WeatherInformation"
+  },
+  {
+    "bang": "wnetwork",
+    "name": "The Weather Network",
+    "url": "https://www.theweathernetwork.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wo",
+    "name": "WetterOnline",
+    "url": "http://www.wetteronline.de/wetter/{{{s}}}"
+  },
+  {
+    "bang": "wttr.in",
+    "name": "wttr",
+    "url": "http://wttr.in/{{{s}}}"
+  },
+  {
+    "bang": "wttr",
+    "name": "Wttr.in",
+    "url": "http://wttr.in/{{{s}}}"
+  },
+  {
+    "bang": "wunderground",
+    "name": "Weather Underground",
+    "url": "https://www.wunderground.com/cgi-bin/findweather/getForecast?query={{{s}}}"
+  },
+  {
+    "bang": "wu",
+    "name": "Weather Underground",
+    "url": "https://www.wunderground.com/cgi-bin/findweather/getForecast?query={{{s}}}"
+  },
+  {
+    "bang": "yandexw",
+    "name": "yandex.ru/pogoda",
+    "url": "https://yandex.ru/pogoda/{{{s}}}"
+  },
+  {
+    "bang": "yaw",
+    "name": "Yandex Weather",
+    "url": "https://yandex.ru/pogoda/search?request={{{s}}}"
+  },
+  {
+    "bang": "yr",
+    "name": "yr.no/NRK/Meteorologisk institutt Weather",
+    "url": "http://www.yr.no/soek/soek.aspx?sted={{{s}}}"
+  },
+  {
+    "bang": "yw",
+    "name": "Yahoo! Weather",
+    "url": "https://duckduckgo.com/?q=site%3Aweather.yahoo.com+{{{s}}}"
+  }
+]

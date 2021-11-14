@@ -1,0 +1,22 @@
+[
+  {
+    "bang": "dlang",
+    "name": "D Programming Language",
+    "url": "https://duckduckgo.com/?q=site%3Adlang.org+{{{s}}}"
+  },
+  {
+    "bang": "dpldocs",
+    "name": "The D Programming Language's Unofficial Docs",
+    "url": "https://dpldocs.info/locate?q={{{s}}}"
+  },
+  {
+    "bang": "dub",
+    "name": "Dub Package Registry",
+    "url": "http://code.dlang.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "vibed",
+    "name": "vibe.d Documentation",
+    "url": "https://vibed.org/api/search?q={{{s}}}"
+  }
+]

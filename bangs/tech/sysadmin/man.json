@@ -1,0 +1,97 @@
+[
+  {
+    "bang": "archman",
+    "name": "Arch manual pages",
+    "url": "http://jlk.fjfi.cvut.cz/arch/manpages/search?q={{{s}}}"
+  },
+  {
+    "bang": "aws",
+    "name": "Amazon Web Services",
+    "url": "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation&searchQuery={{{s}}} "
+  },
+  {
+    "bang": "chtsh",
+    "name": "cheat.sh",
+    "url": "https://cheat.sh/{{{s}}}"
+  },
+  {
+    "bang": "dragonflyman",
+    "name": "DragonFly BSD Manual Pages",
+    "url": "https://leaf.dragonflybsd.org/cgi/web-man?command={{{s}}}"
+  },
+  {
+    "bang": "explainshell",
+    "name": "ExplainShell",
+    "url": "http://explainshell.com/explain?cmd={{{s}}}"
+  },
+  {
+    "bang": "freebsdman",
+    "name": "FreeBSD Man Pages",
+    "url": "http://man.freebsd.org/{{{s}}}"
+  },
+  {
+    "bang": "illumos",
+    "name": "illumos man",
+    "url": "http://illumos.org/man/{{{s}}}"
+  },
+  {
+    "bang": "man1",
+    "name": "Linux Die.net Manual Page 1",
+    "url": "https://linux.die.net/man/1/{{{s}}}"
+  },
+  {
+    "bang": "man7",
+    "name": "The Linux man-pages project",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aman7.org%2Flinux%2Fman-pages"
+  },
+  {
+    "bang": "mankier",
+    "name": "Mankier",
+    "url": "http://www.mankier.com/?q={{{s}}}"
+  },
+  {
+    "bang": "manned",
+    "name": "Manned",
+    "url": "https://manned.org/browse/search?q={{{s}}}"
+  },
+  {
+    "bang": "manosx",
+    "name": "Mac OSX Manual PAge",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site%3Adeveloper.apple.com"
+  },
+  {
+    "bang": "manpage",
+    "name": "manpage",
+    "url": "https://manpage.me/?q={{{s}}}"
+  },
+  {
+    "bang": "mnp",
+    "name": "manpages.org",
+    "url": "http://manpages.org/{{{s}}}"
+  },
+  {
+    "bang": "netbsdman",
+    "name": "NetBSD Manual Pages",
+    "url": "http://man.netbsd.org/man/{{{s}}}"
+  },
+  {
+    "bang": "openbsd",
+    "name": "OpenBSD",
+    "url": "http://man.openbsd.org/?query={{{s}}}"
+  },
+  {
+    "bang": "posix",
+    "name": "The Open Group",
+    "url": "http://pubs.opengroup.org/cgi/kman4.cgi?value={{{s}}}"
+  },
+  {
+    "bang": "smartos",
+    "name": "SmartOS Man Pages",
+    "url": "https://smartos.org/man/{{{s}}}"
+  },
+  {
+    "bang": "xsh",
+    "name": "ExplainShell",
+    "url": "http://explainshell.com/explain?cmd={{{s}}}"
+  }
+]

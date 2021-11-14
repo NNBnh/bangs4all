@@ -1,0 +1,327 @@
+[
+  {
+    "bang": "80k",
+    "name": "80,000 hours",
+    "url": "https://80000hours.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "acurazine",
+    "name": "AcuraZine",
+    "url": "http://acurazine.com/forums/search.php?do=showgcs&query={{{s}}}"
+  },
+  {
+    "bang": "amf",
+    "name": "Ask Metafilter",
+    "url": "http://ask.metafilter.com/search.mefi?q={{{s}}}"
+  },
+  {
+    "bang": "ancestry",
+    "name": "Ancestry",
+    "url": "https://www.ancestry.com/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "archangels",
+    "name": "Heavenly Archangels",
+    "url": "https://heavenlyarchangels.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "asoiaf",
+    "name": "A Wiki of Ice and Fire",
+    "url": "http://awoiaf.westeros.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "audubonb",
+    "name": "National Audubon Society (birds)",
+    "url": "http://birds.audubon.org/search/node?keys={{{s}}}"
+  },
+  {
+    "bang": "audubonmag",
+    "name": "Audubon Magazine",
+    "url": "http://www.audubonmagazine.org/search/node?keys={{{s}}}"
+  },
+  {
+    "bang": "audubon",
+    "name": "National Audubon Society",
+    "url": "http://www.audubon.org/search/node?keys={{{s}}}"
+  },
+  {
+    "bang": "avenwiki",
+    "name": "AVENwiki",
+    "url": "http://www.asexuality.org/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "beautyheaven",
+    "name": "Beautyheaven",
+    "url": "https://www.beautyheaven.com.au/search?term={{{s}}}"
+  },
+  {
+    "bang": "beautypedia",
+    "name": "Beautypedia",
+    "url": "https://www.beautypedia.com/skin-care-reviews/?Ntt={{{s}}}"
+  },
+  {
+    "bang": "blueline",
+    "name": "Blueline",
+    "url": "https://rsw.me.uk/blueline/methods/search?q={{{s}}}"
+  },
+  {
+    "bang": "bogle",
+    "name": "Bogleheads Wiki",
+    "url": "http://www.bogleheads.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "byggahus",
+    "name": "ByggaHus.se",
+    "url": "https://www.byggahus.se/sokresultat/?q={{{s}}} "
+  },
+  {
+    "bang": "circuit",
+    "name": "RacingCircuits.info",
+    "url": "http://racingcircuits.info/misc/search-results.html?search={{{s}}}"
+  },
+  {
+    "bang": "cleanuptheworld",
+    "name": "Clean Up the World",
+    "url": "http://www.cleanuptheworld.org/en/search.html?kw={{{s}}}"
+  },
+  {
+    "bang": "cn",
+    "name": "Charity Navigator",
+    "url": "http://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list={{{s}}}"
+  },
+  {
+    "bang": "cvr",
+    "name": "Danish Central Business Register",
+    "url": "https://datacvr.virk.dk/data/visninger?soeg={{{s}}}"
+  },
+  {
+    "bang": "dewiki",
+    "name": "de.wikipedia.org",
+    "url": "http://de.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "edc",
+    "name": "Everyday Carry",
+    "url": "http://everydaycarry.com/search{{{s}}}"
+  },
+  {
+    "bang": "elb",
+    "name": "Bibleserver",
+    "url": "http://www.bibleserver.com/text/ELB/{{{s}}}"
+  },
+  {
+    "bang": "eli5",
+    "name": "Reddit ELI5",
+    "url": "https://www.reddit.com/r/explainlikeimfive/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "bang": "ever",
+    "name": "Everipedia",
+    "url": "https://everipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "fvz",
+    "name": "Finviz",
+    "url": "http://finviz.com/quote.ashx?t={{{s}}}&ty=c&ta=1&p=d"
+  },
+  {
+    "bang": "getabstract",
+    "name": "getAbstract",
+    "url": "https://www.getabstract.com/en/search?initial=true&query={{{s}}}"
+  },
+  {
+    "bang": "hplus",
+    "name": "Hpluspedia",
+    "url": "https://hpluspedia.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "hpluspedia",
+    "name": "H+Pedia",
+    "url": "https://hpluspedia.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "hpp",
+    "name": "H+Pedia",
+    "url": "https://hpluspedia.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "hubpg",
+    "name": "Hubpages",
+    "url": "https://hubpages.com/search/?s={{{s}}} "
+  },
+  {
+    "bang": "icannwiki",
+    "name": "ICANNWiki",
+    "url": "https://icannwiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "isfdb",
+    "name": "Internet Speculative Fiction Database",
+    "url": "http://www.isfdb.org/cgi-bin/se.cgi?type=Fiction%20Titles&arg={{{s}}}"
+  },
+  {
+    "bang": "legowiki",
+    "name": "Brickipedia",
+    "url": "https://lego.fandom.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "libcom",
+    "name": "libcom.org",
+    "url": "https://libcom.org/search/node/{{{s}}}"
+  },
+  {
+    "bang": "lluk",
+    "name": "Liverpool Libraries catalogue",
+    "url": "http://capitadiscovery.co.uk/liverpool/items?query={{{s}}}"
+  },
+  {
+    "bang": "lotr",
+    "name": "One Wiki to Rule Them All:  The Lord of the Rings Wiki",
+    "url": "http://lotr.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "macid",
+    "name": "EveryMac",
+    "url": "http://www.everymac.com/ultimate-mac-lookup/?search_keywords={{{s}}}"
+  },
+  {
+    "bang": "madonc",
+    "name": "MAD On Collections",
+    "url": "https://madoncollections.com/collectables/?q={{{s}}}"
+  },
+  {
+    "bang": "makeupalley",
+    "name": "MakeupAlley",
+    "url": "https://www.makeupalley.com/search.asp?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "medi",
+    "name": "Medibus.info Katalogsuche",
+    "url": "http://www.translatetheweb.com/?item1={{{s}}}&field=all&maxKurztitel=25&sachgruppen=0&sachgruppenSchulfaecher=0&media=all&local=0&produzent=0&article_id=23&submitEinfacheSuche=Find+Titles&from=&to=en&a=http%3A%2F%2Fmedibus.info%2Findex.php%3Farticle_id%3D23%23einfSucheInfo&f=1"
+  },
+  {
+    "bang": "memoryalpha",
+    "name": "Memory Alpha",
+    "url": "http://en.memory-alpha.org/wiki/Special:Search?search={{{s}}}&fulltext=Search&resultsLang=en"
+  },
+  {
+    "bang": "morningstar",
+    "name": "Morningstar Search",
+    "url": "https://www.morningstar.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "msq",
+    "name": "Morningstar Quote",
+    "url": "http://quote.morningstar.com/stock/s.aspx?t={{{s}}}"
+  },
+  {
+    "bang": "mungfali",
+    "name": "Mungfali",
+    "url": "http://mungfali.com/explore.php?q={{{s}}}"
+  },
+  {
+    "bang": "natgeokids",
+    "name": "National Geographic Kids",
+    "url": "https://www.natgeokids.com/?s=testhttps://www.nationalgeographic.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "nerdwallet",
+    "name": "NerdWallet ",
+    "url": "http://www.nerdwallet.com/search/results#q={{{s}}}"
+  },
+  {
+    "bang": "nomad",
+    "name": "Nomad List",
+    "url": "https://nomadlist.com/?q={{{s}}}"
+  },
+  {
+    "bang": "obd",
+    "name": "Engine Codes",
+    "url": "http://engine-codes.com/search_codes.php?q={{{s}}}"
+  },
+  {
+    "bang": "ptr",
+    "name": "Pro Tool Reviews",
+    "url": "http://www.protoolreviews.com/?s={{{s}}}"
+  },
+  {
+    "bang": "secedgar",
+    "name": "SEC Edgar",
+    "url": "https://www.sec.gov/cgi-bin/browse-edgar?CIK={{{s}}}&owner=exclude&action=getcompany"
+  },
+  {
+    "bang": "sigfox",
+    "name": "Sigfox Partner Network",
+    "url": "https://partners.sigfox.com/search/products?q={{{s}}}"
+  },
+  {
+    "bang": "snuson",
+    "name": "SnusOn",
+    "url": "http://www.snuson.com/forum/shop/search/?q={{{s}}}&submit.x=0&submit.y=0"
+  },
+  {
+    "bang": "stilltasty",
+    "name": "StillTasty",
+    "url": "https://stilltasty.com/Search?q={{{s}}}"
+  },
+  {
+    "bang": "supercoachtalk",
+    "name": "SupercoachTalk",
+    "url": "http://supercoachtalk.com/?s={{{s}}}"
+  },
+  {
+    "bang": "svwe",
+    "name": "Stardew Valley Wiki Espa\u00f1ol",
+    "url": "https://es.stardewvalleywiki.com/ {{{s}}}"
+  },
+  {
+    "bang": "tcdb",
+    "name": "The Trading Card Database",
+    "url": "https://www.tradingcarddb.com/Search.cfm?SearchCategory=Baseball&cx=partner-pub-2387250451295121%3Ahes0ib-44xp&cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}"
+  },
+  {
+    "bang": "tolkien",
+    "name": "Tokien Gateway",
+    "url": "http://tolkiengateway.net/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "unicef",
+    "name": "UNICEF",
+    "url": "http://www.unicef.org/search/search.php?q_en={{{s}}}"
+  },
+  {
+    "bang": "un",
+    "name": "United Nations",
+    "url": "http://search.un.org/search?ie=utf8&site=un_org&output=xml_no_dtd&client=UN_Website_en&num=10&lr=lang_en&proxystylesheet=UN_Website_en&oe=utf8&q={{{s}}}&Submit=Go"
+  },
+  {
+    "bang": "unhcr",
+    "name": "UNHCR",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:http://www.unhcr.org"
+  },
+  {
+    "bang": "wfi",
+    "name": "Wikipedia Finland",
+    "url": "https://fi.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "whes",
+    "name": "Wikihow Espa\u00f1ol",
+    "url": "https://es.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "bang": "wikiindex",
+    "name": "WikiIndex",
+    "url": "http://wikiindex.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wood",
+    "name": "The Wood Database",
+    "url": "http://www.wood-database.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ypy",
+    "name": "Yippy",
+    "url": "http://yippy.com/search/?v%3Aproject=clusty-new&query={{{s}}}"
+  }
+]

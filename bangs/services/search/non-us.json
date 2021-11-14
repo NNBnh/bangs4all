@@ -1,0 +1,612 @@
+[
+  {
+    "bang": "argep",
+    "name": "\u00c1rG\u00e9p",
+    "url": "http://www.argep.hu/main.aspx?suche={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "bahn",
+    "name": "Deutsche Bahn Reiseauskunft",
+    "url": "http://reiseauskunft.bahn.de/bin/query.exe/dn?S=&Z={{{s}}}"
+  },
+  {
+    "bang": "baidu",
+    "name": "Baidu",
+    "url": "http://www.baidu.com/s?wd={{{s}}}&cl=3"
+  },
+  {
+    "bang": "beam",
+    "name": "BeamMachine.net",
+    "url": "http://www.beammachine.net/de/qsearch.php?q={{{s}}}&strict=1"
+  },
+  {
+    "bang": "Binguk",
+    "name": "Bing UK",
+    "url": "http://bing.co.uk/?q={{{s}}}"
+  },
+  {
+    "bang": "blx",
+    "name": "Blox.pl",
+    "url": "http://www.blox.pl/html?page=blogPublicSearch&container_search={{{s}}}"
+  },
+  {
+    "bang": "caa",
+    "name": "Canadian Automobile Association",
+    "url": "http://www.caa.ca/?s={{{s}}}&submit=Search&lang=en"
+  },
+  {
+    "bang": "chuk",
+    "name": "Companies House",
+    "url": "https://beta.companieshouse.gov.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "clanky",
+    "name": "Seznam \u010cl\u00e1nky",
+    "url": "https://clanky.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "bang": "coccoc",
+    "name": "C\u1ed1c C\u1ed1c",
+    "url": "http://coccoc.com/search#query={{{s}}}"
+  },
+  {
+    "bang": "code",
+    "name": "Search Code",
+    "url": "http://www.searchco.de/?q={{{s}}}&cs=on"
+  },
+  {
+    "bang": "companieshouse",
+    "name": "UK Companies House",
+    "url": "https://beta.companieshouse.gov.uk/search/companies?q={{{s}}}"
+  },
+  {
+    "bang": "conj",
+    "name": "Le conjugueur",
+    "url": "https://leconjugueur.lefigaro.fr/conjugaison/verbe/{{{s}}}"
+  },
+  {
+    "bang": "cswiki",
+    "name": "Wikipedia (cs)",
+    "url": "http://cs.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "danas",
+    "name": "Danas.rs",
+    "url": "https://www.danas.rs/?s={{{s}}}"
+  },
+  {
+    "bang": "daum",
+    "name": "Daum",
+    "url": "http://search.daum.net/search?w=tot&q={{{s}}}"
+  },
+  {
+    "bang": "dcw",
+    "name": "DCinside wiki",
+    "url": "http://wiki.dcinside.com/wiki/{{{s}}}"
+  },
+  {
+    "bang": "ddgal",
+    "name": "DuckDuckGo Am\u00e9rica Latina con Pale Moon",
+    "url": "https://duckduckgo.com/?t=palemoon&kl=xl-es&ko=1&k1=1&q={{{s}}}"
+  },
+  {
+    "bang": "ddgar",
+    "name": "DuckDuckGo Argentina con Pale Moon",
+    "url": "https://duckduckgo.com/?t=palemoon&kl=ar-es&ko=1&k1=1&q={{{s}}}"
+  },
+  {
+    "bang": "ddgeue",
+    "name": "DuckDuckGo Estados Unidos",
+    "url": "https://duckduckgo.com/?kl=ue-es&q={{{s}}}"
+  },
+  {
+    "bang": "deeo",
+    "name": "dict.cc: Esperanto-Deutsch",
+    "url": "https://deeo.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "dicnico",
+    "name": "\u30cb\u30b3\u30cb\u30b3\u5927\u767e\u79d1",
+    "url": "https://dic.nicovideo.jp/a/{{{s}}}"
+  },
+  {
+    "bang": "egged",
+    "name": "Egged",
+    "url": "http://mslworld.egged.co.il/?state=3&language=he&freelang={{{s}}}&width=1280#/search"
+  },
+  {
+    "bang": "eksisozluk",
+    "name": "Ek\u015fi S\u00f6zl\u00fck",
+    "url": "http://www.eksisozluk.com/show.asp?t={{{s}}}"
+  },
+  {
+    "bang": "es",
+    "name": "duckduckgo",
+    "url": "https://duckduckgo.com/?q={{{s}}}&kl=xl-es&kad=es_ES&ia=about"
+  },
+  {
+    "bang": "europarl",
+    "name": "European Parliament",
+    "url": "http://www.europarl.europa.eu/portal/en/search?q={{{s}}}"
+  },
+  {
+    "bang": "expressio",
+    "name": "Expressio Fran\u00e7ais",
+    "url": "http://www.expressio.fr/search.php?q={{{s}}}&lang="
+  },
+  {
+    "bang": "fass",
+    "name": "Fass allm\u00e4nhet",
+    "url": "https://www.fass.se/m/sok/{{{s}}}/public"
+  },
+  {
+    "bang": "ffi",
+    "name": "Finder.fi",
+    "url": "https://www.finder.fi/search?what={{{s}}}"
+  },
+  {
+    "bang": "fireball",
+    "name": "Fireball",
+    "url": "https://fireball.de/q/{{{s}}}"
+  },
+  {
+    "bang": "ga",
+    "name": "Google Australia",
+    "url": "http://www.google.com.au/search?q={{{s}}}"
+  },
+  {
+    "bang": "gnavi",
+    "name": "Gurunavi",
+    "url": "https://r.gnavi.co.jp/area/jp/rs/?fwr={{{s}}}"
+  },
+  {
+    "bang": "gode",
+    "name": "goo \u8f9e\u66f8 \u82f1\u548c/\u548c\u82f1",
+    "url": "https://dictionary.goo.ne.jp/word/en/{{{s}}}"
+  },
+  {
+    "bang": "godj",
+    "name": "goo \u8f9e\u66f8 \u82f1\u548c/\u548c\u82f1",
+    "url": "https://dictionary.goo.ne.jp/srch/jn/{{{s}}}/m1u"
+  },
+  {
+    "bang": "gods",
+    "name": "goo \u8f9e\u66f8 \u985e\u8a9e",
+    "url": "https://dictionary.goo.ne.jp/thsrs/3913/meaning/m1u/{{{s}}}"
+  },
+  {
+    "bang": "googleit",
+    "name": "www.google.it",
+    "url": "https://google.com/search?hl=it&q={{{s}}}"
+  },
+  {
+    "bang": "goo",
+    "name": "goo\u691c\u7d22",
+    "url": "http://search.goo.ne.jp/web.jsp?MT={{{s}}}&IE=UTF-8&OE=UTF-8"
+  },
+  {
+    "bang": "gulasidorna",
+    "name": "Eniro",
+    "url": "http://www.eniro.se/query?what=all&search_word={{{s}}}"
+  },
+  {
+    "bang": "gussmark",
+    "name": "GUSSMARK GesmbH & Co KG",
+    "url": "https://www.gussmark.at/_/search?query={{{s}}}"
+  },
+  {
+    "bang": "helmet",
+    "name": "HelMet",
+    "url": "http://haku.helmet.fi/iii/encore/search/C__S{{{s}}}"
+  },
+  {
+    "bang": "ica",
+    "name": "google canada",
+    "url": "https://www.google.ca/imghp?{{{s}}}"
+  },
+  {
+    "bang": "inci",
+    "name": "incisozluk",
+    "url": "http://inci.sozlukspot.com/w/{{{s}}}"
+  },
+  {
+    "bang": "infoseek",
+    "name": "Rakuten Infoseek",
+    "url": "http://websearch.rakuten.co.jp/Web?qt={{{s}}}"
+  },
+  {
+    "bang": "jwse",
+    "name": "JustWatch Sweden",
+    "url": "https://www.justwatch.com/se/search?q={{{s}}}"
+  },
+  {
+    "bang": "kotoba",
+    "name": "\u30b3\u30c8\u30d0\u30f3\u30af",
+    "url": "http://kotobank.jp/word/{{{s}}}"
+  },
+  {
+    "bang": "kvasir",
+    "name": "kvasir",
+    "url": "http://www.kvasir.no/alle?q={{{s}}}"
+  },
+  {
+    "bang": "legisqc",
+    "name": "http://legisquebec.gouv.qc.ca",
+    "url": "http://legisquebec.gouv.qc.ca/fr/result?command=search&length=10&search_type=all&title_search_type=any&corpus=all&corpusType=c&langCont=fr&fragment={{{s}}}&shorttitle=&stemmed=stemmed"
+  },
+  {
+    "bang": "mercadolivre",
+    "name": "Mercado Livre",
+    "url": "http://lista.mercadolivre.com.br/{{{s}}}"
+  },
+  {
+    "bang": "messeinfo",
+    "name": "Eglise info",
+    "url": "http://egliseinfo.catholique.fr/horaires/{{{s}}}"
+  },
+  {
+    "bang": "metagertor",
+    "name": "Metager Tor",
+    "url": "http://b7cxf4dkdsko6ah2.onion/meta/meta.ger3?focus=web&encoding=utf8&lang=all&eingabe={{{s}}}"
+  },
+  {
+    "bang": "minsal",
+    "name": "Ministero della Salute",
+    "url": "http://cerca.ministerosalute.it/search?q={{{s}}}&client=defaultPORT_front-end&proxystylesheet=defaultPORT_front-end&site=default_collection&output=xml_no_dtd&filter=p"
+  },
+  {
+    "bang": "mrg",
+    "name": "Mail.ru",
+    "url": "https://go.mail.ru/msearch?q={{{s}}}"
+  },
+  {
+    "bang": "najdi",
+    "name": "Najdi.si",
+    "url": "http://www.najdi.si/search.jsp?q={{{s}}}"
+  },
+  {
+    "bang": "na",
+    "name": "NAVER",
+    "url": "https://search.naver.com/search.naver?query={{{s}}}"
+  },
+  {
+    "bang": "naslovi",
+    "name": "Naslovi.net",
+    "url": "http://www.naslovi.net/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "\u3134",
+    "name": "Naver",
+    "url": "https://search.naver.com/search.naver?query={{{s}}}"
+  },
+  {
+    "bang": "nayiri",
+    "name": "Nayiri Armenian dictionary",
+    "url": "http://nayiri.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "nifty",
+    "name": "Nifty",
+    "url": "https://search.nifty.com/websearch/search?cflg=%E6%A4%9C%E7%B4%A2&q={{{s}}}"
+  },
+  {
+    "bang": "nlwiki",
+    "name": "Dutch Wikipedia",
+    "url": "https://nl.wikipedia.org/wiki/Speciaal:Zoeken/{{{s}}}"
+  },
+  {
+    "bang": "noiseless",
+    "name": "\u30ce\u30a4\u30ba\u30ec\u30b9\u30b5\u30fc\u30c1",
+    "url": "http://pasokatu.com/nsearch#gsc.q={{{s}}}"
+  },
+  {
+    "bang": "nvi",
+    "name": "Naver Images",
+    "url": "https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query={{{s}}}"
+  },
+  {
+    "bang": "nv",
+    "name": "Naver",
+    "url": "http://m.search.naver.com/search.naver?query={{{s}}}):"
+  },
+  {
+    "bang": "obrazky",
+    "name": "Seznam Obr\u00e1zky",
+    "url": "https://www.obrazky.cz/?q={{{s}}}"
+  },
+  {
+    "bang": "odpiralni",
+    "name": "Odpiralni \u010dasi",
+    "url": "http://odpiralnicasi.com/spots?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "onzetaal",
+    "name": "Genootschap Onze Taal",
+    "url": "https://onzetaal.nl/zoekresultaten/?q={{{s}}}"
+  },
+  {
+    "bang": "osc",
+    "name": "Oscobo Search",
+    "url": "https://oscobo.co.uk/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "pagine",
+    "name": "Pagine Gialle",
+    "url": "http://www.paginegialle.it/pgol/4-{{{s}}}"
+  },
+  {
+    "bang": "psji",
+    "name": "Parsijoo Image Search",
+    "url": "http://image.parsijoo.ir/image?q={{{s}}}"
+  },
+  {
+    "bang": "psj",
+    "name": "Parsijoo",
+    "url": "http://parsijoo.ir/web?q={{{s}}}"
+  },
+  {
+    "bang": "qm",
+    "name": "Qwant music search",
+    "url": "https://www.qwant.com/music/search?q={{{s}}}"
+  },
+  {
+    "bang": "qwl",
+    "name": "Qwant lite",
+    "url": "https://lite.qwant.com/?q={{{s}}}"
+  },
+  {
+    "bang": "qwt",
+    "name": "Qwant",
+    "url": "https://qwant.com/?q={{{s}}}"
+  },
+  {
+    "bang": "rbc",
+    "name": "RBC Royal Bank",
+    "url": "https://www.rbcroyalbank.com/search-public/index.html?question={{{s}}}"
+  },
+  {
+    "bang": "r-nl",
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com/?q={{{s}}}&kl=nl-nl"
+  },
+  {
+    "bang": "saol",
+    "name": "Svenska akademieons ordlista",
+    "url": "https://svenska.se/tre/?sok={{{s}}}"
+  },
+  {
+    "bang": "sapo",
+    "name": "SAPO",
+    "url": "http://pesquisa.sapo.pt/?barra=&q={{{s}}}"
+  },
+  {
+    "bang": "scheidung",
+    "name": "Scheidung.de",
+    "url": "https://www.scheidung.de/suche.html?tx_kesearch_pi1%5Bsword%5D={{{s}}}"
+  },
+  {
+    "bang": "sch",
+    "name": "Startpage (Switzerland)",
+    "url": "https://startpage.com/do/search?cmd=process_search&query={{{s}}}&language=deutsch&with_region=countryCH"
+  },
+  {
+    "bang": "sde",
+    "name": "Startpage (deutsch)",
+    "url": "https://startpage.com/do/search?cmd=process_search&query={{{s}}}&language=deutsch"
+  },
+  {
+    "bang": "seznam",
+    "name": "Seznam",
+    "url": "http://search.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "bang": "sirogohan",
+    "name": "\u767d\u3054\u306f\u3093.com",
+    "url": "https://www.sirogohan.com/recipe/index/keyword: {{{s}}}"
+  },
+  {
+    "bang": "slo",
+    "name": "Search Lotto",
+    "url": "https://www.searchlotto.co.uk/yhs_search.php?q={{{s}}}"
+  },
+  {
+    "bang": "sonet",
+    "name": "So-net",
+    "url": "https://www.so-net.ne.jp/search/web/?query={{{s}}}"
+  },
+  {
+    "bang": "soso",
+    "name": "Soso",
+    "url": "http://www.soso.com/q?pid=s.idx&w={{{s}}}"
+  },
+  {
+    "bang": "spnl",
+    "name": "Startpage NL",
+    "url": "https://startpage.com/do/search?l=nederlands&q={{{s}}}"
+  },
+  {
+    "bang": "sputnik",
+    "name": "Sputnik",
+    "url": "http://www.sputnik.ru/search?q={{{s}}}"
+  },
+  {
+    "bang": "srtblog",
+    "name": "srthealing.com",
+    "url": "https://srthealing.com/?s={{{s}}}"
+  },
+  {
+    "bang": "sulekha",
+    "name": "Sulekha",
+    "url": "http://search.sulekha.com/sulekhasearch.aspx?txtsearch={{{s}}}"
+  },
+  {
+    "bang": "sum",
+    "name": "Dictionary of Ukrainian Language (\u0421\u043b\u043e\u0432\u043d\u0438\u043a \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438)",
+    "url": "http://sum.in.ua/?swrd={{{s}}} "
+  },
+  {
+    "bang": "susi",
+    "name": "Susi",
+    "url": "http://susi.at/suche/{{{s}}}"
+  },
+  {
+    "bang": "tdcanada",
+    "name": "TD Canada Trust",
+    "url": "https://www.tdcanadatrust.com/search/index.jsp?query={{{s}}}&language=en&site=td_tdct_tdcb_en"
+  },
+  {
+    "bang": "telefonbuch",
+    "name": "Das Telefonbuch",
+    "url": "http://www.dastelefonbuch.de/?pid=OpenSearch&cmd=search&kw={{{s}}}"
+  },
+  {
+    "bang": "telsearch",
+    "name": "Schweizer Telefonbuch tel.search.ch",
+    "url": "http://tel.search.ch/{{{s}}}"
+  },
+  {
+    "bang": "tut",
+    "name": "TUT.BY",
+    "url": "http://search.tut.by/?status=1&ru=1&encoding=1&page=0&how=rlv&query={{{s}}}"
+  },
+  {
+    "bang": "uludagsozluk",
+    "name": "uluda\u011f s\u00f6zl\u00fck",
+    "url": "http://www.uludagsozluk.com/?q={{{s}}}"
+  },
+  {
+    "bang": "unizar",
+    "name": "Universidad de Zaragoza",
+    "url": "http://www.unizar.es/search/node/{{{s}}}"
+  },
+  {
+    "bang": "used",
+    "name": "Machineseeker.com - Used machinery search engine",
+    "url": "https://www.machineseeker.com/fy/inserat/inseratliste/index?stichwort={{{s}}}&submit="
+  },
+  {
+    "bang": "uw",
+    "name": "UWO Joy",
+    "url": "https://www.ssjoy.org/dho/?vid=&mid=home&act=IS&is_target=all&is_keyword={{{s}}}"
+  },
+  {
+    "bang": "vancouver",
+    "name": "City of Vancouver",
+    "url": "http://vancouver.ca/search.aspx?q={{{s}}}&searchEngine=GSA"
+  },
+  {
+    "bang": "veganistan",
+    "name": "Veganistan",
+    "url": "http://veganistan.se/search/innehall/{{{s}}}"
+  },
+  {
+    "bang": "videa",
+    "name": "Seznam Videa",
+    "url": "https://videa.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "bang": "vuw",
+    "name": "Victoria University of Wellington",
+    "url": "http://www.victoria.ac.nz/search?q={{{s}}}"
+  },
+  {
+    "bang": "wf",
+    "name": "fr.wikipedia.org",
+    "url": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wtja",
+    "name": "Wiktionary (Japan)",
+    "url": "https://ja.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "yaen",
+    "name": "Yandex",
+    "url": "http://yandex.com/yandsearch?text={{{s}}}&lr=103421"
+  },
+  {
+    "bang": "yandexen",
+    "name": "Yandex",
+    "url": "http://www.yandex.com/yandsearch?text={{{s}}}"
+  },
+  {
+    "bang": "yandexm",
+    "name": "Yandex Market",
+    "url": "http://market.yandex.ru/search.xml?text={{{s}}}"
+  },
+  {
+    "bang": "yandex",
+    "name": "Yandex.Ru",
+    "url": "https://www.yandex.ru/yandsearch?text={{{s}}}"
+  },
+  {
+    "bang": "yav",
+    "name": "Yandex Video",
+    "url": "http://yandex.ru/video/search?text={{{s}}}"
+  },
+  {
+    "bang": "ya",
+    "name": "Yandex",
+    "url": "https://yandex.ru/search/?text={{{s}}}"
+  },
+  {
+    "bang": "yelpde",
+    "name": "Yelp.de",
+    "url": "http://www.yelp.de/search?find_desc={{{s}}}&ns=1&rpp=10&find_loc="
+  },
+  {
+    "bang": "yjp",
+    "name": "Yahoo! Japan",
+    "url": "http://search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "bang": "yj",
+    "name": "Yahoo Japan",
+    "url": "https://search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "bang": "youdaod",
+    "name": "\u6709\u9053\u8bcd\u5178",
+    "url": "http://dict.youdao.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "youdao",
+    "name": "Youdao",
+    "url": "http://www.youdao.com/search?q={{{s}}}&ue=utf8&keyfrom=web.index"
+  },
+  {
+    "bang": "ytw",
+    "name": "Yahoo! Taiwan",
+    "url": "http://tw.search.yahoo.com/search?p={{{s}}}"
+  },
+  {
+    "bang": "zaragoza",
+    "name": "Ayuntamiento de Zaragoza",
+    "url": "http://www.zaragoza.es/ciudad/servicios/buscar_Web?q={{{s}}}"
+  },
+  {
+    "bang": "zhihu",
+    "name": "\u77e5\u4e4e",
+    "url": "https://www.zhihu.com/search?type=content&q={{{s}}}"
+  },
+  {
+    "bang": "zpl",
+    "name": "zakonyprolidi.cz",
+    "url": "https://www.zakonyprolidi.cz/hledani?text={{{s}}}"
+  },
+  {
+    "bang": "zum",
+    "name": "zum",
+    "url": "http://search.zum.com/search.zum?query={{{s}}}"
+  },
+  {
+    "bang": "\u043f\u0448",
+    "name": "Google Images",
+    "url": "https://www.google.ru/search?tbm=isch&q={{{s}}}"
+  },
+  {
+    "bang": "\u044f",
+    "name": "Yandex.ru",
+    "url": "https://yandex.ru/yandsearch?text={{{s}}}"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "bang": "campus",
+    "name": "AccuCampus",
+    "url": "https://accucampus.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "cdeen",
+    "name": "Collins Dictionary",
+    "url": "http://www.collinsdictionary.com/spellcheck/english-german?q={{{s}}} "
+  },
+  {
+    "bang": "cmi",
+    "name": "CMI Library",
+    "url": "http://library.cmi.ac.in/cgi-bin/koha/opac-search.pl?q={{{s}}}"
+  },
+  {
+    "bang": "disconnect",
+    "name": "Disconnect Search",
+    "url": "http://search.disconnect.me/searchTerms/search?query={{{s}}}&ses=Google"
+  },
+  {
+    "bang": "encrypt",
+    "name": "Search Encrypt",
+    "url": "https://www.searchencrypt.com/search?eq={{{s}}}"
+  },
+  {
+    "bang": "eyb",
+    "name": "Eat Your Books",
+    "url": "https://www.eatyourbooks.com/bookshelf?q={{{s}}}"
+  },
+  {
+    "bang": "framabee",
+    "name": "Framabee",
+    "url": "https://framabee.org/?q={{{s}}} "
+  },
+  {
+    "bang": "ft-db",
+    "name": "Fischertechnik Datenbank",
+    "url": "https://ft-datenbank.de/tickets?fulltext={{{s}}}"
+  },
+  {
+    "bang": "gbs",
+    "name": "Gigablast Encrypted",
+    "url": "https://gigablast.com/search?c=main&index=search&q={{{s}}}"
+  },
+  {
+    "bang": "gex",
+    "name": "gexsi",
+    "url": "https://search.gexsi.com/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "gib",
+    "name": "Gibiru",
+    "url": "https://gibiru.com/results.html?q={{{s}}}&cx=partner-pub-5956360965567042%3A8627692578&cof=FORID%3A11&ie=UTF-8"
+  },
+  {
+    "bang": "hidden",
+    "name": "Hidden Wiki",
+    "url": "http://hwikis25cffertqe.onion/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "loolib",
+    "name": "University of Waterloo Library",
+    "url": "https://primo.tug-libraries.on.ca/primo_library/libweb/action/dlSearch.do?institution=WATERLOO&vid=WATERLOO&onCampus=false&lang=eng&indx=1&dym=true&highlight=true&displayField=title&bulkSize=10&query=any%2Ccontains%2C{{{s}}}&search_scope=books_tab&tab=default_tab"
+  },
+  {
+    "bang": "lukol",
+    "name": "Lukol",
+    "url": "http://www.lukol.com/s.php?q={{{s}}}"
+  },
+  {
+    "bang": "mafia",
+    "name": "Mafiasi Wiki",
+    "url": "https://www2.informatik.uni-hamburg.de/fachschaft/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "mafiasi",
+    "name": "Mafiasi Wiki",
+    "url": "https://www2.informatik.uni-hamburg.de/fachschaft/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "metageren",
+    "name": "MetaGer English",
+    "url": "https://metager.de/meta/cgi-bin/meta.ger1?ui=en&lang=en&wikiboost=on&QuickTips=off&langfilter=yes&eingabe={{{s}}}&mm=and&time=1&exalead=on&fastbot=on&yacy=on&nebel=on&atsearch=on&acoon=on&overture=on&base=on&yandex=on&onenewspage=on&dmozint=on"
+  },
+  {
+    "bang": "metagertoren",
+    "name": "MetaGer Tor (English)",
+    "url": "http://b7cxf4dkdsko6ah2.onion/en/meta/meta.ger3?focus=web&encoding=utf8&lang=en&eingabe={{{s}}}"
+  },
+  {
+    "bang": "minsearch",
+    "name": "minimalsearch",
+    "url": "https://minimalsearch.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "modhelp",
+    "name": "Reddit Modhelp",
+    "url": "http://www.reddit.com/r/modhelp/search?q={{{s}}}"
+  },
+  {
+    "bang": "mtr",
+    "name": "Hong Kong MTR",
+    "url": "http://mwsgsa01.mtr.com.hk/search?site=default_collection&output=xml_no_dtd&client=mtr_eng&proxystylesheet=mtr_eng&proxyreload=1&ie=big5&oe=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "ot",
+    "name": "Microsoft Office Templates",
+    "url": "https://templates.office.com/en-US/Search/results?query={{{s}}}"
+  },
+  {
+    "bang": "peek",
+    "name": "Peekier",
+    "url": "https://peekier.com/#!{{{s}}}"
+  },
+  {
+    "bang": "people",
+    "name": "Zoho People",
+    "url": "https://people.zoho.com/people/#selfservice/directory/employees-searchstring={{{s}}}&searchType=0"
+  },
+  {
+    "bang": "saugus",
+    "name": "Saugus.net: Resources for Saugus, Massachusetts",
+    "url": "https://www.saugus.net/cgi-bin/htsearch?config=htdig&restrict=&exclude=&words={{{s}}}&method=and&format=long"
+  },
+  {
+    "bang": "searx.me",
+    "name": "searx.me",
+    "url": "http://searx.me/?q={{{s}}}&pageno=1&category_general"
+  },
+  {
+    "bang": "slk",
+    "name": "SearchLock",
+    "url": "https://www.searchlock.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sno",
+    "name": "StartPage.com (Norwegian)",
+    "url": "https://www.startpage.com/do/search?cmd=process_search&query={{{s}}}&with_region=countryNO"
+  },
+  {
+    "bang": "soloj",
+    "name": "SOLO journals",
+    "url": "http://solo.bodleian.ox.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=local&search_scope=LSCOP_ALL&vid=SOLO&facet=rtype,include,journals&lang=en_US&offset=0"
+  },
+  {
+    "bang": "spi",
+    "name": "Startpage Images",
+    "url": "https://startpage.com/do/search?cat=pics&cmd=process_search&query={{{s}}}"
+  },
+  {
+    "bang": "spm",
+    "name": "Startpage Mobile",
+    "url": "https://startpage.com/do/m/mobilesearch?&q={{{s}}}"
+  },
+  {
+    "bang": "sppit",
+    "name": "Startpage safeoff ita",
+    "url": "https://startpage.com/do/search?prf=77fe802d54508e9ee48b88624be6da56&cat=web&query={{{s}}}"
+  },
+  {
+    "bang": "sppl",
+    "name": "Startpage (PL)",
+    "url": "https://www.startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=polski"
+  },
+  {
+    "bang": "spp",
+    "name": "StartPage safeoff eng",
+    "url": "https://startpage.com/do/search?prf=2cc506ab255c98e10570b7d50ef6b1c8&cat=web&query={{{s}}}"
+  },
+  {
+    "bang": "sptio",
+    "name": "search.privacytools.io",
+    "url": "https://search.privacytools.io/?q={{{s}}}"
+  },
+  {
+    "bang": "spv",
+    "name": "Startpage Videos",
+    "url": "https://www.startpage.com/do/search?cat=video&cmd=process_search&query={{{s}}}"
+  },
+  {
+    "bang": "startpageimages",
+    "name": "Startpage (images)",
+    "url": "https://startpage.com/do/search?cat=pics&cmd=process_search&query={{{s}}}"
+  },
+  {
+    "bang": "swisscows",
+    "name": "Swisscows",
+    "url": "https://swisscows.com/?query={{{s}}}"
+  },
+  {
+    "bang": "syear",
+    "name": "Startpage",
+    "url": "https://startpage.com/do/metasearch.pl?query={{{s}}}&with_date=y"
+  },
+  {
+    "bang": "ton",
+    "name": "Tonton Roger",
+    "url": "https://tontonroger.org/?q={{{s}}}"
+  },
+  {
+    "bang": "tonton",
+    "name": "Tonton Roger",
+    "url": "https://tontonroger.org/?q={{{s}}}"
+  },
+  {
+    "bang": "uio",
+    "name": "UiO emnes\u00f8k",
+    "url": "https://www.uio.no/studier/emner/?course-query={{{s}}}&vrtx=search&searchMode=emne"
+  },
+  {
+    "bang": "warwick",
+    "name": "University of Warwick",
+    "url": "https://search.warwick.ac.uk/?q={{{s}}}"
+  },
+  {
+    "bang": "yan",
+    "name": "yandex.com",
+    "url": "https://www.yandex.com/?q={{{s}}}"
+  },
+  {
+    "bang": "ymail",
+    "name": "Yahoo Mail",
+    "url": "https://mail.yahoo.com/d/search/keyword={{{s}}}"
+  }
+]

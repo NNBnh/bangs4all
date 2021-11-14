@@ -1,0 +1,237 @@
+[
+  {
+    "bang": "3druck",
+    "name": "3Druck.com",
+    "url": "http://3druck.com/?s={{{s}}}"
+  },
+  {
+    "bang": "abbuc",
+    "name": "Abbuc e.V.",
+    "url": "http://www.abbuc.de/component/search/?searchword={{{s}}}"
+  },
+  {
+    "bang": "agoga",
+    "name": "arturogoga",
+    "url": "https://www.arturogoga.com/?s={{{s}}}"
+  },
+  {
+    "bang": "baixaki",
+    "name": "Baixaki",
+    "url": "http://www.baixaki.com.br/busca.asp?q={{{s}}}"
+  },
+  {
+    "bang": "bugforum",
+    "name": "Bug Online Forum",
+    "url": "https://www.bug.hr/forum/search/topic/?txt={{{s}}}"
+  },
+  {
+    "bang": "c1024",
+    "name": "Dem Commander1024 sein Blog",
+    "url": "http://www.commander1024.de/wordpress/?s={{{s}}}"
+  },
+  {
+    "bang": "chimerarevo",
+    "name": "Chimera Revo",
+    "url": "http://www.chimerarevo.com/search/{{{s}}}"
+  },
+  {
+    "bang": "cnete",
+    "name": "CNET en espa\u00f1ol",
+    "url": "http://www.cnet.com/es/busqueda/?query={{{s}}}"
+  },
+  {
+    "bang": "cnetuk",
+    "name": "CNET UK",
+    "url": "http://www.cnet.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "config",
+    "name": "Config",
+    "url": "https://config.lk/?s={{{s}}}"
+  },
+  {
+    "bang": "cpu",
+    "name": "TheComputerGeek",
+    "url": "https://www.cpugeek.co.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "devrant",
+    "name": "devRant",
+    "url": "https://devrant.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "enges",
+    "name": "Engadget en espa\u00f1ol",
+    "url": "http://es.engadget.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "freelancinghacks",
+    "name": "Freelancing Hacks",
+    "url": "http://freelancinghacks.com/?s={{{s}}}"
+  },
+  {
+    "bang": "geoawesome",
+    "name": "Geoawesomeness",
+    "url": "http://geoawesomeness.com/?s={{{s}}}"
+  },
+  {
+    "bang": "gizes",
+    "name": "Gizmodo en espa\u00f1ol",
+    "url": "http://es.gizmodo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "goodfeeds",
+    "name": "GoodFeeds",
+    "url": "https://goodfeeds.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "hackology",
+    "name": "Hackology",
+    "url": "https://blog.drhack.net/?s={{{s}}}"
+  },
+  {
+    "bang": "hdrapin",
+    "name": "LES MISCELLAN\u00c9ES NUM\u00c9RIQUES",
+    "url": "http://hdrapin.com/?s={{{s}}}"
+  },
+  {
+    "bang": "healthable",
+    "name": "Healthable",
+    "url": "https://www.healthable.org/?s={{{s}}}"
+  },
+  {
+    "bang": "heise",
+    "name": "heise online",
+    "url": "http://www.heise.de/suche/?q={{{s}}}&rm=search"
+  },
+  {
+    "bang": "imore",
+    "name": "iMore",
+    "url": "http://www.imore.com/search/{{{s}}}?query={{{s}}}"
+  },
+  {
+    "bang": "itrig",
+    "name": "ITrig",
+    "url": "http://www.itrig.de/index.php?serendipity%5Baction%5D=search&serendipity%5Bfullentry%5D=1&serendipity%5BsearchTerm%5D={{{s}}}"
+  },
+  {
+    "bang": "jdg",
+    "name": "Le Journal du Geek",
+    "url": "http://www.journaldugeek.com/?s={{{s}}}"
+  },
+  {
+    "bang": "jomgeek",
+    "name": "JomGeek.my",
+    "url": "https://jomgeek.my/?s={{{s}}}"
+  },
+  {
+    "bang": "kotakuau",
+    "name": "KotakuAus",
+    "url": "http://www.kotaku.com.au/?s={{{s}}}"
+  },
+  {
+    "bang": "lgp",
+    "name": "Le Geek Pauvre",
+    "url": "http://geekpauvre.com/?s={{{s}}} "
+  },
+  {
+    "bang": "lifehacking",
+    "name": "Lifehacking",
+    "url": "http://lifehacking.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "macmag",
+    "name": "MacMagazine",
+    "url": "https://macmagazine.uol.com.br/?s={{{s}}}"
+  },
+  {
+    "bang": "mbamblog",
+    "name": "Malwarebytes Unpacked",
+    "url": "https://blog.malwarebytes.org/?s={{{s}}}"
+  },
+  {
+    "bang": "newffr",
+    "name": "NewFFR",
+    "url": "http://newffr.com/search.php?words={{{s}}}&mode=1&s_in_forum=1"
+  },
+  {
+    "bang": "pplware",
+    "name": "Pplware",
+    "url": "http://pplware.sapo.pt/resultados-da-pesquisa/?cx=partner-pub-1446920356351445%3Apqahidy83wu&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&sa=Pesquisar"
+  },
+  {
+    "bang": "psych22",
+    "name": "https://psychologytoday.com",
+    "url": "https://www.psychologytoday.com/us/search/site/{{{s}}}"
+  },
+  {
+    "bang": "ru",
+    "name": "RedUSERS",
+    "url": "http://www.redusers.com/noticias/?s={{{s}}}"
+  },
+  {
+    "bang": "techposts",
+    "name": "TechPosts",
+    "url": "https://techposts.org/?s={{{s}}}"
+  },
+  {
+    "bang": "teketen",
+    "name": "Teketen",
+    "url": "http://teketen.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "te-st",
+    "name": "\u0422\u0435\u043f\u043b\u0438\u0446\u0430 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439",
+    "url": "https://te-st.ru/?s={{{s}}}"
+  },
+  {
+    "bang": "thefastmode",
+    "name": "TheFastMode",
+    "url": "http://www.thefastmode.com/site-search?q={{{s}}}"
+  },
+  {
+    "bang": "thegloor",
+    "name": "Thegloor",
+    "url": "https://thegloor.com/?s={{{s}}}"
+  },
+  {
+    "bang": "thewebflash",
+    "name": "The Web Flash",
+    "url": "https://www.thewebflash.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tia",
+    "name": "Tech in Asia",
+    "url": "https://www.techinasia.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "tnw",
+    "name": "The Next Web",
+    "url": "https://thenextweb.com/?q={{{s}}}"
+  },
+  {
+    "bang": "twf",
+    "name": "The Web Flash",
+    "url": "https://www.thewebflash.com/?s={{{s}}}"
+  },
+  {
+    "bang": "windowsreport",
+    "name": "WindowsReport",
+    "url": "http://windowsreport.com/?s={{{s}}}"
+  },
+  {
+    "bang": "wpzen",
+    "name": "WPzen",
+    "url": "http://wpzen.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "wz",
+    "name": "Warpzone e.V.",
+    "url": "https://www.warpzone.ms/?s={{{s}}} "
+  },
+  {
+    "bang": "zythom",
+    "name": "Zythom",
+    "url": "https://duckduckgo.com/?q=site%3Azythom.blogspot.com+{{{s}}}"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "bang": "abcau",
+    "name": "ABC Australia",
+    "url": "http://search.abc.net.au/s/search.html?query={{{s}}}&collection=abcall_meta&form=simple"
+  },
+  {
+    "bang": "abcnews",
+    "name": "ABCNews",
+    "url": "http://abcnews.go.com/search?searchtext={{{s}}}"
+  },
+  {
+    "bang": "anj",
+    "name": "Action News Jax",
+    "url": "http://www.actionnewsjax.com/?q={{{s}}}"
+  },
+  {
+    "bang": "ap",
+    "name": "AP",
+    "url": "http://ap.org/Search/SearchResults?searchkeywords={{{s}}}"
+  },
+  {
+    "bang": "archivetv",
+    "name": "Internet Archive TV News",
+    "url": "https://archive.org/details/tv?q={{{s}}}"
+  },
+  {
+    "bang": "avtm",
+    "name": "Adam Vs The Man",
+    "url": "http://www.adamvstheman.com/?s={{{s}}} "
+  },
+  {
+    "bang": "bel",
+    "name": "Bob Enyart Live",
+    "url": "https://kgov.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bfm899",
+    "name": "BFM: The Business Radio Station",
+    "url": "https://www.bfm.my/podcast.html?qseaid={{{s}}}&pseaid=latest&iseaid=all&dsseaid=&deseaid=&tag=&prg="
+  },
+  {
+    "bang": "blaze",
+    "name": "The Blaze",
+    "url": "http://www.theblaze.com/?s={{{s}}}"
+  },
+  {
+    "bang": "cbc",
+    "name": "CBC News",
+    "url": "https://www.cbc.ca/search?q={{{s}}}"
+  },
+  {
+    "bang": "cbsnews",
+    "name": "CBSNews",
+    "url": "http://search.cbsnews.com/?source=cbs&q={{{s}}}"
+  },
+  {
+    "bang": "cnbc",
+    "name": "CNBC",
+    "url": "http://search.cnbc.com/main.do?target=all&keywords={{{s}}}"
+  },
+  {
+    "bang": "cnn",
+    "name": "CNN",
+    "url": "http://www.cnn.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "cspan",
+    "name": "C-SPAN",
+    "url": "http://www.c-span.org/search.aspx?For={{{s}}}"
+  },
+  {
+    "bang": "ctvnews",
+    "name": "CTV News",
+    "url": "http://www.ctvnews.ca/search-results/search-ctv-news-7.137?q={{{s}}}"
+  },
+  {
+    "bang": "dlf",
+    "name": "dlf",
+    "url": "http://www.deutschlandfunk.de/suchergebnisse.448.de.html?search%5Bsubmit%5D=1&search%5BwithNews%5D%5B%5D=WithNews&search%5Bword%5D={{{s}}}"
+  },
+  {
+    "bang": "dradio",
+    "name": "dradio.de",
+    "url": "http://www.deutschlandradio.de/text-und-audio-suche.287.de.html?search%5Bsubmit%5D=1&search%5Bword%5D={{{s}}}"
+  },
+  {
+    "bang": "drdk",
+    "name": "Danmark Radio",
+    "url": "http://www.dr.dk/search/Result?query={{{s}}}"
+  },
+  {
+    "bang": "ecuavisa",
+    "name": "Ecuavisa (Ecuador)",
+    "url": "https://www.ecuavisa.com/busqueda?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "bang": "f3",
+    "name": "France 3",
+    "url": "http://www.france3.fr/recherche?s={{{s}}}"
+  },
+  {
+    "bang": "finfo",
+    "name": "France Info",
+    "url": "https://www.francetvinfo.fr/recherche/?request={{{s}}}"
+  },
+  {
+    "bang": "fms",
+    "name": "Foromedios",
+    "url": "http://www.foromedios.com/index.php?app=core&module=search&do=search&andor_type=&sid=&search_app_filters[forums][sortKey]=date&search_app_filters[forums][sortKey]=date&search_app_filters[forums][searchInKey]=&search_term={{{s}}}&search_app=forums"
+  },
+  {
+    "bang": "foxnews",
+    "name": "FoxNews",
+    "url": "http://www.foxnews.com/search-results/search?q={{{s}}}"
+  },
+  {
+    "bang": "fri",
+    "name": "France Inter",
+    "url": "https://www.franceinter.fr/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "gpdr",
+    "name": "gpodder.net",
+    "url": "https://gpodder.net/search/?q={{{s}}} "
+  },
+  {
+    "bang": "ici",
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "iplayer",
+    "name": "BBC iPlayer",
+    "url": "http://www.bbc.co.uk/iplayer/search?q={{{s}}}"
+  },
+  {
+    "bang": "msnbc",
+    "name": "MSNBC",
+    "url": "http://www.msnbc.com/search/{{{s}}}"
+  },
+  {
+    "bang": "n24",
+    "name": "News24",
+    "url": "http://www.news24.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "newstapa",
+    "name": "Newstapa",
+    "url": "http://newstapa.org/?s={{{s}}}"
+  },
+  {
+    "bang": "nhk",
+    "name": "NHK News Web",
+    "url": "http://cgi2.nhk.or.jp/news/nsearch/query.cgi?col=news&st=1&rf=1&charset=utf-8&qt={{{s}}}&search.x=-318&search.y=-183"
+  },
+  {
+    "bang": "nos",
+    "name": "NOS",
+    "url": "https://nos.nl/zoeken/?q={{{s}}}"
+  },
+  {
+    "bang": "npr",
+    "name": "NPR.org",
+    "url": "http://www.npr.org/search/index.php?searchinput={{{s}}}&tabId=all&dateId=0&prgId=0&topicId=0"
+  },
+  {
+    "bang": "nrk",
+    "name": "NRK",
+    "url": "https://www.nrk.no/sok/?q={{{s}}}"
+  },
+  {
+    "bang": "n-tv",
+    "name": "n-tv",
+    "url": "http://www.n-tv.de/suche/?a=search&at=all&q={{{s}}}&submit=Suche starten"
+  },
+  {
+    "bang": "radio24",
+    "name": "Radio24",
+    "url": "https://www.radio24.ilsole24ore.com/ricerca/{{{s}}}"
+  },
+  {
+    "bang": "rbtag",
+    "name": "radio-browser.info",
+    "url": "http://www.radio-browser.info/gui/#!/bytag/{{{s}}}"
+  },
+  {
+    "bang": "rtbf",
+    "name": "RTBF Info",
+    "url": "https://www.rtbf.be/info/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "rtvnh",
+    "name": "RTVNH",
+    "url": "http://www.rtvnh.nl/zoeken/1/{{{s}}}"
+  },
+  {
+    "bang": "sport1",
+    "name": "Sport1",
+    "url": "http://www.sport1.de/suche#{{{s}}}"
+  },
+  {
+    "bang": "svr",
+    "name": "Sveriges Radio",
+    "url": "https://sverigesradio.se/sida/sok.aspx?q={{{s}}} "
+  },
+  {
+    "bang": "svtn",
+    "name": "Svt Nyheter",
+    "url": "http://www.svt.se/search/?q={{{s}}}"
+  },
+  {
+    "bang": "tagesschau",
+    "name": "Tagesschau",
+    "url": "http://www.tagesschau.de/suche2.html?query={{{s}}}"
+  },
+  {
+    "bang": "teknoseyir",
+    "name": "TeknoSeyir",
+    "url": "https://teknoseyir.com/?s={{{s}}}"
+  },
+  {
+    "bang": "teletekst",
+    "name": "Teletekst",
+    "url": "http://teletekst-data.nos.nl/webplus?p={{{s}}}"
+  },
+  {
+    "bang": "theblaze",
+    "name": "TheBlaze",
+    "url": "https://www.theblaze.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "tn",
+    "name": "Times Now",
+    "url": "https://www.timesnownews.com/latest-news?search={{{s}}}"
+  },
+  {
+    "bang": "tvl",
+    "name": "TV LANGUEDOC",
+    "url": "http://tvlanguedoc.com/search_gcse/?q={{{s}}}"
+  },
+  {
+    "bang": "wbur",
+    "name": "WBUR",
+    "url": "http://www.wbur.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "wgbh",
+    "name": "WGBH News",
+    "url": "http://wgbhnews.org/search/google/{{{s}}} "
+  },
+  {
+    "bang": "wnyc",
+    "name": "WNYC",
+    "url": "http://www.wnyc.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "yle",
+    "name": "Yle",
+    "url": "http://haku.yle.fi/?language=fi&UILanguage=fi&q={{{s}}}"
+  }
+]

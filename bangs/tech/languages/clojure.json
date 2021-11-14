@@ -1,0 +1,22 @@
+[
+  {
+    "bang": "clj",
+    "name": "ClojureDocs",
+    "url": "https://clojuredocs.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "cljdoc",
+    "name": "cljdoc",
+    "url": "https://cljdoc.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "clojars",
+    "name": "Clojars",
+    "url": "https://clojars.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "crossclj",
+    "name": "CrossClj",
+    "url": "http://crossclj.info/search?q={{{s}}}"
+  }
+]

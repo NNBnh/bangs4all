@@ -1,0 +1,432 @@
+[
+  {
+    "bang": "1c",
+    "name": "1cak",
+    "url": "https://1cak.com/search-0-{{{s}}}"
+  },
+  {
+    "bang": "9g",
+    "name": "9gag",
+    "url": "http://9gag.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "9gag",
+    "name": "9gag",
+    "url": "https://9gag.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "ackuc",
+    "name": "Amar Chitra Katha Complete Collection",
+    "url": "https://www.amarchitrakatha.com/us/catalogsearch/result/?cat=0&q={{{s}}}"
+  },
+  {
+    "bang": "anne",
+    "name": "AnimeNewsNetwork Encyclopedia",
+    "url": "http://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q={{{s}}}"
+  },
+  {
+    "bang": "avatarpress",
+    "name": "Avatar Press",
+    "url": "http://www.avatarpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bakaupdatesmanga",
+    "name": "Baka-Updates Manga",
+    "url": "https://www.mangaupdates.com/search.html?search={{{s}}}"
+  },
+  {
+    "bang": "batman",
+    "name": "Batman Wiki",
+    "url": "http://batman.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "bang": "batoto",
+    "name": "Batoto",
+    "url": "http://bato.to/search?name={{{s}}}&name_cond=c"
+  },
+  {
+    "bang": "bdg",
+    "name": "Bedetheque",
+    "url": "http://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0 "
+  },
+  {
+    "bang": "bdt",
+    "name": "B\u00e9d\u00e9th\u00e8que",
+    "url": "http://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0"
+  },
+  {
+    "bang": "bedetheque",
+    "name": "Bedeth\u00e8que",
+    "url": "http://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0"
+  },
+  {
+    "bang": "bnha",
+    "name": "Boku no Hero Academia Wiki",
+    "url": "http://bokunoheroacademia.wikia.com/wiki/Special:Search?go&query={{{s}}}"
+  },
+  {
+    "bang": "boulet",
+    "name": "bouletcorp",
+    "url": "http://www.bouletcorp.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bum",
+    "name": "Baka-Updates Manga",
+    "url": "http://www.mangaupdates.com/search.html?search={{{s}}}"
+  },
+  {
+    "bang": "bwc",
+    "name": "Belfry Web Comics",
+    "url": "http://belfrycomics.net/pg/?searchtype=Titles&searchpat={{{s}}}"
+  },
+  {
+    "bang": "cah",
+    "name": "Calvin and Hobbes Search Engine",
+    "url": "http://michaelyingling.com/random/calvin_and_hobbes/search.php?phrase={{{s}}}"
+  },
+  {
+    "bang": "calvinandhobbes",
+    "name": "Calvin And Hobbes",
+    "url": "http://michaelyingling.com/random/calvin_and_hobbes/search.php?phrase={{{s}}}"
+  },
+  {
+    "bang": "cbr",
+    "name": "Comic Book Roundup",
+    "url": "http://comicbookroundup.com/search_results.php?f_search={{{s}}}"
+  },
+  {
+    "bang": "comicrocket",
+    "name": "Comic Rocket",
+    "url": "https://www.comic-rocket.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "comicvine",
+    "name": "Comic Vine",
+    "url": "http://www.comicvine.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "commitstrip",
+    "name": "Commit Strip",
+    "url": "http://www.commitstrip.com/?s={{{s}}}"
+  },
+  {
+    "bang": "crunchyroll",
+    "name": "CrunchyRoll",
+    "url": "http://www.crunchyroll.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cyanide",
+    "name": "Cyanide and Happiness",
+    "url": "/?q={{{s}}}+site:explosm.net"
+  },
+  {
+    "bang": "darkhorse",
+    "name": "Dark Horse Comics",
+    "url": "http://www.darkhorse.com/Search/{{{s}}}"
+  },
+  {
+    "bang": "dccomics",
+    "name": "DC Comics",
+    "url": "http://www.dccomics.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "dcwiki",
+    "name": "DC Wiki",
+    "url": "http://dc.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "digitalcomicmuseum",
+    "name": "Digital Comic Museum",
+    "url": "http://digitalcomicmuseum.com/index.php?ACT=dosearch&terms={{{s}}}"
+  },
+  {
+    "bang": "digitalcomics",
+    "name": "Digital Comic Museum",
+    "url": "http://digitalcomicmuseum.com/index.php?ACT=dosearch&terms={{{s}}}"
+  },
+  {
+    "bang": "dilbert",
+    "name": "Dilbert",
+    "url": "https://dilbert.com/search_results?terms={{{s}}}"
+  },
+  {
+    "bang": "doujinshi",
+    "name": "Doujinshi.org",
+    "url": "http://www.doujinshi.org/search/simple/?T=objects&sn={{{s}}}"
+  },
+  {
+    "bang": "dynamite",
+    "name": "Dynamite Entertainment",
+    "url": "http://dynamite.com/htmlfiles/search2.html?0=19&next0=&KMPZ={{{s}}}"
+  },
+  {
+    "bang": "dyn",
+    "name": "Dynasty Reader",
+    "url": "https://dynasty-scans.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "exkcd",
+    "name": "Explain xkcd",
+    "url": "http://www.explainxkcd.com/wiki/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "explainxkcd",
+    "name": "explain xkcd",
+    "url": "http://www.explainxkcd.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "expxkcd",
+    "name": "Explain xkcd",
+    "url": "http://www.explainxkcd.com/wiki/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "bang": "fantagraphics",
+    "name": "Fantagraphics Books",
+    "url": "http://www.fantagraphics.com/index.php?keyword={{{s}}}"
+  },
+  {
+    "bang": "fj",
+    "name": "Funnyjunk",
+    "url": "http://funnyjunk.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "gocomics",
+    "name": "GoComics",
+    "url": "https://www.gocomics.com/search/results?utf8=%E2%9C%93&terms={{{s}}}"
+  },
+  {
+    "bang": "heeza",
+    "name": "HEEZA - L'Univers du Cartoon",
+    "url": "http://www.heeza.fr/fr/recherche?orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Rechercher"
+  },
+  {
+    "bang": "homestuck",
+    "name": "Homestuck.com",
+    "url": "https://www.homestuck.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "housepets",
+    "name": "Housepets!",
+    "url": "http://www.housepetscomic.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hpc",
+    "name": "Housepets!",
+    "url": "http://www.housepetscomic.com/?s={{{s}}}"
+  },
+  {
+    "bang": "imgflip",
+    "name": "Imgflip",
+    "url": "https://imgflip.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "izneo",
+    "name": "izneo",
+    "url": "http://www.izneo.com/search.html?pattern={{{s}}}"
+  },
+  {
+    "bang": "jojo",
+    "name": "JoJo's Bizarre Encyclopedia",
+    "url": "http://jojo.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "jr",
+    "name": "JoyReactor",
+    "url": "http://joyreactor.cc/search?q={{{s}}}"
+  },
+  {
+    "bang": "laftel",
+    "name": "Laftel",
+    "url": "https://laftel.net/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "listadomangablog",
+    "name": "Listado manga blog",
+    "url": "http://www.listadomanga.es/blog/?s={{{s}}}"
+  },
+  {
+    "bang": "lovelive",
+    "name": "Love Live! Wiki",
+    "url": "http://love-live.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "mangadex",
+    "name": "https://mangadex.org",
+    "url": "https://mangadex.org/search?tag_mode_exc=any&tag_mode_inc=all&title={{{s}}}"
+  },
+  {
+    "bang": "mangarock",
+    "name": "mangarock",
+    "url": "https://mangarock.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mangas",
+    "name": "Kitsu Manga",
+    "url": "https://kitsu.io/manga?text={{{s}}}"
+  },
+  {
+    "bang": "marvelc",
+    "name": "Comics in marvel.com",
+    "url": "http://marvel.com/search/?q={{{s}}}&category=comics"
+  },
+  {
+    "bang": "marvel",
+    "name": "Marvel.com",
+    "url": "https://www.marvel.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "marvelwiki",
+    "name": "Marvel Comics Database",
+    "url": "http://marvel.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "mdx",
+    "name": "Mangadex",
+    "url": "https://mangadex.org/search?title={{{s}}}"
+  },
+  {
+    "bang": "mfm",
+    "name": "Mount Fight Mountain Wikia",
+    "url": "http://mfm.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "mml",
+    "name": "http://myanimelist.net",
+    "url": "http://myanimelist.net/manga.php?q={{{s}}}"
+  },
+  {
+    "bang": "msanctuary",
+    "name": "Manga Sanctuary",
+    "url": "http://www.manga-sanctuary.com/recherche.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "mspa",
+    "name": "MS Paint Adventures Wiki",
+    "url": "http://mspaintadventures.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "mspawiki",
+    "name": "MS Paint Adventures Wiki",
+    "url": "http://mspaintadventures.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "muslimmanga",
+    "name": "Muslim Manga",
+    "url": "http://muslimmanga.org/?lang=en&s={{{s}}}"
+  },
+  {
+    "bang": "myanimelist",
+    "name": "MyAnimeList",
+    "url": "http://myanimelist.net/anime.php?q={{{s}}}"
+  },
+  {
+    "bang": "nonciclopedia",
+    "name": "Nonciclopedia",
+    "url": "http://nonciclopedia.wikia.com/index.php?title=Speciale%3ARicerca&search={{{s}}}&go=Vai"
+  },
+  {
+    "bang": "oatmeal",
+    "name": "The Oatmeal",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:theoatmeal.com"
+  },
+  {
+    "bang": "ohnorobot",
+    "name": "Oh No Robot",
+    "url": "http://www.ohnorobot.com/index.php?s={{{s}}}&Search=Search&comic="
+  },
+  {
+    "bang": "onr",
+    "name": "Oh No Robot",
+    "url": "http://www.ohnorobot.com/index.php?s={{{s}}}&Search=Search&comic="
+  },
+  {
+    "bang": "papersera",
+    "name": "Il Forum del Papersera",
+    "url": "http://www.papersera.net/cgi-bin/yabb/YaBB.cgi{{{s}}} "
+  },
+  {
+    "bang": "pbf",
+    "name": "Perry Bible Fellowship Comics",
+    "url": "http://pbfcomics.com/?s={{{s}}}"
+  },
+  {
+    "bang": "planetebd",
+    "name": "Plan\u00e8te BD",
+    "url": "http://www.planetebd.com/recherche?mot-clef={{{s}}}"
+  },
+  {
+    "bang": "readdc",
+    "name": "Digital Comics - DC Entertainment",
+    "url": "https://www.readdc.com/search?search={{{s}}}&submit=SEARCH"
+  },
+  {
+    "bang": "reborn",
+    "name": "Reborn Wiki",
+    "url": "http://reborn.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "revengerists",
+    "name": "The Revengerists Consortium of Stuff",
+    "url": "http://revengerists.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "sfx",
+    "name": "SFX Translations @ The JADED Network",
+    "url": "http://thejadednetwork.com/sfx/search/?keyword={{{s}}}&submitSearch="
+  },
+  {
+    "bang": "tanuki",
+    "name": "Tanuki.pl",
+    "url": "http://tanuki.pl/szukaj/{{{s}}}"
+  },
+  {
+    "bang": "tapastic",
+    "name": "Tapastic",
+    "url": "https://tapastic.com/search/SERIES/list?query={{{s}}}"
+  },
+  {
+    "bang": "ttruyen",
+    "name": "ttruyen.com",
+    "url": "http://truyendi.com/tim-kiem-truyen.html?q={{{s}}}"
+  },
+  {
+    "bang": "vertigocomics",
+    "name": "Vertigo Comics",
+    "url": "http://vertigo.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "walky",
+    "name": "Walkypedia",
+    "url": "http://walkypedia.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "webtoon",
+    "name": "https://www.webtoons.com",
+    "url": "https://www.webtoons.com/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "webtoons",
+    "name": "Line Webtoon",
+    "url": "https://www.webtoons.com/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "wtoon",
+    "name": "Webtoon",
+    "url": "https://www.webtoons.com/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "xkcdn",
+    "name": "XKCD Number",
+    "url": "http://xkcd.com/{{{s}}}"
+  },
+  {
+    "bang": "xkcd",
+    "name": "xkcd",
+    "url": "/?q={{{s}}}+site:xkcd.com"
+  },
+  {
+    "bang": "yyh",
+    "name": "Yu Yu Hakusho Wiki",
+    "url": "http://yuyuhakusho.wikia.com/wiki/Special:Search?search={{{s}}}"
+  }
+]

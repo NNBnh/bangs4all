@@ -1,0 +1,87 @@
+[
+  {
+    "bang": "apidockrails",
+    "name": "APIDock - Rails",
+    "url": "http://apidock.com/rails/search/quick?query={{{s}}}"
+  },
+  {
+    "bang": "apidockruby",
+    "name": "APIdock",
+    "url": "http://apidock.com/ruby/search/quick?query={{{s}}} "
+  },
+  {
+    "bang": "awerb",
+    "name": "Awesome Ruby",
+    "url": "https://ruby.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "chefio",
+    "name": "Chef Docs",
+    "url": "https://docs.chef.io/search.html#stq={{{s}}}&stp=1"
+  },
+  {
+    "bang": "gem",
+    "name": "RubyGems",
+    "url": "https://rubygems.org/search?utf8=%E2%9C%93&query={{{s}}}"
+  },
+  {
+    "bang": "gems",
+    "name": "RubyGems",
+    "url": "http://rubygems.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "railsdock",
+    "name": "Rails-Dock",
+    "url": "http://apidock.com/rails/search?query={{{s}}}"
+  },
+  {
+    "bang": "railsguides",
+    "name": "Ruby on Rails Guides",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aguides.rubyonrails.org"
+  },
+  {
+    "bang": "rails",
+    "name": "Rails API",
+    "url": "http://api.rubyonrails.org/?q={{{s}}}"
+  },
+  {
+    "bang": "rbtb",
+    "name": "The Ruby Toolbox",
+    "url": "https://www.ruby-toolbox.com/?q={{{s}}}"
+  },
+  {
+    "bang": "rdoc",
+    "name": "RubyDoc.info",
+    "url": "http://rdoc.info/find/github?q={{{s}}}"
+  },
+  {
+    "bang": "rubocop",
+    "name": "RuboCop",
+    "url": "https://rubocop.readthedocs.io/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "rubydoc",
+    "name": "Ruby-Doc.org",
+    "url": "http://www.ruby-doc.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "rubydocs",
+    "name": "RubyDocs",
+    "url": "https://rubydocs.org/d/ruby-latest/?q={{{s}}}"
+  },
+  {
+    "bang": "rubygems",
+    "name": "RubyGems",
+    "url": "http://rubygems.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "ruby",
+    "name": "Ruby-lang.org",
+    "url": "http://www.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8&sa=Search"
+  },
+  {
+    "bang": "rubytoolbox",
+    "name": "Ruby Toolbox",
+    "url": "https://www.ruby-toolbox.com/search?utf8=\u2713&q={{{s}}}"
+  }
+]

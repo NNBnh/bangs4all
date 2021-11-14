@@ -1,0 +1,27 @@
+[
+  {
+    "bang": "cdwca",
+    "name": "CDW.ca",
+    "url": "https://www.cdw.ca/shop/search/result.aspx?key={{{s}}}&wclsscat=&b=&p=&ctlgfilter=&searchscope=all&sr=1"
+  },
+  {
+    "bang": "namecheap",
+    "name": "Namecheap",
+    "url": "https://www.namecheap.com/domains/registration/results.aspx?domain={{{s}}}"
+  },
+  {
+    "bang": "njalla",
+    "name": "Njalla",
+    "url": "https://njal.la/list/?search={{{s}}}"
+  },
+  {
+    "bang": "porkbun",
+    "name": "porkbun",
+    "url": "https://porkbun.com/checkout/search?q={{{s}}}"
+  },
+  {
+    "bang": "softicweb",
+    "name": "SofticWeb",
+    "url": "https://www.billing.softicweb.com/cart.php?a=add&domain=register&query={{{s}}}"
+  }
+]

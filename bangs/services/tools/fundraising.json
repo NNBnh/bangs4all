@@ -1,0 +1,52 @@
+[
+  {
+    "bang": "gofundme",
+    "name": "GoFundMe",
+    "url": "http://www.gofundme.com/mvc.php?route=search&term={{{s}}}"
+  },
+  {
+    "bang": "guidestar",
+    "name": "GuideStar",
+    "url": "https://www.guidestar.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "igg",
+    "name": "Indiegogo",
+    "url": "https://www.indiegogo.com/explore?q={{{s}}}"
+  },
+  {
+    "bang": "kicktraq",
+    "name": "Kicktraq",
+    "url": "http://www.kicktraq.com/search/?find={{{s}}}"
+  },
+  {
+    "bang": "kkbb",
+    "name": "KissKissBankBank",
+    "url": "http://www.kisskissbankbank.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ks",
+    "name": "Kickstarter",
+    "url": "http://www.kickstarter.com/projects/search?utf8=\u2713&term={{{s}}}+"
+  },
+  {
+    "bang": "mytip",
+    "name": "MyTip",
+    "url": "https://www.mytip.co/explore?search={{{s}}}"
+  },
+  {
+    "bang": "patreon",
+    "name": "Patreon",
+    "url": "http://www.patreon.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "rockethub",
+    "name": "RocketHub",
+    "url": "http://rockethub.com/projects?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "ul",
+    "name": "Ulule",
+    "url": "https://www.ulule.com/discover/?q={{{s}}}"
+  }
+]

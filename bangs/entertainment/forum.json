@@ -1,0 +1,667 @@
+[
+  {
+    "bang": "02faq",
+    "name": "BMW 2002 FAQ",
+    "url": "https://www.bmw2002faq.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "2channel",
+    "name": "5channel",
+    "url": "http://find.5ch.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "4_b",
+    "name": "4chan /b",
+    "url": "http://boards.4chan.org/b/catalog#s={{{s}}}"
+  },
+  {
+    "bang": "4ch",
+    "name": "4chan Board",
+    "url": "https://4chan.org/{{{s}}}"
+  },
+  {
+    "bang": "4cha",
+    "name": "4chan /a/ board",
+    "url": "https://boards.4chan.org/a/catalog#s={{{s}}}"
+  },
+  {
+    "bang": "4chint",
+    "name": "4chan international board",
+    "url": "https://boards.4chan.org/int/catalog#s={{{s}}}"
+  },
+  {
+    "bang": "4chn",
+    "name": "/n/ archives",
+    "url": "https://archive.nyafuu.org/n/search/text/{{{s}}}"
+  },
+  {
+    "bang": "4chrandom",
+    "name": "4chan /b/ board",
+    "url": "https://boards.4chan.org/b/catalog#s={{{s}}}"
+  },
+  {
+    "bang": "4chsearch",
+    "name": "4chansearch",
+    "url": "https://4chansearch.com/?q={{{s}}}"
+  },
+  {
+    "bang": "4pda",
+    "name": "4pda",
+    "url": "http://4pda.ru/forum/index.php?act=search&source=all&forums[]=all&query={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "5channel",
+    "name": "5channel",
+    "url": "http://find.5ch.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "8chc",
+    "name": "8chan Board Catalogs",
+    "url": "http://8ch.net/{{{s}}}/catalog.html"
+  },
+  {
+    "bang": "abretelibro",
+    "name": "\u00c1bretelibro",
+    "url": "http://www.abretelibro.com/foro/search.php?keywords={{{s}}}&sf=titleonly"
+  },
+  {
+    "bang": "ad",
+    "name": "Ask Different",
+    "url": "http://apple.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "adsk",
+    "name": "Autodesk Community",
+    "url": "http://forums.autodesk.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+  },
+  {
+    "bang": "adv",
+    "name": "Adventure Rider",
+    "url": "https://duckduckgo.com/?q=site%3Aadvrider.com+{{{s}}}"
+  },
+  {
+    "bang": "agames",
+    "name": "AnaitGames",
+    "url": "https://www.anaitgames.com/buscador.php?search={{{s}}}"
+  },
+  {
+    "bang": "airforums",
+    "name": "Airforums",
+    "url": "http://airforums.com/?={{{s}}}:"
+  },
+  {
+    "bang": "alibro",
+    "name": "\u00c1brete libro",
+    "url": "http://www.abretelibro.com/foro/search.php?keywords={{{s}}}&sf=titleonly"
+  },
+  {
+    "bang": "alibros",
+    "name": "\u00c1brete libro",
+    "url": "http://www.abretelibro.com/foro/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "anibara",
+    "name": "Anime Akihabara",
+    "url": "http://anime.akihabara.cz/vyhledavani/{{{s}}}"
+  },
+  {
+    "bang": "ats",
+    "name": "Above Top Secret",
+    "url": "http://www.abovetopsecret.com/forum/index.php {{{s}}}"
+  },
+  {
+    "bang": "bant",
+    "name": "/bant/ archives",
+    "url": "https://archive.nyafuu.org/bant/search/text/{{{s}}}"
+  },
+  {
+    "bang": "bco",
+    "name": "Board Crucial dot Org",
+    "url": "http://boardcrewcial.org/search/thread/{{{s}}}"
+  },
+  {
+    "bang": "boards",
+    "name": "Boards.ie",
+    "url": "http://www.boards.ie/search/submit/?query={{{s}}}"
+  },
+  {
+    "bang": "bpl",
+    "name": "Backpacking Light",
+    "url": "http://www.backpackinglight.com/cgi-bin/backpackinglight/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "burbuja",
+    "name": "Burbuja.info",
+    "url": "http://www.burbuja.info/inmobiliaria/search.php?do=process&query={{{s}}}"
+  },
+  {
+    "bang": "camaro",
+    "name": "Camaro Forums @ Z28.com",
+    "url": "https://www.z28.com/search/search?keywords={{{s}}}&order=relevance"
+  },
+  {
+    "bang": "cellartracker",
+    "name": "CellarTracker",
+    "url": "http://www.cellartracker.com/list.asp?fInStock=0&Table=List&iUserOverride=0&szSearch={{{s}}}"
+  },
+  {
+    "bang": "chapo",
+    "name": "r/ChapoTrapHouse",
+    "url": "https://www.reddit.com/r/ChapoTrapHouse/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "charbara",
+    "name": "Characters Akihabara",
+    "url": "http://postavy.akihabara.cz/vyhledavani/{{{s}}}"
+  },
+  {
+    "bang": "d3",
+    "name": "dirty.ru",
+    "url": "https://dirty.ru/search/?query={{{s}}}"
+  },
+  {
+    "bang": "dal",
+    "name": "\u00c1brete libro",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:abretelibro.com"
+  },
+  {
+    "bang": "dcinside",
+    "name": "dcinside",
+    "url": "http://search.dcinside.com/combine/q/{{{s}}}"
+  },
+  {
+    "bang": "denv",
+    "name": "Dragen en Voeden Forum",
+    "url": "https://forum.dragen-en-voeden.nl/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Zoek"
+  },
+  {
+    "bang": "dewikihow",
+    "name": "de.wikihow.com",
+    "url": "http://de.wikihow.com/Special:GoogSearch?ie=UTF-8&q={{{s}}}&sa=Suche"
+  },
+  {
+    "bang": "discworld",
+    "name": "discworld",
+    "url": "http://discworld.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "doco",
+    "name": "DonationCoder",
+    "url": "http://www.donationcoder.com/forum/index.php?action=search2&search={{{s}}} "
+  },
+  {
+    "bang": "dorabara",
+    "name": "Dorama Akihabara",
+    "url": "http://dorama.akihabara.cz/vyhledavani/{{{s}}}"
+  },
+  {
+    "bang": "douban",
+    "name": "Douban",
+    "url": "http://www.douban.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dsr",
+    "name": "Dota 2 subreddit",
+    "url": "https://www.reddit.com/r/DotA2/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "bang": "dualb",
+    "name": "Dual Universe Forums",
+    "url": "https://board.dualthegame.com/index.php?/search/&q={{{s}}}"
+  },
+  {
+    "bang": "e2",
+    "name": "Everything 2",
+    "url": "http://everything2.com/title/{{{s}}}?searchy=search"
+  },
+  {
+    "bang": "eksi",
+    "name": "eksi sozluk",
+    "url": "https://eksisozluk.com/?q={{{s}}}"
+  },
+  {
+    "bang": "elotrolado",
+    "name": "ElOtroLado",
+    "url": "http://www.elotrolado.net/search.php?keywords={{{s}}}&type=h"
+  },
+  {
+    "bang": "eos",
+    "name": "Eosdigitaal.nl",
+    "url": "https://www.eosdigitaal.nl/forum/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sf=all&sk=t&sd=d&sr=posts&st=0&ch=300&t=0&submit=Zoeken"
+  },
+  {
+    "bang": "esk8",
+    "name": "Electric Skateboard Builders Forum",
+    "url": "https://www.electric-skateboard.builders/search?q={{{s}}}"
+  },
+  {
+    "bang": "esotalk",
+    "name": "esoForum",
+    "url": "https://esotalk.net/#search:{{{s}}}"
+  },
+  {
+    "bang": "f6",
+    "name": "The FordSix Performance Forum",
+    "url": "https://fordsix.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "facepunch",
+    "name": "Facepunch Forums",
+    "url": "https://forum.facepunch.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "fcc",
+    "name": "ForoCoches",
+    "url": "http://www.forocoches.com/foro/search.php?do=process&titleonly=1&query={{{s}}}"
+  },
+  {
+    "bang": "fimfic",
+    "name": "FimFiction.net",
+    "url": "https://www.fimfiction.net/stories?q={{{s}}}"
+  },
+  {
+    "bang": "fimfiction",
+    "name": "FimFiction.net",
+    "url": "https://www.fimfiction.net/stories?q={{{s}}}"
+  },
+  {
+    "bang": "flipjuke",
+    "name": "FlipJuke",
+    "url": "http://www.flipjuke.fr/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "fok",
+    "name": "FOK!",
+    "url": "http://zoeken.fok.nl/zoek/?searchmode=simple&tab=fok&startdate=&enddate=&startdatelast=&enddatelast=&bycreator=&byuser=&orderby=relevance&s_fields[]=titel&s_fields[]=bericht&s_fields[]=reacties&status[]=open&status[]=gesloten&status[]=sticky&status[]=openstick&status[]=centraal&q={{{s}}}"
+  },
+  {
+    "bang": "fordsix",
+    "name": "FordSix Performance Forum",
+    "url": "https://fordsix.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "fpunch",
+    "name": "Facepunch Forums",
+    "url": "https://forum.facepunch.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "fuskanuforum",
+    "name": "Fuska.nu forum",
+    "url": "http://fuska.nu/forum/sok.php?sok={{{s}}}"
+  },
+  {
+    "bang": "fxp",
+    "name": "FXP",
+    "url": "https://www.fxp.co.il/google.php?q={{{s}}}"
+  },
+  {
+    "bang": "gal",
+    "name": "\u00c1brete libro",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:abretelibro.com"
+  },
+  {
+    "bang": "gtf",
+    "name": "GlockTalk Forums",
+    "url": "https://www.glocktalk.com/search/10717176/?q={{{s}}}&o=date"
+  },
+  {
+    "bang": "gutefrage",
+    "name": "Gutefrage",
+    "url": "https://www.gutefrage.net/search?query={{{s}}}"
+  },
+  {
+    "bang": "hbt",
+    "name": "Home Brew Talk",
+    "url": "http://www.homebrewtalk.com/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "hpcf",
+    "name": "Housepets! Forums",
+    "url": "http://www.housepetscomic.com/forums/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "hpf",
+    "name": "Housepets! Forums",
+    "url": "http://www.housepetscomic.com/forums/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "/.j",
+    "name": "Slashdot Japan",
+    "url": "http://slashdot.jp/index2.pl?fhfilter={{{s}}}"
+  },
+  {
+    "bang": "kgforum",
+    "name": "Kvinneguiden forum",
+    "url": "http://forum.kvinneguiden.no/?q={{{s}}}"
+  },
+  {
+    "bang": "k",
+    "name": "Konsolentreff.de",
+    "url": "https://www.konsolentreff.de/search/1/?q={{{s}}}"
+  },
+  {
+    "bang": "klocks",
+    "name": "Klocksnack",
+    "url": "https://klocksnack.se/search/6404040/?q={{{s}}}&o=date"
+  },
+  {
+    "bang": "kspf",
+    "name": "Ksp forums",
+    "url": "http://forum.kerbalspaceprogram.com/search.php?s={{{s}}}"
+  },
+  {
+    "bang": "ldsdk",
+    "name": "Lav-det-selv.dk",
+    "url": "https://www.lav-det-selv.dk/find?q={{{s}}}"
+  },
+  {
+    "bang": "loask",
+    "name": "Ask LibreOffice",
+    "url": "http://ask.libreoffice.org/en/questions/scope:all/sort:activity-desc/page:1/query:={{{s}}}"
+  },
+  {
+    "bang": "manbara",
+    "name": "Manga Akihabara",
+    "url": "http://manga.akihabara.cz/vyhledavani/{{{s}}}"
+  },
+  {
+    "bang": "metasx",
+    "name": "Meta Stack Exchange",
+    "url": "http://meta.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mobileread",
+    "name": "MobileRead",
+    "url": "https://www.mobileread.com/forums/gcs.php?cx=011403329271260343335%3Amzng3fi-cti&q={{{s}}}&sa=Search&siteurl=www.mobileread.com%2F"
+  },
+  {
+    "bang": "more",
+    "name": "MobileRead",
+    "url": "https://duckduckgo.com/?q=site:https://www.mobileread.com%20{{{s}}}"
+  },
+  {
+    "bang": "moviechat",
+    "name": "MovieChat",
+    "url": "https://moviechat.org/search?name={{{s}}}"
+  },
+  {
+    "bang": "mre",
+    "name": "Reddit Mobile",
+    "url": "https://m.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ms2",
+    "name": "Maplestory 2 Forums",
+    "url": "http://forums.maplestory2.nexon.net/search?Search={{{s}}}"
+  },
+  {
+    "bang": "mtf",
+    "name": "Moestuinforum",
+    "url": "https://www.moestuinforum.nl/search/gsearch_body.html?q={{{s}}}"
+  },
+  {
+    "bang": "muscdevforum",
+    "name": "Muscular Development Forums",
+    "url": "http://forums.musculardevelopment.com?q={{{s}}}: "
+  },
+  {
+    "bang": "mxs",
+    "name": "MX Simulator",
+    "url": "http://forum.mxsimulator.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "nicodic",
+    "name": "Nico Nico Pedia",
+    "url": "https://dic.nicovideo.jp/s/al/t/{{{s}}}/rev_created/desc/1-"
+  },
+  {
+    "bang": "ogs",
+    "name": "Online Go Server",
+    "url": "https://forums.online-go.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "oldred",
+    "name": "old.reddit.com",
+    "url": "https://old.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ored",
+    "name": "old reddit",
+    "url": "https://old.reddit.com/search?q={{{s}}}&sort=relevance&t=all"
+  },
+  {
+    "bang": "ors",
+    "name": "Subreddit (Old Style)",
+    "url": "https://old.reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "osr",
+    "name": "Old Reddit (subreddit)",
+    "url": "https://old.reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "osuf",
+    "name": "Osu! Forums",
+    "url": "http://osu.ppy.sh/forum/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sd=d&sr=posts&ch=300&t=0&submit=Search"
+  },
+  {
+    "bang": "pantip",
+    "name": "Pantip.com",
+    "url": "https://pantip.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "pdpreddit",
+    "name": "PewDiePieSubmissions",
+    "url": "https://www.reddit.com/r/PewdiepieSubmissions/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "piapro",
+    "name": "Piapro Studio Wiki",
+    "url": "https://piapro-studio.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "poer",
+    "name": "Path of Exile Subreddit",
+    "url": "https://www.reddit.com/r/pathofexile/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "programmerhumor",
+    "name": "Reddit /r/ProgrammerHumor",
+    "url": "https://www.reddit.com/r/ProgrammerHumor/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "ptt",
+    "name": "PTT",
+    "url": "https://www.ptt.cc/bbs/{{{s}}}"
+  },
+  {
+    "bang": "qt3",
+    "name": "Quarter To Three Forums",
+    "url": "https://forum.quartertothree.com/search?expanded=true&q={{{s}}}"
+  },
+  {
+    "bang": "raf",
+    "name": "Richard's Animorphs Forum",
+    "url": "http://animorphsforum.com/index.php?action=search;advanced;search={{{s}}}"
+  },
+  {
+    "bang": "rbtg",
+    "name": "rbt.asia - /g",
+    "url": "https://rbt.asia/g/search/text/{{{s}}}"
+  },
+  {
+    "bang": "rbtmu",
+    "name": "rbtmu",
+    "url": "https://rbt.asia/mu/search/text/{{{s}}}"
+  },
+  {
+    "bang": "rbxdev",
+    "name": "Roblox Developer Forum",
+    "url": "https://devforum.roblox.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "retro",
+    "name": "RetroPie",
+    "url": "https://retropie.org.uk/forum/search?term={{{s}}}&in=titlesposts&matchWords=all&sortBy=relevance&sortDirection=desc&showAs=posts"
+  },
+  {
+    "bang": "r/leb",
+    "name": "r/leb",
+    "url": "https://www.reddit.com/r/lebanon/search?q={{{s}}}"
+  },
+  {
+    "bang": "rpf",
+    "name": "Reddit PublicFreakout",
+    "url": "https://www.reddit.com/r/PublicFreakout/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "rsub",
+    "name": "Reddit Subreddit",
+    "url": "https://reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "saabforum",
+    "name": "Saabforum.nl",
+    "url": "http://www.saabforum.nl/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "sapphire",
+    "name": "Sapphire",
+    "url": "http://forums.sapphirecommunity.com/search.php?keywords={{{s}}}&terms=all&author=&fid%5B%5D=4&fid%5B%5D=6&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=800&t=0&submit=Search"
+  },
+  {
+    "bang": "sdnf",
+    "name": "Student Doctor Network forums",
+    "url": "https://forums.studentdoctor.net/search/86811885/?q={{{s}}}"
+  },
+  {
+    "bang": "shbf",
+    "name": "SHBF:s bryggarforum",
+    "url": "http://shbf.se/bryggaren/search.php?keywords={{{s}}}&sid=7fb2bed909445b5497565d97ea00eb62"
+  },
+  {
+    "bang": "shitcore",
+    "name": "shitcore.org",
+    "url": "http://shitcore.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "shmf",
+    "name": "SHM Forum",
+    "url": "https://forum.shmakerspace.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "shroomery",
+    "name": "Shroomery",
+    "url": "https://www.shroomery.org/search.php?terms={{{s}}}"
+  },
+  {
+    "bang": "speedsolving",
+    "name": "SpeedSolving Forum",
+    "url": "https://www.speedsolving.com/forum/searchresults.php?q={{{s}}}"
+  },
+  {
+    "bang": "sporum",
+    "name": "The Sporum",
+    "url": "http://forum.spore.com/jforum/jforum.page?module=search&action=search&search_keywords={{{s}}}"
+  },
+  {
+    "bang": "sreddit",
+    "name": "Subreddit",
+    "url": "http://reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "sro",
+    "name": "Old Reddit by Subreddit",
+    "url": "https://old.reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "sr",
+    "name": "reddit",
+    "url": "http://reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "srtop",
+    "name": "Subreddit sorted top/ all time",
+    "url": "https://www.reddit.com/r/{{{s}}}/top/?sort=top&t=all"
+  },
+  {
+    "bang": "sv",
+    "name": "Voat",
+    "url": "https://voat.co/v/{{{s}}}"
+  },
+  {
+    "bang": "teamliquid",
+    "name": "Teamliquid",
+    "url": "http://www.teamliquid.net/forum/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "tftv",
+    "name": "TeamFortress.tv",
+    "url": "http://www.teamfortress.tv/search?q={{{s}}}"
+  },
+  {
+    "bang": "tiebaid",
+    "name": "\u8d34\u5427id",
+    "url": "https://passport.baidu.com/v2/?regnamesugg&username={{{s}}}"
+  },
+  {
+    "bang": "tieba",
+    "name": "\u767e\u5ea6\u8d34\u5427",
+    "url": "http://tieba.baidu.com/f?ie=utf-8&kw={{{s}}}"
+  },
+  {
+    "bang": "trf",
+    "name": "Rolex Forums",
+    "url": "http://www.rolexforums.com/tags.php?tag={{{s}}}"
+  },
+  {
+    "bang": "turbo",
+    "name": "The Turbo Forums",
+    "url": "https://www.theturboforums.com/search/153518/?q={{{s}}}"
+  },
+  {
+    "bang": "unp",
+    "name": "UNP",
+    "url": "http://www.unp.me/search/1/?q={{{s}}}"
+  },
+  {
+    "bang": "unxprn",
+    "name": "reddit.com/r/unixporn",
+    "url": "https://www.reddit.com/r/unixporn/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "w3kaskus",
+    "name": "Kaskus",
+    "url": "http://www.kaskus.co.id/search/forum?q={{{s}}}"
+  },
+  {
+    "bang": "whirlpool",
+    "name": "Whirlpool Forums",
+    "url": "http://forums.whirlpool.net.au/forum/?action=search&q={{{s}}}"
+  },
+  {
+    "bang": "whlp",
+    "name": "http://whirlpool.net.au",
+    "url": "https://forums.whirlpool.net.au/forum/?action=search&q={{{s}}}"
+  },
+  {
+    "bang": "wxf",
+    "name": "WuxiaWorld Forums",
+    "url": "https://forum.wuxiaworld.com/search?Search={{{s}}}"
+  },
+  {
+    "bang": "xkcdb",
+    "name": "XKCDB: The #xkcd quotes database",
+    "url": "http://www.xkcdb.com/?search={{{s}}}"
+  },
+  {
+    "bang": "ychiejp",
+    "name": "Yahoo! Japan Chiebukuro",
+    "url": "http://chiebukuro.search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "bang": "yjwiki",
+    "name": "Young Justice Wiki",
+    "url": "http://youngjustice.wikia.com/wiki/Special:Search?query={{{s}}}"
+  }
+]

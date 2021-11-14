@@ -1,0 +1,57 @@
+[
+  {
+    "bang": "emerge",
+    "name": "Gentoo Packages",
+    "url": "https://packages.gentoo.org/packages/search?q={{{s}}}"
+  },
+  {
+    "bang": "fgentoo",
+    "name": "Gentoo Forums",
+    "url": "https://duckduckgo.com/?q=site%3Aforums.gentoo.org+{{{s}}}"
+  },
+  {
+    "bang": "gentoo",
+    "name": "Gentoo Wiki",
+    "url": "http://wiki.gentoo.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "gentoopkg",
+    "name": "https://packages.gentoo.org",
+    "url": "https://packages.gentoo.org/packages/search?q={{{s}}}"
+  },
+  {
+    "bang": "gentoowiki",
+    "name": "gentoo wiki",
+    "url": "https://wiki.gentoo.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "gpackages",
+    "name": "Gentoo Packages",
+    "url": "https://packages.gentoo.org/packages/search?q={{{s}}} "
+  },
+  {
+    "bang": "gpo",
+    "name": "Gentoo Portage Overlays",
+    "url": "http://gpo.zugaina.org/Search?search={{{s}}}"
+  },
+  {
+    "bang": "gw",
+    "name": "Gentoo Wiki",
+    "url": "https://wiki.gentoo.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "gwiki",
+    "name": "Gentoo Wiki",
+    "url": "http://wiki.gentoo.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "installgentoo",
+    "name": "Gentoo Wiki",
+    "url": "https://wiki.installgentoo.com/index.php/{{{s}}}"
+  },
+  {
+    "bang": "pfl",
+    "name": "Portage File List",
+    "url": "http://www.portagefilelist.de/site/query/file/?file={{{s}}}&unique_packages=yes&do"
+  }
+]

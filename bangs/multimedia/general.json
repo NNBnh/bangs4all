@@ -1,0 +1,472 @@
+[
+  {
+    "bang": "140",
+    "name": "140journos",
+    "url": "https://140journos.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "15mpedia",
+    "name": "15Mpedia",
+    "url": "https://15mpedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "1dr",
+    "name": "OneDrive",
+    "url": "http://onedrive.live.com/?q={{{s}}}"
+  },
+  {
+    "bang": "4chr9k",
+    "name": "4chan robot board",
+    "url": "https://boards.4chan.org/r9k/catalog#s={{{s}}}"
+  },
+  {
+    "bang": "aadl",
+    "name": "Ann Arbor District Library",
+    "url": "http://www.aadl.org/catalog/search/keyword/{{{s}}}"
+  },
+  {
+    "bang": "adjective",
+    "name": "Adjective1",
+    "url": "http://adjective1.com/?s={{{s}}}"
+  },
+  {
+    "bang": "amusing",
+    "name": "Amusing Planet",
+    "url": "https://www.google.com/cse?cx=partner-pub-4049870445958322%3Apxmbpw-atgu&ie=ISO-8859-1&q={{{s}}}"
+  },
+  {
+    "bang": "anime",
+    "name": "AniDB",
+    "url": "https://anidb.net/perl-bin/animedb.pl?show=animelist&adb.search={{{s}}}"
+  },
+  {
+    "bang": "arena",
+    "name": "Are.na",
+    "url": "https://www.are.na/search/{{{s}}}"
+  },
+  {
+    "bang": "autobus",
+    "name": "seznam-autobusu.cz",
+    "url": "http://seznam-autobusu.cz/seznam?numberPlateOrNumber={{{s}}}"
+  },
+  {
+    "bang": "avaxh",
+    "name": "AvaxHome",
+    "url": "http://avaxsearch.net/avaxhome_search?q={{{s}}} &a=&commit=Search&c=&l=&sort_by="
+  },
+  {
+    "bang": "awiki",
+    "name": "Augsburgwiki",
+    "url": "https://www.augsburgwiki.de/index.php/AugsburgWiki/Suchergebnisse?q={{{s}}}"
+  },
+  {
+    "bang": "bleach",
+    "name": "Bleach Wiki",
+    "url": "http://bleach.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "bostonpubliclibrary",
+    "name": "Boston Public Library",
+    "url": "https://bpl.bibliocommons.com/search?q={{{s}}}&t=smart&search_category=keyword&commit=Search&submitsearch=go&se=catalog"
+  },
+  {
+    "bang": "broadsign",
+    "name": "BroadSign",
+    "url": "https://duckduckgo.com/?q=site%3Abroadsign.com+{{{s}}}"
+  },
+  {
+    "bang": "cartoonnetwork",
+    "name": "Cartoon Network",
+    "url": "http://www.cartoonnetwork.com/search/index.html?keywords={{{s}}}"
+  },
+  {
+    "bang": "cheezburger",
+    "name": "Cheezburger",
+    "url": "http://search.cheezburger.com/?q={{{s}}}"
+  },
+  {
+    "bang": "chip",
+    "name": "CHIP Online",
+    "url": "http://suche.chip.de/?q={{{s}}}&it=1&submit.x=0&submit.y=0"
+  },
+  {
+    "bang": "commons",
+    "name": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "cpuworld",
+    "name": "cpu-world.com",
+    "url": "http://www.cpu-world.com/cgi-bin/SearchSite.pl?SEARCH={{{s}}}&PROCESS=Search"
+  },
+  {
+    "bang": "dafont",
+    "name": "DaFont",
+    "url": "http://www.dafont.com/search.php?psize=m&q={{{s}}}"
+  },
+  {
+    "bang": "dagobah",
+    "name": "Dagobah Flash Gallery",
+    "url": "http://dagobah.net/?search={{{s}}}"
+  },
+  {
+    "bang": "dicpixiv",
+    "name": "Pixiv Dictionary",
+    "url": "http://dic.pixiv.net/a/{{{s}}}"
+  },
+  {
+    "bang": "dlib",
+    "name": "Discipleship Library",
+    "url": "http://discipleshiplibrary.com/search.php?a=1&e=1&m=0&p=0&n=0&s=topic1&t=TOPIC%20A&ss={{{s}}}&st=all&ssf="
+  },
+  {
+    "bang": "dpla",
+    "name": "Digital Public Library of America",
+    "url": "http://dp.la/search?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "drivetribe",
+    "name": "Drive Tribe",
+    "url": "https://drivetribe.com/search/{{{s}}}"
+  },
+  {
+    "bang": "earpod",
+    "name": "Earpod",
+    "url": "https://www.earpod.co/search?q={{{s}}}"
+  },
+  {
+    "bang": "edx",
+    "name": "Edx",
+    "url": "https://www.edx.org/course?search_query={{{s}}}"
+  },
+  {
+    "bang": "europeana",
+    "name": "Europeana.eu",
+    "url": "http://europeana.eu/portal/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "everipedia",
+    "name": "Everipedia",
+    "url": "https://everipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "fanlore",
+    "name": "Fanlore",
+    "url": "https://fanlore.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "fcit",
+    "name": "Florida Center for Instructional Technology",
+    "url": "https://fcit.usf.edu/search/index.php?searchWords={{{s}}}"
+  },
+  {
+    "bang": "frazeit",
+    "name": "FrazeIt",
+    "url": "http://fraze.it/n_search.jsp?q={{{s}}}"
+  },
+  {
+    "bang": "freesound",
+    "name": "Freesound",
+    "url": "http://www.freesound.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "frs",
+    "name": "Freesound",
+    "url": "http://www.freesound.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "furaffinity",
+    "name": "FurAffinity",
+    "url": "https://www.furaffinity.net/search/?q={{{s}}}"
+  },
+  {
+    "bang": "gcafe",
+    "name": "Gamers Caf\u00e9",
+    "url": "https://www.gamerscafe.com.br/pesquisa/{{{s}}}"
+  },
+  {
+    "bang": "gdoodle",
+    "name": "Google Doodles",
+    "url": "https://www.google.com/doodles?q={{{s}}}"
+  },
+  {
+    "bang": "gibertj",
+    "name": "GibertJoseph.com",
+    "url": "http://www.gibertjoseph.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "gifcities",
+    "name": "Gifcities",
+    "url": "http://gifcities.org/?q={{{s}}}"
+  },
+  {
+    "bang": "goettingen",
+    "name": "Wiki G\u00f6ttingen",
+    "url": "http://www.wiki-goettingen.de/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "googletr",
+    "name": "Google Turkey",
+    "url": "https://www.google.com.tr/search?q={{{s}}} "
+  },
+  {
+    "bang": "heatspring",
+    "name": "HeatSpring",
+    "url": "https://www.heatspring.com/app/courses/?query={{{s}}}"
+  },
+  {
+    "bang": "ia",
+    "name": "Internet Archive",
+    "url": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "bang": "iarchive",
+    "name": "archive.org",
+    "url": "http://www.archive.org/search.php?query={{{s}}} "
+  },
+  {
+    "bang": "instapaper",
+    "name": "Instapaper",
+    "url": "https://www.instapaper.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "krl",
+    "name": "Kitsap Regional Library",
+    "url": "http://catalog.krl.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.9&type=Keyword&term={{{s}}}&by=KW&sort=RELEVANCE&limit=TOM%3D*&query=&page=0&searchid=1"
+  },
+  {
+    "bang": "kst",
+    "name": "Kickstarter",
+    "url": "https://www.kickstarter.com/{{{s}}} "
+  },
+  {
+    "bang": "lbp",
+    "name": "https://lbp.me",
+    "url": "https://lbp.me/search/v?q={{{s}}}"
+  },
+  {
+    "bang": "lilypond",
+    "name": "LilyPond Snippet Repository",
+    "url": "http://lsr.di.unimi.it/LSR/Search?q={{{s}}}"
+  },
+  {
+    "bang": "lmw",
+    "name": "lostmediawiki",
+    "url": "https://lostmediawiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "makezine",
+    "name": "Make:",
+    "url": "http://makezine.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mi",
+    "name": "myinstants",
+    "url": "http://www.myinstants.com/search/?name={{{s}}}"
+  },
+  {
+    "bang": "moegirl",
+    "name": "Moe Girl Pedia",
+    "url": "https://zh.moegirl.org/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "mtcontent",
+    "name": "mt-content-search-engine.000webhostapp.com",
+    "url": "https://mt-content-search-engine.000webhostapp.com/?search={{{s}}}&do_search="
+  },
+  {
+    "bang": "mwm",
+    "name": "Wikimedia Meta",
+    "url": "https://meta.wikimedia.org/w/index.php?&title=Special%3ASearch&go=Go&search={{{s}}}"
+  },
+  {
+    "bang": "nautiljon",
+    "name": "Nautiljon",
+    "url": "http://www.nautiljon.com/search.php?cx=partner-pub-0881008410530095%3Ad1y8wrnakj0&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "nese",
+    "name": "Nationalencyklopedin",
+    "url": "http://www.ne.se/sok?q={{{s}}}"
+  },
+  {
+    "bang": "nexpress",
+    "name": "NExpress Catalog",
+    "url": "https://catalog.nexpresslibrary.org/cgi-bin/koha/opac-search.pl?q={{{s}}} "
+  },
+  {
+    "bang": "nina",
+    "name": "Narodowy Instytut Audiowizualny (nina.gov.pl)",
+    "url": "http://www.nina.gov.pl/searchresult?query={{{s}}}"
+  },
+  {
+    "bang": "oga",
+    "name": "OpenGameArt.org",
+    "url": "http://opengameart.org/art-search?keys={{{s}}}"
+  },
+  {
+    "bang": "onedrive",
+    "name": "OneDrive",
+    "url": "https://onedrive.live.com/#qt=search&q={{{s}}}"
+  },
+  {
+    "bang": "openculture",
+    "name": "openculture.com",
+    "url": "https://duckduckgo.com/?q=site%3Aopenculture.com+{{{s}}}"
+  },
+  {
+    "bang": "pch",
+    "name": "Publishers Clearing House",
+    "url": "http://pch.com/?={{{s}}}"
+  },
+  {
+    "bang": "podcast",
+    "name": "Listen Notes",
+    "url": "https://www.listennotes.com/search/?q={{{s}}}&sort_by_date=0"
+  },
+  {
+    "bang": "poets",
+    "name": "Academy of American Poets",
+    "url": "https://www.poets.org/search/node/{{{s}}}"
+  },
+  {
+    "bang": "pond5",
+    "name": "Pond5",
+    "url": "https://www.pond5.com/stock-video-footage/1/{{{s}}}.html"
+  },
+  {
+    "bang": "queenslibrary",
+    "name": "QueensLibrary",
+    "url": "http://www.queenslibrary.org/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "bang": "rad",
+    "name": "Radiopaedia",
+    "url": "https://radiopaedia.org/search?utf8=\u2713&q={{{s}}}&scope=all"
+  },
+  {
+    "bang": "reu",
+    "name": "Reddit User",
+    "url": "https://www.reddit.com/user/{{{s}}}"
+  },
+  {
+    "bang": "rs4",
+    "name": "rs.4chan.org",
+    "url": "http://rs.4chan.org/?s={{{s}}}&from=ALL"
+  },
+  {
+    "bang": "scritique",
+    "name": "SensCritique",
+    "url": "http://www.senscritique.com/recherche/?gs_query={{{s}}}&submit2="
+  },
+  {
+    "bang": "senscritique",
+    "name": "Sens critique",
+    "url": "http://www.senscritique.com/recherche?query={{{s}}}"
+  },
+  {
+    "bang": "sketchfab",
+    "name": "Sketchfab",
+    "url": "https://sketchfab.com/models?q={{{s}}}&sort_by=-likeCount"
+  },
+  {
+    "bang": "slate",
+    "name": "Slate",
+    "url": "http://www.slate.com/search.html#search={{{s}}}"
+  },
+  {
+    "bang": "smdb",
+    "name": "Svensk Mediedatabas",
+    "url": "http://smdb.kb.se/catalog/search?q={{{s}}}"
+  },
+  {
+    "bang": "sofurry",
+    "name": "SoFurry",
+    "url": "https://www.sofurry.com/browse/search?search={{{s}}}"
+  },
+  {
+    "bang": "spl",
+    "name": "The Seattle Public Library",
+    "url": "https://seattle.bibliocommons.com/search?utf8=%E2%9C%93&t=smart&search_category=keyword&commit=Search&q={{{s}}}"
+  },
+  {
+    "bang": "steemit",
+    "name": "Steemit",
+    "url": "https://steemit.com/static/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "s_user",
+    "name": "Scratch",
+    "url": "https://scratch.mit.edu/users/{{{s}}}"
+  },
+  {
+    "bang": "tip",
+    "name": "tipeee",
+    "url": "https://www.tipeee.com/creators?search={{{s}}}"
+  },
+  {
+    "bang": "tumblr",
+    "name": "tumblr",
+    "url": "https://www.tumblr.com/search/{{{s}}}"
+  },
+  {
+    "bang": "tv5",
+    "name": "TV5 Monde",
+    "url": "http://www.tv5monde.com/?q={{{s}}}"
+  },
+  {
+    "bang": "tvd",
+    "name": "The Vampire Diaries Wiki",
+    "url": "http://vampirediaries.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "ubu",
+    "name": "UbuWeb",
+    "url": "http://search.freefind.com/find.html?si=61902956&pid=r&n=0&_charset_=UTF-8&bcd=%C3%B7&query={{{s}}}"
+  },
+  {
+    "bang": "vdisk",
+    "name": "\u5fae\u76d8",
+    "url": "http://vdisk.weibo.com/search/?type=public&keyword={{{s}}}"
+  },
+  {
+    "bang": "votraro",
+    "name": "Plena Ilustrita Vortaro de Esperanto",
+    "url": "http://vortaro.net/?w={{{s}}}"
+  },
+  {
+    "bang": "vrtnu",
+    "name": "VRT NU",
+    "url": "https://www.vrt.be/vrtnu/zoeken/#query={{{s}}}"
+  },
+  {
+    "bang": "wbm",
+    "name": "WayBack Machine",
+    "url": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "bang": "wmcc",
+    "name": "Wikimedia Commons Category",
+    "url": "https://commons.wikimedia.org/w/index.php?search={{{s}}}&ns14=1"
+  },
+  {
+    "bang": "wmc",
+    "name": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "woo",
+    "name": "WooordHunt",
+    "url": "http://wooordhunt.ru/word/{{{s}}}"
+  },
+  {
+    "bang": "wzl",
+    "name": "Weasyl",
+    "url": "https://www.weasyl.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "yobi3d",
+    "name": "Yobi3D",
+    "url": "https://www.yobi3d.com/#!/search?q={{{s}}}"
+  }
+]

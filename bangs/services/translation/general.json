@@ -1,0 +1,377 @@
+[
+  {
+    "bang": "abadise",
+    "name": "Abadis English to Persian dictionary",
+    "url": "https://dictionary.abadis.ir/?LnType=entofa&Word={{{s}}}"
+  },
+  {
+    "bang": "abadisf",
+    "name": "Abadis Persian to English dictionary ",
+    "url": "https://dictionary.abadis.ir/?lntype=fatoen&word={{{s}}}"
+  },
+  {
+    "bang": "anlaf",
+    "name": "https://www.apertium.org",
+    "url": "https://www.apertium.org/index.eng.html?dir=nld-afr&q={{{s}}}"
+  },
+  {
+    "bang": "apertium",
+    "name": "Appertium",
+    "url": "http://wiki.apertium.org/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "babcs",
+    "name": "bab.la English-Czech dictionary",
+    "url": "https://en.bab.la/dictionary/english-czech/{{{s}}}"
+  },
+  {
+    "bang": "babp",
+    "name": "Bab.la Polish",
+    "url": "https://en.bab.la/dictionary/polish-english/{{{s}}}"
+  },
+  {
+    "bang": "bdtr",
+    "name": "\u767e\u5ea6\u7ffb\u8bd1",
+    "url": "https://fanyi.baidu.com/#en/zh/{{{s}}}"
+  },
+  {
+    "bang": "beo",
+    "name": "Beolingus De-en",
+    "url": "http://dict.tu-chemnitz.de/dings.cgi?service=deen&query={{{s}}}"
+  },
+  {
+    "bang": "beoes",
+    "name": "Beolingus De-es",
+    "url": "http://dict.tu-chemnitz.de/dings.cgi?service=dees&query={{{s}}}"
+  },
+  {
+    "bang": "beopt",
+    "name": "Beolingus De-pt",
+    "url": "http://dict.tu-chemnitz.de/dings.cgi?service=dept&query={{{s}}}"
+  },
+  {
+    "bang": "bolor",
+    "name": "bolor-toli",
+    "url": "http://www.bolor-toli.com/dictionary/word?search={{{s}}}"
+  },
+  {
+    "bang": "camesen",
+    "name": "Cambridge Dictionary Spanish-English",
+    "url": "https://dictionary.cambridge.org/dictionary/spanish-english/{{{s}}}"
+  },
+  {
+    "bang": "camtw",
+    "name": "Cambridge Traditional Chinese",
+    "url": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/{{{s}}}"
+  },
+  {
+    "bang": "cdende",
+    "name": "Cambridge Dictionary English-German",
+    "url": "https://dictionary.cambridge.org/dictionary/english-german/{{{s}}}"
+  },
+  {
+    "bang": "cdenes",
+    "name": "Cambridge Dictionary English-Spanish",
+    "url": "https://dictionary.cambridge.org/dictionary/english-spanish/{{{s}}}"
+  },
+  {
+    "bang": "cor",
+    "name": "Cornish-English Dictionary",
+    "url": "https://www.cornishdictionary.org.uk/home?locale=en#{{{s}}}"
+  },
+  {
+    "bang": "dcc",
+    "name": "dict.cc",
+    "url": "http://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "dcn",
+    "name": "Dict.cn Chinese<>English Dictionary",
+    "url": "http://dict.cn/{{{s}}}"
+  },
+  {
+    "bang": "deepl",
+    "name": "DeepL Translator",
+    "url": "https://www.deepl.com/translator#xx/en/{{{s}}}"
+  },
+  {
+    "bang": "deepleen",
+    "name": "DeepL ES-EN",
+    "url": "https://www.deepl.com/translator#es/en/{{{s}}}"
+  },
+  {
+    "bang": "deeplef",
+    "name": "DeepL",
+    "url": "https://www.deepl.com/translator#en/fr/{{{s}}}"
+  },
+  {
+    "bang": "deepleg",
+    "name": "DeepL",
+    "url": "https://www.deepl.com/translator#en/de/{{{s}}}"
+  },
+  {
+    "bang": "deeplen",
+    "name": "Deepl",
+    "url": "https://www.deepl.com/translator#es/en/{{{s}}}"
+  },
+  {
+    "bang": "deeplenes",
+    "name": "Deepl en-es",
+    "url": "https://www.deepl.com/translator#en/es/{{{s}}}"
+  },
+  {
+    "bang": "deeplenpt",
+    "name": "DeepL en-pt",
+    "url": "https://www.deepl.com/translator#de/pt/{{{s}}}"
+  },
+  {
+    "bang": "deeplfr",
+    "name": "deepl.com",
+    "url": "https://www.deepl.com/translator#fr/en/{{{s}}}"
+  },
+  {
+    "bang": "deeplge",
+    "name": "DeepL",
+    "url": "https://www.deepl.com/translator#de/en/{{{s}}}"
+  },
+  {
+    "bang": "deeplpten",
+    "name": "DeepL pt-en",
+    "url": "https://www.deepl.com/translator#pt/en/{{{s}}}"
+  },
+  {
+    "bang": "dehr",
+    "name": "dict.cc DE <> HR",
+    "url": "https://dehr.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "dfren",
+    "name": "dict.cc Dictionary French-English",
+    "url": "https://enfr.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "dikide",
+    "name": "diki.pl/slownik-niemieckiego",
+    "url": "https://www.diki.pl/slownik-niemieckiego?q={{{s}}}"
+  },
+  {
+    "bang": "dlenes",
+    "name": "DeepL eng-esp",
+    "url": "https://www.deepl.com/translator#en/es/{{{s}}}"
+  },
+  {
+    "bang": "dles",
+    "name": "DeepL",
+    "url": "https://www.deepl.com/translator#au/es/{{{s}}}"
+  },
+  {
+    "bang": "dpl",
+    "name": "DeepL",
+    "url": "https://www.deepl.com/translator#xx/en/{{{s}}}"
+  },
+  {
+    "bang": "dreye",
+    "name": "Dreye",
+    "url": "https://yun.dreye.com/dict_new/dict.php?w={{{s}}}"
+  },
+  {
+    "bang": "e2u",
+    "name": " \u0410\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e-\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0441\u043b\u043e\u0432\u043d\u0438\u043a\u0438",
+    "url": "https://e2u.org.ua/s?w={{{s}}}&dicts=all&highlight=on"
+  },
+  {
+    "bang": "enbn",
+    "name": "English to Bangali Dictionary",
+    "url": "http://www.english-bangla.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "frtech",
+    "name": "https://fr.techdico.com",
+    "url": "https://fr.techdico.com/traduction/francais-anglais/{{{s}}}"
+  },
+  {
+    "bang": "getfi",
+    "name": "glosbe (estonian - finnish)",
+    "url": "https://glosbe.com/et/fi/{{{s}}}"
+  },
+  {
+    "bang": "gfbf",
+    "name": "Geriafurch",
+    "url": "https://geriafurch.bzh/fr?q={{{s}}}&d=brfr"
+  },
+  {
+    "bang": "gffb",
+    "name": "Geriafurch",
+    "url": "https://geriafurch.bzh/fr?q={{{s}}}&d=frbr"
+  },
+  {
+    "bang": "gfiet",
+    "name": "glosbe (finnish - estonian)",
+    "url": "https://glosbe.com/fi/et/{{{s}}}"
+  },
+  {
+    "bang": "greco",
+    "name": "Greco olivetti",
+    "url": "https://www.grecoantico.com/dizionario-greco-antico.php?parola={{{s}}}"
+  },
+  {
+    "bang": "iateen",
+    "name": "European union terminology ",
+    "url": "https://iate.europa.eu/search/byUrl?term={{{s}}}&sl=en"
+  },
+  {
+    "bang": "iteo",
+    "name": "Vocabolario Italiano-Esperanto (Minnaja)",
+    "url": "http://www.swahili.it/glossword/index.php?a=term&d=2&q={{{s}}}"
+  },
+  {
+    "bang": "kodict",
+    "name": "Naver Korean Dictionary",
+    "url": "https://ko.dict.naver.com/#/search?query={{{s}}}"
+  },
+  {
+    "bang": "larfrit",
+    "name": "Larousse",
+    "url": "https://www.larousse.fr/dictionnaires/francais-italien/{{{s}}}/?q={{{s}}}"
+  },
+  {
+    "bang": "lateinde",
+    "name": "https://www.albertmartin.de/latein/?q=",
+    "url": "https://www.albertmartin.de/latein/?q={{{s}}}"
+  },
+  {
+    "bang": "leoc",
+    "name": "LEO Dictionary Chinese",
+    "url": "http://dict.leo.org/chde?lp=chde&search={{{s}}}"
+  },
+  {
+    "bang": "leoe",
+    "name": "LEO Dictionary English",
+    "url": "http://dict.leo.org/ende?lp=ende&search={{{s}}}"
+  },
+  {
+    "bang": "leof",
+    "name": "LEO Dictionary French",
+    "url": "http://dict.leo.org/frde?lp=frde&search={{{s}}}"
+  },
+  {
+    "bang": "leoi",
+    "name": "LEO Dictionary Italian",
+    "url": "http://dict.leo.org/itde?lp=itde&search={{{s}}}"
+  },
+  {
+    "bang": "leor",
+    "name": "LEO Dictionary Russian",
+    "url": "http://dict.leo.org/rude?lp=rude&search={{{s}}}"
+  },
+  {
+    "bang": "leos",
+    "name": "LEO Dictionary Spanish",
+    "url": "http://dict.leo.org/esde?lp=esde&search={{{s}}}"
+  },
+  {
+    "bang": "lidf",
+    "name": "Linguee Deutsch <-> Fran\u00e7ais (German  <-> French)",
+    "url": "https://www.linguee.de/deutsch-franzoesisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lifd",
+    "name": "Linguee Fran\u00e7ais <-> Deutsch (German <-> French) with French interface",
+    "url": "https://www.linguee.fr/francais-allemand/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "ltfr",
+    "name": "Larousse",
+    "url": "https://www.larousse.fr/dictionnaires/italien-francais/{{{s}}}"
+  },
+  {
+    "bang": "lugat",
+    "name": "Kubbealt\u0131 Lugat\u0131",
+    "url": "http://www.lugatim.com/s/{{{s}}}"
+  },
+  {
+    "bang": "nvde",
+    "name": "Naver german-korean dictionary",
+    "url": "https://dict.naver.com/dekodict/#/search?query={{{s}}}"
+  },
+  {
+    "bang": "nvenkr",
+    "name": "Naver Papago",
+    "url": "https://papago.naver.com/?sk=en&tk=ko&hn=0&st={{{s}}}"
+  },
+  {
+    "bang": "pasetrad",
+    "name": "Pasetrad",
+    "url": "http://www.pasetrad.com/search-engine.html?#gsc.tab=0&gsc.q={{{s}}}&gsc.sort=="
+  },
+  {
+    "bang": "ponsge",
+    "name": "Pons",
+    "url": "https://mobile.pons.com/dict/search/mobile-results/?q={{{s}}}&l=deen"
+  },
+  {
+    "bang": "ponsples",
+    "name": "Pons Polish->Spanish",
+    "url": "https://pl.pons.com/t%C5%82umaczenie?q={{{s}}}&l=espl&in=&lf=es"
+  },
+  {
+    "bang": "ppg",
+    "name": "Naver Papago",
+    "url": "https://papago.naver.com/?st={{{s}}}"
+  },
+  {
+    "bang": "proz",
+    "name": "Proz.com Forums",
+    "url": "https://www.proz.com/search/?term={{{s}}}"
+  },
+  {
+    "bang": "rcenru",
+    "name": "Reverso Context English-Russian",
+    "url": "https://context.reverso.net/translation/english-russian/{{{s}}}"
+  },
+  {
+    "bang": "rcruen",
+    "name": "Reverso Context Russian-English",
+    "url": "https://context.reverso.net/translation/russian-english/{{{s}}}"
+  },
+  {
+    "bang": "recfren",
+    "name": "Reverso Context",
+    "url": "https://context.reverso.net/traduction/francais-anglais/{{{s}}}"
+  },
+  {
+    "bang": "rfsanae",
+    "name": "RedFox Sanakirja",
+    "url": "https://redfoxsanakirja.fi/sanakirja/-/s/eng/fin/{{{s}}}"
+  },
+  {
+    "bang": "rfsana",
+    "name": "RedFox Sanakirja",
+    "url": "https://redfoxsanakirja.fi/sanakirja/-/s/fin/eng/{{{s}}}"
+  },
+  {
+    "bang": "ritru",
+    "name": "Reverso Context",
+    "url": "https://context.reverso.net/translation/italian-russian/{{{s}}}"
+  },
+  {
+    "bang": "tge",
+    "name": "Translate.Ge",
+    "url": "https://translate.ge/word/{{{s}}}"
+  },
+  {
+    "bang": "uib",
+    "name": "Bokm\u00e5lsordboka og Nynorskordboka",
+    "url": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge"
+  },
+  {
+    "bang": "wrptes",
+    "name": "WordReference Portugu\u00eas-Espa\u00f1ol",
+    "url": "http://www.wordreference.com/ptes/{{{s}}}"
+  },
+  {
+    "bang": "yomikata",
+    "name": "\u8aad\u307f\u65b9\u306f\uff1f",
+    "url": "https://yomikatawa.com/kanji/{{{s}}}"
+  }
+]

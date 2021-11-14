@@ -1,0 +1,1637 @@
+[
+  {
+    "bang": "4chg",
+    "name": "4chan technology board",
+    "url": "https://boards.4chan.org/g/catalog#s={{{s}}}"
+  },
+  {
+    "bang": "4g",
+    "name": "4chan - /g/ - Technology",
+    "url": "http://4chan.org/g/{{{s}}}"
+  },
+  {
+    "bang": "95g",
+    "name": "9to5google",
+    "url": "https://cse.google.com/cse?cx=008464549922976904202:uxmexxzm3k4&q={{{s}}}"
+  },
+  {
+    "bang": "95google",
+    "name": "9to5Google",
+    "url": "https://9to5google.com/?s={{{s}}}"
+  },
+  {
+    "bang": "95mac",
+    "name": "9to5Mac",
+    "url": "http://9to5mac.com/?s={{{s}}}"
+  },
+  {
+    "bang": "acnl",
+    "name": "Apple Coach",
+    "url": "https://applecoach.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "adablog",
+    "name": "Adafruit",
+    "url": "https://blog.adafruit.com/?s={{{s}}}"
+  },
+  {
+    "bang": "adr",
+    "name": "Adrenaline",
+    "url": "https://adrenaline.uol.com.br/site/pesquisa/{{{s}}}"
+  },
+  {
+    "bang": "aeris",
+    "name": "aeris - imirhil.fr",
+    "url": "https://duckduckgo.com/?q=site%3Aimirhil.fr+{{{s}}}"
+  },
+  {
+    "bang": "aftvhacks",
+    "name": "aftvhacks",
+    "url": "https://aftvhacks.de/?s={{{s}}}"
+  },
+  {
+    "bang": "ag",
+    "name": "Android Geeks",
+    "url": "http://www.android.gs/?s=&q={{{s}}}"
+  },
+  {
+    "bang": "aidaily",
+    "name": "AIDaily",
+    "url": "https://www.aidaily.co.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "alexalt",
+    "name": "Alexalt",
+    "url": "https://www.alexalt.es/?s={{{s}}}"
+  },
+  {
+    "bang": "amanz",
+    "name": "Amanz",
+    "url": "https://amanz.my/?s={{{s}}}"
+  },
+  {
+    "bang": "anandtech",
+    "name": "Anandtech",
+    "url": "http://anandtech.com/SearchResults?q={{{s}}}"
+  },
+  {
+    "bang": "anau",
+    "name": "Android Authority",
+    "url": "http://www.androidauthority.com/?q={{{s}}}"
+  },
+  {
+    "bang": "andce",
+    "name": "Android Central",
+    "url": "https://www.androidcentral.com/search/{{{s}}}"
+  },
+  {
+    "bang": "androidpitfr",
+    "name": "AndroidPit (Fr)",
+    "url": "http://www.androidpit.fr/search?st={{{s}}}"
+  },
+  {
+    "bang": "appinn",
+    "name": "\u5c0f\u4f17\u8f6f\u4ef6",
+    "url": "https://search.appinn.com/cse/search?q={{{s}}}&s=5999676002387380177&source=www.appinn.com"
+  },
+  {
+    "bang": "applebase",
+    "name": "AppleBase",
+    "url": "https://applebase.net/Search.html?term={{{s}}}&cat=1"
+  },
+  {
+    "bang": "applefritter",
+    "name": "Applefritter",
+    "url": "https://www.applefritter.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "appleinsider",
+    "name": "AppleInsider",
+    "url": "http://appleinsider.com/search/{{{s}}}"
+  },
+  {
+    "bang": "arcblog",
+    "name": "ArcGIS Blogs",
+    "url": "https://www.esri.com/en-us/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ars",
+    "name": "Ars Technica",
+    "url": "https://arstechnica.com/search/?ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "arstechnicauk",
+    "name": "Ars Technica UK",
+    "url": "http://arstechnica.co.uk/search/?query={{{s}}}"
+  },
+  {
+    "bang": "arsuk",
+    "name": "Ars Technica UK",
+    "url": "http://arstechnica.co.uk/search/?query={{{s}}}"
+  },
+  {
+    "bang": "arturogoga",
+    "name": "arturogoga.com",
+    "url": "https://www.arturogoga.com/?s={{{s}}}"
+  },
+  {
+    "bang": "asksteem",
+    "name": "AskSteem",
+    "url": "https://www.asksteem.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "askubnt",
+    "name": "Ask Ubuntu",
+    "url": "http://askubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "askvg",
+    "name": "AskVG",
+    "url": "http://www.askvg.com/?s={{{s}}}"
+  },
+  {
+    "bang": "at",
+    "name": "Addictive Tips",
+    "url": "http://www.addictivetips.com/archives/search/?cx=015974260755795457590%3Akigcmyffu6y&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&s=Search"
+  },
+  {
+    "bang": "b0b",
+    "name": "b0b.fr",
+    "url": "http://b0b.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "babymigo",
+    "name": "Babymigo",
+    "url": "https://babymigo.com/search/questions?query={{{s}}}"
+  },
+  {
+    "bang": "bbsfr",
+    "name": "BBS Consultant",
+    "url": "http://www.bbs-consultant.net/search/node/{{{s}}}"
+  },
+  {
+    "bang": "bdh",
+    "name": "Le blog du hacker",
+    "url": "http://www.leblogduhacker.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "beu",
+    "name": "Bertholdsson.eu",
+    "url": "https://bertholdsson.eu/?s={{{s}}}"
+  },
+  {
+    "bang": "bifr",
+    "name": "Bioinfo-fr",
+    "url": "http://bioinfo-fr.net/?s={{{s}}}"
+  },
+  {
+    "bang": "bitlair",
+    "name": "bitlair",
+    "url": "https://wiki.bitlair.nl/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "ble",
+    "name": "Bluetooth LE Wiki",
+    "url": "https://bluetoothle.wiki/start?do=search&id=start&q={{{s}}}"
+  },
+  {
+    "bang": "blf",
+    "name": "BudgetLightForum.com",
+    "url": "http://budgetlightforum.com/search?q_as={{{s}}}"
+  },
+  {
+    "bang": "blog",
+    "name": "DuckDuckGo blog",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aduck.co%2Fblog"
+  },
+  {
+    "bang": "blogudir",
+    "name": "Blogudir",
+    "url": "https://www.blogudir.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bns",
+    "name": "http://bokunoshumi.wordpress.com",
+    "url": "https://bokunoshumi.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "boardman",
+    "name": "Boardman Perspective",
+    "url": "http://dillonboardman.wordpress.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "boom",
+    "name": "Websmartboomer",
+    "url": "http://www.websmartboomer.com/?q={{{s}}}"
+  },
+  {
+    "bang": "bp",
+    "name": "Beautiful Pixels",
+    "url": "http://beautifulpixels.com/?s={{{s}}} "
+  },
+  {
+    "bang": "byte",
+    "name": "BytePost",
+    "url": "https://www.byte-post.com/?s={{{s}}}"
+  },
+  {
+    "bang": "c2",
+    "name": "Wiki Wiki Web",
+    "url": "http://c2.com/cgi/fullSearch?search={{{s}}}"
+  },
+  {
+    "bang": "cashoverflow",
+    "name": "CashOverflow",
+    "url": "http://www.cashoverflow.in/?s={{{s}}} "
+  },
+  {
+    "bang": "cbase",
+    "name": "ComputerBase",
+    "url": "http://www.computerbase.de/suche/?q={{{s}}}"
+  },
+  {
+    "bang": "ccgrforum",
+    "name": "Christ Centered Gamer Forums",
+    "url": "https://www.christcenteredgamer.com/phpBB3/search.php?keywords={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "ccgrreviews",
+    "name": "Christ Centered Gamer Reviews",
+    "url": "https://www.christcenteredgamer.com/index.php/component/search/?searchword={{{s}}}&ordering=newest&searchphrase=all&areas[0]=blogs"
+  },
+  {
+    "bang": "ccst",
+    "name": "CSS Tricks",
+    "url": "http://css-tricks.com/search-results/?q={{{s}}}"
+  },
+  {
+    "bang": "charge",
+    "name": "Initial Charge",
+    "url": "http://initialcharge.net/?s={{{s}}} "
+  },
+  {
+    "bang": "clien",
+    "name": "Clien",
+    "url": "https://www.clien.net/service/search?q={{{s}}}"
+  },
+  {
+    "bang": "cnet",
+    "name": "CNET",
+    "url": "http://www.cnet.com/1770-5_1-0.html?query={{{s}}}&tag=srch&target=nw"
+  },
+  {
+    "bang": "codinglove",
+    "name": "thecodinglove.com",
+    "url": "http://thecodinglove.com/search/{{{s}}}"
+  },
+  {
+    "bang": "comptoirsecu",
+    "name": "Le Comptoir S\u00e9cu",
+    "url": "http://www.comptoirsecu.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "couleur",
+    "name": "Couleur Science",
+    "url": "http://couleur-science.eu/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "crackberry",
+    "name": "Crackberry",
+    "url": "http://crackberry.com/search/google/{{{s}}}?query={{{s}}}"
+  },
+  {
+    "bang": "cultofmac",
+    "name": "Cult of Mac",
+    "url": "http://www.cultofmac.com/?s={{{s}}}"
+  },
+  {
+    "bang": "d2r",
+    "name": "https://www.drive2.ru",
+    "url": "https://www.drive2.ru/search?text={{{s}}}"
+  },
+  {
+    "bang": "danielha",
+    "name": "Daniel's Home Automation Blog",
+    "url": "https://danielha.tk/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "datablogger",
+    "name": "Data Blogger",
+    "url": "https://www.data-blogger.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "ddf",
+    "name": "Dansdeals Forum",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aforums.dansdeals.com"
+  },
+  {
+    "bang": "ddms",
+    "name": "DansDeals",
+    "url": "https://duckduckgo.com/?q= {{{s}}}+site%3Adansdeals.com"
+  },
+  {
+    "bang": "devonforum",
+    "name": "DEVONtechnologies Forum",
+    "url": "http://forum.devontechnologies.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "devto",
+    "name": "DEV.to",
+    "url": "https://dev.to/search?q={{{s}}}"
+  },
+  {
+    "bang": "digiato",
+    "name": "digiato",
+    "url": "http://digiato.com/?q={{{s}}}: "
+  },
+  {
+    "bang": "digitaltrends",
+    "name": "DigitalTrends",
+    "url": "http://www.digitaltrends.com/?s={{{s}}}"
+  },
+  {
+    "bang": "dl",
+    "name": "DesdeLinux",
+    "url": "http://blog.desdelinux.net/?s={{{s}}}"
+  },
+  {
+    "bang": "dmaciasblog",
+    "name": "dmaciasblog",
+    "url": "http://dmaciasblog.com/?s={{{s}}}"
+  },
+  {
+    "bang": "dmg",
+    "name": "DigitalinMarket",
+    "url": "https://www.digitalinmarket.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "doubtbox",
+    "name": "doubt box",
+    "url": "https://www.doubtbox.online/search/?q={{{s}}}"
+  },
+  {
+    "bang": "dummi",
+    "name": "http://www.dummies.com/search.html?query=cisc",
+    "url": "http://www.dummies.com/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "dxo",
+    "name": "dxomark.com",
+    "url": "http://www.dxomark.com/content/search/?SearchText={{{s}}} "
+  },
+  {
+    "bang": "easybi",
+    "name": "Easy-BI",
+    "url": "http://easy-bi.org/blog/?s={{{s}}}"
+  },
+  {
+    "bang": "egt",
+    "name": "Engadget",
+    "url": "http://www.engadget.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ehow",
+    "name": "eHow",
+    "url": "http://www.ehow.com/search.html?s={{{s}}}"
+  },
+  {
+    "bang": "ek",
+    "name": "Elektronik-Kompendium",
+    "url": "http://www.elektronik-kompendium.de/service/suchen/index.htm?domains=www.elektronik-kompendium.de&sitesearch=www.elektronik-kompendium.de&q={{{s}}}&sa=Suchen&client=pub-7453653573550802&forid=1&channel=3122011476&ie=ISO-8859-1&oe=ISO-8859-1&flav=0000&sig=XvZoofyEi29r3eL9&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A11&hl=de"
+  },
+  {
+    "bang": "engadget",
+    "name": "Engadget",
+    "url": "https://www.engadget.com/search/?search-terms={{{s}}}"
+  },
+  {
+    "bang": "fabienm",
+    "name": "fabienm",
+    "url": "http://www.fabienm.eu/wordpress/?s={{{s}}}"
+  },
+  {
+    "bang": "fedoramagazine",
+    "name": "fedoramagazine.org",
+    "url": "https://fedoramagazine.org/?s={{{s}}}"
+  },
+  {
+    "bang": "fhem",
+    "name": "FHEM",
+    "url": "https://wiki.fhem.de/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "forosuse",
+    "name": "ForoSUSE",
+    "url": "http://www.forosuse.org/?q={{{s}}}"
+  },
+  {
+    "bang": "fowler",
+    "name": "MartinFowler.com",
+    "url": "https://duckduckgo.com/?q=site%3Amartinfowler.com+{{{s}}}"
+  },
+  {
+    "bang": "frack",
+    "name": "Frack.nl Hackerspace",
+    "url": "https://frack.nl/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "freeg",
+    "name": "freeGROUP",
+    "url": "https://free.com.tw/?s={{{s}}}"
+  },
+  {
+    "bang": "freegroup",
+    "name": "\u514d\u8cbb\u8cc7\u6e90\u7db2\u8def\u793e\u7fa4",
+    "url": "https://free.com.tw/?s={{{s}}}"
+  },
+  {
+    "bang": "fw",
+    "name": "Forgotten Weapons",
+    "url": "http://www.forgottenweapons.com/?s={{{s}}}"
+  },
+  {
+    "bang": "fwy",
+    "name": "Fayerwayer",
+    "url": "https://www.fayerwayer.com/?q={{{s}}}"
+  },
+  {
+    "bang": "gadgets",
+    "name": "Gdgts",
+    "url": "http://gdgts.de/?s={{{s}}}"
+  },
+  {
+    "bang": "gadgetsnow",
+    "name": "Gadgets Now",
+    "url": "https://www.gadgetsnow.com/topic/{{{s}}}?SEARCH_STRING={{{s}}}"
+  },
+  {
+    "bang": "garoa",
+    "name": "Garoa Hacker Clube",
+    "url": "https://garoa.net.br/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "gartenexperte",
+    "name": "mein Gartenexperte",
+    "url": "https://www.mein-gartenexperte.de/suche?keywords={{{s}}}"
+  },
+  {
+    "bang": "gbat",
+    "name": "GBAtemp",
+    "url": "https://gbatemp.net/search/87708019/?q={{{s}}}"
+  },
+  {
+    "bang": "gdgt",
+    "name": "gdgt",
+    "url": "http://gdgt.com/search/{{{s}}}"
+  },
+  {
+    "bang": "geeksided",
+    "name": "GeekSided",
+    "url": "http://geeksided.com/?s={{{s}}}"
+  },
+  {
+    "bang": "geeku",
+    "name": "http://www.geekunivers.com",
+    "url": "http://www.geekunivers.com/?s={{{s}}} "
+  },
+  {
+    "bang": "gemug",
+    "name": "GeMUG",
+    "url": "http://www.gemug.ge/?s={{{s}}}"
+  },
+  {
+    "bang": "genma",
+    "name": "Le blog de Genma",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Fgenma.free.fr"
+  },
+  {
+    "bang": "gfk",
+    "name": "grafikart",
+    "url": "https://www.grafikart.fr/search?q={{{s}}}"
+  },
+  {
+    "bang": "ggca",
+    "name": "GabGagnon.ca",
+    "url": "https://gabgagnon.ca/?s={{{s}}}"
+  },
+  {
+    "bang": "ghacks",
+    "name": "Ghacks",
+    "url": "https://www.ghacks.net/?s={{{s}}}"
+  },
+  {
+    "bang": "gigaom",
+    "name": "GigaOM",
+    "url": "http://gigaom.com/?s={{{s}}}"
+  },
+  {
+    "bang": "gizmodo",
+    "name": "Gizmodo",
+    "url": "http://gizmodo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gmps",
+    "name": "GeekMPS",
+    "url": "http://geekmps.fr/component/search/?searchword={{{s}}} "
+  },
+  {
+    "bang": "gnt",
+    "name": "Generation Nouvelles Technologies",
+    "url": "http://www.generation-nt.com/s/{{{s}}}"
+  },
+  {
+    "bang": "gos",
+    "name": "Guru Of Sales",
+    "url": "http://guruofsales.com/?s={{{s}}}"
+  },
+  {
+    "bang": "gpio",
+    "name": "GPIO Support Services",
+    "url": "https://gpio.co.uk/?s={{{s}}}"
+  },
+  {
+    "bang": "gsmarena",
+    "name": "GSMArena",
+    "url": "http://www.gsmarena.com/results.php3?sName={{{s}}}"
+  },
+  {
+    "bang": "gspace",
+    "name": "gspace",
+    "url": "https://glammingspace.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "habra",
+    "name": "habrahabr.ru",
+    "url": "http://habrahabr.ru/search/?q={{{s}}}"
+  },
+  {
+    "bang": "habr",
+    "name": "HabraHabr",
+    "url": "https://habr.com/ru/search/?&q={{{s}}}"
+  },
+  {
+    "bang": "hack42",
+    "name": "Hack42",
+    "url": "https://hack42.nl/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "hackaday",
+    "name": "HackADay",
+    "url": "http://hackaday.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hackeradana",
+    "name": "Hacker Adana Blog",
+    "url": "https://blog.hackeradana.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "had",
+    "name": "Hackaday",
+    "url": "http://hackaday.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hahwul",
+    "name": "HAHWUL",
+    "url": "http://www.hahwul.com/search?max-results=7&q={{{s}}}"
+  },
+  {
+    "bang": "hak5f",
+    "name": "Hak5 Forums",
+    "url": "https://forums.hak5.org/index.php?app=core&module=search&do=search&fromMainBar=1&search_term={{{s}}}"
+  },
+  {
+    "bang": "hak5",
+    "name": "Hak5",
+    "url": "http://hak5.org/?s={{{s}}}"
+  },
+  {
+    "bang": "hardwareinfo",
+    "name": "Hardware.info",
+    "url": "https://us.hardware.info/#search:{{{s}}}"
+  },
+  {
+    "bang": "hio",
+    "name": "Hackaday.io",
+    "url": "https://hackaday.io/search?term={{{s}}}"
+  },
+  {
+    "bang": "hk",
+    "name": "HackTips",
+    "url": "http://hacktips.it/?s={{{s}}}"
+  },
+  {
+    "bang": "hno",
+    "name": "hackernoon",
+    "url": "https://hackernoon.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "howtoforge",
+    "name": "HowtoForge",
+    "url": "http://www.howtoforge.com/trip_search?keys={{{s}}}"
+  },
+  {
+    "bang": "howtogeek",
+    "name": "How-To Geek",
+    "url": "http://www.howtogeek.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "howtomakemyblog",
+    "name": "HowToMakeMyBlog",
+    "url": "http://howtomakemyblog.com/?s={{{s}}}"
+  },
+  {
+    "bang": "htg",
+    "name": "How-To Geek",
+    "url": "http://www.howtogeek.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "huge",
+    "name": "Huge Thinking",
+    "url": "https://hugethinking.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hugo",
+    "name": "Code with Hugo",
+    "url": "https://codewithhugo.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "hws",
+    "name": "Hacking With Swift",
+    "url": "https://www.hackingwithswift.com/search/{{{s}}}"
+  },
+  {
+    "bang": "iappmag",
+    "name": "iAppMag",
+    "url": "http://www.iappmag.de/?s={{{s}}}"
+  },
+  {
+    "bang": "idownloadblog",
+    "name": "iDownloadBlog",
+    "url": "http://www.idownloadblog.com/search/?cx=partner-pub-2130162217902648%3Adgi3x3-xedb&cof=FORID%3A11&ie=ISO-8859-1&q={{{s}}}&siteurl=www.idownloadblog.com%2F&ref=www.google.com%2F&ss=1069j239311j6"
+  },
+  {
+    "bang": "idrop",
+    "name": "iDropNEWS",
+    "url": "https://www.idropnews.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ifun",
+    "name": "ifun",
+    "url": "https://www.ifun.de/suche/{{{s}}}"
+  },
+  {
+    "bang": "ilounge",
+    "name": "iLounge",
+    "url": "http://www.ilounge.com/index.php/search/results/search&keywords={{{s}}}"
+  },
+  {
+    "bang": "ilovefreesoftware",
+    "name": "I Love Free Software",
+    "url": "http://www.ilovefreesoftware.com/gsearch?ie=UTF-8&q={{{s}}}&ss=1633j526083j9&cof=FORID%3a10&cx=008701510501807727669%3aabbyr0bpxi0&siteurl=www.ilovefreesoftware.com%2f"
+  },
+  {
+    "bang": "infoworld",
+    "name": "InfoWorld",
+    "url": "https://www.infoworld.com/search/google?cx=014839440456418836424%3Ahugs45or03k&cof=FORID%3A9&query={{{s}}}&op=Search&gl=US&safe=off&form_build_id=form-ea211c8bee91b69175fca8d84e9d9543&form_id=google_cse_results_searchbox_form"
+  },
+  {
+    "bang": "intohu",
+    "name": "Into.hu",
+    "url": "http://into.hu/kereses.php?kereses={{{s}}}&cikk=1&forum=1&letolt=1&fal=1&zene=1&kerdesek=1&page=1"
+  },
+  {
+    "bang": "iphonees",
+    "name": "Actualidad iPhone ",
+    "url": "http://www.actualidadiphone.com/search/{{{s}}}"
+  },
+  {
+    "bang": "iserv",
+    "name": "iservfr",
+    "url": "https://www.iserv.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "itnewz",
+    "name": "itnewz",
+    "url": "http://itnewz.ro/?s={{{s}}}: "
+  },
+  {
+    "bang": "iyanmv",
+    "name": "Iyanm",
+    "url": "http://iyanmv.com/?s={{{s}}}"
+  },
+  {
+    "bang": "j2team",
+    "name": "Juno_okyo's Blog",
+    "url": "https://junookyo.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "jadi",
+    "name": "jadi.net",
+    "url": "https://jadi.net/?s={{{s}}}"
+  },
+  {
+    "bang": "jesuerocha",
+    "name": "Jesue Rocha",
+    "url": "https://jesuerocha.com/search/{{{s}}}"
+  },
+  {
+    "bang": "kbn",
+    "name": "Korben",
+    "url": "https://korben.info/?s={{{s}}}"
+  },
+  {
+    "bang": "kdeblog",
+    "name": "http://www.kdeblog.com",
+    "url": "http://www.kdeblog.com/?s={{{s}}}"
+  },
+  {
+    "bang": "kdnuggets",
+    "name": "KDnuggets",
+    "url": "https://www.kdnuggets.com/?s={{{s}}}"
+  },
+  {
+    "bang": "kero",
+    "name": "Keroseno Komputing",
+    "url": "http://www.kerosenokomputing.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "kf",
+    "name": "Kasperfred",
+    "url": "https://kasperfred.com/posts/?q={{{s}}}"
+  },
+  {
+    "bang": "khronos",
+    "name": "Khronos",
+    "url": "http://www.khronos.org/search/?cx=017055583490642512057:_ak1bpok_no&cof=FORID:9&q={{{s}}}&sa=Search&siteurl=www.khronos.org"
+  },
+  {
+    "bang": "kkbruce",
+    "name": "KingKong Bruce\u8a18\u4e8b",
+    "url": "http://www.google.com/cse?cx=002209521788924011185:wzz9w-qvlhi&q={{{s}}}"
+  },
+  {
+    "bang": "kln",
+    "name": "MicKey's Land",
+    "url": "http://klnavarro.free.fr/spip/spip.php?page=recherche&recherche={{{s}}}"
+  },
+  {
+    "bang": "krebs",
+    "name": "Krebs On Security",
+    "url": "https://krebsonsecurity.com/?s={{{s}}}"
+  },
+  {
+    "bang": "krebsonsec",
+    "name": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/?s={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "kubapichci",
+    "name": "Kuba Pichci",
+    "url": "http://www.kuba-pichci.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "kuketz",
+    "name": "Kuketz-Blog",
+    "url": "https://www.kuketz-blog.de/?s={{{s}}}"
+  },
+  {
+    "bang": "lamhatech",
+    "name": "\u0644\u0645\u062d\u0629 \u062a\u0643",
+    "url": "https://www.lamhatech.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "leb",
+    "name": "LowEndBox",
+    "url": "http://lowendbox.com/?s={{{s}}}"
+  },
+  {
+    "bang": "lesnumeriques",
+    "name": "Les Num\u00e9riques",
+    "url": "http://www.lesnumeriques.com/recherche.html?q={{{s}}}&cx=partner-pub-8349656358827352%3A8590362607&cof=FORID%3A10&ie=UTF-8&hl=fr"
+  },
+  {
+    "bang": "lesnum",
+    "name": "Les Num\u00e9riques",
+    "url": "http://www.lesnumeriques.com/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "lhv",
+    "name": "Le Hollandais Volant",
+    "url": "http://lehollandaisvolant.net/?q={{{s}}}"
+  },
+  {
+    "bang": "lhvl",
+    "name": "Le Hollandais Volant : au fil du web",
+    "url": "http://lehollandaisvolant.net/?mode=links&q={{{s}}}"
+  },
+  {
+    "bang": "lignux",
+    "name": "LiGNUx",
+    "url": "http://lignux.com/?s={{{s}}}"
+  },
+  {
+    "bang": "lincoder",
+    "name": "lincoder",
+    "url": "http://www.lincoder.com/?s={{{s}}}:"
+  },
+  {
+    "bang": "linuxfr",
+    "name": "LinuxFr",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Alinuxfr.org&ia=web"
+  },
+  {
+    "bang": "lkn",
+    "name": "LoKan.jp",
+    "url": "https://lokan.jp/?s={{{s}}}"
+  },
+  {
+    "bang": "ln",
+    "name": "Le Newbie",
+    "url": "http://lenewbie.com/?s={{{s}}}"
+  },
+  {
+    "bang": "lsdh",
+    "name": "La sombra del helic\u00f3ptero",
+    "url": "https://lasombradelhelicoptero.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ltt",
+    "name": "LinusTechTips Forum",
+    "url": "https://linustechtips.com/main/search/?&q={{{s}}}"
+  },
+  {
+    "bang": "lvl",
+    "name": "La vache libre",
+    "url": "http://la-vache-libre.org/?s={{{s}}}"
+  },
+  {
+    "bang": "macobserver",
+    "name": "The Mac Observer",
+    "url": "https://www.macobserver.com/?s={{{s}}}"
+  },
+  {
+    "bang": "macrumors",
+    "name": "MacRumors",
+    "url": "http://www.macrumors.com/search/?s={{{s}}}"
+  },
+  {
+    "bang": "macstories",
+    "name": "MacStories",
+    "url": "http://www.macstories.net/?s={{{s}}}"
+  },
+  {
+    "bang": "makemac",
+    "name": "MakeMac",
+    "url": "http://makemac.com/?s={{{s}}}"
+  },
+  {
+    "bang": "make",
+    "name": "Make",
+    "url": "https://makezine.com/?s={{{s}}}"
+  },
+  {
+    "bang": "makeuseof",
+    "name": "MakeUseOf",
+    "url": "https://www.makeuseof.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mashable",
+    "name": "Mashable",
+    "url": "http://mashable.com/follow/search?q={{{s}}}"
+  },
+  {
+    "bang": "mash",
+    "name": "mashable",
+    "url": "http://mashable.com/follow/search/?q={{{s}}} "
+  },
+  {
+    "bang": "medgadget",
+    "name": "Medgadget",
+    "url": "http://www.medgadget.com/?s={{{s}}}"
+  },
+  {
+    "bang": "medium",
+    "name": "Medium",
+    "url": "https://medium.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "metaso",
+    "name": "Meta Stack Overflow",
+    "url": "http://meta.stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mjtsai",
+    "name": "Michael Tsai - Blog",
+    "url": "https://duckduckgo.com/?q={{{s}}}&sites=mjtsai.com&ia=web"
+  },
+  {
+    "bang": "mlg",
+    "name": "My Laptop Guide",
+    "url": "https://mylaptopguide.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mobileday",
+    "name": "Mobile Dat",
+    "url": "https://www.mobileday.in/search/label/{{{s}}}"
+  },
+  {
+    "bang": "moxo.ir",
+    "name": "\u0645\u0648\u06a9\u0633\u0648",
+    "url": "http://www.moxo.ir/?s={{{s}}} "
+  },
+  {
+    "bang": "mppb",
+    "name": "Medienp\u00e4dagogik Praxis-Blog",
+    "url": "https://www.medienpaedagogik-praxis.de/?s={{{s}}}"
+  },
+  {
+    "bang": "mr",
+    "name": "Mac Rumors",
+    "url": "http://www.macrumors.com/search?s={{{s}}}"
+  },
+  {
+    "bang": "mrphone",
+    "name": "Mr Phone",
+    "url": "https://www.themrphone.com/search/{{{s}}}"
+  },
+  {
+    "bang": "msh",
+    "name": "Mashable",
+    "url": "http://mashable.com/follow/search/?q={{{s}}}&commit=Search"
+  },
+  {
+    "bang": "msmvps",
+    "name": "MSMVPs.com",
+    "url": "http://msmvps.com/search/SearchResults.aspx?q={{{s}}}&o=Relevance"
+  },
+  {
+    "bang": "mspu",
+    "name": "MS Power User",
+    "url": "http://mspoweruser.com/?s={{{s}}}"
+  },
+  {
+    "bang": "muo",
+    "name": "Makeuseof",
+    "url": "https://www.makeuseof.com/?s={{{s}}}"
+  },
+  {
+    "bang": "muycomputer",
+    "name": "MuyComputer",
+    "url": "https://www.muycomputer.com/?s={{{s}}}"
+  },
+  {
+    "bang": "muylinux",
+    "name": "MuyLinux",
+    "url": "https://www.muylinux.com/?s={{{s}}}"
+  },
+  {
+    "bang": "naijatoptech",
+    "name": "Naijatoptech",
+    "url": "https://www.naijatoptech.com.ng/search?q={{{s}}}"
+  },
+  {
+    "bang": "nbcde",
+    "name": "Notebookcheck(DE)",
+    "url": "https://www.notebookcheck.com/Notebook-Suche.1095.0.html?&manufacturer=&model={{{s}}}"
+  },
+  {
+    "bang": "nbc",
+    "name": "NotebookCheck",
+    "url": "https://www.notebookcheck.net/Google-Search.36690.0.html?q={{{s}}}"
+  },
+  {
+    "bang": "nbsdman",
+    "name": "NetBSD manual pages",
+    "url": "http://netbsd.gw.com/cgi-bin/man-cgi?{{{s}}}"
+  },
+  {
+    "bang": "neowin",
+    "name": "Neowin",
+    "url": "http://www.neowin.net/search/news?terms={{{s}}}"
+  },
+  {
+    "bang": "networkpeople",
+    "name": "NetworkPeople",
+    "url": "http://networkpeople.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "niebezpiecznik",
+    "name": "Niebezpiecznik",
+    "url": "https://niebezpiecznik.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "omgchrome",
+    "name": "OMG! Chrome!",
+    "url": "http://www.omgchrome.com/?s={{{s}}}"
+  },
+  {
+    "bang": "omgc",
+    "name": "OMG! Chrome!",
+    "url": "http://www.omgchrome.com/?s={{{s}}}"
+  },
+  {
+    "bang": "omgh",
+    "name": "OMG Hackers",
+    "url": "https://omghackers.com/?s={{{s}}}"
+  },
+  {
+    "bang": "omgubuntu",
+    "name": "OMG! Ubuntu!",
+    "url": "http://www.omgubuntu.co.uk/?s={{{s}}}"
+  },
+  {
+    "bang": "omgu",
+    "name": "OMG! Ubuntu!",
+    "url": "http://www.omgubuntu.co.uk/?s={{{s}}}"
+  },
+  {
+    "bang": "oms",
+    "name": "On MSFT",
+    "url": "https://www.onmsft.com/?s={{{s}}}"
+  },
+  {
+    "bang": "omt",
+    "name": "One More Thing",
+    "url": "http://www.onemorething.nl/zoeken/{{{s}}}"
+  },
+  {
+    "bang": "openfreax",
+    "name": "Open-Freax",
+    "url": "http://open-freax.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "opennet",
+    "name": "OpenNET",
+    "url": "http://www.opennet.ru/search.shtml?exclude=index%7C%2Fman.shtml&words={{{s}}}"
+  },
+  {
+    "bang": "opensource",
+    "name": "Opensource.com",
+    "url": "https://opensource.com/sitewide-search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "bang": "osaa",
+    "name": "OSAA Wiki",
+    "url": "http://osaa.dk/wiki/index.php?title=Speciel%3ASearch&search={{{s}}}&go=G\u00e5+til"
+  },
+  {
+    "bang": "osi",
+    "name": "Open Source Initiative",
+    "url": "http://opensource.org/search/node/{{{s}}}"
+  },
+  {
+    "bang": "osnews",
+    "name": "OSNews",
+    "url": "http://www.osnews.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ostech",
+    "name": "OSTechNix",
+    "url": "https://www.ostechnix.com/?s={{{s}}}"
+  },
+  {
+    "bang": "osxdaily",
+    "name": "Osxdaily",
+    "url": "http://osxdaily.com/gsearch/?cx=partner-pub-7321635426958037%3A1x5yj0-316e&cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&sa=Search"
+  },
+  {
+    "bang": "p4k",
+    "name": "Pitchfork Media",
+    "url": "http://pitchfork.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "pcguia",
+    "name": "http://www.pcguia.pt",
+    "url": "http://www.pcguia.pt/?s={{{s}}}"
+  },
+  {
+    "bang": "pcmag",
+    "name": "PCMag",
+    "url": "http://www.pcmag.com/search_redirect/?qry={{{s}}}&searchSection=0&site=3"
+  },
+  {
+    "bang": "pcmr",
+    "name": "Reddit PC Master Race",
+    "url": "https://www.reddit.com/r/pcmasterrace/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "bang": "pcworldbg",
+    "name": "PC World Bulgaria",
+    "url": "http://pcworld.bg/search/all/{{{s}}}"
+  },
+  {
+    "bang": "pcworld",
+    "name": "PC World",
+    "url": "http://www.pcworld.com/search?qt={{{s}}}&tk=srch_top"
+  },
+  {
+    "bang": "phonearena",
+    "name": "Phone Arena",
+    "url": "http://www.phonearena.com/search/term/{{{s}}}"
+  },
+  {
+    "bang": "pho",
+    "name": "Photics.com",
+    "url": "https://photics.com/?s={{{s}}}"
+  },
+  {
+    "bang": "photics",
+    "name": "Photics.com",
+    "url": "https://photics.com/?s={{{s}}}"
+  },
+  {
+    "bang": "photocrati",
+    "name": "Photocrati",
+    "url": "http://www.photocrati.com/?s={{{s}}}"
+  },
+  {
+    "bang": "pitchfork",
+    "name": "Pitchfork Media",
+    "url": "http://pitchfork.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "pixelposts",
+    "name": "PixelPosts",
+    "url": "http://pixels.thetangible.in/search/{{{s}}}"
+  },
+  {
+    "bang": "ploum",
+    "name": "ploum.net",
+    "url": "https://ploum.net/?s={{{s}}}"
+  },
+  {
+    "bang": "ponsensl",
+    "name": "Pons en->sl",
+    "url": "https://en.pons.com/translate?q={{{s}}}&l=ensl&in=en&lf=en"
+  },
+  {
+    "bang": "portallinux",
+    "name": "PortalLinux",
+    "url": "http://portallinux.es/?s={{{s}}}"
+  },
+  {
+    "bang": "poststatus",
+    "name": "PostStatus",
+    "url": "https://poststatus.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ppc",
+    "name": "PocketPC.ch",
+    "url": "http://www.pocketpc.ch/google.php?cx=partner-pub-5163471580494836%3A7047225119&ie=UTF-8&cof=FORID%3A9&q={{{s}}}&sa.x=0&sa.y=0"
+  },
+  {
+    "bang": "primeinspire",
+    "name": "Prime Inspiration",
+    "url": "https://www.primeinspiration.com/?s={{{s}}}"
+  },
+  {
+    "bang": "privacy",
+    "name": "r/privacy Subreddit",
+    "url": "https://www.reddit.com/r/privacy/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "psci",
+    "name": "Podcast Science",
+    "url": "http://www.podcastscience.fm/?s={{{s}}} "
+  },
+  {
+    "bang": "pwv",
+    "name": "Programador Web Valencia",
+    "url": "https://programadorwebvalencia.com/blog/?search={{{s}}}"
+  },
+  {
+    "bang": "qoq",
+    "name": "Quest-O-Quora",
+    "url": "https://questso.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "qun",
+    "name": "\u7fa4\u70b9\u79d1\u6280",
+    "url": "https://qunwang6.github.io/?q={{{s}}}"
+  },
+  {
+    "bang": "rabbionrails",
+    "name": "Rabbi On Rails",
+    "url": "https://blog.yechiel.me/search?q={{{s}}}"
+  },
+  {
+    "bang": "rbtc",
+    "name": "Convert BRL to BTC",
+    "url": "http://www.metric-conversions.org/pt/moeda/bitcoin-em-real.htm?val={{{s}}}"
+  },
+  {
+    "bang": "readwriteweb",
+    "name": "ReadWriteWeb",
+    "url": "http://readwrite.com/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "recode",
+    "name": "Recode",
+    "url": "https://www.recode.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "replicante",
+    "name": "La mirada del replicante",
+    "url": "http://lamiradadelreplicante.com/?s={{{s}}} "
+  },
+  {
+    "bang": "revdroid",
+    "name": "Revdroid",
+    "url": "https://revdroid.com/?s={{{s}}}"
+  },
+  {
+    "bang": "rooth",
+    "name": "Root Hax",
+    "url": "https://www.roothax.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ruk",
+    "name": "ruk.ca",
+    "url": "http://ruk.ca/search/site/{{{s}}}"
+  },
+  {
+    "bang": "s9",
+    "name": "Sanctum Nine",
+    "url": "https://sanctum9.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "sabhow",
+    "name": "Sabhow",
+    "url": "https://sabhow.blogspot.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "sapblogs",
+    "name": "SAP Community Blogs",
+    "url": "https://blogs.sap.com/?s={{{s}}}"
+  },
+  {
+    "bang": "searchenginewatch",
+    "name": "Search Engine Watch",
+    "url": "https://searchenginewatch.com/?s={{{s}}}"
+  },
+  {
+    "bang": "seb",
+    "name": "Sebsauvage",
+    "url": "http://sebsauvage.net/rhaa/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "sfi",
+    "name": "Sci-Fi Interfaces",
+    "url": "https://scifiinterfaces.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "shaarli",
+    "name": "Shaarli River",
+    "url": "https://river.libox.fr/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "shout",
+    "name": "ShoutMeLoud",
+    "url": "https://www.shoutmeloud.com/?s={{{s}}}"
+  },
+  {
+    "bang": "slitazforums",
+    "name": "SliTaz Forums",
+    "url": "http://forum.slitaz.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "slotech",
+    "name": "Slo-Tech",
+    "url": "https://slo-tech.com/forum/isci/?q={{{s}}}"
+  },
+  {
+    "bang": "slote",
+    "name": "Slote Pimousse",
+    "url": "http://slote.me/?q={{{s}}}"
+  },
+  {
+    "bang": "sof",
+    "name": "StackOverflow",
+    "url": "https://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "spr",
+    "name": "SitePoint Reference",
+    "url": "http://search.sitepoint.com/?q={{{s}}}&refinements%5Breference%5D=1"
+  },
+  {
+    "bang": "sspai",
+    "name": "\u5c11\u6570\u6d3e",
+    "url": "https://sspai.com/search/article?q={{{s}}}"
+  },
+  {
+    "bang": "ssr",
+    "name": "Shop Smart Reviews",
+    "url": "https://shopsmartreviews.in/?s={{{s}}}"
+  },
+  {
+    "bang": "stm",
+    "name": "STM-Blog",
+    "url": "http://stmblog.com/?s={{{s}}}"
+  },
+  {
+    "bang": "subeen",
+    "name": "Subeen.com",
+    "url": "http://subeen.com/?s={{{s}}}"
+  },
+  {
+    "bang": "sudomod",
+    "name": "sudomod",
+    "url": "http://sudomod.com/?s={{{s}}}"
+  },
+  {
+    "bang": "svartling",
+    "name": "Svartling Network",
+    "url": "http://www.svartling.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "tbuff",
+    "name": "TechnoBuffalo",
+    "url": "http://www.technobuffalo.com/search-results/?cx=partner-pub-2551798495402703%3Ad3m0wbhqu0s&cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&sa=Search&siteurl=www.technobuffalo.com%2F&ref=&ss=975j318069j4"
+  },
+  {
+    "bang": "tc",
+    "name": "Techcrunch",
+    "url": "http://techcrunch.com/search/{{{s}}}"
+  },
+  {
+    "bang": "tech2days",
+    "name": "Tech2days",
+    "url": "http://tech2days.com/?q={{{s}}}:"
+  },
+  {
+    "bang": "techcopp",
+    "name": "Techcopp",
+    "url": "https://techcopp.com/?s={{{s}}}"
+  },
+  {
+    "bang": "techcrunch",
+    "name": "Techcrunch",
+    "url": "http://techcrunch.com/search/{{{s}}}"
+  },
+  {
+    "bang": "techdai",
+    "name": "Tech dai",
+    "url": "https://techdai.info/?s={{{s}}}"
+  },
+  {
+    "bang": "techdirt",
+    "name": "TechDirt",
+    "url": "http://www.techdirt.com/search.php?site=&q={{{s}}}"
+  },
+  {
+    "bang": "techgeek",
+    "name": "TechGeek",
+    "url": "https://techgeek.com.au/?s={{{s}}}"
+  },
+  {
+    "bang": "techified",
+    "name": "Techified",
+    "url": "http://techified-news.blogspot.co.uk/{{{s}}} uds-search-results"
+  },
+  {
+    "bang": "techinfo",
+    "name": "Tech info easy",
+    "url": "https://techinfoeasy.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "techmonk",
+    "name": "Techmonk",
+    "url": "https://code.kx.com/q/search?query={{{s}}}"
+  },
+  {
+    "bang": "technews",
+    "name": "Techii Talks",
+    "url": "https://www.techiitalks.com/{{{s}}}"
+  },
+  {
+    "bang": "techradar",
+    "name": "TechRadar",
+    "url": "https://www.techradar.com/search?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "techrights",
+    "name": "TechRights",
+    "url": "http://techrights.org/wiki/index.php/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "tech",
+    "name": "Technxt code labs",
+    "url": "http://technxt.net/?s={{{s}}}"
+  },
+  {
+    "bang": "techtudo",
+    "name": "TechTudo",
+    "url": "http://www.techtudo.com.br/busca/?q={{{s}}}"
+  },
+  {
+    "bang": "techvorm",
+    "name": "TechVorm",
+    "url": "https://techvorm.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tech-wd",
+    "name": "tech-wd.com",
+    "url": "http://www.tech-wd.com/wd/?s={{{s}}}"
+  },
+  {
+    "bang": "tecmundo",
+    "name": "Tecmundo",
+    "url": "https://www.tecmundo.com.br/busca?q={{{s}}}"
+  },
+  {
+    "bang": "tecnoblog",
+    "name": "Tecnoblog",
+    "url": "https://tecnoblog.net/?s={{{s}}}"
+  },
+  {
+    "bang": "tek.no",
+    "name": "tek.no",
+    "url": "https://www.tek.no/sok?query= {{{s}}}"
+  },
+  {
+    "bang": "tekno",
+    "name": "Teknosains",
+    "url": "http://teknosains.com/search?q={{{s}}}:"
+  },
+  {
+    "bang": "tekn",
+    "name": "Teknologi Masa Kini",
+    "url": "https://www.teknologimasakini.com/search?q={{{s}}}&max-results=8"
+  },
+  {
+    "bang": "teradata",
+    "name": "Teradata",
+    "url": "https://www.teradata.com/Search?SearchText={{{s}}}"
+  },
+  {
+    "bang": "terp",
+    "name": "BrettTerpstra.com",
+    "url": "http://brettterpstra.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "thehackernews",
+    "name": "The Hacker News",
+    "url": "https://www.google.com/cse?q=test&cx=partner-pub-7983783048239650%3A3179771210#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1"
+  },
+  {
+    "bang": "thilina",
+    "name": "Blog of Thilina Piyasundara ",
+    "url": "https://thilina.piyasundara.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "tmw",
+    "name": "Techman's World",
+    "url": "https://www.techmansworld.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tns",
+    "name": "The Nerdy Student",
+    "url": "https://thenerdystudent.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tomshardware",
+    "name": "Tom's Hardware",
+    "url": "http://www.tomshardware.com/s/{{{s}}}"
+  },
+  {
+    "bang": "tomshw",
+    "name": "Tom's Hardware",
+    "url": "http://www.tomshardware.com/s/{{{s}}}"
+  },
+  {
+    "bang": "toucharcade",
+    "name": "Touch Arcade",
+    "url": "http://toucharcade.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tripwire",
+    "name": "Tripwire The State of Security",
+    "url": "https://www.tripwire.com/state-of-security?s={{{s}}}"
+  },
+  {
+    "bang": "tutorilio",
+    "name": "Tutorilio Tech",
+    "url": "https://www.tutorilio.com/?q={{{s}}}"
+  },
+  {
+    "bang": "twlb",
+    "name": "Tweak Library",
+    "url": "https://tweaklibrary.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ubergizmo",
+    "name": "ubergizmo",
+    "url": "http://www.ubergizmo.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "unicode",
+    "name": "Unicode Character Search",
+    "url": "http://www.fileformat.info/info/unicode/char/search.htm?q={{{s}}}&preview=entity"
+  },
+  {
+    "bang": "untergang",
+    "name": "Linux und Technik",
+    "url": "http://untergang.de/index.php?option=search&searchword={{{s}}}"
+  },
+  {
+    "bang": "utf8",
+    "name": "Unicode Character Search",
+    "url": "http://www.fileformat.info/info/unicode/char/search.htm?q={{{s}}}&preview=entity"
+  },
+  {
+    "bang": "uxul",
+    "name": "Ein Templatesystem F\u00fcr Templatesysteme",
+    "url": "https://uxul.de/find?search={{{s}}}"
+  },
+  {
+    "bang": "verge",
+    "name": "The Verge",
+    "url": "http://www.theverge.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "vhck",
+    "name": "victorhckinthefreeworld",
+    "url": "https://victorhckinthefreeworld.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "voit",
+    "name": "publicvoit",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3AKarl-Voit.at&ia=web"
+  },
+  {
+    "bang": "vt",
+    "name": "Vulgum Techus",
+    "url": "http://www.vulgumtechus.com/index.php?title=Sp\u00e9cial:Recherche&search={{{s}}}"
+  },
+  {
+    "bang": "vyavasthit",
+    "name": "Vyavasthit",
+    "url": "https://vyavasthit.com/?s={{{s}}}"
+  },
+  {
+    "bang": "wbmp",
+    "name": "Webmasterparadies.de",
+    "url": "https://webmasterparadies.de/?s={{{s}}}"
+  },
+  {
+    "bang": "whohosts",
+    "name": "Who Is Hosting This?",
+    "url": "http://www.whoishostingthis.com/?q={{{s}}}"
+  },
+  {
+    "bang": "wikipediocracy",
+    "name": "Wikipediocracy (blog)",
+    "url": "http://wikipediocracy.com/?s={{{s}}}"
+  },
+  {
+    "bang": "willh",
+    "name": "The Will Will Web",
+    "url": "http://blog.miniasp.com/search.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "wired",
+    "name": "Wired",
+    "url": "https://www.wired.com/search/?q={{{s}}}&page=1&sort=score"
+  },
+  {
+    "bang": "wordlift",
+    "name": "WordLift",
+    "url": "https://wordlift.io/blog/en/?s={{{s}}}"
+  },
+  {
+    "bang": "wpbeg",
+    "name": "WP Beginner",
+    "url": "http://www.wpbeginner.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "xorp",
+    "name": "Xorp Blog",
+    "url": "https://blog.xorp.hu/?s={{{s}}}"
+  },
+  {
+    "bang": "yegg",
+    "name": "Gabriel Weinberg's Blog",
+    "url": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fwww.gabrielweinberg.com%2Fblog+{{{s}}}"
+  },
+  {
+    "bang": "z3s",
+    "name": "Zaufana Trzecia Strona",
+    "url": "https://zaufanatrzeciastrona.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "zdnet",
+    "name": "ZDNet",
+    "url": "http://www.zdnet.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "zvon",
+    "name": "ZVON.org",
+    "url": "http://zvon.org/comp/m/{{{s}}}.html"
+  },
+  {
+    "bang": "\u062a\u0628\u0633\u064a\u0637",
+    "name": "\u0645\u0648\u0642\u0639 \u062a\u0628\u0633\u064a\u0637",
+    "url": "https://tapseet.com/?s={{{s}}}"
+  }
+]

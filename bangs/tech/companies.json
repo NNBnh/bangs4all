@@ -1,0 +1,837 @@
+[
+  {
+    "bang": "3ds",
+    "name": "Dassault Syst\u00e8mes",
+    "url": "http://www.3ds.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "aceforum",
+    "name": "AceLab official forum",
+    "url": "http://forum.acelaboratory.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "acer",
+    "name": "Acer",
+    "url": "http://us.acer.com/ac/en/US/search?q={{{s}}}"
+  },
+  {
+    "bang": "acquiredby",
+    "name": "AcquiredBy",
+    "url": "https://acquiredby.co/?s={{{s}}}"
+  },
+  {
+    "bang": "adobe",
+    "name": "Adobe",
+    "url": "http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term={{{s}}}"
+  },
+  {
+    "bang": "adz",
+    "name": "Audeze",
+    "url": "https://www.audeze.com/search?q={{{s}}}*"
+  },
+  {
+    "bang": "alert",
+    "name": "BiznesAlert",
+    "url": "http://biznesalert.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "alexa",
+    "name": "Alexa",
+    "url": "http://alexa.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "amd",
+    "name": "AMD",
+    "url": "http://search.amd.com/en-us/Pages/results-all.aspx?k={{{s}}}"
+  },
+  {
+    "bang": "ans.splunk",
+    "name": "Splunk Answers",
+    "url": "https://answers.splunk.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "answers.splunk",
+    "name": "answers.splunk.com",
+    "url": "http://answers.splunk.com/search/?q={{{s}}}&Submit=Search"
+  },
+  {
+    "bang": "applebr",
+    "name": "Apple (Brasil)",
+    "url": "https://www.apple.com/br/search/{{{s}}}"
+  },
+  {
+    "bang": "applediscuss",
+    "name": "Apple Discussions",
+    "url": "https://discussions.apple.com/search.jspa?peopleEnabled=true&userID=&containerType=&container=&spotlight=true&q={{{s}}}"
+  },
+  {
+    "bang": "apps.splunk",
+    "name": "apps.splunk.com",
+    "url": "http://apps.splunk.com/apps/#/search/{{{s}}}"
+  },
+  {
+    "bang": "arcdoc",
+    "name": "ArcGIS Documentation",
+    "url": "https://doc.arcgis.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ark",
+    "name": "Intel Processor Specification",
+    "url": "https://ark.intel.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "atlantis",
+    "name": "Atlantis Time-Line",
+    "url": "https://www.atlantistime.com/?s={{{s}}}"
+  },
+  {
+    "bang": "audi",
+    "name": "Audi",
+    "url": "http://www.audi.de/de/brand/de/tools/search.html#search={{{s}}}"
+  },
+  {
+    "bang": "bcb-atm",
+    "name": "BCB ATM",
+    "url": "https://bcb-atm.com/map?keyword={{{s}}}"
+  },
+  {
+    "bang": "bell",
+    "name": "Bell",
+    "url": "http://www.bell.ca/Search?q={{{s}}}"
+  },
+  {
+    "bang": "blogs.splunk",
+    "name": "blogs.splunk.com",
+    "url": "http://blogs.splunk.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bsr",
+    "name": "BlueSkyRotor",
+    "url": "http://www.blueskyrotor.com/performance/search/index.php?keyword={{{s}}}"
+  },
+  {
+    "bang": "chefdoc",
+    "name": "Chef Docs",
+    "url": "https://docs.chef.io/search.html#stq={{{s}}}&stp=1"
+  },
+  {
+    "bang": "cisco",
+    "name": "Cisco",
+    "url": "https://search.cisco.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "cld",
+    "name": "Cloudinary",
+    "url": "https://support.cloudinary.com/hc/en-us/search?utf8=%E2%9C%93&query={{{s}}}"
+  },
+  {
+    "bang": "clipart",
+    "name": "Microsoft Clipart",
+    "url": "http://office.microsoft.com/en-us/clipart/results.aspx?qu={{{s}}}&sc=20"
+  },
+  {
+    "bang": "cmmm",
+    "name": "CMM-Manager Forum",
+    "url": "https://www.cmmmanager.com/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "cmmmgr",
+    "name": "CMM-Manager",
+    "url": "https://www.cmmmanager.com/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "code42",
+    "name": "Code42",
+    "url": "https://support.code42.com/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "coldfusion",
+    "name": "ColdFusion Docs",
+    "url": "http://community.adobe.com/help/search.html?searchterm={{{s}}}&go=go&q={{{s}}}&l=coldfusion_product_adobelr&x=0&y=0&area=0&lr=en_US"
+  },
+  {
+    "bang": "coveo",
+    "name": "Coveo",
+    "url": "http://www.coveo.com/en/search#q={{{s}}}"
+  },
+  {
+    "bang": "crunchbase",
+    "name": "CrunchBase",
+    "url": "https://www.crunchbase.com/textsearch?q={{{s}}}"
+  },
+  {
+    "bang": "crunch",
+    "name": "Crunchbase",
+    "url": "https://www.crunchbase.com/textsearch/?q={{{s}}}"
+  },
+  {
+    "bang": "datasheetarchive",
+    "name": "Datasheet Archive",
+    "url": "http://www.datasheetarchive.com/{{{s}}}-datasheet.html"
+  },
+  {
+    "bang": "datev",
+    "name": "DATEV",
+    "url": "https://www.datev.de/web/de/suche/?query={{{s}}}"
+  },
+  {
+    "bang": "dell",
+    "name": "Dell",
+    "url": "http://search.dell.com/results.aspx?s=gen&c=us&l=en&cs=&k={{{s}}}&cat=all"
+  },
+  {
+    "bang": "dellsp",
+    "name": "Dell Support Search",
+    "url": "https://www.dell.com/support/search/us/en/19#q={{{s}}}&sort=relevancy&f:langFacet=[en]"
+  },
+  {
+    "bang": "dellst",
+    "name": "Dell Support Service Tag",
+    "url": "http://www.dell.com/support/home/us/en/19/product-support/servicetag/{{{s}}}"
+  },
+  {
+    "bang": "delluk",
+    "name": "Dell UK",
+    "url": "http://search.euro.dell.com/results.aspx?s=gen&c=uk&l=en&cs=&k={{{s}}}&cat=all&x=0&y=0"
+  },
+  {
+    "bang": "deltaco",
+    "name": "Deltaco (SE)",
+    "url": "https://www.deltaco.se/Sidor/SearchResults.aspx?k={{{s}}}"
+  },
+  {
+    "bang": "dev.splunk",
+    "name": "dev.splunk.com",
+    "url": "http://dev.splunk.com/search/dev?q={{{s}}}"
+  },
+  {
+    "bang": "djtt",
+    "name": "DJTechTools",
+    "url": "http://www.djtechtools.com/?s={{{s}}}"
+  },
+  {
+    "bang": "docs.splunk",
+    "name": "Splunk Docs",
+    "url": "https://docs.splunk.com/Special:SplunkSearch/docs?q={{{s}}}"
+  },
+  {
+    "bang": "dox",
+    "name": "Amdocs",
+    "url": "https://www.amdocs.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "dremio",
+    "name": "dremio community",
+    "url": "https://community.dremio.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "drill",
+    "name": "Drill Source",
+    "url": "http://www.drillsource.com/?s={{{s}}}"
+  },
+  {
+    "bang": "duet",
+    "name": "Duet3D Documentation",
+    "url": "https://duet3d.dozuki.com/Search?query={{{s}}}"
+  },
+  {
+    "bang": "ecolab",
+    "name": "Ecolab",
+    "url": "http://www.ecolab.com/search/#q={{{s}}}&sort=relevancy"
+  },
+  {
+    "bang": "endole",
+    "name": "Endole",
+    "url": "http://www.endole.co.uk/search/?search={{{s}}}"
+  },
+  {
+    "bang": "epicg",
+    "name": "Epic UserWeb",
+    "url": "https://galaxy.epic.com/?#Search/version=8200&searchWord={{{s}}}&lastUpdate="
+  },
+  {
+    "bang": "exalead",
+    "name": "Exalead",
+    "url": "http://www.exalead.com/search/web/results/?q={{{s}}}"
+  },
+  {
+    "bang": "fido",
+    "name": "Fido",
+    "url": "http://www.fido.ca/consumer/search?q={{{s}}}"
+  },
+  {
+    "bang": "fischertechnik",
+    "name": "fischertechnik.de",
+    "url": "http://www.fischertechnik.de/desktopdefault.aspx/tabid-1//tabid-35/searchcall-4/4_keepvisible-true/redirected-1/?/sid-3230669/mid-4/tid-1/ct-0/q-{{{s}}}//k-/et-0/rpp-10/sar-False/t-/p-0/ap-True/cat-/cr-0/pr-0/icp-False/icc-False/ifc-False/sl-1/sp-0/cs-"
+  },
+  {
+    "bang": "fool",
+    "name": "Fool.com",
+    "url": "http://www.fool.com/search/index.aspx?go=1&site=USMF&q={{{s}}}&source=ifltnvsnq0000001&mbbid=BoardID&mbmid=MessageID"
+  },
+  {
+    "bang": "fpe",
+    "name": "Florida Prep Express",
+    "url": "https://florida-prep.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "freedom",
+    "name": "Freedom Mobile Support",
+    "url": "https://www.freedommobile.ca/support/search/faq-search-results?q={{{s}}}"
+  },
+  {
+    "bang": "freqcheck",
+    "name": "FrequencyCheck",
+    "url": "https://www.frequencycheck.com/search?s={{{s}}}"
+  },
+  {
+    "bang": "fruit",
+    "name": "Adafruit",
+    "url": "http://www.adafruit.com/search?q={{{s}}}&b=1"
+  },
+  {
+    "bang": "gcubed",
+    "name": "gCubed",
+    "url": "https://cse.google.com/cse/publicurl?cx=007995818864770319293:3weihy1amkc&cof=FORID:1&q={{{s}}}"
+  },
+  {
+    "bang": "got",
+    "name": "Gathering of Tweakers",
+    "url": "http://gathering.tweakers.net/forum/find?keyword={{{s}}}"
+  },
+  {
+    "bang": "goto",
+    "name": "Goto Google link shortener",
+    "url": "https://goto.google.com/{{{s}}}"
+  },
+  {
+    "bang": "gsma",
+    "name": "GSM Arena",
+    "url": "http://www.gsmarena.com/results.php3?sName={{{s}}}"
+  },
+  {
+    "bang": "guardianproject",
+    "name": "Guardian Project",
+    "url": "https://guardianproject.info/?s={{{s}}}"
+  },
+  {
+    "bang": "headtalker",
+    "name": "HeadTalker",
+    "url": "https://headtalker.com/?s={{{s}}}&post_type[]=campaigns"
+  },
+  {
+    "bang": "highfive",
+    "name": "Highfive",
+    "url": "https://success.highfive.com/hc/en-us/search?utf8=\u2713&query={{{s}}}"
+  },
+  {
+    "bang": "hp",
+    "name": "HP",
+    "url": "http://search.hp.com/query.html?lang=en&submit.x=0&submit.y=0&qt={{{s}}}&la=en&cc=us"
+  },
+  {
+    "bang": "i3",
+    "name": "i3-Technologies",
+    "url": "https://www.i3-technologies.com/en/resources/knowledge-base/?q={{{s}}}"
+  },
+  {
+    "bang": "iaven",
+    "name": "IAV Automotive Engineering",
+    "url": "https://www.iav.com/en/search/site/{{{s}}}"
+  },
+  {
+    "bang": "iav",
+    "name": "IAV Automotive Engineering",
+    "url": "https://www.iav.com/search/site/{{{s}}}"
+  },
+  {
+    "bang": "ibm",
+    "name": "IBM",
+    "url": "http://www.ibm.com/Search/?q={{{s}}}&v=16&en=utf&lang=en&cc=us&Search=Search"
+  },
+  {
+    "bang": "icultr",
+    "name": "iCulture",
+    "url": "http://www.iculture.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "iel",
+    "name": "Inspired eLearning Support",
+    "url": "https://support.inspiredelearning.com/help/search/?phrase={{{s}}}"
+  },
+  {
+    "bang": "ijinus",
+    "name": "ijinus.com",
+    "url": "https://www.ijinus.com/?s={{{s}}}&lang=en"
+  },
+  {
+    "bang": "imagely",
+    "name": "Imagely",
+    "url": "https://www.imagely.com/?s={{{s}}} "
+  },
+  {
+    "bang": "intel",
+    "name": "Intel",
+    "url": "http://www.intel.com/content/www/us/en/search.html?keyword={{{s}}}"
+  },
+  {
+    "bang": "iot",
+    "name": "RoomAlert.ro",
+    "url": "https://www.roomalert.ro/search?q={{{s}}}"
+  },
+  {
+    "bang": "jap",
+    "name": "support.justaddpower.com",
+    "url": "https://support.justaddpower.com/kb/search/?q={{{s}}}"
+  },
+  {
+    "bang": "java4",
+    "name": "Java4 Docs",
+    "url": "http://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/1.4.2/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0"
+  },
+  {
+    "bang": "java5",
+    "name": "Java5 Docs",
+    "url": "http://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/1.5.0/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0"
+  },
+  {
+    "bang": "java6",
+    "name": "Java6 Docs",
+    "url": "http://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/6/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0"
+  },
+  {
+    "bang": "javascript",
+    "name": "JavaScript Docs",
+    "url": "https://developer.mozilla.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "jetbrains",
+    "name": "Jetbrains",
+    "url": "https://www.jetbrains.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "kmc",
+    "name": "Kaltura",
+    "url": "https://knowledge.kaltura.com/search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "bang": "lenovo",
+    "name": "Lenovo",
+    "url": "http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/site.workflow:SimpleSiteSearch?q={{{s}}}&v=15&lang=en&cc=us&en=utf&Search.x=0&Search.y=0&Search=Search"
+  },
+  {
+    "bang": "lookdocs",
+    "name": "Looker Documentation",
+    "url": "https://docs.looker.com/#stq={{{s}}}&stp=1"
+  },
+  {
+    "bang": "lttforum",
+    "name": "LinusTechTips Forum",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Alinustechtips.com"
+  },
+  {
+    "bang": "macworld",
+    "name": "Macworld",
+    "url": "http://www.macworld.com/search?query={{{s}}} &submit=search"
+  },
+  {
+    "bang": "magpi",
+    "name": "MagPi",
+    "url": "https://www.raspberrypi.org/magpi/?s={{{s}}}"
+  },
+  {
+    "bang": "mbug",
+    "name": "Mozilla Bugzilla",
+    "url": "https://bugzilla.mozilla.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "mdc",
+    "name": "Mozilla Developer Center",
+    "url": "https://developer.mozilla.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "melopero",
+    "name": "Melopero",
+    "url": "https://www.melopero.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "bang": "microsoft",
+    "name": "Microsoft",
+    "url": "http://search.microsoft.com/results.aspx?mkt=en-US&form=MSHOME&setlang=en-US&q={{{s}}}"
+  },
+  {
+    "bang": "mongodb",
+    "name": "MongoDB",
+    "url": "http://docs.mongodb.org/manual/search/?query={{{s}}}"
+  },
+  {
+    "bang": "mozbrowser",
+    "name": "MozBrowser.nl",
+    "url": "http://www.mozbrowser.nl/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "mozillasupport",
+    "name": "Mozilla Support",
+    "url": "https://support.mozilla.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "moz",
+    "name": "Mozilla",
+    "url": "https://www.google.com/cse?cx=002443141534113389537%3Aysdmevkkknw&cof=FORID%3A0&q={{{s}}}"
+  },
+  {
+    "bang": "mozwiki",
+    "name": "Mozilla Wiki",
+    "url": "https://wiki.mozilla.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "msdn",
+    "name": "MSDN",
+    "url": "http://social.msdn.microsoft.com/Search/en-US?query={{{s}}}&ac=8"
+  },
+  {
+    "bang": "msi",
+    "name": "MSI USA",
+    "url": "https://us.msi.com/search/{{{s}}}"
+  },
+  {
+    "bang": "mskb",
+    "name": "Microsoft Knowledge Base",
+    "url": "https://support.microsoft.com/en-us/search?query={{{s}}}"
+  },
+  {
+    "bang": "ms",
+    "name": "Microsoft",
+    "url": "http://search.microsoft.com/results.aspx?mkt=en-US&form=MSHOME&setlang=en-US&q={{{s}}}"
+  },
+  {
+    "bang": "ncsc",
+    "name": "Nationaal Cyber Security Centrum",
+    "url": "https://www.ncsc.nl/zoeken?trefwoord={{{s}}}"
+  },
+  {
+    "bang": "netacad",
+    "name": "Networking Academy",
+    "url": "https://www.netacad.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "netgear",
+    "name": "Netgear",
+    "url": "http://netgear.com/Search.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "netolink",
+    "name": "Netolink",
+    "url": "https://netolink.com/?s={{{s}}}"
+  },
+  {
+    "bang": "netwerk",
+    "name": "NetworkPeople",
+    "url": "http://networkpeople.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "nginxwiki",
+    "name": "nginx wiki",
+    "url": "http://wiki.nginx.org/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "nikon",
+    "name": "Nikon USA",
+    "url": "http://www.nikonusa.com/en/about-nikon/search.page?searchCollection=SEARCH_ALL&q={{{s}}}"
+  },
+  {
+    "bang": "nimvelo",
+    "name": "Nimvelo",
+    "url": "http://kb.nimvelo.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "ni",
+    "name": "National Instruments",
+    "url": "http://search.ni.com/nisearch/app/main/p/bot/no/ap/global/lang/en/pg/1/q/{{{s}}}"
+  },
+  {
+    "bang": "nvidia",
+    "name": "Nvidia",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Anvidia.com&ia=web"
+  },
+  {
+    "bang": "optoma",
+    "name": "Optoma",
+    "url": "https://www.optomaeurope.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "optus",
+    "name": "Optus",
+    "url": "https://www.optus.com.au/customercentre/search?query={{{s}}}"
+  },
+  {
+    "bang": "opussoftware",
+    "name": "Opus Software",
+    "url": "http://www.opus-software.com.br/?s={{{s}}}"
+  },
+  {
+    "bang": "oracle",
+    "name": "Oracle",
+    "url": "https://www.oracle.com/search/results?Ntt={{{s}}}&Dy=1&Nty=1&Ntk=SI-ALL5"
+  },
+  {
+    "bang": "otn",
+    "name": "Oracle Technology Network",
+    "url": "https://community.oracle.com/search.jspa?q={{{s}}}"
+  },
+  {
+    "bang": "owler",
+    "name": "Owler",
+    "url": "https://www.owler.com/iaApp/browsecompanyprofiles.htm?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "panstwo",
+    "name": "Moje Pa\u0144stwo",
+    "url": "https://mojepanstwo.pl/?q={{{s}}}"
+  },
+  {
+    "bang": "parker",
+    "name": "www.parker.com",
+    "url": "https://www.parker.com/portal/site/PARKER/menuitem.c9e5838e8a4c0934704b7b10237ad1ca/?selectCategory=all&vgnextfmt=EN&vgnextoid=941b13fc0fa14110VgnVCM10000032a71dacRCRD&newSearch=1&searchbox={{{s}}}"
+  },
+  {
+    "bang": "passmark",
+    "name": "passmark.com",
+    "url": "http://www.passmark.com/search/zoomsearch.php?zoom_query={{{s}}}&search=Search"
+  },
+  {
+    "bang": "pplwiki",
+    "name": "The Plugin People Wiki",
+    "url": "https://thepluginpeople.atlassian.net/wiki/dosearchsite.action?queryString={{{s}}}"
+  },
+  {
+    "bang": "proff",
+    "name": "Proff",
+    "url": "https://www.proff.no/rolles\u00f8k?q={{{s}}}"
+  },
+  {
+    "bang": "pxc",
+    "name": "Phoenix Contact",
+    "url": "http://www.phoenixcontact.com/online/portal/us?q={{{s}}}&uri=pxc-search%3Awebsite&library=usen"
+  },
+  {
+    "bang": "qualebs",
+    "name": "Techbay",
+    "url": "https://www.qualebs.com/techbay/search?query={{{s}}}"
+  },
+  {
+    "bang": "quantcast",
+    "name": "Quantcast",
+    "url": "https://www.quantcast.com/home/site/search/{{{s}}}"
+  },
+  {
+    "bang": "ralit",
+    "name": "Rockwell Automation Literature",
+    "url": "http://search.rockwellautomation.com/search?q={{{s}}}&client=literature&filter=0&ie=UTF-8&oe=UTF-8&output=xml_no_dtd&proxystylesheet=literature&site=literature&getfields=*&lang=en&hl=en&num=20&requiredfields=xlanguage%3AMU%7Cxlanguage%3AEN"
+  },
+  {
+    "bang": "rightscale",
+    "name": "RightScale Docs",
+    "url": "https://docs.rightscale.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "rogers",
+    "name": "Rogers",
+    "url": "https://www.rogers.com/customer/search?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rpi",
+    "name": "Raspberry Pi",
+    "url": "https://www.raspberrypi.org/search/{{{s}}}"
+  },
+  {
+    "bang": "rp",
+    "name": "Raspberry Pi",
+    "url": "http://www.raspberrypi.org/phpBB3/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "rzr",
+    "name": "Razer",
+    "url": "https://www.razer.com/search?text={{{s}}}"
+  },
+  {
+    "bang": "sam",
+    "name": "Samsung",
+    "url": "http://www.samsung.com/au/search/?q={{{s}}}"
+  },
+  {
+    "bang": "scn",
+    "name": "SAP Community Network",
+    "url": "http://search.sap.com/ui/scn#query={{{s}}}"
+  },
+  {
+    "bang": "sentry",
+    "name": "Sentry",
+    "url": "https://docs.sentry.io/search/?q={{{s}}}"
+  },
+  {
+    "bang": "sfhelp",
+    "name": "Salesforce Help",
+    "url": "https://help.salesforce.com/search#q={{{s}}}"
+  },
+  {
+    "bang": "sforcel",
+    "name": "Salesforce Lightning",
+    "url": "https://na85.lightning.force.com/one/one.app#ey{{{s}}}Jjb21wb25lbnREZWYiOiJmb3JjZVNlYXJjaDpzZWFyY2hQYWdlIiwiYXR0cmlidXRlcyI6eyJ0ZXJtIjoiQ3VydCIsInNjb3BlTWFwIjp7InR5cGUiOiJUT1BfUkVTVUxUUyJ9LCJjb250ZXh0Ijp7ImRpc2FibGVTcGVsbENvcnJlY3Rpb24iOmZhbHNlLCJkaXNhYmxlSW50ZW50UXVlcnkiOmZhbHNlLCJwZXJtc0FuZFByZWZzIjp7IlNlYXJjaFVpLnNlYXJjaFVJUGlsb3RGZWF0dXJlRW5hYmxlZCI6ZmFsc2UsIlNlYXJjaEV4cGVyaWVuY2UuTGVmdE5hdkVuaGFuY2VtZW50RW5hYmxlZCI6dHJ1ZSwiU2VhcmNoLmNyb3NzT2JqZWN0c0F1dG9TdWdnZXN0RW5hYmxlZCI6dHJ1ZSwiU2VhcmNoUmVzdWx0c0xWTS5sdm1FbmFibGVkRm9yU2VhcmNoUmVzdWx0c09uIjp0cnVlLCJNeVNlYXJjaC51c2VyQ2FuSGF2ZU15U2VhcmNoQmVzdFJlc3VsdCI6ZmFsc2UsIlNlYXJjaFJlc3VsdHNMVk0ubHZtRW5hYmxlZEZvclRvcFJlc3VsdHMiOmZhbHNlLCJPcmdQZXJtaXNzaW9ucy5VbmlvbkFwcE5hdlNtYXJ0U2NvcGUiOnRydWUsIlNlYXJjaFVpLmZlZWRiYWNrQ29tcG9uZW50RW5hYmxlZCI6ZmFsc2UsIlNlYXJjaEV4cGVyaWVuY2UuVG9wUmVzdWx0c1NpbmdsZVNPU0xFbmFibGVkIjpmYWxzZSwiT3JnUHJlZmVyZW5jZXMuQ2hhdHRlckVuYWJsZWQiOnRydWUsIlNlYXJjaC5tYXNrU2VhcmNoSW5mb0luTG9ncyI6ZmFsc2UsIlNlYXJjaFVpLm9yZ0hhc0FjY2Vzc1RvU2VhcmNoVGVybUhpc3RvcnkiOmZhbHNlLCJTZWFyY2hVaS5zZWFyY2hVSUludGVyYWN0aW9uTG9nZ2luZ0VuYWJsZWQiOmZhbHNlLCJNeVNlYXJjaC51c2VyQ2FuSGF2ZU15U2VhcmNoIjpmYWxzZX0sInNlYXJjaERpYWxvZ1Nlc3Npb25JZCI6IjM0NmY1YzI1LTIwNGEtYjMyMS1kYzM3LTM3Yzc5ZGQyNjA3ZCIsInNlYXJjaFNvdXJjZSI6IklOUFVUX0RFU0tUT1AifSwiZ3JvdXBJZCI6IkRFRkFVTFQifSwic3RhdGUiOnt9fQ%3D%3D"
+  },
+  {
+    "bang": "shaw",
+    "name": "Shaw",
+    "url": "https://www.shaw.ca/store/search/search.jsp?q={{{s}}}"
+  },
+  {
+    "bang": "shopify",
+    "name": "Shopify",
+    "url": "https://help.shopify.com/en/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "siemenssupport",
+    "name": "Siemens Industry Support",
+    "url": "https://support.industry.siemens.com/cs/search?search={{{s}}}"
+  },
+  {
+    "bang": "skypecommunity",
+    "name": "Skype Community",
+    "url": "http://community.skype.com/t5/forums/searchpage/tab/message?filter=labels%2Clocation&location=category%3AEnglish&q={{{s}}} "
+  },
+  {
+    "bang": "snrt",
+    "name": "snort.org",
+    "url": "https://www.snort.org/search?query={{{s}}}&submit_search="
+  },
+  {
+    "bang": "snw",
+    "name": "ServiceNow Wiki",
+    "url": "http://wiki.servicenow.com/search-results.php?cx=005409823165138974380%3Abltnnmgfoek&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=wiki.servicenow.com%2Fsearch-results.php&ref=&ss="
+  },
+  {
+    "bang": "sophoscom",
+    "name": "Sophos Community",
+    "url": "https://community.sophos.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "splunkbase",
+    "name": "Splunkbase",
+    "url": "https://apps.splunk.com/apps/#/search/{{{s}}}/page/1"
+  },
+  {
+    "bang": "splunk",
+    "name": "splunk",
+    "url": "https://www.splunk.com/en_us/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "swag",
+    "name": "Shopware Forum",
+    "url": "https://forum.shopware.com/search?Search={{{s}}}"
+  },
+  {
+    "bang": "symantec",
+    "name": "Symantec",
+    "url": "https://www.symantec.com/search?hiddenq=Pedroerkul&q={{{s}}}&searchJson={%22filter%22:[],%22startPage%22:1,%22start%22:0,%22sort%22:%22score%22}"
+  },
+  {
+    "bang": "tableau",
+    "name": "Tableau Software",
+    "url": "https://www.tableau.com/search#q={{{s}}}"
+  },
+  {
+    "bang": "talaios",
+    "name": "Talaios.net",
+    "url": "http://talaios.net/?s={{{s}}}"
+  },
+  {
+    "bang": "tek",
+    "name": "Tektronix",
+    "url": "https://www.tek.com/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "telstra",
+    "name": "Telstra",
+    "url": "https://www.telstra.com.au/search/simple-search?inpSearch={{{s}}}&requestSiteId=personal&searchFormSubmited=Yes"
+  },
+  {
+    "bang": "tfs",
+    "name": "Thermo Fisher Scientific",
+    "url": "http://www.thermofisher.com/search/results?query={{{s}}}"
+  },
+  {
+    "bang": "ticker",
+    "name": "Stockflare",
+    "url": "https://stockflare.com/#stocks/${{{s}}} "
+  },
+  {
+    "bang": "timhortons",
+    "name": "Tim Hortons",
+    "url": "http://www.timhortons.com/ca/en/search/search-results.php?q={{{s}}}"
+  },
+  {
+    "bang": "ucern",
+    "name": "uCern",
+    "url": "https://search.ucern.com/search?cp=connect&q={{{s}}}"
+  },
+  {
+    "bang": "vbot",
+    "name": "Volume Bot",
+    "url": "https://volumebot.com/?s={{{s}}}"
+  },
+  {
+    "bang": "verisure",
+    "name": "Verisure",
+    "url": "https://www.verisure.se/hidden/search-results.html?query={{{s}}}"
+  },
+  {
+    "bang": "veroot",
+    "name": "Veroot",
+    "url": "http://veroot.com/search/{{{s}}}"
+  },
+  {
+    "bang": "vodafone",
+    "name": "Vodafone",
+    "url": "https://www.vodafone.com/content/index/search.html?search-query={{{s}}}"
+  },
+  {
+    "bang": "wakoopa",
+    "name": "Wakoopa",
+    "url": "http://social.wakoopa.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "wap",
+    "name": "Washington Apple Pi",
+    "url": "https://www.wap.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "web2py",
+    "name": "Web2Py",
+    "url": "http://web2py.com/books/default/search/29?search={{{s}}}"
+  },
+  {
+    "bang": "webbco",
+    "name": "Webb Companies USA",
+    "url": "http://webbco.us/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "wiki.splunk",
+    "name": "wiki.splunk.com",
+    "url": "http://wiki.splunk.com/Special:SplunkSearch/wiki?q={{{s}}}"
+  },
+  {
+    "bang": "wnp",
+    "name": "WNP.pl",
+    "url": "http://www.wnp.pl/wyszukiwanie.html?szukaj={{{s}}}"
+  },
+  {
+    "bang": "wowtrk",
+    "name": "WOW TRK",
+    "url": "https://www.wowtrk.com/offers/?keyword={{{s}}}"
+  },
+  {
+    "bang": "zoho",
+    "name": "Zoho",
+    "url": "https://search.zoho.com/searchresult?query={{{s}}}&search_type=all&index_key=-1&embed=false"
+  }
+]

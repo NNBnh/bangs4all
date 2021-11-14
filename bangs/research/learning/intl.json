@@ -1,0 +1,312 @@
+[
+  {
+    "bang": "bibhub",
+    "name": "BibleHub",
+    "url": "http://biblehub.net/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "csbno",
+    "name": "Consorzio Sistema Bibliotecario Nord Ovest",
+    "url": "http://webopac.csbno.net/opac/search/lst?q={{{s}}}"
+  },
+  {
+    "bang": "dende",
+    "name": "Dict.cc english-german",
+    "url": "https://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "edmodo",
+    "name": "Edmodo Spotlight",
+    "url": "https://spotlight.edmodo.com/Browse?search=true&q={{{s}}}"
+  },
+  {
+    "bang": "ell",
+    "name": "English Language Learners",
+    "url": "https://ell.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gaf",
+    "name": "Gaffiot latin -> fran\u00e7ais",
+    "url": "http://www.lexilogos.com/latin/gaffiot.php?q={{{s}}}"
+  },
+  {
+    "bang": "gallica",
+    "name": "Gallica",
+    "url": "http://gallica.bnf.fr/Search?ArianeWireIndex=index&p=1&lang=FR&q={{{s}}}"
+  },
+  {
+    "bang": "georges",
+    "name": "Zeno.org - Georges 1913",
+    "url": "http://www.zeno.org/Zeno/0/Suche?q={{{s}}}&k=Georges-1913"
+  },
+  {
+    "bang": "gibbon",
+    "name": "Gibbon",
+    "url": "https://gibbon.co/search?q={{{s}}}"
+  },
+  {
+    "bang": "hanzidb",
+    "name": "hanziDB",
+    "url": "http://hanzidb.org/character/{{{s}}}"
+  },
+  {
+    "bang": "itaigi",
+    "name": "iTaigi",
+    "url": "https://itaigi.tw/k/{{{s}}}"
+  },
+  {
+    "bang": "jik",
+    "name": "Jisho (kanji search)",
+    "url": "https://jisho.org/search/%23kanji%20{{{s}}}"
+  },
+  {
+    "bang": "jukuu",
+    "name": "Jukuu",
+    "url": "http://jukuu.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "kd",
+    "name": "Kanji Damage",
+    "url": "http://kanjidamage.com/kanji/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "larenfr",
+    "name": "Larousse EN - FR translation",
+    "url": "http://www.larousse.fr/dictionnaires/anglais-francais/{{{s}}}"
+  },
+  {
+    "bang": "lat",
+    "name": "Whitaker's Latin",
+    "url": "http://www.archives.nd.edu/cgi-bin/wordz.pl?keyword={{{s}}}"
+  },
+  {
+    "bang": "lda",
+    "name": "Langenscheid Deutsch-Arabisch",
+    "url": "http://de.langenscheidt.com/deutsch-arabisch/search?term={{{s}}}"
+  },
+  {
+    "bang": "lidi",
+    "name": "Linguee De-Ita",
+    "url": "http://www.linguee.de/deutsch-italienisch/search?query={{{s}}}"
+  },
+  {
+    "bang": "lifeprint",
+    "name": "Lifeprint",
+    "url": "http://www.google.com/cse?cx=partner-pub-2513564923850231%3Anzof3qz9abm&ie=ISO-8859-1&q=time&sa=Search#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1"
+  },
+  {
+    "bang": "lingf",
+    "name": "Linguee",
+    "url": "http://www.linguee.de/deutsch-franzoesisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "linsv",
+    "name": "Linguee English-Swedish",
+    "url": "http://www.linguee.com/english-swedish/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lojban",
+    "name": "Lojban.org (the official website and wiki)",
+    "url": "https://mw.lojban.org/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "nce",
+    "name": "Nciku English",
+    "url": "http://nciku.com/search/en/{{{s}}}"
+  },
+  {
+    "bang": "ncz",
+    "name": "Nciku Chinese",
+    "url": "http://nciku.com/search/zh/{{{s}}}"
+  },
+  {
+    "bang": "nis",
+    "name": "Notes in Spanish",
+    "url": "http://www.notesinspanish.com/?s={{{s}}}"
+  },
+  {
+    "bang": "noverbix",
+    "name": "Verbix (Norwegian)",
+    "url": "http://www.verbix.com/webverbix/go.php?D1=25&T1={{{s}}}"
+  },
+  {
+    "bang": "oald",
+    "name": "Oxford Advanced Learner's Dictionary",
+    "url": "https://www.oxfordlearnersdictionaries.com/search/english/?q={{{s}}}"
+  },
+  {
+    "bang": "oolone",
+    "name": "Oolone",
+    "url": "http://www.oolone.com/?search={{{s}}}"
+  },
+  {
+    "bang": "ord",
+    "name": "Norstedts ordb\u00f6cker",
+    "url": "https://ne.ord.se/ordbok/svenska/engelska/s%C3%B6k/{{{s}}}"
+  },
+  {
+    "bang": "ponsdepl",
+    "name": "Pons German-Polish",
+    "url": "http://en.pons.com/translate?q={{{s}}}&l=depl&in=&lf=de"
+  },
+  {
+    "bang": "ppin",
+    "name": "Pin Pin",
+    "url": "http://dictionary.pinpinchinese.com/search/t/{{{s}}}"
+  },
+  {
+    "bang": "ptg",
+    "name": "The Great Blog",
+    "url": "https://the-ptg.blogspot.in/search?q={{{s}}}"
+  },
+  {
+    "bang": "pucsp",
+    "name": "PUC-SP - Pontif\u00edcia Universidade Cat\u00f3lica de S\u00e3o Paulo",
+    "url": "https://www.pucsp.br/buscar?search_api_fulltext={{{s}}}&field_area_de_conhecimento=All&field_escola=&type=All"
+  },
+  {
+    "bang": "rdkj",
+    "name": "Romajidesu Kanji",
+    "url": "http://www.romajidesu.com/kanji/{{{s}}}"
+  },
+  {
+    "bang": "rdvcb",
+    "name": "Romajidesu Vocabulary",
+    "url": "http://www.romajidesu.com/?m=dictionary&a=lookup&w={{{s}}}"
+  },
+  {
+    "bang": "revef",
+    "name": "Reverso English-French",
+    "url": "http://dictionary.reverso.net/english-french/{{{s}}}"
+  },
+  {
+    "bang": "slov",
+    "name": "Yandex.Slovari",
+    "url": "http://slovari.yandex.ru/search.xml?text={{{s}}}"
+  },
+  {
+    "bang": "tanks",
+    "name": "Tank Encyclopedia",
+    "url": "http://www.tanks-encyclopedia.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tatoebla",
+    "name": "Tatoebla",
+    "url": "http://tatoeba.org/sentences/search?query={{{s}}}"
+  },
+  {
+    "bang": "tato",
+    "name": "Tatoeba",
+    "url": "https://tatoeba.org/sentences/search?query={{{s}}}"
+  },
+  {
+    "bang": "tawk",
+    "name": "Tamil Wikipedia",
+    "url": "https://ta.wikipedia.org/w/index.php?search= {{{s}}}&title=%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%3ASearch&go=%E0%AE%9A%E0%AF%86%E0%AE%B2%E0%AF%8D"
+  },
+  {
+    "bang": "textileschool",
+    "name": "Textile School",
+    "url": "https://www.textileschool.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tuj",
+    "name": "Tuja Vortaro",
+    "url": "http://www.tujavortaro.net/?vorto={{{s}}}"
+  },
+  {
+    "bang": "unfpa",
+    "name": "unfpa.org",
+    "url": "http://www.unfpa.org/search/node/{{{s}}} "
+  },
+  {
+    "bang": "verbes",
+    "name": "VERBES - Conjugaison fran\u00e7aise",
+    "url": "http://www.les-verbes.com/conjuguer.php?verbe={{{s}}}"
+  },
+  {
+    "bang": "wbml",
+    "name": "Wikibooks Malayalam",
+    "url": "https://ml.wikibooks.org/wiki/special:search/{{{s}}}"
+  },
+  {
+    "bang": "wcs",
+    "name": "Wikipedia (Cs)",
+    "url": "https://cs.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "weblio",
+    "name": "Weblio",
+    "url": "http://www.weblio.jp/content/{{{s}}}"
+  },
+  {
+    "bang": "wel",
+    "name": "Greek Wikipedia",
+    "url": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "welklidwoord",
+    "name": "welk lidwoord",
+    "url": "https://www.welklidwoord.nl/{{{s}}}"
+  },
+  {
+    "bang": "weu",
+    "name": "Wikipedia",
+    "url": "https://eu.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "whr",
+    "name": "Wikipedija",
+    "url": "http://hr.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "whu",
+    "name": "Wikipedia Hungary",
+    "url": "https://hu.wikipedia.org/w/index.php?search={{{s}}}&button=&title=Speci%C3%A1lis%3AKeres%C3%A9s"
+  },
+  {
+    "bang": "wikisco",
+    "name": "Wikipedia-sco",
+    "url": "https://sco.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wpfr",
+    "name": "Wikipedia (FR)",
+    "url": "https://fr.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wrenpt",
+    "name": "WordReference",
+    "url": "http://www.wordreference.com/enpt/{{{s}}} "
+  },
+  {
+    "bang": "wrpten",
+    "name": "WordReference",
+    "url": "http://www.wordreference.com/pten/{{{s}}} "
+  },
+  {
+    "bang": "wsco",
+    "name": "Wikipedia (Scots)",
+    "url": "http://sco.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wsl",
+    "name": "Wikipedia (SL)",
+    "url": "http://sl.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search={{{s}}}"
+  },
+  {
+    "bang": "wtno",
+    "name": "Wiktionary (Norwegian)",
+    "url": "https://no.wiktionary.org/wiki/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "wwfr",
+    "name": "Wikiwand",
+    "url": "https://www.wikiwand.com/fr/{{{s}}}"
+  },
+  {
+    "bang": "yourei",
+    "name": "Yourei.jp",
+    "url": "http://yourei.jp/{{{s}}}"
+  }
+]

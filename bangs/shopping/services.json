@@ -1,0 +1,467 @@
+[
+  {
+    "bang": "5a",
+    "name": "QuintoAndar",
+    "url": "https://www.quintoandar.com.br/alugar/imovel/{{{s}}}"
+  },
+  {
+    "bang": "acb",
+    "name": "American Custom Boxes",
+    "url": "https://americancustomboxes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "amalexa",
+    "name": "Amazon Alexa Skills Search Page",
+    "url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dalexa-skills&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "amglobal",
+    "name": "Amazon (GLOBAL)",
+    "url": "https://www.amazon.com/s/ref=nb_sb_noss?&tag=duc0c-20&url=search-alias%3Dus-worldwide-shipping-aps&field-keywords={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "bcbsla",
+    "name": "Blue Cross and Blue Shield of Louisiana",
+    "url": "https://www.bcbsla.com/search/Results.aspx?k={{{s}}}"
+  },
+  {
+    "bang": "bedrock",
+    "name": "Bedrock Co.",
+    "url": "https://bedrockgranitecompany.com/?s={{{s}}}"
+  },
+  {
+    "bang": "beslist",
+    "name": "BESLIST.nl",
+    "url": "http://www.beslist.nl/products/r/{{{s}}}"
+  },
+  {
+    "bang": "bgl",
+    "name": "Baby Gear Lab",
+    "url": "https://www.babygearlab.com/search?ftr={{{s}}}"
+  },
+  {
+    "bang": "bigwords",
+    "name": "BigWords.com",
+    "url": "http://www5.bigwords.com/search/easy-search/?producttype=all&searchtype=isbn&searchstring={{{s}}}&buySell="
+  },
+  {
+    "bang": "bil",
+    "name": "Billiger.de",
+    "url": "https://www.billiger.de/search?searchstring={{{s}}}"
+  },
+  {
+    "bang": "billiger",
+    "name": "Billiger.de",
+    "url": "https://www.billiger.de/search?searchstring={{{s}}}"
+  },
+  {
+    "bang": "bilpriser",
+    "name": "Bilpriser",
+    "url": "http://www.bilpriser.se/bilvardering?regnr={{{s}}}"
+  },
+  {
+    "bang": "bizgift",
+    "name": "Bizgift.vn",
+    "url": "https://bizgift.vn/?s={{{s}}}"
+  },
+  {
+    "bang": "blablacar",
+    "name": "BlaBlaCar",
+    "url": "https://www.blablacar.fr/trajets/vers-{{{s}}}"
+  },
+  {
+    "bang": "bondfaro",
+    "name": "Bondfaro",
+    "url": "http://www.bondfaro.com.br/cprocura?produto={{{s}}}"
+  },
+  {
+    "bang": "book",
+    "name": "booking.com",
+    "url": "http://www.booking.com/searchresults.html?ss={{{s}}}&si=ai"
+  },
+  {
+    "bang": "buscape",
+    "name": "Buscap\u00e9",
+    "url": "http://www.buscape.com.br/cprocura?produto={{{s}}}"
+  },
+  {
+    "bang": "camelde",
+    "name": "CamelCamelCamel (German)",
+    "url": "https://de.camelcamelcamel.com/products?sq={{{s}}}"
+  },
+  {
+    "bang": "capost",
+    "name": "Canada Post",
+    "url": "http://www.canadapost.ca//cpotools/apps/track/personal/findByTrackNumber?trackingNumber={{{s}}}"
+  },
+  {
+    "bang": "cccde",
+    "name": "CamelCamelCamel (Germany)",
+    "url": "https://de.camelcamelcamel.com/search?sq={{{s}}}"
+  },
+  {
+    "bang": "ceneo",
+    "name": "Ceneo",
+    "url": "http://www.ceneo.pl/;szukaj-{{{s}}}"
+  },
+  {
+    "bang": "conaff",
+    "name": "Consumer Affairs",
+    "url": "https://www.consumeraffairs.com/search.html?q={{{s}}}&cat=homepage"
+  },
+  {
+    "bang": "consumer",
+    "name": "Consumer Reports",
+    "url": "https://www.consumerreports.org/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ebatesca",
+    "name": "Ebates Canda",
+    "url": "https://www.ebates.ca/srch/all?query={{{s}}}"
+  },
+  {
+    "bang": "emoneyge",
+    "name": "emoney.ge",
+    "url": "https://www.emoney.ge/index.php/main/services?search_query={{{s}}}"
+  },
+  {
+    "bang": "expedia",
+    "name": "Expedia",
+    "url": "http://search.expedia.com/socialsearch/query?st=1&cn=expedia&cc=www&q={{{s}}}"
+  },
+  {
+    "bang": "fahrschule",
+    "name": "Fahrschule Berne",
+    "url": "http://www.fahrschule-berne.de/component/search/?searchword={{{s}}}"
+  },
+  {
+    "bang": "fegtherm",
+    "name": "fegtherm",
+    "url": "http://fegtherm.hu/?s={{{s}}}"
+  },
+  {
+    "bang": "gjensidige",
+    "name": "Gjensidige",
+    "url": "https://www.gjensidige.no/s%C3%B8k?query={{{s}}}"
+  },
+  {
+    "bang": "grainger",
+    "name": "Grainger",
+    "url": "http://www.grainger.com/search?nls=1&searchQuery={{{s}}} "
+  },
+  {
+    "bang": "grubhub",
+    "name": "GrubHub",
+    "url": "https://www.grubhub.com/search?queryText={{{s}}}"
+  },
+  {
+    "bang": "gsbr",
+    "name": "Google Shopping (BR)",
+    "url": "http://www.google.com.br/search?q={{{s}}}&hl=pt-BR&safe=off&biw=1108&bih=651&prmd=imvns&source=univ&tbm=shop&tbo=u&sa=X&ei=ZculTqjGLcvAgQf5n_CxBQ&ved=0CJkBEK0E"
+  },
+  {
+    "bang": "hihostels",
+    "name": "Hostelling International",
+    "url": "https://www.hihostels.com/search/hostels?q={{{s}}}"
+  },
+  {
+    "bang": "hintafi",
+    "name": "Hinta.fi",
+    "url": "http://hinta.fi/haku?q={{{s}}}"
+  },
+  {
+    "bang": "hinta",
+    "name": "Hintaseuranta",
+    "url": "http://hintaseuranta.fi/haku/{{{s}}}"
+  },
+  {
+    "bang": "home",
+    "name": "Home Advisor",
+    "url": "http://www.homeadvisor.com/sitesearch/searchQuery?action=SEARCH&searchType=SiteTaskSearch&useExtSearch=false&initialSearch=true&query={{{s}}}"
+  },
+  {
+    "bang": "hpv",
+    "name": "Heise.de Preisvergleich",
+    "url": "http://www.heise.de/preisvergleich/?fs={{{s}}}"
+  },
+  {
+    "bang": "ide",
+    "name": "idealo",
+    "url": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}"
+  },
+  {
+    "bang": "ides",
+    "name": "Idealo.es",
+    "url": "https://www.idealo.es/resultados.html?q={{{s}}}"
+  },
+  {
+    "bang": "id",
+    "name": "Idealo",
+    "url": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}"
+  },
+  {
+    "bang": "iga",
+    "name": "IGA Grocery Store",
+    "url": "https://www.iga.net/en/search?k={{{s}}}"
+  },
+  {
+    "bang": "jal",
+    "name": "JAL",
+    "url": "http://www.jal.co.jp/cgi-bin/jal/insite_search/index.cgi?keyword={{{s}}}&collection=jalcojp&charset=shift_jis"
+  },
+  {
+    "bang": "kbb",
+    "name": "Kelly Blue Book",
+    "url": "https://www.kbb.com/search/?source=homepage&query={{{s}}}"
+  },
+  {
+    "bang": "kieskeurig",
+    "name": "KIESKEURIG",
+    "url": "http://www.kieskeurig.nl/zoeken/index.html?q={{{s}}}"
+  },
+  {
+    "bang": "kkusta",
+    "name": "http://www.kuantokusta.pt",
+    "url": "http://www.kuantokusta.pt/search?q= {{{s}}} "
+  },
+  {
+    "bang": "localist",
+    "name": "Local-List",
+    "url": "https://local-list.co.il?p=106&stag={{{s}}}"
+  },
+  {
+    "bang": "marisela",
+    "name": "Marisela Veludo",
+    "url": "https://mariselaveludo.fashion/?s={{{s}}}"
+  },
+  {
+    "bang": "mavin",
+    "name": "Mavin Price Guide",
+    "url": "https://mavin.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "metro",
+    "name": "Metro Grocery Store",
+    "url": "https://www.metro.ca/en/search?free-text={{{s}}}"
+  },
+  {
+    "bang": "mondou",
+    "name": "Mondou Pet Store",
+    "url": "https://www.mondou.com/en-CA/Search?keywords={{{s}}}"
+  },
+  {
+    "bang": "moonpig",
+    "name": "MoonPig",
+    "url": "https://www.moonpig.com/uk/testpages/search/ab277/?q={{{s}}}"
+  },
+  {
+    "bang": "o2",
+    "name": "O2 uk",
+    "url": "https://www.o2.co.uk/shop/{{{s}}}"
+  },
+  {
+    "bang": "oem",
+    "name": "oemstrade",
+    "url": "http://www.oemstrade.com/search/{{{s}}}"
+  },
+  {
+    "bang": "offerteinternet",
+    "name": "Offerte Internet",
+    "url": "https://www.offerteinternet.net/?s={{{s}}}"
+  },
+  {
+    "bang": "ogl",
+    "name": "OutdoorGearLab",
+    "url": "https://www.outdoorgearlab.com/search.php?ftr={{{s}}}"
+  },
+  {
+    "bang": "openhours",
+    "name": "OpenHours Denmark",
+    "url": "https://openhours.dk/spots?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "paypal",
+    "name": "PayPal",
+    "url": "https://www.paypal.com/us/selfhelp/search?q={{{s}}}&helpSearchButton=Search"
+  },
+  {
+    "bang": "pgno",
+    "name": "Prisguiden.no",
+    "url": "https://prisguiden.no/sok?q={{{s}}}"
+  },
+  {
+    "bang": "pj",
+    "name": "Prisjakt",
+    "url": "https://www.prisjakt.nu/search?search={{{s}}}"
+  },
+  {
+    "bang": "poma",
+    "name": "Postmates",
+    "url": "https://postmates.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "postdk",
+    "name": "Postnord DK",
+    "url": "http://www.postnord.dk/da/Sider/TrackTrace.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "postmates",
+    "name": "Postmates",
+    "url": "https://postmates.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "postnl",
+    "name": "PostNL",
+    "url": "https://www.postnl.nl/search?q={{{s}}}&searchEntry=searchfield&boosting_label="
+  },
+  {
+    "bang": "postnord",
+    "name": "Postnord",
+    "url": "http://www.postnord.no/minside/SOPS/{{{s}}}"
+  },
+  {
+    "bang": "pricerunner",
+    "name": "PriceRunner",
+    "url": "http://www.pricerunner.se/pl/360-364563094/Herrklaeder/Jam-OD-Yellow-Yellow-over-dyed-jean-jacket-priser?other_hits=%3B25607%3B%3B&q=acne+jam+od+yellow+yellow&ref=redirect&search={{{s}}}&sort=4"
+  },
+  {
+    "bang": "prisjakt",
+    "name": "Prisjakt",
+    "url": "https://www.prisjakt.nu/search?search={{{s}}}"
+  },
+  {
+    "bang": "provigo",
+    "name": "Provigo Grocery Store",
+    "url": "https://www.provigo.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "bang": "racv",
+    "name": "RACV",
+    "url": "https://www.racv.com.au/search-results.html?q={{{s}}}"
+  },
+  {
+    "bang": "reclame",
+    "name": "Reclame Aqui",
+    "url": "http://www.reclameaqui.com.br/busca/?q={{{s}}}"
+  },
+  {
+    "bang": "restobe",
+    "name": "RestoBE",
+    "url": "http://en.resto.be/business/search?searchbox=true&businessTypeId=1&fullText={{{s}}}"
+  },
+  {
+    "bang": "rsu",
+    "name": "RunSignUp",
+    "url": "https://runsignup.com/Races?name={{{s}}}"
+  },
+  {
+    "bang": "rvm",
+    "name": "ReviewMeta",
+    "url": "https://reviewmeta.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "saiyasune",
+    "name": "\u6700\u5b89\u5024.com",
+    "url": "https://www.saiyasune.com/I1W{{{s}}}.html"
+  },
+  {
+    "bang": "scottwyden",
+    "name": "Scott Wyden Imagery",
+    "url": "https://scottwyden.com/?s={{{s}}}"
+  },
+  {
+    "bang": "seamless",
+    "name": "Seamless",
+    "url": "https://www.seamless.com/search?queryText={{{s}}}"
+  },
+  {
+    "bang": "selu",
+    "name": "Southeastern Louisiana University",
+    "url": "http://search.selu.edu/search?q={{{s}}}"
+  },
+  {
+    "bang": "seur",
+    "name": "Seur",
+    "url": "http://www.seur.com/seguimiento-online.do?segOnlineIdentificador={{{s}}}"
+  },
+  {
+    "bang": "shtm",
+    "name": "Shoptimate",
+    "url": "http://www.shoptimate.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "solopress",
+    "name": "Solopress",
+    "url": "https://www.solopress.com/search?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "spd",
+    "name": "SpeeDee Delivery",
+    "url": "http://packages.speedeedelivery.com/packageDetail.php?barcode={{{s}}}"
+  },
+  {
+    "bang": "staygb",
+    "name": "Stay GB",
+    "url": "https://staygb.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "street",
+    "name": "StreetEasy",
+    "url": "http://streeteasy.com/search?utf8=%E2%9C%93&search={{{s}}}"
+  },
+  {
+    "bang": "strefasluchu",
+    "name": "Strefa S\u0142uchu",
+    "url": "http://www.strefasluchu.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "testberichte",
+    "name": "Testberichte.de",
+    "url": "http://www.testberichte.de/d/search.php?searchstr={{{s}}}&submit=Suchen"
+  },
+  {
+    "bang": "ticmate",
+    "name": "Ticmate",
+    "url": "https://www.ticmate.com/search?freeText={{{s}}}"
+  },
+  {
+    "bang": "toptenrevs",
+    "name": "TopTenReviews",
+    "url": "https://www.toptenreviews.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "trovaprezzi",
+    "name": "Trovaprezzi.it",
+    "url": "http://www.trovaprezzi.it/categoria.aspx?libera={{{s}}}&id=-1&prezzomin=&prezzomax="
+  },
+  {
+    "bang": "trustpilot",
+    "name": "Trustpilot",
+    "url": "https://www.trustpilot.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "verkoper",
+    "name": "Controleer verkopergegevens Politie",
+    "url": "https://www.politie.nl/zoek?query={{{s}}}"
+  },
+  {
+    "bang": "vlh",
+    "name": "https://www.vlh.de",
+    "url": "https://www.vlh.de/suchergebnis.html?q={{{s}}}"
+  },
+  {
+    "bang": "wnd",
+    "name": "wandaloo",
+    "url": "http://www.wandaloo.com/search-result.php?pg=1&q={{{s}}}&w=news&m=pertinence"
+  },
+  {
+    "bang": "wtest",
+    "name": "Stiftung Warentest",
+    "url": "https://www.test.de/suche/?q={{{s}}}"
+  },
+  {
+    "bang": "ynab",
+    "name": "https://www.youneedabudget.com",
+    "url": "https://www.youneedabudget.com/?s={{{s}}}"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "bang": "93",
+    "name": "The Hermetic Library",
+    "url": "https://hermetic.com/index?do=search&id={{{s}}}"
+  },
+  {
+    "bang": "aish",
+    "name": "Aish",
+    "url": "http://www.aish.com/search/?keywords={{{s}}}"
+  },
+  {
+    "bang": "allbibles",
+    "name": "Online Parallel Bible",
+    "url": "http://biblez.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "askimam",
+    "name": "ASK IMAM",
+    "url": "http://askimam.org/public/processsearch/Question.keywords:{{{s}}}/Question.type:1"
+  },
+  {
+    "bang": "ati",
+    "name": "Access to Insight",
+    "url": "http://www.accesstoinsight.org/search_results.html?cx=015061908441090246348%3Adj4lxnh4dda&cof=FORID%3A9%3BNB%3A1&ie=UTF-8&q={{{s}}}&sa=Search"
+  },
+  {
+    "bang": "bgea",
+    "name": "Billy Graham",
+    "url": "http://billygraham.org/?s={{{s}}}"
+  },
+  {
+    "bang": "bgkj",
+    "name": "BibleGateway: King James Version",
+    "url": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=KJV"
+  },
+  {
+    "bang": "bgkjv",
+    "name": "BibleGateway: King James Version",
+    "url": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=KJV"
+  },
+  {
+    "bang": "bgw",
+    "name": "BibleGateway",
+    "url": "http://www.biblegateway.com/keyword/?search={{{s}}}"
+  },
+  {
+    "bang": "biben",
+    "name": "BibleStudyTools Encyclopedias",
+    "url": "http://www.biblestudytools.com/search/?s=references&q={{{s}}}&rc=ENC&rc2="
+  },
+  {
+    "bang": "bibleatlas",
+    "name": "Bible Atlas",
+    "url": "http://biblehub.net/searchatlas.php?q={{{s}}}"
+  },
+  {
+    "bang": "bible",
+    "name": "BibleGateway",
+    "url": "http://www.biblegateway.com/keyword/?search={{{s}}}&searchtype=all"
+  },
+  {
+    "bang": "biblecom",
+    "name": "Bible YouVersion",
+    "url": "https://www.bible.com/search/bible?q={{{s}}}"
+  },
+  {
+    "bang": "biblegateway",
+    "name": "BibleGateway",
+    "url": "http://www.biblegateway.com/keyword/?search={{{s}}}&version1=47&searchtype=all"
+  },
+  {
+    "bang": "bibletools",
+    "name": "Bible Study Tools",
+    "url": "http://www.biblestudytools.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "biblija",
+    "name": "Biblija.net",
+    "url": "http://www.biblija.net/biblija.cgi?m={{{s}}} "
+  },
+  {
+    "bang": "bijbel",
+    "name": "De Bijbel",
+    "url": "https://www.debijbel.nl/zoeken/?q={{{s}}}&v=NBV&t=bible"
+  },
+  {
+    "bang": "billygraham",
+    "name": "Billy Graham",
+    "url": "https://billygraham.org/?s={{{s}}}"
+  },
+  {
+    "bang": "blb",
+    "name": "Blue Letter Bible",
+    "url": "http://www.blb.org/search/preSearch.cfm?plugin=yes&Criteria={{{s}}}"
+  },
+  {
+    "bang": "blueletterbible",
+    "name": "Blue Letter Bible",
+    "url": "http://www.blueletterbible.org/search/search.cfm?Criteria={{{s}}}&t=KJV#s=s_primary_0_1"
+  },
+  {
+    "bang": "bsa",
+    "name": "Bible Society Australia",
+    "url": "https://www.biblesociety.org.au/?s={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "catholic",
+    "name": "Catholic Answers",
+    "url": "http://www.catholic.com/search/content/{{{s}}}"
+  },
+  {
+    "bang": "cccc",
+    "name": "Catechism of the Catholic Church",
+    "url": "http://ccc.scborromeo.org.master.com/texis/master/search/?sufs=0&q={{{s}}}"
+  },
+  {
+    "bang": "ccel",
+    "name": "Christian Classics Ethereal Library",
+    "url": "http://www.ccel.org/search/fulltext/{{{s}}}"
+  },
+  {
+    "bang": "cev",
+    "name": "BibleGateway: Contemporary English Version",
+    "url": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=CEV"
+  },
+  {
+    "bang": "chabad",
+    "name": "Chabad.org",
+    "url": "http://www.chabad.org/search/results.asp?searchWord={{{s}}}"
+  },
+  {
+    "bang": "churchclarity",
+    "name": "Church Clarity",
+    "url": "https://www.churchclarity.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "creation",
+    "name": "Creation Ministries",
+    "url": "https://creation.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "erf",
+    "name": "ERF",
+    "url": "http://www.erf.de/?node=1097&page=1&NAV_CatSelect=0&NAV_MetaSuchtext={{{s}}}"
+  },
+  {
+    "bang": "esvonline",
+    "name": "ESVonline",
+    "url": "http://www.esvonline.org/search/{{{s}}}"
+  },
+  {
+    "bang": "fotf",
+    "name": "Focus on the Family",
+    "url": "https://www.focusonthefamily.com/search-results#q={{{s}}}&t=FocusOnTheFamilyOnly&sort=relevancy"
+  },
+  {
+    "bang": "gotquestions",
+    "name": "GotQuestions",
+    "url": "https://www.gotquestions.org/search.php?zoom_query={{{s}}}"
+  },
+  {
+    "bang": "gq+",
+    "name": "Got Questions",
+    "url": "https://www.gotquestions.org/search.php?zoom_query={{{s}}}"
+  },
+  {
+    "bang": "gwr",
+    "name": "Guinness World Records",
+    "url": "http://www.guinnessworldrecords.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "halaltube",
+    "name": "Halal Tube",
+    "url": "https://www.halaltube.com/?s={{{s}}}"
+  },
+  {
+    "bang": "islamqa",
+    "name": "Islamqa.com",
+    "url": "http://islamqa.info/en/search?key={{{s}}}&yt0=search"
+  },
+  {
+    "bang": "isl",
+    "name": "\u0130slam Ansiklopedisi",
+    "url": "https://islamansiklopedisi.org.tr/arama/?q={{{s}}}&p=m"
+  },
+  {
+    "bang": "jw",
+    "name": "Jehovah's Witnesses",
+    "url": "http://www.jw.org/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "kj",
+    "name": "King James Bible Study",
+    "url": "http://www.biblestudytools.com/search/?q={{{s}}}&s=Bibles&t=kjv"
+  },
+  {
+    "bang": "kjv",
+    "name": "King James Bible Online",
+    "url": "http://www.kingjamesbibleonline.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "kuran",
+    "name": "Kuran Ara",
+    "url": "https://kuranara.com/ara?q={{{s}}}"
+  },
+  {
+    "bang": "lds",
+    "name": "LDS.org",
+    "url": "https://www.lds.org/search?lang=eng&query={{{s}}} "
+  },
+  {
+    "bang": "ldss",
+    "name": "LDS Scriptures",
+    "url": "https://www.lds.org/scriptures/search?lang=eng&query={{{s}}}"
+  },
+  {
+    "bang": "lut",
+    "name": "BibleServer Lutherbibel 2017",
+    "url": "https://www.bibleserver.com/text/LUT/{{{s}}}"
+  },
+  {
+    "bang": "mennlex",
+    "name": "Mennonitisches Lexikon",
+    "url": "http://www.mennlex.de/doku.php?do=search&id={{{s}}}"
+  },
+  {
+    "bang": "mormon",
+    "name": "mormon.org",
+    "url": "https://www.mormon.org/searchresults#?query={{{s}}}"
+  },
+  {
+    "bang": "naarden",
+    "name": "Naardense Bijbel",
+    "url": "http://www.naardensebijbel.nl/?search-class=DB_CustomSearch_Widget-db_customsearch_widget&widget_number=preset-default&-0=vers&cs-booknr-1=&cs-bijbelhoofdstuk-2=&cs-versnummer-3=&cs-bijbelvers_v2-4={{{s}}}&search=Zoeken"
+  },
+  {
+    "bang": "nabre",
+    "name": "BibleGateway",
+    "url": "https://www.biblegateway.com/passage/?search={{{s}}}&version=NABRE"
+  },
+  {
+    "bang": "nasb",
+    "name": "New American Standard Bible",
+    "url": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=NASB"
+  },
+  {
+    "bang": "ng\u00fc",
+    "name": "NG\u00dc auf Bibleserver",
+    "url": "http://www.bibleserver.com/search/NG%C3%9C/{{{s}}}"
+  },
+  {
+    "bang": "niv",
+    "name": "BibleStudyTools.com",
+    "url": "http://www.biblestudytools.com/search/?q={{{s}}}&s=Bibles&t=niv"
+  },
+  {
+    "bang": "nkj",
+    "name": "Bible Gateway: New King James Version (NKJV)",
+    "url": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=NKJV"
+  },
+  {
+    "bang": "nlb",
+    "name": "Bibleserver",
+    "url": "https://www.bibleserver.com/text/NLB/{{{s}}}"
+  },
+  {
+    "bang": "obb",
+    "name": "oremus Bible Browser",
+    "url": "http://bible.oremus.org/?passage={{{s}}}"
+  },
+  {
+    "bang": "odb",
+    "name": "Our Daily Bread",
+    "url": "https://odb.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "orthodoxwiki",
+    "name": "OrthodoxWiki",
+    "url": "http://orthodoxwiki.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "pfonline",
+    "name": "Pathfinders Online",
+    "url": "http://www.pathfindersonline.org/component/search/?searchword={{{s}}}&ordering=newest&searchphrase=all"
+  },
+  {
+    "bang": "quran",
+    "name": "The Noble Qur'an",
+    "url": "http://quran.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "qur",
+    "name": "The Noble Qur'an",
+    "url": "http://quran.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rf",
+    "name": "Reasonable Faith",
+    "url": "http://www.reasonablefaith.org/search/results?q={{{s}}}"
+  },
+  {
+    "bang": "rsvce",
+    "name": "BibleGateway: Revised Standard Version Catholic Edition",
+    "url": "https://www.biblegateway.com/passage/?search={{{s}}}&version=RSVCE"
+  },
+  {
+    "bang": "rw",
+    "name": "RationalWiki",
+    "url": "http://rationalwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "sab",
+    "name": "Skeptic's Annoated Bible",
+    "url": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com+{{{s}}}&ia=web"
+  },
+  {
+    "bang": "salam",
+    "name": "Salam",
+    "url": "https://salamtm.blogspot.com/search/?term={{{s}}}"
+  },
+  {
+    "bang": "saq",
+    "name": "Skeptic's Annotated Quran",
+    "url": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
+  },
+  {
+    "bang": "sefaria",
+    "name": "Sefaria",
+    "url": "http://www.sefaria.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "skepticsbible",
+    "name": "Skeptic's Bible",
+    "url": "https://duckduckgo.com/?q=site:skepticsannotatedbible.com {{{s}}}"
+  },
+  {
+    "bang": "skepticskoran",
+    "name": "Skeptic's Annotated Quran",
+    "url": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&ia=web"
+  },
+  {
+    "bang": "skepticsquran",
+    "name": "Skeptic's Annotated Quran",
+    "url": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
+  },
+  {
+    "bang": "staten",
+    "name": "Statenvertaling",
+    "url": "https://www.statenvertaling.net/zoek.php?q={{{s}}}"
+  },
+  {
+    "bang": "strongs",
+    "name": "Strong's Exhaustive Concordance",
+    "url": "https://www.biblestudytools.com/search/?q={{{s}}}&t=kjv&s=Bibles"
+  },
+  {
+    "bang": "sts",
+    "name": "st-takla.org",
+    "url": "http://st-takla.org/Coptic-Search-St-Takla.org/site_search.php?q={{{s}}}&op=and"
+  },
+  {
+    "bang": "sttexts",
+    "name": "Sacred Texts",
+    "url": "http://www.sacred-texts.com/cat/srchtitl.htm?search_str={{{s}}}"
+  },
+  {
+    "bang": "studybible",
+    "name": "Study bible",
+    "url": "http://studybible.info/YLT/{{{s}}}"
+  },
+  {
+    "bang": "sunnah",
+    "name": "Sunnah.com",
+    "url": "https://sunnah.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "tanzil",
+    "name": "Tanzil",
+    "url": "http://tanzil.net/#search/quran/{{{s}}}"
+  },
+  {
+    "bang": "tyndale",
+    "name": "Tyndale Publishers",
+    "url": "https://www.tyndale.com/search?q={{{s}}}&f="
+  },
+  {
+    "bang": "ucv",
+    "name": "Vancouver Unitarians",
+    "url": "http://vancouverunitarians.ca/?s={{{s}}}"
+  },
+  {
+    "bang": "vatican",
+    "name": "Vatican",
+    "url": "http://gsearch.vatican.va/search?q={{{s}}}&btnG=Search+on&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend&sort=date%3AD%3AL%3Ad1&entsp=a__policy_documenti&wc=200&wc_mc=1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&filter=0"
+  },
+  {
+    "bang": "vb",
+    "name": "VedaBase",
+    "url": "http://vedabase.com/en/search/site/{{{s}}}"
+  },
+  {
+    "bang": "vcm",
+    "name": "Vision Christian Media",
+    "url": "https://vision.org.au/site-search/?phrase={{{s}}}&cbi=1"
+  },
+  {
+    "bang": "watchtower",
+    "name": "Watchtower Online Library",
+    "url": "http://wol.jw.org/en/wol/qt/r1/lp-e?q={{{s}}}"
+  },
+  {
+    "bang": "wolsv",
+    "name": "Watchtower Online Library (Swedish)",
+    "url": "https://wol.jw.org/wol/finder?wtlocale=Z&q={{{s}}}"
+  },
+  {
+    "bang": "wol",
+    "name": "Watchtower Online Library",
+    "url": "http://wol.jw.org/wol/finder?q={{{s}}}"
+  },
+  {
+    "bang": "wshfa",
+    "name": "Farsi WikiShia",
+    "url": "http://fa.wikishia.net/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wsh",
+    "name": "WikiShia",
+    "url": "http://en.wikishia.net/view/?search={{{s}}}"
+  },
+  {
+    "bang": "yfd",
+    "name": "Yufid",
+    "url": "http://yufid.com/result/?search={{{s}}} "
+  },
+  {
+    "bang": "youversion",
+    "name": "Bible YouVersion",
+    "url": "https://www.bible.com/search/bible?q={{{s}}}"
+  }
+]

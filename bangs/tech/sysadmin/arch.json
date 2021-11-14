@@ -1,0 +1,157 @@
+[
+  {
+    "bang": "alarmpkg",
+    "name": "Arch Linux ARM Packages",
+    "url": "https://archlinuxarm.org/packages/?q={{{s}}}"
+  },
+  {
+    "bang": "alp",
+    "name": "Arch Linux Packages",
+    "url": "https://www.archlinux.org/packages/?sort=&q={{{s}}}"
+  },
+  {
+    "bang": "apck",
+    "name": "Archlinux packages",
+    "url": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&last_update=&flagged=&limit=50"
+  },
+  {
+    "bang": "apkg",
+    "name": "Arch Package Search",
+    "url": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged="
+  },
+  {
+    "bang": "arch",
+    "name": "ArchLinux Wiki",
+    "url": "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "archbugs",
+    "name": "ArchLinux Bugtracker",
+    "url": "https://bugs.archlinux.org/index.php?string={{{s}}}&project=0"
+  },
+  {
+    "bang": "archde",
+    "name": "wiki.archlinux.de",
+    "url": "https://wiki.archlinux.de/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "archforums",
+    "name": "Arch Linux Forums",
+    "url": "https://bbs.archlinux.org/search.php?action=search&keywords={{{s}}}&author=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit"
+  },
+  {
+    "bang": "archfr",
+    "name": "archlinux.fr",
+    "url": "http://wiki.archlinux.fr/index.php?title=Sp%C3%A9cial%3ARecherche&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "archjp",
+    "name": "ArchWikiJP",
+    "url": "https://wiki.archlinux.jp/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "archlinuxfr",
+    "name": "Wiki Fran\u00e7ais Archlinux",
+    "url": "https://wiki.archlinux.fr/index.php?title=Sp\u00e9cial%3ARecherche&profile=default&fulltext=Search&search={{{s}}}"
+  },
+  {
+    "bang": "archlinuxit",
+    "name": "Arch Linux",
+    "url": "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "archpackages",
+    "name": "ArchLinux Package Search",
+    "url": "https://www.archlinux.org/packages/?q={{{s}}}"
+  },
+  {
+    "bang": "archpkg",
+    "name": "Arch Linux Packages",
+    "url": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged="
+  },
+  {
+    "bang": "archpl",
+    "name": "archlinux wiki pl",
+    "url": "https://wiki.archlinux.org/index.php/{{{s}}} _(Polski)"
+  },
+  {
+    "bang": "archwiki",
+    "name": "Arch Linux Wiki",
+    "url": "https://wiki.archlinux.org/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "aur4",
+    "name": "Arch User Repository v4",
+    "url": "https://aur4.archlinux.org/packages/?K={{{s}}}"
+  },
+  {
+    "bang": "aur",
+    "name": "Arch User Repository",
+    "url": "https://aur.archlinux.org/packages/?K={{{s}}}"
+  },
+  {
+    "bang": "aurp",
+    "name": "Arch User Repository Package",
+    "url": "https://aur.archlinux.org/packages/{{{s}}}"
+  },
+  {
+    "bang": "aw",
+    "name": "Arch Linux Wiki",
+    "url": "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "awde",
+    "name": "wiki.archlinux.de",
+    "url": "https://wiki.archlinux.de/index.php?title=Spezial%3ASuche&search={{{s}}}"
+  },
+  {
+    "bang": "bola",
+    "name": "Parabola GNU/Linux Wiki",
+    "url": "https://wiki.parabola.nu/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "bolapkg",
+    "name": "Parabola GNU/Linux Packages",
+    "url": "https://www.parabola.nu/packages/?q={{{s}}}"
+  },
+  {
+    "bang": "manjf",
+    "name": "Manjaro Forum",
+    "url": "https://forum.manjaro.org/search?expanded=true&q={{{s}}}"
+  },
+  {
+    "bang": "manjw",
+    "name": "Manjaro Wiki",
+    "url": "https://wiki.manjaro.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pac",
+    "name": "Arch Linux Package Database",
+    "url": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged="
+  },
+  {
+    "bang": "pacman",
+    "name": "Arch Package Repo",
+    "url": "https://www.archlinux.org/packages/?sort=&q={{{s}}}"
+  },
+  {
+    "bang": "parawiki",
+    "name": "Parabola GNU/Linux-libre Wiki",
+    "url": "https://wiki.parabola.nu/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "paw",
+    "name": "Persian ArchWiki",
+    "url": "http://wiki.archusers.ir/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pkg",
+    "name": "Arch Linux Packages",
+    "url": "https://www.archlinux.org/packages/?sort=&q={{{s}}}"
+  },
+  {
+    "bang": "situsali",
+    "name": "Situs Ali",
+    "url": "https://situsali.com/?s={{{s}}}&submit=Search"
+  }
+]

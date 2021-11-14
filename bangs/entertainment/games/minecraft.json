@@ -1,0 +1,307 @@
+[
+  {
+    "bang": "2b2t",
+    "name": "2b2t wiki",
+    "url": "https://2b2t.miraheze.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "bukdev",
+    "name": "BukkitDev",
+    "url": "http://dev.bukkit.org/search/?search={{{s}}}"
+  },
+  {
+    "bang": "bukkit",
+    "name": "Bukkit Plugins Search",
+    "url": "https://www.curseforge.com/minecraft/bukkit-plugins/search?search={{{s}}}"
+  },
+  {
+    "bang": "ccwiki",
+    "name": "ComputerCraft Wiki",
+    "url": "http://computercraft.info/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "ftb",
+    "name": "Official Feed The Beast Wiki",
+    "url": "http://ftb.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "ftbwiki",
+    "name": "Unofficial Feed The Beast Wiki",
+    "url": "https://ftb.gamepedia.com/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "hyperninjas",
+    "name": "HyperNinjas",
+    "url": "http://hyperninjas.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "hyp",
+    "name": "HyperNinjas",
+    "url": "http://www.hyperninjas.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "hypixel",
+    "name": "Hypixel",
+    "url": "https://hypixel.net/player/{{{s}}}"
+  },
+  {
+    "bang": "hysb",
+    "name": "Hypixel Skyblock Wiki",
+    "url": "https://hypixel-skyblock.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "l4c",
+    "name": "Left4Craft",
+    "url": "https://www.left4craft.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "mcde",
+    "name": "Minecraft Wiki (deutsch)",
+    "url": "https://minecraft-de.gamepedia.com/{{{s}}}"
+  },
+  {
+    "bang": "mcf",
+    "name": "Minecraft Forum",
+    "url": "http://www.minecraftforum.net/search?search={{{s}}}"
+  },
+  {
+    "bang": "mcfr",
+    "name": "Minecraft.fr",
+    "url": "https://minecraft.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "mcmodpacks",
+    "name": "Curseforge",
+    "url": "https://www.curseforge.com/minecraft/modpacks/search?search={{{s}}}"
+  },
+  {
+    "bang": "mcmods",
+    "name": "Curseforge",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/search?search={{{s}}}"
+  },
+  {
+    "bang": "mcname",
+    "name": "Minecraft Name History",
+    "url": "https://namemc.com/s?{{{s}}}"
+  },
+  {
+    "bang": "mcpc",
+    "name": "Minecraft PC Wiki",
+    "url": "http://minecraft-computer.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "mcpedl",
+    "name": "mcpedl.com",
+    "url": "http://mcpedl.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mcpew",
+    "name": "Minecraft Pocket Edition Wiki",
+    "url": "http://minecraftpocketedition.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "mc-pl",
+    "name": "Minecraft wiki poland",
+    "url": "https://minecraft-pl.gamepedia.com/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejd%C5%BA"
+  },
+  {
+    "bang": "mcskin",
+    "name": "Minecraft Skin Search",
+    "url": "http://www.mcskinsearch.com/skin/{{{s}}}"
+  },
+  {
+    "bang": "mcstats",
+    "name": "Minecraft Statistics ",
+    "url": "https://minecraft-statistic.net/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mcwikide",
+    "name": "German Minecraft Wiki",
+    "url": "http://de.minecraftwiki.net/index.php?title=Spezial%3ASuche&search={{{s}}}"
+  },
+  {
+    "bang": "mcwikifr",
+    "name": "Minecraft Wiki FR",
+    "url": "http://minecraft-fr.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "mcwikizh",
+    "name": "Minecraft Wiki (Chinese)",
+    "url": "https://minecraft-zh.gamepedia.com/{{{s}}}"
+  },
+  {
+    "bang": "mcwm",
+    "name": "Minecraft World Map",
+    "url": "https://www.minecraftworldmap.com/search?ss={{{s}}}"
+  },
+  {
+    "bang": "mcw",
+    "name": "The Official Minecraft Wiki",
+    "url": "http://minecraft.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "minecraft-de",
+    "name": "Minecraft Wiki (DE)",
+    "url": "http://minecraft-de.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "minecraftde",
+    "name": "Minecraft Wiki (deutsch)",
+    "url": "http://minecraft-de.gamepedia.com/index.php?search={{{s}}}&title=Spezial%3ASuche&go=Seite"
+  },
+  {
+    "bang": "minecraft",
+    "name": "Official Minecraft Wiki",
+    "url": "http://minecraft.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "minecraft-ru",
+    "name": "minecraft-ru.gamepedia.com",
+    "url": "https://minecraft-ru.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "minecraftseeds",
+    "name": "Minecraft Seeds",
+    "url": "http://minecraft-seeds.net/seeds/search/?q={{{s}}}"
+  },
+  {
+    "bang": "minecraftwiki",
+    "name": "Minecraft Wiki",
+    "url": "http://minecraft.gamepedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "minecratwiki",
+    "name": "Minecraft Wiki",
+    "url": "http://minecraft.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "mineforum",
+    "name": "Minecraft Forums",
+    "url": "https://www.minecraftforum.net/search?search={{{s}}}"
+  },
+  {
+    "bang": "mtw",
+    "name": "Minetest Wiki",
+    "url": "http://wiki.minetest.net/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "namemc",
+    "name": "NameMC",
+    "url": "https://de.namemc.com/s?{{{s}}}"
+  },
+  {
+    "bang": "nmc",
+    "name": "NameMC",
+    "url": "https://namemc.com/s?{{{s}}}"
+  },
+  {
+    "bang": "ocdoc",
+    "name": "Official documentation of OpenComputers",
+    "url": "https://ocdoc.cil.li/doku.php?id=start&do=search&q={{{s}}}"
+  },
+  {
+    "bang": "pixel",
+    "name": "Official Pixelmon Wiki",
+    "url": "http://pixelmonmod.com/wiki/index.php?title={{{s}}}"
+  },
+  {
+    "bang": "plancke",
+    "name": "Plancke",
+    "url": "https://plancke.io/hypixel/player/stats/{{{s}}}"
+  },
+  {
+    "bang": "planetmc",
+    "name": "PlanetMinecraft",
+    "url": "https://www.planetminecraft.com/resources/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmcb",
+    "name": "Planet Minecraft - banners",
+    "url": "https://www.planetminecraft.com/banners/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmcc",
+    "name": "Planet Minecraft - collections",
+    "url": "https://www.planetminecraft.com/collections/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmcd",
+    "name": "Planet Minecraft - data packs",
+    "url": "https://www.planetminecraft.com/resources/mods/data-pack/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmck",
+    "name": "Planet Minecraft - skins",
+    "url": "https://www.planetminecraft.com/resources/skins/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmcm",
+    "name": "Planet Minecraft - mods",
+    "url": "https://www.planetminecraft.com/resources/mods/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmc",
+    "name": "PlanetMinecraft.com",
+    "url": "http://www.planetminecraft.com/resources/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmcp",
+    "name": "Planet Minecraft - projects",
+    "url": "https://www.planetminecraft.com/resources/projects/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmcr",
+    "name": "Planet Minecraft - resource packs",
+    "url": "https://www.planetminecraft.com/resources/texture_packs/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmcs",
+    "name": "Planet Minecraft - servers",
+    "url": "https://www.planetminecraft.com/resources/servers/?keywords={{{s}}}"
+  },
+  {
+    "bang": "pmon",
+    "name": "Pixelmon Wiki",
+    "url": "http://pixelmon.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "bang": "sk1",
+    "name": "Sk1er\u2019s Stats",
+    "url": "https://sk1er.club/stats/{{{s}}}"
+  },
+  {
+    "bang": "sk98q",
+    "name": "sk98q",
+    "url": "http://wiki.sk89q.com/w/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "spigotmc",
+    "name": "SpigotMC",
+    "url": "https://www.spigotmc.org/search/14487199/?q={{{s}}}&o=relevance"
+  },
+  {
+    "bang": "spigot",
+    "name": "SpigotMC",
+    "url": "https://www.spigotmc.org/search/14203285/?q={{{s}}}&o=relevance"
+  },
+  {
+    "bang": "unnotchslayer1yt",
+    "name": "UnNotchslayer1 channel",
+    "url": "https://www.youtube.com/channel/UCBX3P-QmXmCgWmCU2Mqt9sg/search?query={{{s}}}"
+  },
+  {
+    "bang": "uwmc",
+    "name": "Unlimitedworld",
+    "url": "https://unlimitedworld.de/search/1786851/?q={{{s}}}"
+  },
+  {
+    "bang": "wikivg",
+    "name": "wiki.vg",
+    "url": "http://wiki.vg/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wynn",
+    "name": "Wynncraft Wiki",
+    "url": "https://wynncraft.gamepedia.com/index.php?search={{{s}}}"
+  }
+]

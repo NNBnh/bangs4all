@@ -1,0 +1,282 @@
+[
+  {
+    "bang": "addons",
+    "name": "PrestaShop Addons",
+    "url": "http://addons.prestashop.com/fr/recherche?search_query={{{s}}}"
+  },
+  {
+    "bang": "amo",
+    "name": "Firefox Add-ons",
+    "url": "https://addons.mozilla.org/firefox/search/?q={{{s}}}&cat=all"
+  },
+  {
+    "bang": "apo",
+    "name": "Pale Moon Add-ons",
+    "url": "https://addons.palemoon.org/search/?terms={{{s}}}"
+  },
+  {
+    "bang": "atomio",
+    "name": "atom.io",
+    "url": "https://atom.io/packages/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "atompackages",
+    "name": "Atom packages",
+    "url": "https://atom.io/packages/search?q={{{s}}}"
+  },
+  {
+    "bang": "atomthemes",
+    "name": "Atom themes",
+    "url": "https://atom.io/themes/search?q={{{s}}}"
+  },
+  {
+    "bang": "botlist",
+    "name": "Botlist",
+    "url": "https://botlist.co/search?query={{{s}}}"
+  },
+  {
+    "bang": "chrome",
+    "name": "Chrome Web Store",
+    "url": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "bang": "chromestore",
+    "name": "Chrome Web Store",
+    "url": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "bang": "crx",
+    "name": "Chrome Extension Repository",
+    "url": "https://chrome.google.com/webstore/search?q={{{s}}}"
+  },
+  {
+    "bang": "crxviewer",
+    "name": "Extension Source Viewer",
+    "url": "https://robwu.nl/crxviewer/?crx={{{s}}}"
+  },
+  {
+    "bang": "cstore",
+    "name": "Chrome Web Store",
+    "url": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "bang": "curse",
+    "name": "curseforge",
+    "url": "https://www.curseforge.com/wow/addons/search?search={{{s}}}"
+  },
+  {
+    "bang": "curseforge",
+    "name": "Curse Forge",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Acurseforge.com"
+  },
+  {
+    "bang": "cwebstore",
+    "name": "Chrome Web Store",
+    "url": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "bang": "cws",
+    "name": "Chrome Web Store",
+    "url": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "bang": "devotee",
+    "name": "Devot:ee",
+    "url": "http://devot-ee.com/search/results?keywords={{{s}}}&addon_version_support=ee2"
+  },
+  {
+    "bang": "dll",
+    "name": "DLL-files.com",
+    "url": "http://www.dll-files.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "drupmod",
+    "name": "Drupal modules repository",
+    "url": "https://www.drupal.org/project/project_module/token?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text={{{s}}}&solrsort=iss_project_release_usage+desc&op=Search"
+  },
+  {
+    "bang": "ego",
+    "name": "Gnome Extensions",
+    "url": "https://extensions.gnome.org/#search={{{s}}}"
+  },
+  {
+    "bang": "fad",
+    "name": "Firefox Addons",
+    "url": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ffa",
+    "name": "Firefox Add-ons",
+    "url": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "bang": "firefoxaddons",
+    "name": "Add-ons Firefox",
+    "url": "http://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "bang": "firefox",
+    "name": "Firefox Add-ons",
+    "url": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}&cat=all"
+  },
+  {
+    "bang": "fmod",
+    "name": "Factorio Mods",
+    "url": "https://mods.factorio.com/query/{{{s}}}"
+  },
+  {
+    "bang": "gamefront",
+    "name": "GameFront",
+    "url": "https://www.gamefront.com/search/files?q={{{s}}}"
+  },
+  {
+    "bang": "greasyfork",
+    "name": "Greasy Fork",
+    "url": "https://greasyfork.org/scripts/search?q={{{s}}}"
+  },
+  {
+    "bang": "helmh",
+    "name": "Helm Hub",
+    "url": "https://hub.helm.sh/charts?q={{{s}}}"
+  },
+  {
+    "bang": "jbplugins",
+    "name": "JetBrains IDE Plugins",
+    "url": "https://plugins.jetbrains.com/search?correctionAllowed=true&search={{{s}}}"
+  },
+  {
+    "bang": "jed",
+    "name": "Joomla Extensions",
+    "url": "https://extensions.joomla.org/extensions/extension/?searchall={{{s}}}&filter%5Btags%5D%5B%5D=&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=&filter%5Btype%5D=&filter%5Bhasdemo%5D=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&dir=DESC&limitstart=&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1"
+  },
+  {
+    "bang": "maxthon",
+    "name": "Maxthon 3 Extension",
+    "url": "http://extension.maxthon.com/all/index.php?keyword={{{s}}}"
+  },
+  {
+    "bang": "mozaddon",
+    "name": "Mozilla Addons",
+    "url": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "bang": "neos",
+    "name": "Neos.io",
+    "url": "https://www.neos.io/download-and-extend/packages.html?search={{{s}}}"
+  },
+  {
+    "bang": "netcraft",
+    "name": "Netcraft",
+    "url": "http://toolbar.netcraft.com/site_report?url={{{s}}}"
+  },
+  {
+    "bang": "ocamod",
+    "name": "Odoo Community Association modules",
+    "url": "https://odoo-community.org/shop?search={{{s}}}"
+  },
+  {
+    "bang": "ocs",
+    "name": "openDesktop.org",
+    "url": "https://www.opendesktop.org/search?projectSearchText={{{s}}}"
+  },
+  {
+    "bang": "ohm",
+    "name": "Orbit Hangar Mods",
+    "url": "http://orbithangar.com/advsearch.php?text={{{s}}}"
+  },
+  {
+    "bang": "opendesktop",
+    "name": "Open Desktop",
+    "url": "https://www.opendesktop.org/search?projectSearchText={{{s}}}"
+  },
+  {
+    "bang": "openuserjs",
+    "name": "OpenUserJS",
+    "url": "https://openuserjs.org/?q={{{s}}}"
+  },
+  {
+    "bang": "operaext",
+    "name": "Opera Extensions",
+    "url": "https://addons.opera.com/addons/extensions/?query={{{s}}}&order=new&top=0"
+  },
+  {
+    "bang": "opera",
+    "name": "Opera Extension",
+    "url": "https://addons.opera.com/addons/extensions/?query={{{s}}}"
+  },
+  {
+    "bang": "ore",
+    "name": "Package Repository for Minecraft",
+    "url": "https://ore.spongepowered.org/?q={{{s}}}"
+  },
+  {
+    "bang": "pcio",
+    "name": "Package Control Sublime Text Package Manager",
+    "url": "https://packagecontrol.io/search/{{{s}}}"
+  },
+  {
+    "bang": "rhino",
+    "name": "Food4Rhino",
+    "url": "http://www.food4rhino.com/browse?searchText={{{s}}}"
+  },
+  {
+    "bang": "safariext",
+    "name": "Safari Extensions Gallery",
+    "url": "https://safari-extensions.apple.com/?q={{{s}}}"
+  },
+  {
+    "bang": "seamonkey",
+    "name": "Seamonkey Add-on",
+    "url": "https://addons.mozilla.org/en-US/seamonkey/search/?q={{{s}}}&cat=all&lver=any&pid=1&sort=&pp=20&lup=&advanced="
+  },
+  {
+    "bang": "spacedock",
+    "name": "SpaceDock",
+    "url": "http://spacedock.info/search?query={{{s}}}"
+  },
+  {
+    "bang": "sublime",
+    "name": "Sublime Package Control",
+    "url": "https://sublime.wbond.net/search/{{{s}}}"
+  },
+  {
+    "bang": "tbaddons",
+    "name": "Add-ons for Thunderbird",
+    "url": "https://addons.thunderbird.net/en-US/thunderbird/search/?q={{{s}}}"
+  },
+  {
+    "bang": "unityast",
+    "name": "Unity asset store",
+    "url": "https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=relevance/query={{{s}}}"
+  },
+  {
+    "bang": "va",
+    "name": "Vim Awesome",
+    "url": "http://vimawesome.com/?q={{{s}}}"
+  },
+  {
+    "bang": "vimaw",
+    "name": "Vim Awesome",
+    "url": "http://vimawesome.com/?q={{{s}}}"
+  },
+  {
+    "bang": "vimscripts",
+    "name": "Vim Scripts",
+    "url": "http://www.vim.org/scripts/script_search_results.php?keywords={{{s}}}&script_type=&order_by=rating&direction=descending&search=search"
+  },
+  {
+    "bang": "vim",
+    "name": "Vim.org",
+    "url": "https://www.google.com/cse?cx=partner-pub-3005259998294962%3Abvyni59kjr1&q={{{s}}}"
+  },
+  {
+    "bang": "whale",
+    "name": "Whale browser Store",
+    "url": "https://store.whale.naver.com/search/{{{s}}}"
+  },
+  {
+    "bang": "xfce-look",
+    "name": "Xfce-Look",
+    "url": "https://www.xfce-look.org/search?projectSearchText={{{s}}} "
+  }
+]

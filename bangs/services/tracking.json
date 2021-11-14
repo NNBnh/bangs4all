@@ -1,0 +1,387 @@
+[
+  {
+    "bang": "17t",
+    "name": "17TRACK",
+    "url": "http://www.17track.net/en/track?nums={{{s}}}"
+  },
+  {
+    "bang": "aftership",
+    "name": "Aftership",
+    "url": "https://track.aftership.com/{{{s}}}"
+  },
+  {
+    "bang": "alipaczka",
+    "name": "AliPaczka",
+    "url": "https://alipaczka.pl/?track={{{s}}}"
+  },
+  {
+    "bang": "annie",
+    "name": "App Annie",
+    "url": "http://www.appannie.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "aramex",
+    "name": "Aramex Tracking",
+    "url": "https://www.aramex.com/track-results-multiple.aspx?ShipmentNumber={{{s}}}"
+  },
+  {
+    "bang": "auspost",
+    "name": "Australia Post",
+    "url": "http://auspost.com.au/track/track.html?id={{{s}}}"
+  },
+  {
+    "bang": "aware",
+    "name": "flightaware",
+    "url": "http://flightaware.com/live/airport/{{{s}}}"
+  },
+  {
+    "bang": "blockchair",
+    "name": "Blockchair",
+    "url": "https://blockchair.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "boxoh",
+    "name": "Boxoh",
+    "url": "http://boxoh.com/?t={{{s}}}"
+  },
+  {
+    "bang": "bpost",
+    "name": "BPost",
+    "url": "http://track.bpost.be/btr/web/#/search?itemCode={{{s}}}"
+  },
+  {
+    "bang": "canadapost",
+    "name": "Canada Post Tracking",
+    "url": "https://www.canadapost.ca/cpotools/apps/track/personal/findByTrackNumber?trackingNumber={{{s}}}&LOCALE=en&LOCALE2=en"
+  },
+  {
+    "bang": "cdown",
+    "name": "Currently Down",
+    "url": "http://currentlydown.com/{{{s}}}"
+  },
+  {
+    "bang": "cep",
+    "name": "Consultar CEP",
+    "url": "http://www.consultarcep.com.br/resultados.html?cx=partner-pub-6657933402951336%3A8478085485&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=%C2%A0"
+  },
+  {
+    "bang": "chronopost",
+    "name": "Chronopost France",
+    "url": "http://www.chronopost.fr/fr/chrono_suivi_search?lang=fr&listeNumerosLT={{{s}}}"
+  },
+  {
+    "bang": "coinmarketcap",
+    "name": "Coinmarketcap",
+    "url": "https://coinmarketcap.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "correios",
+    "name": "Correios",
+    "url": "https://www.linkcorreios.com.br/{{{s}}}"
+  },
+  {
+    "bang": "cpost",
+    "name": "Czech post",
+    "url": "https://www.postaonline.cz/trackandtrace/-/zasilka/cislo?parcelNumbers={{{s}}}"
+  },
+  {
+    "bang": "ctt",
+    "name": "CTT",
+    "url": "https://www.ctt.pt/feapl_2/app/open/objectSearch/objectSearch.jspx?objects={{{s}}}"
+  },
+  {
+    "bang": "dhlde",
+    "name": "DHL German",
+    "url": "http://nolp.dhl.de/nextt-online-public/set_identcodes.do?lang=de&idc={{{s}}}&rfn=&extendedSearch=true"
+  },
+  {
+    "bang": "dhl",
+    "name": "DHL",
+    "url": "http://www.dhl-usa.com/content/us/en/express/tracking.shtml?AWB={{{s}}}"
+  },
+  {
+    "bang": "dhlf",
+    "name": "DHL Freight",
+    "url": "https://activetracing.dhl.com/DatPublic/datSelection.do?search=consignmentId&at=cons_ordercode&valueShipmentOrderField={{{s}}}&focus=search2&searchConsignmentId=track"
+  },
+  {
+    "bang": "dhlgm",
+    "name": "DHL Global Mail Tracking",
+    "url": "http://webtrack.dhlglobalmail.com/?trackingnumber={{{s}}}"
+  },
+  {
+    "bang": "dpdpost",
+    "name": "DPD",
+    "url": "http://tracking.dpd.de/parcelstatus?query={{{s}}}&locale=en_DE"
+  },
+  {
+    "bang": "dpdt",
+    "name": "DPD Online Tracking",
+    "url": "https://tracking.dpd.de/cgi-bin/delistrack?typ=1&pknr={{{s}}}"
+  },
+  {
+    "bang": "fedex",
+    "name": "FedEx",
+    "url": "http://fedex.com/Tracking?tracknumbers={{{s}}}&action=track"
+  },
+  {
+    "bang": "flightaware",
+    "name": "Flightaware",
+    "url": "https://flightaware.com/live/flight/{{{s}}} "
+  },
+  {
+    "bang": "fr24f",
+    "name": "Flightradar24 Flight Data",
+    "url": "https://www.flightradar24.com/data/flights/{{{s}}}"
+  },
+  {
+    "bang": "gia",
+    "name": "GIA",
+    "url": "http://www.gia.edu/cs/Satellite?pagename=GST%2FDispatcher&childpagename=GIA%2FPage%2FReportCheck&c=Page&cid=1355954554547&reportno={{{s}}}"
+  },
+  {
+    "bang": "gradcafe",
+    "name": "Grad Cafe",
+    "url": "http://thegradcafe.com/survey/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "hermes",
+    "name": "Hermes Sendungsverfolgung",
+    "url": "https://www.myhermes.de/empfangen/sendungsverfolgung/sendungsinformation/#{{{s}}}"
+  },
+  {
+    "bang": "inpost",
+    "name": "InPost",
+    "url": "https://inpost.pl/pl/pomoc/znajdz-przesylke?parcel={{{s}}}"
+  },
+  {
+    "bang": "investing",
+    "name": "investing.com",
+    "url": "https://www.investing.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "iparcel",
+    "name": "i-parcel Tracking",
+    "url": "https://tracking.i-parcel.com/secure/track.aspx?track={{{s}}}"
+  },
+  {
+    "bang": "iptracker",
+    "name": "IP Tracker",
+    "url": "http://www.ip-tracker.org/locator/ip-lookup.php?ip={{{s}}} "
+  },
+  {
+    "bang": "itella",
+    "name": "Itella Item Tracking",
+    "url": "http://www.itella.fi/itemtracking/itella/search_by_shipment_id?ShipmentId={{{s}}}"
+  },
+  {
+    "bang": "jpost",
+    "name": "Japan Post Tracking",
+    "url": "https://trackings.post.japanpost.jp/services/srv/search/direct?searchKind=S004&locale=en&reqCodeNo1={{{s}}}"
+  },
+  {
+    "bang": "jrady",
+    "name": "IDS JMK \u2013 j\u00edzdn\u00ed \u0159\u00e1dy Brno a Jihomoravsk\u00fd kraj",
+    "url": "https://www.idsjmk.cz/jrady/{{{s}}}.pdf"
+  },
+  {
+    "bang": "kolli",
+    "name": "Posten AB",
+    "url": "https://www.postnord.se/sv/verktyg/sok/Sidor/spara-brev-paket-och-pall.aspx?view=item&itemid={{{s}}}"
+  },
+  {
+    "bang": "laposte",
+    "name": "La Poste Suivi",
+    "url": "http://www.csuivi.courrier.laposte.fr/suivi?id={{{s}}}"
+  },
+  {
+    "bang": "laser",
+    "name": "LaserShip",
+    "url": "http://lasership.com/track/{{{s}}}"
+  },
+  {
+    "bang": "lasership",
+    "name": "LaserShip",
+    "url": "http://lasership.com/track/{{{s}}}"
+  },
+  {
+    "bang": "loomis",
+    "name": "Loomis Tracking",
+    "url": "https://www.loomisexpress.com/ca/wfTrackingStatus.aspx?PieceNumber={{{s}}}"
+  },
+  {
+    "bang": "mojangbug",
+    "name": "Mojang Bug Tracker",
+    "url": "https://bugs.mojang.com/issues/?jql=text ~ '{{{s}}}'"
+  },
+  {
+    "bang": "mrw",
+    "name": "MRW Espa\u00f1a",
+    "url": "https://www.mrw.es/seguimiento_envios/MRW_resultados_consultas.asp?modo=nacional&envio={{{s}}}"
+  },
+  {
+    "bang": "naopgg",
+    "name": "opgg",
+    "url": "http://na.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "ngt",
+    "name": "Newgistics Tracking",
+    "url": "http://tracking.newgistics.com/?trackingvalue={{{s}}}"
+  },
+  {
+    "bang": "odota",
+    "name": "OpenDota",
+    "url": "https://www.opendota.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "package",
+    "name": "PackageMapping",
+    "url": "http://www.packagemapping.com/?action=track&tracknum={{{s}}}"
+  },
+  {
+    "bang": "parcello",
+    "name": "Parcello Sendungsverfolgung - Parcel Tracking",
+    "url": "https://www.parcello.org/tracking?tid={{{s}}}"
+  },
+  {
+    "bang": "parcels",
+    "name": "Parcels",
+    "url": "http://parcelsapp.com/en/tracking/{{{s}}}"
+  },
+  {
+    "bang": "pclo",
+    "name": "Parcello",
+    "url": "https://www.parcello.org/tracking?tid={{{s}}}"
+  },
+  {
+    "bang": "pkgrd",
+    "name": "PackageRadar",
+    "url": "https://packageradar.com/form?tracking_form[tracking_number]={{{s}}}"
+  },
+  {
+    "bang": "pkgtr",
+    "name": "Package Trackr",
+    "url": "https://www.packagetrackr.com/track/{{{s}}}"
+  },
+  {
+    "bang": "poczta",
+    "name": "Poczta Polska",
+    "url": "http://emonitoring.poczta-polska.pl/?numer={{{s}}}"
+  },
+  {
+    "bang": "postat",
+    "name": "Post.at",
+    "url": "https://www.post.at/sendungsverfolgung.php/details?pnum1={{{s}}}"
+  },
+  {
+    "bang": "posten",
+    "name": "Posten",
+    "url": "http://sporing.posten.no/sporing.html?lang=no&q={{{s}}}&submit="
+  },
+  {
+    "bang": "poste",
+    "name": "Poste Italiane",
+    "url": "https://www.poste.it/cerca/index.html#/risultati-spedizioni/{{{s}}}"
+  },
+  {
+    "bang": "pptrack",
+    "name": "Polish Post tracking",
+    "url": "http://emonitoring.poczta-polska.pl/?lang=en&numer={{{s}}}"
+  },
+  {
+    "bang": "purolator",
+    "name": "Purolator shipment tracking",
+    "url": "https://eshiponline.purolator.com/ShipOnline/Public/Track/TrackingDetails.aspx?pin={{{s}}}"
+  },
+  {
+    "bang": "resi",
+    "name": "Cekresi",
+    "url": "http://cekresi.com/?noresi={{{s}}}"
+  },
+  {
+    "bang": "rmail",
+    "name": "Royal mail tracking ID",
+    "url": "https://www.royalmail.com/track-your-item#/tracking-results/{{{s}}}"
+  },
+  {
+    "bang": "rtt",
+    "name": "Real Time Trains",
+    "url": "http://www.realtimetrains.co.uk/search/handler?type=basic&qs=true&search={{{s}}}"
+  },
+  {
+    "bang": "semrush",
+    "name": "SEM Rush",
+    "url": "https://www.semrush.com/info/{{{s}}}+(full+search)"
+  },
+  {
+    "bang": "sfs",
+    "name": "stopforumspam.com",
+    "url": "http://www.stopforumspam.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "suivicolissimo",
+    "name": "Suivi Colissimo",
+    "url": "http://www.colissimo.fr/portail_colissimo/suivre.do?language=fr_FR&parcelnumber={{{s}}}"
+  },
+  {
+    "bang": "suivicourrier",
+    "name": "La Poste",
+    "url": "http://www.csuivi.courrier.laposte.fr/suivi/index?id={{{s}}}#"
+  },
+  {
+    "bang": "swisspost",
+    "name": "Swiss Post",
+    "url": "https://www.post.ch/EasyTrack/submitParcelData.do?formattedParcelCodes={{{s}}}"
+  },
+  {
+    "bang": "tnt",
+    "name": "TNT",
+    "url": "http://webtracker.tnt.com/webtracker/tracking.do?requestType=GEN&searchType=CON&respLang=en&respCountry=US&sourceID=1&sourceCountry=ww&cons={{{s}}}"
+  },
+  {
+    "bang": "torwiki",
+    "name": "Torproject Wiki",
+    "url": "https://trac.torproject.org/projects/tor/search?q={{{s}}} "
+  },
+  {
+    "bang": "track",
+    "name": "PackageMapping",
+    "url": "http://www.packagemapping.com/?action=track&tracknum={{{s}}}"
+  },
+  {
+    "bang": "trackr",
+    "name": "Packagetrackr",
+    "url": "http://www.packagetrackr.com/track/?submit=&n={{{s}}}&c="
+  },
+  {
+    "bang": "trello",
+    "name": "Trello",
+    "url": "https://trello.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "upses",
+    "name": "UPS Spain",
+    "url": "https://www.ups.com/track?loc=es_ES&tracknum={{{s}}}"
+  },
+  {
+    "bang": "ups",
+    "name": "UPS Tracking",
+    "url": "https://wwwapps.ups.com/WebTracking/processInputRequest?tracknum={{{s}}}&"
+  },
+  {
+    "bang": "usps",
+    "name": "USPS",
+    "url": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1={{{s}}}"
+  },
+  {
+    "bang": "wmphab",
+    "name": "Wikimedia Phabricator installation",
+    "url": "https://phabricator.wikimedia.org/search/?query={{{s}}}"
+  },
+  {
+    "bang": "xlm",
+    "name": "StellarExpert",
+    "url": "https://stellar.expert/explorer/public/account/{{{s}}}"
+  }
+]

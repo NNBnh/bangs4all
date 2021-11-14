@@ -1,0 +1,367 @@
+[
+  {
+    "bang": "apackages",
+    "name": "ArchLinux Packages",
+    "url": "http://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&last_update=&flagged=&limit=50"
+  },
+  {
+    "bang": "aplcart",
+    "name": "APLcart",
+    "url": "https://aplcart.info/?q={{{s}}}"
+  },
+  {
+    "bang": "appcel",
+    "name": "Appcelerator API Docs",
+    "url": "http://developer.appcelerator.com/apidoc/search/mobile/latest?q={{{s}}}"
+  },
+  {
+    "bang": "archaur",
+    "name": "ArchLinux User Repository",
+    "url": "https://aur.archlinux.org/packages.php?O=0&K={{{s}}}&do_Search=Go"
+  },
+  {
+    "bang": "archlinux",
+    "name": "Archlinux Forums",
+    "url": "https://bbs.archlinux.org/search.php?action=search&keywords={{{s}}}&author=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit"
+  },
+  {
+    "bang": "b4x",
+    "name": "B4X",
+    "url": "https://www.b4x.com/android/forum/pages/results/?query={{{s}}}"
+  },
+  {
+    "bang": "cargo",
+    "name": "Cargo",
+    "url": "https://crates.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "char",
+    "name": "charcode.es",
+    "url": "http://charcod.es/#{{{s}}}"
+  },
+  {
+    "bang": "cius",
+    "name": "can i use ",
+    "url": "https://caniuse.com/#search={{{s}}}"
+  },
+  {
+    "bang": "clojure",
+    "name": "Clojure Docs",
+    "url": "http://clojuredocs.org/search?x=0&y=0&q={{{s}}}"
+  },
+  {
+    "bang": "clojuredocs",
+    "name": "Clojure Docs",
+    "url": "http://clojuredocs.org/search?x=0&y=0&q={{{s}}}"
+  },
+  {
+    "bang": "cmake30",
+    "name": "CMake 3.0 Documentation",
+    "url": "http://www.cmake.org/cmake/help/v3.0/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "coq",
+    "name": "Coq",
+    "url": "https://coq.inria.fr/distrib/current/refman/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "crates",
+    "name": "The Rust community's crate host",
+    "url": "https://crates.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "cu",
+    "name": "CanIUse",
+    "url": "http://caniuse.com/#search={{{s}}}"
+  },
+  {
+    "bang": "delphi",
+    "name": "Delphi Basics",
+    "url": "http://www.delphibasics.co.uk/RTL.asp?Name={{{s}}}"
+  },
+  {
+    "bang": "discussscratch",
+    "name": "Scratch",
+    "url": "http://scratch.mit.edu/search/google_results/?q={{{s}}}&date=anytime&sort_by=datetime_shared"
+  },
+  {
+    "bang": "docbook5",
+    "name": "DocBook 5: The Definitive Guide",
+    "url": "http://docbook.org/search/?cx=008085259838719972531%3Atqmky0g0tbo&q={{{s}}}&sa=DocBook+Search&cof=FORID%3A9&siteurl=docbook.org%2F&ref=&ss=551j84183j5"
+  },
+  {
+    "bang": "docsrs",
+    "name": "Docs.rs",
+    "url": "https://docs.rs/releases/search?query={{{s}}}"
+  },
+  {
+    "bang": "drupal",
+    "name": "Drupal",
+    "url": "http://drupal.org/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "bang": "elixir-docs",
+    "name": "Elixir Documentation",
+    "url": "https://duckduckgo.com/?q=site%3Aelixir-lang.org%2Fdocs+{{{s}}}"
+  },
+  {
+    "bang": "elixir",
+    "name": "Elixir Documentation",
+    "url": "https://hexdocs.pm/elixir/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "elixirforum",
+    "name": "elixirforum.com",
+    "url": "https://elixirforum.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "elm",
+    "name": "Elm Search",
+    "url": "http://klaftertief.github.io/elm-search/?q={{{s}}}"
+  },
+  {
+    "bang": "erlang",
+    "name": "Erlang Docs",
+    "url": "https://duckduckgo.com/?q=site%3Aerlang.org+{{{s}}}"
+  },
+  {
+    "bang": "eso",
+    "name": "Esolangs",
+    "url": "http://esolangs.org/w/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "esolang",
+    "name": "Esolang",
+    "url": "http://esolangs.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "fpcs",
+    "name": "Forum pcsoft",
+    "url": "https://duckduckgo.com/?q=site:forum.pcsoft.fr+{{{s}}}"
+  },
+  {
+    "bang": "freepascal",
+    "name": "Freepascal",
+    "url": "http://wiki.freepascal.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "fwiki",
+    "name": "Fortran Wiki",
+    "url": "http://fortranwiki.org/fortran/search?query={{{s}}}"
+  },
+  {
+    "bang": "hx",
+    "name": "Hex.pm",
+    "url": "https://hex.pm/packages?search={{{s}}}&sort=downloads"
+  },
+  {
+    "bang": "idl",
+    "name": "Harris Geospatial",
+    "url": "http://www.harrisgeospatial.com/docs/SearchResults.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "idris",
+    "name": "Idris Dcoumentation",
+    "url": "http://docs.idris-lang.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "julia",
+    "name": "Julia language documentation",
+    "url": "https://docs.julialang.org/en/latest/search?q={{{s}}}"
+  },
+  {
+    "bang": "kdb",
+    "name": "kx",
+    "url": "https://code.kx.com/q/search?query={{{s}}}"
+  },
+  {
+    "bang": "kmf",
+    "name": "forum.keyboardmaestro.com",
+    "url": "https://forum.keyboardmaestro.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "komputeko",
+    "name": "Komputeko",
+    "url": "http://www.komputeko.net/index_eo.php?vorto={{{s}}}"
+  },
+  {
+    "bang": "kotlin",
+    "name": "kotlinlang.org",
+    "url": "https://kotlinlang.org/?q={{{s}}}"
+  },
+  {
+    "bang": "kotlinlinks",
+    "name": "Kotlin Links",
+    "url": "https://kotlin.link/?q={{{s}}}"
+  },
+  {
+    "bang": "kxref",
+    "name": "kx Reference",
+    "url": "https://code.kx.com/q/search?query={{{s}}}"
+  },
+  {
+    "bang": "learnxiny",
+    "name": "Learn X in Y",
+    "url": "https://learnxinyminutes.com/docs/{{{s}}}"
+  },
+  {
+    "bang": "librs",
+    "name": "https://lib.rs",
+    "url": "https://lib.rs/search?q={{{s}}}"
+  },
+  {
+    "bang": "mdncss",
+    "name": "Mozilla Developer Network CSS",
+    "url": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=css"
+  },
+  {
+    "bang": "ocaml",
+    "name": "OCaml Lib Ref",
+    "url": "http://caml.inria.fr/pub/docs/manual-ocaml/libref/{{{s}}}.html"
+  },
+  {
+    "bang": "ocamloscope",
+    "name": "OCamlOScope",
+    "url": "https://camlspotter.github.io/ocamloscope.html?q={{{s}}}"
+  },
+  {
+    "bang": "opam",
+    "name": "OPAM",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:https://opam.ocaml.org/packages"
+  },
+  {
+    "bang": "oradocs",
+    "name": "Oracle Docs",
+    "url": "https://docs.oracle.com/apps/search/search.jsp?q={{{s}}}"
+  },
+  {
+    "bang": "org",
+    "name": "Org Manual",
+    "url": "https://duckduckgo.com/?q=site:http://orgmode.org/manual/+{{{s}}}"
+  },
+  {
+    "bang": "psg",
+    "name": "PowerShell Gallery",
+    "url": "https://www.powershellgallery.com/packages?q={{{s}}}"
+  },
+  {
+    "bang": "psmb",
+    "name": "PowerShell Module Browser",
+    "url": "https://docs.microsoft.com/en-us/powershell/module/?term={{{s}}}"
+  },
+  {
+    "bang": "pubdev",
+    "name": "pub.dev",
+    "url": "https://pub.dev/packages?q={{{s}}}"
+  },
+  {
+    "bang": "pursuit",
+    "name": "Pursuit",
+    "url": "http://pursuit.purescript.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "racket",
+    "name": "Racket",
+    "url": "http://docs.racket-lang.org/search/index.html?q={{{s}}}"
+  },
+  {
+    "bang": "rce",
+    "name": "Rust Compiler Error Index",
+    "url": "https://doc.rust-lang.org/error-index.html#E{{{s}}}"
+  },
+  {
+    "bang": "rclippy",
+    "name": "Rust Clippy Lints",
+    "url": "https://rust-lang.github.io/rust-clippy/master/index.html#{{{s}}}"
+  },
+  {
+    "bang": "rustn",
+    "name": "Rust Nightly Standard Library Documentation",
+    "url": "https://doc.rust-lang.org/nightly/std/?search={{{s}}}"
+  },
+  {
+    "bang": "ruststd",
+    "name": "Rust standard library API reference",
+    "url": "http://doc.rust-lang.org/std/?search={{{s}}}"
+  },
+  {
+    "bang": "sas",
+    "name": "SAS",
+    "url": "https://support.sas.com/en/search.html?q={{{s}}}&fq=siteArea%3A%22Documentation%22"
+  },
+  {
+    "bang": "sccode",
+    "name": "sccode.org",
+    "url": "http://sccode.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "sclang",
+    "name": "SuperCollider",
+    "url": "http://doc.sccode.org/Search.html#{{{s}}}"
+  },
+  {
+    "bang": "scratchwiki",
+    "name": "Scratch Wiki",
+    "url": "http://wiki.scratch.mit.edu/w/index.php?search={{{s}}}&fulltext=Search&title=Special%3ASearch"
+  },
+  {
+    "bang": "slwiki",
+    "name": "Second Life Wiki",
+    "url": "http://wiki.secondlife.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "socvi",
+    "name": "stackoverflow.com",
+    "url": "https://stackoverflow.com/search?q=[labwindows]+{{{s}}}"
+  },
+  {
+    "bang": "sqf",
+    "name": "Bohemia Interactive Community Wiki",
+    "url": "https://community.bistudio.com/wiki?search={{{s}}}"
+  },
+  {
+    "bang": "ss64",
+    "name": "SS64",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:www.ss64.com"
+  },
+  {
+    "bang": "sundell",
+    "name": "Swift by Sundell",
+    "url": "https://www.swiftbysundell.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "svg",
+    "name": "Mozilla Developer Network",
+    "url": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=svg"
+  },
+  {
+    "bang": "swipl",
+    "name": "SWI-Prolog",
+    "url": "http://www.swi-prolog.org/pldoc/search?for={{{s}}}&in=all&match=summary"
+  },
+  {
+    "bang": "tcl",
+    "name": "TCLers Wiki",
+    "url": "http://wiki.tcl.tk/_/search?S={{{s}}}&_charset_=UTF-8"
+  },
+  {
+    "bang": "typescript",
+    "name": "TypeScript Lang",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:www.typescriptlang.org"
+  },
+  {
+    "bang": "udev",
+    "name": "Ubuntu Developer",
+    "url": "https://developer.ubuntu.com/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "vba",
+    "name": "MS Office VBA Refference",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Amsdn.microsoft.com%2Fen-us%2Fvba&t=ffab&ia=web"
+  },
+  {
+    "bang": "x86",
+    "name": "x86 Opcode & Instruction Reference",
+    "url": "http://ref.x86asm.net/geek.html#{{{s}}}"
+  }
+]

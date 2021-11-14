@@ -1,0 +1,77 @@
+[
+  {
+    "bang": "corona",
+    "name": "Corona",
+    "url": "https://coronalabs.com/?s={{{s}}}"
+  },
+  {
+    "bang": "gmod",
+    "name": "GMod wiki",
+    "url": "http://wiki.garrysmod.com/page/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "l2d",
+    "name": "Love2D Wiki",
+    "url": "http://www.love2d.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "lit",
+    "name": "luvit.io",
+    "url": "https://luvit.io/lit.html#{{{s}}}"
+  },
+  {
+    "bang": "love",
+    "name": "L\u00d6VE",
+    "url": "http://love2d.org/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "luadoc51",
+    "name": "Lua 5.1 Documentation",
+    "url": "https://www.lua.org/manual/5.1/manual.html#pdf-{{{s}}}"
+  },
+  {
+    "bang": "luadoc52",
+    "name": "Lua 5.2 Documentation",
+    "url": "https://www.lua.org/manual/5.2/manual.html#pdf-{{{s}}}"
+  },
+  {
+    "bang": "luadoc53",
+    "name": "Lua 5.3 Documentation",
+    "url": "https://www.lua.org/manual/5.3/manual.html#pdf-{{{s}}}"
+  },
+  {
+    "bang": "luaforge",
+    "name": "LuaForge",
+    "url": "http://luaforge.net/search/?type_of_search=soft&words={{{s}}}&Search=Search"
+  },
+  {
+    "bang": "luarocks",
+    "name": "LuaRocks",
+    "url": "https://luarocks.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "module",
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Module:{{{s}}}"
+  },
+  {
+    "bang": "rbxw",
+    "name": "ROBLOX Wiki",
+    "url": "http://wiki.roblox.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "rock",
+    "name": "LuaRocks",
+    "url": "https://luarocks.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "rodev",
+    "name": "ROBLOX Developer",
+    "url": "https://developer.roblox.com/search#stq={{{s}}}"
+  },
+  {
+    "bang": "template",
+    "name": "Wikipedia Templates",
+    "url": "https://en.wikipedia.org/wiki/Template:{{{s}}}"
+  }
+]

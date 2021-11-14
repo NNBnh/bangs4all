@@ -1,0 +1,477 @@
+[
+  {
+    "bang": "34travel",
+    "name": "34travel.me",
+    "url": "https://34travel.me/search?text={{{s}}}"
+  },
+  {
+    "bang": "backpacker",
+    "name": "Backpaker Magazine",
+    "url": "https://www.backpacker.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bergfex",
+    "name": "bergfex",
+    "url": "http://www.bergfex.com/sommer/suchen/?q={{{s}}}"
+  },
+  {
+    "bang": "bookinges",
+    "name": "Booking Espa\u00f1a",
+    "url": "https://www.booking.com/search.es.html?ss={{{s}}}"
+  },
+  {
+    "bang": "bustimes",
+    "name": "Bus Times",
+    "url": "https://bustimes.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "bvg",
+    "name": "BVG",
+    "url": "https://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/?pk_campaign=BVG.de_Eingabe&from={{{s}}} "
+  },
+  {
+    "bang": "cottages",
+    "name": "Self Cater",
+    "url": "https://selfcater.com/find?query={{{s}}}"
+  },
+  {
+    "bang": "couch",
+    "name": "Couchsurfing",
+    "url": "https://www.couchsurfing.org/?q={{{s}}}"
+  },
+  {
+    "bang": "critiki",
+    "name": "Critiki",
+    "url": "https://critiki.com/search/?t={{{s}}}"
+  },
+  {
+    "bang": "deuturk",
+    "name": "Deutsch-T\u00fcrkisch.net",
+    "url": "https://deutsch-tuerkisch.net/suche/{{{s}}}"
+  },
+  {
+    "bang": "doc",
+    "name": "DoctorOfCredit",
+    "url": "https://www.doctorofcredit.com/?s={{{s}}}"
+  },
+  {
+    "bang": "flightradar",
+    "name": "Flightradar24",
+    "url": "https://www.flightradar24.com/data/flights/{{{s}}}"
+  },
+  {
+    "bang": "fr24",
+    "name": "Flight radar 24 - flights",
+    "url": "https://www.flightradar24.com/data/flights/{{{s}}}"
+  },
+  {
+    "bang": "gadv",
+    "name": "G Adventures",
+    "url": "https://www.gadventures.com/search/?q={{{s}}}&ref=ddgsearch"
+  },
+  {
+    "bang": "gcmap",
+    "name": "Great Circle Mapper",
+    "url": "http://www.gcmap.com/mapui?P={{{s}}}"
+  },
+  {
+    "bang": "geography",
+    "name": "GeoFact of the Day",
+    "url": "https://geofactoftheday.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gflights",
+    "name": "Google Flights",
+    "url": "https://www.google.com/flights/#search;t={{{s}}}"
+  },
+  {
+    "bang": "giti",
+    "name": "https://www.google.fr/maps/dir",
+    "url": "https://www.google.fr/maps/dir/{{{s}}}/{{{s}}}"
+  },
+  {
+    "bang": "gmuk",
+    "name": "Google Maps",
+    "url": "https://www.google.co.uk/maps/place/{{{s}}} "
+  },
+  {
+    "bang": "gpsies",
+    "name": "GPSies.de",
+    "url": "http://gpsies.de/?q={{{s}}}"
+  },
+  {
+    "bang": "gquil",
+    "name": "en Guayaquil",
+    "url": "https://enguayaquil.com/?s={{{s}}}"
+  },
+  {
+    "bang": "havana",
+    "name": "Crazy About Havana",
+    "url": "https://crazyabouthavana.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hitchwiki",
+    "name": "Hitchwiki",
+    "url": "http://hitchwiki.org/en/index.php?search={{{s}}}&fulltext=Search&title=Special%3ASearch"
+  },
+  {
+    "bang": "hsl",
+    "name": "Helsingin Seudun Liikenne",
+    "url": "https://www.hsl.fi/search/solr?keywords={{{s}}}"
+  },
+  {
+    "bang": "ixigo",
+    "name": "ixigo",
+    "url": "https://ixigo.com/q/{{{s}}}"
+  },
+  {
+    "bang": "joker",
+    "name": "Joker",
+    "url": "https://www.joker.be/nl/groepsreizen/{{{s}}}"
+  },
+  {
+    "bang": "kfz",
+    "name": "Kfz-Kennzeichen",
+    "url": "http://www.kfz-info.net/{{{s}}}-kfz-kennzeichen"
+  },
+  {
+    "bang": "lonelyplanet",
+    "name": "Lonely Planet",
+    "url": "https://www.lonelyplanet.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mapsfr",
+    "name": "Google Maps FR",
+    "url": "https://maps.google.com/maps?hl=fr&q={{{s}}}"
+  },
+  {
+    "bang": "meligrana",
+    "name": "meligrana.com",
+    "url": "https://www.meligrana.com/es/alojamiento-turismo/buscar-alojamiento.asp?q={{{s}}} "
+  },
+  {
+    "bang": "metar",
+    "name": "AV-WX (Aviation Weather)",
+    "url": "http://av-wx.com/?search={{{s}}}&mode=metar"
+  },
+  {
+    "bang": "ncbc",
+    "name": "NoCoastBestCoast",
+    "url": "https://www.nocoastbestcoast.com/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "nps",
+    "name": "National Park Service (USA)",
+    "url": "http://www.nps.gov/search/?affiliate=nps&query={{{s}}}"
+  },
+  {
+    "bang": "ods",
+    "name": "Open Data Soft",
+    "url": "http://public.opendatasoft.com/explore/dataset/european-train-stations/?q={{{s}}}"
+  },
+  {
+    "bang": "oqc",
+    "name": "O\u00f9QuoiComment",
+    "url": "https://www.ouquoicomment.ch/?s={{{s}}}&search_by=all"
+  },
+  {
+    "bang": "oregon",
+    "name": "Oregon Coast",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Atheoregoncoast.info"
+  },
+  {
+    "bang": "ouicar",
+    "name": "OuiCar",
+    "url": "http://www.ouicar.fr/car/search?where={{{s}}}&from=ddgbang"
+  },
+  {
+    "bang": "outsidemag",
+    "name": "Outside Magazine",
+    "url": "https://www.outsideonline.com/search/site/{{{s}}}"
+  },
+  {
+    "bang": "plane",
+    "name": "planespotters.net",
+    "url": "http://www.planespotters.net/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "ponsdesv",
+    "name": "pons.com",
+    "url": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=desv&in=&lf=de"
+  },
+  {
+    "bang": "qcubbrux",
+    "name": "Qui conna\u00eet un bon : Bruxelles",
+    "url": "http://www.qcunbon.be/bruxelles?q={{{s}}}"
+  },
+  {
+    "bang": "r2r",
+    "name": "Rome2rio",
+    "url": "https://www.rome2rio.com/map/{{{s}}}"
+  },
+  {
+    "bang": "ratp",
+    "name": "RATP",
+    "url": "https://www.ratp.fr/itineraires?start={{{s}}}&lieu_depart=station&"
+  },
+  {
+    "bang": "reversoiten",
+    "name": "Reverso DIctionary",
+    "url": "http://dictionary.reverso.net/italian-english/{{{s}}}"
+  },
+  {
+    "bang": "routard",
+    "name": "Le Guide Du Routard",
+    "url": "http://www.routard.com/recherche.asp?q={{{s}}}&edt_cleRech={{{s}}}"
+  },
+  {
+    "bang": "sandiego",
+    "name": "San Diego - The Official Travel Resource for the San Diego Region",
+    "url": "https://www.sandiego.org/search/site.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "t\u00e5g",
+    "name": "T\u00e5ginformation Sverige (Trafikverket)",
+    "url": "https://www.trafikverket.se/trafikinformation/tag/?&TrainOrStation={{{s}}}"
+  },
+  {
+    "bang": "tait",
+    "name": "https://www.tripadvisor.it",
+    "url": "https://www.tripadvisor.it/Search?q={{{s}}}"
+  },
+  {
+    "bang": "ta",
+    "name": "tripadvisor",
+    "url": "http://www.tripadvisor.com/Search?q={{{s}}} "
+  },
+  {
+    "bang": "taxi",
+    "name": "Taxi.it",
+    "url": "https://www.taxi.it/?s={{{s}}}"
+  },
+  {
+    "bang": "tfl",
+    "name": "Transport for London",
+    "url": "http://www.tfl.gov.uk/tfl/search/?keywords={{{s}}}"
+  },
+  {
+    "bang": "tmn",
+    "name": "TravelMath",
+    "url": "http://www.travelmath.com/nearest-airport/{{{s}}}"
+  },
+  {
+    "bang": "tourindo",
+    "name": "Tourist Indonesia",
+    "url": "https://www.touristindonesia.tk/search?q={{{s}}}"
+  },
+  {
+    "bang": "tramper",
+    "name": "Tramper.nz",
+    "url": "http://tramper.nz/?view=search&keywords={{{s}}}"
+  },
+  {
+    "bang": "travel",
+    "name": "The Well Travelled Family",
+    "url": "https://thewelltravelledfamily.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tripadvisor",
+    "name": "Trip Advisor",
+    "url": "http://www.tripadvisor.com/Search?q={{{s}}}&sub-search=Go"
+  },
+  {
+    "bang": "tripoto",
+    "name": "Tripoto",
+    "url": "https://www.tripoto.com/travel-guide/{{{s}}}"
+  },
+  {
+    "bang": "vagw",
+    "name": "Vagonweb",
+    "url": "http://www.vagonweb.cz/razeni/razeni.php?jmeno={{{s}}}&najit=Suchen"
+  },
+  {
+    "bang": "vegas",
+    "name": "Vegas",
+    "url": "http://find.vegas.com/search?entqr=1&output=xml_no_dtd&sort=date%3AD%3AL%3Ad1&entsp=0&client=vegas&ud=1&oe=UTF-8&ie=UTF-8&proxystylesheet=vegas&site=vegas&q={{{s}}}&btnG=%E2%8C%95"
+  },
+  {
+    "bang": "vgn",
+    "name": "Ver\u00adkehrs\u00adver\u00adbund Gro\u00df\u00adraum N\u00fcrn\u00adberg",
+    "url": "https://www.vgn.de/verbindungen/?td={{{s}}}"
+  },
+  {
+    "bang": "visitwarrington",
+    "name": "Visit Warrington",
+    "url": "https://visitwarrington.com/explore/?type=search-all&search_keywords={{{s}}}&sort=latest"
+  },
+  {
+    "bang": "wikiloc",
+    "name": "Wikiloc",
+    "url": "http://www.wikiloc.com/wikiloc/find.do?q={{{s}}}"
+  },
+  {
+    "bang": "wikitravel",
+    "name": "Wikitravel",
+    "url": "http://wikitravel.org/en/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikit",
+    "name": "Wikitravel",
+    "url": "http://wikitravel.org/en/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagede",
+    "name": "Wikivoyage (Deutsch)",
+    "url": "https://de.wikivoyage.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wikivoyageel",
+    "name": "Wikivoyage (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac)",
+    "url": "https://el.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyageen",
+    "name": "Wikivoyage (English)",
+    "url": "https://en.wikivoyage.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wikivoyagees",
+    "name": "Wikivoyage (Espa\u00f1ol)",
+    "url": "https://es.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagefr",
+    "name": "Wikivoyage (fran\u00e7ais)",
+    "url": "https://fr.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagehe",
+    "name": "Wikivoyage (\u05e2\u05d1\u05e8\u05d9\u05ea)",
+    "url": "https://he.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyageit",
+    "name": "Wikivoyage (Italiano)",
+    "url": "https://it.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagenl",
+    "name": "Wikivoyage (Netherlands)",
+    "url": "https://nl.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagepl",
+    "name": "Wikivoyage (Polski)",
+    "url": "https://pl.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagept",
+    "name": "Wikivoyage (portugu\u00eas)",
+    "url": "https://pt.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagero",
+    "name": "Wikivoyage (Rom\u00e2n\u0103)",
+    "url": "https://ro.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyageru",
+    "name": "Wikivoyage (\u0420\u0443\u0441\u0441\u043a\u0438\u0439)",
+    "url": "https://ru.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagesv",
+    "name": "Wikivoyage (Svenska)",
+    "url": "https://sv.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyageuk",
+    "name": "Wikivoyage (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430)",
+    "url": "https://uk.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyagevi",
+    "name": "Wikivoyage (Ti\u1ebfng Vi\u1ec7t)",
+    "url": "https://vi.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikivoyage",
+    "name": "Wikivoyage",
+    "url": "http://en.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikivoyagezh",
+    "name": "Wikivoyage (\u4e2d\u6587)",
+    "url": "https://zh.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wkl",
+    "name": "Wikiloc",
+    "url": "https://www.wikiloc.com/wikiloc/find.do?q={{{s}}}"
+  },
+  {
+    "bang": "wotif",
+    "name": "Wotif",
+    "url": "http://www.wotif.com/search/TextSearch?searchTerms={{{s}}}"
+  },
+  {
+    "bang": "wvde",
+    "name": "Wikivoyage Deutsch",
+    "url": "https://de.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wven",
+    "name": "Wikivoyage (English)",
+    "url": "https://en.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wves",
+    "name": "Wikivoyage espa\u00f1ol",
+    "url": "https://es.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wvfr",
+    "name": "Wikivoyage Fran\u00e7ais",
+    "url": "https://fr.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wvit",
+    "name": "Wikivoyage Italiano",
+    "url": "https://it.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wvnl",
+    "name": "Wikivoyage Nederlands",
+    "url": "https://nl.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wvpt",
+    "name": "Wikivoyage Portugu\u00eas",
+    "url": "https://pt.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wvru",
+    "name": "Wikivoyage Russian",
+    "url": "https://ru.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wvsv",
+    "name": "Wikivoyage Svenska",
+    "url": "https://sv.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wv",
+    "name": "Wikivoyage",
+    "url": "https://en.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wwiki",
+    "name": "Wegenwiki",
+    "url": "http://www.wegenwiki.nl/index.php?search={{{s}}}&title=Speciaal%3AZoeken"
+  },
+  {
+    "bang": "yvr",
+    "name": "Vancouver Airport",
+    "url": "http://www.yvr.ca/en/search#q={{{s}}}"
+  }
+]

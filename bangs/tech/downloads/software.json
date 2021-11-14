@@ -1,0 +1,352 @@
+[
+  {
+    "bang": "alexion",
+    "name": "Alexion CRM software",
+    "url": "http://alexion.nl/?s={{{s}}}&post_type=faq"
+  },
+  {
+    "bang": "alternative",
+    "name": "AlternativeTo.net",
+    "url": "http://alternativeto.net/searchresult.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "alto",
+    "name": "Alternative To",
+    "url": "http://alternativeto.net/browse/search?q={{{s}}} "
+  },
+  {
+    "bang": "anaconda",
+    "name": "Anaconda Cloud",
+    "url": "https://anaconda.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "applesoftware",
+    "name": "Apple",
+    "url": "https://support.apple.com/en_US/downloads/{{{s}}}"
+  },
+  {
+    "bang": "apppedia",
+    "name": "AppPedia",
+    "url": "http://programs.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "ato",
+    "name": "AlternativeTo",
+    "url": "https://alternativeto.net/browse/search/?q={{{s}}}"
+  },
+  {
+    "bang": "au",
+    "name": "Arch Linux User Repository",
+    "url": "https://aur.archlinux.org/packages/?K={{{s}}}"
+  },
+  {
+    "bang": "azfonts",
+    "name": "AZFonts",
+    "url": "https://www.azfonts.net/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "brewf",
+    "name": "Homebrew",
+    "url": "https://formulae.brew.sh/formula/{{{s}}}"
+  },
+  {
+    "bang": "brew",
+    "name": "Homebrew",
+    "url": "http://brewformulas.org/search?search%5Bterm%5D={{{s}}}"
+  },
+  {
+    "bang": "choco",
+    "name": "Chocolatey",
+    "url": "https://chocolatey.org/packages?q={{{s}}}"
+  },
+  {
+    "bang": "cinst",
+    "name": "Chocolatey",
+    "url": "http://chocolatey.org/packages?q={{{s}}}"
+  },
+  {
+    "bang": "clubic",
+    "name": "Clubic",
+    "url": "http://www.clubic.com/r/{{{s}}}"
+  },
+  {
+    "bang": "coptr",
+    "name": "Community Owned digital Preservation Tool Registry (COPTR)",
+    "url": "http://coptr.digipres.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "cpg",
+    "name": "Cygwin Package Grep",
+    "url": "https://cygwin.com/cgi-bin2/package-grep.cgi?grep={{{s}}}"
+  },
+  {
+    "bang": "ddwrt",
+    "name": "DD-WRT Wiki",
+    "url": "http://www.dd-wrt.com/wiki/index.php/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "debpackages",
+    "name": "Debian Packages",
+    "url": "https://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "distro",
+    "name": "DistroWatch",
+    "url": "http://distrowatch.com/table.php?distribution={{{s}}}"
+  },
+  {
+    "bang": "distrowatch",
+    "name": "DistroWatch",
+    "url": "http://distrowatch.com/table.php?distribution={{{s}}}"
+  },
+  {
+    "bang": "dougscripts",
+    "name": "Doug's AppleScripts for iTunes",
+    "url": "http://dougscripts.com/itunes/itinfo/searchform.php?my_srch_term={{{s}}}"
+  },
+  {
+    "bang": "downloadcnet",
+    "name": "Cnet Downloads",
+    "url": "http://download.cnet.com/1770-20_4-0.html?query={{{s}}}&platformSelect=&tag=srch&searchtype=downloads&filterName=platform%3DWindows%2CMobile%2CMac%2CWebware&filter=platform%3DWindows%2CMobile%2CMac%2CWebware"
+  },
+  {
+    "bang": "download",
+    "name": "Download.com",
+    "url": "http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go%252521"
+  },
+  {
+    "bang": "elevenr",
+    "name": "Rijitsu Eleven",
+    "url": "https://eleven.rijitsu.com/?s={{{s}}}"
+  },
+  {
+    "bang": "fh",
+    "name": "Filehippo",
+    "url": "http://filehippo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "file",
+    "name": "FileHippo",
+    "url": "http://filehippo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "filehippo",
+    "name": "FileHippo",
+    "url": "http://filehippo.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "freshports",
+    "name": "FreshPorts",
+    "url": "https://www.freshports.org/search.php?query={{{s}}}&search=go&num=10&stype=name&method=match&deleted=excludedeleted&start=1&casesensitivity=caseinsensitive"
+  },
+  {
+    "bang": "fsd",
+    "name": "Free Software Directory",
+    "url": "http://directory.fsf.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "fsf",
+    "name": "Free Software Foundation",
+    "url": "http://www.fsf.org/search?SearchableText={{{s}}} "
+  },
+  {
+    "bang": "fthub",
+    "name": "Flathub",
+    "url": "https://flathub.org/apps/search/{{{s}}}"
+  },
+  {
+    "bang": "hdl",
+    "name": "Heise Download",
+    "url": "https://www.heise.de/download/search?terms={{{s}}}"
+  },
+  {
+    "bang": "kh",
+    "name": "Kubeapps Hub",
+    "url": "https://hub.kubeapps.com/charts?q={{{s}}}"
+  },
+  {
+    "bang": "lobugs",
+    "name": "LibreOffice Bugs",
+    "url": "https://bugs.documentfoundation.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "lubuntu",
+    "name": "Lubuntu.me",
+    "url": "http://lubuntu.me/?s={{{s}}}"
+  },
+  {
+    "bang": "m4l",
+    "name": "maxforlive.com",
+    "url": "http://maxforlive.com/library/index.php?by=any&q={{{s}}}"
+  },
+  {
+    "bang": "midori",
+    "name": "Midori Browser",
+    "url": "https://midori-browser.org?term={{{s}}}"
+  },
+  {
+    "bang": "mu",
+    "name": "MacUpdate",
+    "url": "http://macupdate.com/find/mac/{{{s}}}"
+  },
+  {
+    "bang": "oh",
+    "name": "Open Hub",
+    "url": "https://www.openhub.net/p?q={{{s}}}"
+  },
+  {
+    "bang": "oldversion",
+    "name": "OldVersion",
+    "url": "http://www.oldversion.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "oldv",
+    "name": "OldVersion.com",
+    "url": "http://www.oldversion.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "openports",
+    "name": "OpenPorts",
+    "url": "http://openports.se/search.php?so={{{s}}}"
+  },
+  {
+    "bang": "opensusesoftware",
+    "name": "OpenSUSE Software Search",
+    "url": "http://software.opensuse.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "palemoon",
+    "name": "Pale Moon forum",
+    "url": "http://forum.palemoon.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "papps",
+    "name": "PortableApps.com",
+    "url": "http://portableapps.com/search/node/{{{s}}}%20type%3Aapp"
+  },
+  {
+    "bang": "pfwc",
+    "name": "The Portable Freeware Collection",
+    "url": "http://www.portablefreeware.com/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "pfw",
+    "name": "The Portable Freeware Collection",
+    "url": "http://www.portablefreeware.com/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "pko",
+    "name": "KnightOS Package Index",
+    "url": "https://packages.knightos.org/search?terms={{{s}}}"
+  },
+  {
+    "bang": "pmfe",
+    "name": "Pale Moon forum en espa\u00f1ol",
+    "url": "https://forum.palemoon.org/search.php?keywords={{{s}}}&fid[0]=9"
+  },
+  {
+    "bang": "pmf",
+    "name": "Pale Moon forum",
+    "url": "http://forum.palemoon.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "portableapps",
+    "name": "PortableApps.com",
+    "url": "http://portableapps.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "portablefreeware",
+    "name": "The Portable Freeware Collection",
+    "url": "http://www.portablefreeware.com/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "pouet",
+    "name": "Pouet",
+    "url": "http://pouet.net/search.php?what={{{s}}}&type=prod"
+  },
+  {
+    "bang": "progaccess",
+    "name": "ProgAccess33",
+    "url": "https://progaccess33.net/search/?q={{{s}}}"
+  },
+  {
+    "bang": "savannah",
+    "name": "Savannah",
+    "url": "https://savannah.gnu.org/search/?type_of_search=soft&words={{{s}}}"
+  },
+  {
+    "bang": "shareware",
+    "name": "Download.com",
+    "url": "http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go%252521"
+  },
+  {
+    "bang": "snapcraft",
+    "name": "Snapcraft",
+    "url": "https://snapcraft.io/search?category=&q={{{s}}}"
+  },
+  {
+    "bang": "snappy",
+    "name": "Snapcraft",
+    "url": "https://snapcraft.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "softpedia",
+    "name": "Softpedia",
+    "url": "http://www.softpedia.com/dyn-search.php?search_term={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "software",
+    "name": "Download.com",
+    "url": "http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go%252521"
+  },
+  {
+    "bang": "sourceforge",
+    "name": "SourceForge",
+    "url": "http://sourceforge.net/directory/?q={{{s}}}"
+  },
+  {
+    "bang": "srec",
+    "name": "Software Recommendations",
+    "url": "http://softwarerecs.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "super",
+    "name": "Chef Supermarket",
+    "url": "https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "superdownloads",
+    "name": "SuperDownloads",
+    "url": "http://busca.superdownloads.com.br/busca/{{{s}}}.s1.html"
+  },
+  {
+    "bang": "superd",
+    "name": "SuperDownloads",
+    "url": "http://busca.superdownloads.com.br/busca/{{{s}}}.s1.html"
+  },
+  {
+    "bang": "tonymacx86",
+    "name": "tonymacx86",
+    "url": "https://www.tonymacx86.com/search/48223690/?q={{{s}}}&o=date"
+  },
+  {
+    "bang": "totalcmd",
+    "name": "TotalCmd.Net",
+    "url": "http://www.totalcmd.net/search.php?s={{{s}}}"
+  },
+  {
+    "bang": "tsa",
+    "name": "TechSupportAlert.com",
+    "url": "http://www.techsupportalert.com/search/google?query={{{s}}}"
+  },
+  {
+    "bang": "usite",
+    "name": "Usite.hu",
+    "url": "http://usite.hu/{{{s}}}"
+  },
+  {
+    "bang": "vpn",
+    "name": "VPNCompare",
+    "url": "https://www.vpncompare.co.uk/?s={{{s}}}"
+  }
+]

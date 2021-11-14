@@ -1,0 +1,92 @@
+[
+  {
+    "bang": "howtodoinjava",
+    "name": "Howtodoinjava",
+    "url": "http://howtodoinjava.com/search-results/?q={{{s}}}"
+  },
+  {
+    "bang": "jar",
+    "name": "FindJar.com",
+    "url": "http://www.findjar.com/index.x?query={{{s}}}"
+  },
+  {
+    "bang": "java11",
+    "name": "Java 11 documentation",
+    "url": "https://duckduckgo.com/?q=site%3Adocs.oracle.com%2Fen%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F+{{{s}}}"
+  },
+  {
+    "bang": "java7",
+    "name": "Oracle Help Center",
+    "url": "https://docs.oracle.com/apps/search/search.jsp?q={{{s}}}&category=java&product=e17409-01"
+  },
+  {
+    "bang": "java8",
+    "name": "Java 8 Documentation",
+    "url": "https://duckduckgo.com/?q=site%3Adocs.oracle.com%2Fjavase%2F8%2Fdocs%2Fapi%2F+{{{s}}}"
+  },
+  {
+    "bang": "java9",
+    "name": "Java Oracle documenation",
+    "url": "http://docs.oracle.com/apps/search/search.jsp?category=java&q={{{s}}}"
+  },
+  {
+    "bang": "javafx",
+    "name": "Oracle",
+    "url": "https://search.oracle.com/search/search?num=10&exttimeout=false&q={{{s}}}+url:/javase/8/javafx/api&group=Documentation"
+  },
+  {
+    "bang": "javalibhunt",
+    "name": "Java LibHunt",
+    "url": "https://java.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "javalibs",
+    "name": "Javalibs",
+    "url": "https://javalibs.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "java",
+    "name": "Oracle Java Docs",
+    "url": "https://docs.oracle.com/apps/search/search.jsp?q={{{s}}}&category=java"
+  },
+  {
+    "bang": "jcp",
+    "name": "Java Community Process",
+    "url": "https://jcp.org/en/jsr/summary?id={{{s}}}"
+  },
+  {
+    "bang": "jdk",
+    "name": "Java Docs",
+    "url": "http://docs.oracle.com/apps/search/search.jsp?category=java&q={{{s}}}"
+  },
+  {
+    "bang": "jq",
+    "name": "jQuery Docs",
+    "url": "http://api.jquery.com/?ns0=1&s={{{s}}}"
+  },
+  {
+    "bang": "jquery",
+    "name": "jQuery Docs",
+    "url": "http://api.jquery.com/?ns0=1&s={{{s}}}"
+  },
+  {
+    "bang": "jso",
+    "name": "Java questions on Stack Overflow",
+    "url": "http://stackoverflow.com/search?q=[java]+{{{s}}}"
+  },
+  {
+    "bang": "jtut",
+    "name": "Java Tutorial (Oracle)",
+    "url": "http://search.oracle.com/search/search?search_p_main_operator=all&group=Documentation&q={{{s}}}+url%3A%2Fjavase%2Ftutorial"
+  },
+  {
+    "bang": "openprocessing",
+    "name": "OpenProcessing",
+    "url": "http://www.openprocessing.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "recruit",
+    "name": "recruit.net",
+    "url": "https://australia.recruit.net/search.html?query={{{s}}}&location=&s="
+  }
+]

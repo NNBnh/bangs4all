@@ -1,0 +1,392 @@
+[
+  {
+    "bang": "acortar",
+    "name": "Cortas",
+    "url": "http://cortas.elpais.com/encode.pl?u=http://{{{s}}}"
+  },
+  {
+    "bang": "addtopocket",
+    "name": "Add to Pocket",
+    "url": "https://getpocket.com/edit?url={{{s}}}"
+  },
+  {
+    "bang": "ais",
+    "name": "archive.is",
+    "url": "http://archive.is/{{{s}}}"
+  },
+  {
+    "bang": "archived",
+    "name": "Wayback Machine",
+    "url": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "bang": "archiveis",
+    "name": "Archive.is",
+    "url": "http://archive.is/search/?q={{{s}}}"
+  },
+  {
+    "bang": "bitly",
+    "name": "Bitly",
+    "url": "https://bitly.com/?url={{{s}}}"
+  },
+  {
+    "bang": "brl2eur",
+    "name": "XE",
+    "url": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=BRL&To=EUR"
+  },
+  {
+    "bang": "brl2gbp",
+    "name": "XE",
+    "url": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=BRL&To=GBP"
+  },
+  {
+    "bang": "brl2usd",
+    "name": "XE",
+    "url": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=BRL&To=USD"
+  },
+  {
+    "bang": "correos",
+    "name": "Localizados Correos de Espa\u00f1a",
+    "url": "http://www.correos.es/ss/Satellite/site/aplicacion-4000003383089-herramientas_y_apps/detalle_app-sidioma=es_ES?numero={{{s}}}"
+  },
+  {
+    "bang": "countdown",
+    "name": "Countdown",
+    "url": "http://cd.justinjc.com/{{{s}}}"
+  },
+  {
+    "bang": "crr",
+    "name": "Chemistry Reference Resolver",
+    "url": "http://chemsearch.kovsky.net/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "csu",
+    "name": "CheckShortURL",
+    "url": "http://checkshorturl.com/expand.php?u={{{s}}}"
+  },
+  {
+    "bang": "dirpy",
+    "name": "Dirpy",
+    "url": "http://www.dirpy.com/studio?url={{{s}}}"
+  },
+  {
+    "bang": "dnv",
+    "name": "Diccionari Normatiu Valenci\u00e0",
+    "url": "http://www.avl.gva.es/lexicval/dnv?paraula={{{s}}}"
+  },
+  {
+    "bang": "doai",
+    "name": "Digital Open Access Identifier",
+    "url": "http://doai.io/{{{s}}}"
+  },
+  {
+    "bang": "domein",
+    "name": "Domeinwinkel",
+    "url": "https://domeinwinkel.hosting/?domain={{{s}}}"
+  },
+  {
+    "bang": "downd",
+    "name": "Downdetector",
+    "url": "https://downdetector.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "down",
+    "name": "Down For Everyone Or Just Me",
+    "url": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "eur2brl",
+    "name": "XE",
+    "url": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=EUR&To=BRL"
+  },
+  {
+    "bang": "follow",
+    "name": "Follow That Page",
+    "url": "http://www.followthatpage.com/?url={{{s}}}"
+  },
+  {
+    "bang": "frutke",
+    "name": "Frutke",
+    "url": "http://frutke.com/?s={{{s}}}"
+  },
+  {
+    "bang": "gbp2brl",
+    "name": "XE",
+    "url": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=GBP&To=BRL"
+  },
+  {
+    "bang": "geotool",
+    "name": "Geotool",
+    "url": "https://iplookup.flagfox.net/?ip={{{s}}}"
+  },
+  {
+    "bang": "getlinkinfo",
+    "name": "GetLinkInfo",
+    "url": "http://www.getlinkinfo.com/info?link={{{s}}}"
+  },
+  {
+    "bang": "heartbleed",
+    "name": "Heartbleed Test",
+    "url": "http://filippo.io/Heartbleed/#{{{s}}}"
+  },
+  {
+    "bang": "iidrn",
+    "name": "Is It Down Right Now?",
+    "url": "http://www.isitdownrightnow.com/{{{s}}}.html"
+  },
+  {
+    "bang": "isitdown",
+    "name": "Is It Down For Everyone Or Just Me?",
+    "url": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "isitup",
+    "name": "Is it up?",
+    "url": "https://isitup.org/{{{s}}}"
+  },
+  {
+    "bang": "isni",
+    "name": "International Standard Name Identifier",
+    "url": "https://isni.oclc.org/xslt/CMD?ACT=SRCH&IKT=8006&TRM={{{s}}}"
+  },
+  {
+    "bang": "isoffline",
+    "name": "Down For Everyone Or Just Me?",
+    "url": "http://www.downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "isonline",
+    "name": "Down For Everyone Or Just Me?",
+    "url": "http://www.downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "latency",
+    "name": "latency.apex.sh",
+    "url": "https://latency.apex.sh/?url={{{s}}}"
+  },
+  {
+    "bang": "markos",
+    "name": "markosweb",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Amarkosweb.com "
+  },
+  {
+    "bang": "memento",
+    "name": "Memento Project",
+    "url": "http://timetravel.mementoweb.org/list/2013/{{{s}}}"
+  },
+  {
+    "bang": "mobilefriendly",
+    "name": "Mobile-Friendly Test - Google",
+    "url": "https://search.google.com/test/mobile-friendly?url={{{s}}}"
+  },
+  {
+    "bang": "moztest",
+    "name": "Mozilla Observatory Test",
+    "url": "https://observatory.mozilla.org/analyze/{{{s}}}"
+  },
+  {
+    "bang": "nbn",
+    "name": "URN:NBN Resolver for Germany & Switzerland",
+    "url": "https://nbn-resolving.org/{{{s}}}"
+  },
+  {
+    "bang": "nortonsafe",
+    "name": "Norton Safe Web",
+    "url": "https://safeweb.norton.com/report/show?url={{{s}}}"
+  },
+  {
+    "bang": "nortonsafeweb",
+    "name": "Norton Safe Web",
+    "url": "https://safeweb.norton.com/report/show?url={{{s}}}"
+  },
+  {
+    "bang": "nsf",
+    "name": "Norton Safe Web",
+    "url": "https://safeweb.norton.com/report/show?url={{{s}}}"
+  },
+  {
+    "bang": "offline",
+    "name": "Down For Everyone Or Just Me?",
+    "url": "http://www.downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "onlinelinkscan",
+    "name": "Online Link Scan",
+    "url": "http://onlinelinkscan.com/results/{{{s}}}"
+  },
+  {
+    "bang": "pagespeed",
+    "name": "Google PageSpeed insights",
+    "url": "https://developers.google.com/speed/pagespeed/insights/?url={{{s}}}"
+  },
+  {
+    "bang": "pf",
+    "name": "PrintFriendly",
+    "url": "http://www.printfriendly.com/print/?source=site&url={{{s}}}"
+  },
+  {
+    "bang": "ping",
+    "name": "DomainTools.com",
+    "url": "http://dns-tools.domaintools.com/?method=ping&query={{{s}}}"
+  },
+  {
+    "bang": "redbot",
+    "name": "REDbot",
+    "url": "http://redbot.org/?uri={{{s}}}"
+  },
+  {
+    "bang": "rip",
+    "name": "Domaintools Reverse IP Lookup",
+    "url": "https://reverseip.domaintools.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "safeweb",
+    "name": "Norton Safe Web",
+    "url": "https://safeweb.norton.com/report/show?url={{{s}}}"
+  },
+  {
+    "bang": "saveback",
+    "name": "Internet Archive: Wayback Machine (save)",
+    "url": "https://web.archive.org/save/{{{s}}}"
+  },
+  {
+    "bang": "save",
+    "name": "Internet Archive: Wayback Machine (save)",
+    "url": "https://web.archive.org/save/{{{s}}}"
+  },
+  {
+    "bang": "sbbb",
+    "name": "SBB StationBoard",
+    "url": "https://dev.eoils.de/contents/b/index.php?station={{{s}}}"
+  },
+  {
+    "bang": "sbw",
+    "name": "StopBadware",
+    "url": "https://www.stopbadware.org/clearinghouse/search/?url={{{s}}}"
+  },
+  {
+    "bang": "sck",
+    "name": "sck.pm",
+    "url": "https://api.sck.pm/shorten?{{{s}}}"
+  },
+  {
+    "bang": "sniff",
+    "name": "Websniffer",
+    "url": "https://websniffer.cc/?url={{{s}}}"
+  },
+  {
+    "bang": "songlink",
+    "name": "song.link",
+    "url": "https://odesli.co/embed?url={{{s}}}"
+  },
+  {
+    "bang": "thread",
+    "name": "Thread reader",
+    "url": "https://threadreaderapp.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tnyims",
+    "name": "Tny.im Shorten URL",
+    "url": "http://tny.im/yourls-api.php?action=shorturl&url={{{s}}}"
+  },
+  {
+    "bang": "uembb",
+    "name": "Blackboard UEM",
+    "url": "https://uem.blackboard.com/{{{s}}}"
+  },
+  {
+    "bang": "unv",
+    "name": "Unvisit.me",
+    "url": "http://unvis.it/{{{s}}}"
+  },
+  {
+    "bang": "updown",
+    "name": "DownForEveryone?",
+    "url": "http://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "urlscan",
+    "name": "urlscan",
+    "url": "https://urlscan.io/search/#{{{s}}}"
+  },
+  {
+    "bang": "urlvoid",
+    "name": "Urlvoid",
+    "url": "http://www.urlvoid.com/scan/{{{s}}}"
+  },
+  {
+    "bang": "usd2brl",
+    "name": "XE",
+    "url": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=USD&To=BRL"
+  },
+  {
+    "bang": "vgd",
+    "name": "v.gd",
+    "url": "http://v.gd/create.php?url={{{s}}}"
+  },
+  {
+    "bang": "virustotal",
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com/url/submission/?force=1&url={{{s}}}"
+  },
+  {
+    "bang": "wapp",
+    "name": "WhatsApp",
+    "url": "https://api.whatsapp.com/send?phone={{{s}}}&text="
+  },
+  {
+    "bang": "wave",
+    "name": "WAVE",
+    "url": "http://wave.webaim.org/report#/{{{s}}}"
+  },
+  {
+    "bang": "wbs",
+    "name": "Wayback Maschine",
+    "url": "https://web.archive.org/save/*/{{{s}}}"
+  },
+  {
+    "bang": "webarchive",
+    "name": "Web Archive",
+    "url": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "bang": "webbkoll",
+    "name": "Webbkoll",
+    "url": "https://webbkoll.dataskydd.net/en/results?url={{{s}}}"
+  },
+  {
+    "bang": "webutation",
+    "name": "Webutation",
+    "url": "http://www.webutations.org/go/review/{{{s}}}"
+  },
+  {
+    "bang": "whatcms",
+    "name": "WhatCMS",
+    "url": "http://whatcms.org/?s={{{s}}}"
+  },
+  {
+    "bang": "whoisbg",
+    "name": "whoisbg.com",
+    "url": "http://www.whoisbg.com/?domain={{{s}}}"
+  },
+  {
+    "bang": "wht",
+    "name": "Who Hosts This Site?",
+    "url": "https://www.who-hosts-this.com/?s={{{s}}}"
+  },
+  {
+    "bang": "wiht",
+    "name": "WhoIsHostingThis",
+    "url": "http://www.whoishostingthis.com/?q={{{s}}}"
+  },
+  {
+    "bang": "wkit",
+    "name": "Wiktionary (Italian)",
+    "url": "https://it.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wmdns",
+    "name": "What's My DNS",
+    "url": "https://www.whatsmydns.net/#A/{{{s}}}"
+  }
+]

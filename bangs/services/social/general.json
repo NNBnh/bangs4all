@@ -1,0 +1,707 @@
+[
+  {
+    "bang": "4chc",
+    "name": "4chan Catalog",
+    "url": "https://boards.4chan.org/{{{s}}}/catalog"
+  },
+  {
+    "bang": "4sq",
+    "name": "Foursquare",
+    "url": "https://foursquare.com/explore?mode=url&nearGeoId=&q={{{s}}}"
+  },
+  {
+    "bang": "4x4community",
+    "name": "4x4 Community",
+    "url": "http://www.4x4community.co.za/forum/threadloom/threadloom.php?query={{{s}}}"
+  },
+  {
+    "bang": "5ch",
+    "name": "5\u3061\u3083\u3093\u306d\u308b",
+    "url": "https://find.5ch.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "alesund",
+    "name": "alesund kommune",
+    "url": "http://www.alesund.kommune.no/component/finder/search?q={{{s}}}&Itemid=406"
+  },
+  {
+    "bang": "aopscomm",
+    "name": "Art Of Problem Solving Community",
+    "url": "https://artofproblemsolving.com/community/search/{{{s}}}"
+  },
+  {
+    "bang": "appear",
+    "name": "Appear.in chat",
+    "url": "https://appear.in/{{{s}}}"
+  },
+  {
+    "bang": "arf",
+    "name": "ar15.com",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aar15.com&ia=web"
+  },
+  {
+    "bang": "ask",
+    "name": "Ask.com",
+    "url": "http://www.ask.com/web?q={{{s}}}"
+  },
+  {
+    "bang": "askd",
+    "name": "Ask Different",
+    "url": "http://apple.stackexchange.com/search?{{{s}}}"
+  },
+  {
+    "bang": "bsocial",
+    "name": "Bing Social",
+    "url": "https://www.bing.com/social/search/updates?q={{{s}}}"
+  },
+  {
+    "bang": "c64wde",
+    "name": "C64-Wiki (de)",
+    "url": "http://www.c64-wiki.de/index.php?title=Spezial%3ASuche&go=Seite&search={{{s}}}"
+  },
+  {
+    "bang": "callook",
+    "name": "Callook",
+    "url": "http://callook.info/{{{s}}}"
+  },
+  {
+    "bang": "change",
+    "name": "https://www.change.org",
+    "url": "https://www.change.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "cloudsdale",
+    "name": "Cloudsdale",
+    "url": "https://www.cloudsdale.org/explore/clouds/search?q={{{s}}}"
+  },
+  {
+    "bang": "coolinarika",
+    "name": "Coolinarika",
+    "url": "https://www.coolinarika.com/recepti/pretrazivanje/?upit={{{s}}}"
+  },
+  {
+    "bang": "crafts",
+    "name": "WikiDIY.org - Crafts",
+    "url": "https://wikidiy.org/?s={{{s}}}"
+  },
+  {
+    "bang": "csgo",
+    "name": "reddit.com/r/GlobalOffensive",
+    "url": "https://www.reddit.com/r/GlobalOffensive/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "davesgarden",
+    "name": "Dave's Garden",
+    "url": "http://davesgarden.com/sitewidesearch.php?q={{{s}}}"
+  },
+  {
+    "bang": "db",
+    "name": "Douban",
+    "url": "https://m.douban.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "d*",
+    "name": "Diaspora*",
+    "url": "https://www.joindiaspora.com/people?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "discme",
+    "name": "Discord Me",
+    "url": "https://discord.me/servers/1/{{{s}}}"
+  },
+  {
+    "bang": "discord",
+    "name": "Discord Invite",
+    "url": "https://discordapp.com/invite/{{{s}}}"
+  },
+  {
+    "bang": "DscSrv",
+    "name": "Discord Servers",
+    "url": "https://discordservers.com/?term={{{s}}}"
+  },
+  {
+    "bang": "dtags",
+    "name": "Diaspora*",
+    "url": "https://www.joindiaspora.com/tags/{{{s}}}"
+  },
+  {
+    "bang": "d*t",
+    "name": "Diaspora*",
+    "url": "https://www.joindiaspora.com/tags/{{{s}}} "
+  },
+  {
+    "bang": "duck.co",
+    "name": "duck.co",
+    "url": "https://duck.co/search/{{{s}}}"
+  },
+  {
+    "bang": "ello",
+    "name": "Ello",
+    "url": "https://ello.co/search?terms={{{s}}} "
+  },
+  {
+    "bang": "facebook",
+    "name": "Facebook",
+    "url": "http://www.facebook.com/s.php?q={{{s}}}"
+  },
+  {
+    "bang": "fanpop",
+    "name": "Fanpop",
+    "url": "http://www.fanpop.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "fb",
+    "name": "Facebook",
+    "url": "https://www.facebook.com/search.php/?q={{{s}}}"
+  },
+  {
+    "bang": "@fb",
+    "name": "Facebook User Page",
+    "url": "https://facebook.com/{{{s}}}"
+  },
+  {
+    "bang": "fbm",
+    "name": "Facebook Messages",
+    "url": "https://www.facebook.com/messages/search?action=search-snippet&mquery={{{s}}}"
+  },
+  {
+    "bang": "fbonion",
+    "name": "Facebook over TOR",
+    "url": "https://facebookcorewwwi.onion/search.php/?q={{{s}}}"
+  },
+  {
+    "bang": "fbp",
+    "name": "Facebook Pages",
+    "url": "https://www.facebook.com/search/results/?q={{{s}}}&type=pages"
+  },
+  {
+    "bang": "feedly",
+    "name": "Feedly",
+    "url": "https://feedly.com/i/search/{{{s}}}"
+  },
+  {
+    "bang": "finf",
+    "name": "Finf-Forum (Forum des Fachrats Informatik der Leibniz Universit\u00e4t Hannover)",
+    "url": "https://forum.finf.uni-hannover.de/index.php?form=Search&q={{{s}}}"
+  },
+  {
+    "bang": "flashback",
+    "name": "Flashback",
+    "url": "https://www.flashback.org/sok/{{{s}}}"
+  },
+  {
+    "bang": "fp",
+    "name": "Fanpop",
+    "url": "http://www.fanpop.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "gab",
+    "name": "Gab",
+    "url": "https://gab.ai/search/{{{s}}}"
+  },
+  {
+    "bang": "gag",
+    "name": "GirlsAskGuys",
+    "url": "https://www.girlsaskguys.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gaia",
+    "name": "Vila Nova de Gaia",
+    "url": "https://www.vn-gaia.com/search?SearchForm%5Bkeyword%5D={{{s}}}&SearchForm%5BlimitSpaceGuids%5D="
+  },
+  {
+    "bang": "g+",
+    "name": "Google Plus",
+    "url": "https://plus.google.com/u/0/s/{{{s}}} "
+  },
+  {
+    "bang": "h2m",
+    "name": "Hard2mano",
+    "url": "https://duckduckgo.com/?q={{{s}}}&sites=hard2mano.com"
+  },
+  {
+    "bang": "hashtag",
+    "name": "Twitter Hashtags",
+    "url": "https://twitter.com/search?q=%23{{{s}}}"
+  },
+  {
+    "bang": "herold",
+    "name": "Herold",
+    "url": "http://www.herold.at/telefonbuch/{{{s}}}"
+  },
+  {
+    "bang": "hi5",
+    "name": "Hi5",
+    "url": "http://hi5.com/friend/processHeaderNameSearch.do?searchText={{{s}}}"
+  },
+  {
+    "bang": "hilux4x4",
+    "name": "Hilux 4x4",
+    "url": "http://www.hilux4x4.co.za/views/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search"
+  },
+  {
+    "bang": "htwb",
+    "name": "HTW Berlin",
+    "url": "https://www.htw-berlin.de/suche/?domain=www.htw-berlin.de&query={{{s}}}"
+  },
+  {
+    "bang": "hyves",
+    "name": "Hyves",
+    "url": "http://www.hyves.nl/search/hyver/?searchterms={{{s}}}"
+  },
+  {
+    "bang": "identica",
+    "name": "Identi.ca",
+    "url": "http://identi.ca/search/people?q={{{s}}}&search=Search"
+  },
+  {
+    "bang": "ifunny",
+    "name": "iFunny",
+    "url": "https://ifunny.co/search/memes?q={{{s}}}"
+  },
+  {
+    "bang": "ig",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/explore/tags/{{{s}}}"
+  },
+  {
+    "bang": "igu",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/{{{s}}}"
+  },
+  {
+    "bang": "indieweb",
+    "name": "Indie Web Camp",
+    "url": "http://indieweb.org/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "ins",
+    "name": "Instructables",
+    "url": "http://www.instructables.com/howto/{{{s}}}"
+  },
+  {
+    "bang": "insta",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/explore/tags/{{{s}}}"
+  },
+  {
+    "bang": "instructables",
+    "name": "Instructables",
+    "url": "http://www.instructables.com/howto/{{{s}}}"
+  },
+  {
+    "bang": "irc",
+    "name": "irc.netsplit.de",
+    "url": "http://irc.netsplit.de/channels/?chat={{{s}}}"
+  },
+  {
+    "bang": "jolla",
+    "name": "Jolla Questions",
+    "url": "https://together.jolla.com/questions/scope:all/sort:activity-desc/page:1/query:{{{s}}}"
+  },
+  {
+    "bang": "juick",
+    "name": "juick.com",
+    "url": "http://juick.com/?search={{{s}}}"
+  },
+  {
+    "bang": "let",
+    "name": "LowEndTalk",
+    "url": "http://www.lowendtalk.com/search?Search={{{s}}}"
+  },
+  {
+    "bang": "lihkg",
+    "name": "Lihkg",
+    "url": "https://lihkg.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "li",
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/search/results/all/?keywords={{{s}}}"
+  },
+  {
+    "bang": "linkedin",
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/search/results/all/?keywords={{{s}}}"
+  },
+  {
+    "bang": "meetup",
+    "name": "Meetup",
+    "url": "http://www.meetup.com/find/?keywords={{{s}}}"
+  },
+  {
+    "bang": "mefi",
+    "name": "MetaFilter",
+    "url": "http://www.metafilter.com/contribute/search.mefi?site=mefi&q={{{s}}}"
+  },
+  {
+    "bang": "metafilter",
+    "name": "MetaFilter",
+    "url": "http://www.metafilter.com/contribute/search.mefi?site=mefi&q={{{s}}}"
+  },
+  {
+    "bang": "mewe",
+    "name": "Mewe",
+    "url": "https://mewe.com/profile/{{{s}}}"
+  },
+  {
+    "bang": "minds",
+    "name": "Minds.com",
+    "url": "https://www.minds.com/search;q={{{s}}}"
+  },
+  {
+    "bang": "mlf",
+    "name": "Manjaro Linux Forums",
+    "url": "https://forum.manjaro.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "mlpf",
+    "name": "My Little Pony Forums",
+    "url": "https://mlpforums.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mozillians",
+    "name": "Mozillians",
+    "url": "https://mozillians.org/en-US/search/?q={{{s}}}"
+  },
+  {
+    "bang": "msg",
+    "name": "messenger.com",
+    "url": "https://www.messenger.com/t/{{{s}}}"
+  },
+  {
+    "bang": "msocial",
+    "name": "Mastodon Social",
+    "url": "https://mastodon.social/tags/{{{s}}}"
+  },
+  {
+    "bang": "muff",
+    "name": "Muff Wiggler Forum",
+    "url": "https://www.muffwiggler.com/forum/search.php?search_keywords={{{s}}}&search_terms=extended&search_author=&search_forum=-1&search_time=0&search_fields=all&sort_by=0&sort_dir=desc&show_results=topics&return_chars=200"
+  },
+  {
+    "bang": "muragon",
+    "name": "Muragon",
+    "url": "https://muragon.com/search/?ie=UTF-8&q={{{s}}}&sa=\u691c\u7d22"
+  },
+  {
+    "bang": "myecp",
+    "name": "MyECP",
+    "url": "https://my.ecp.fr/search?query={{{s}}}"
+  },
+  {
+    "bang": "myspace",
+    "name": "MySpace",
+    "url": "http://searchservice.myspace.com/index.cfm?fuseaction=sitesearch.results&orig=search_Header&origpfc=Splash&type=People&qry={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "osmforum",
+    "name": "OpenStreetMap Forum",
+    "url": "http://forum.openstreetmap.org/search.php?action=search&keywords={{{s}}}&author=&forums=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics"
+  },
+  {
+    "bang": "ozstoners",
+    "name": "OZ Stoners",
+    "url": "https://cannabis.community.forums.ozstoners.com/index.php?app=core&module=search&do=search&andor_type=and&sid=58ffdab89aaeb17e49a50f52929f35d6&search_content=both&search_app_filters[ccs][searchInKey]=pages&search_app_filters[ccs][pages][sortKey]=date&search_app_filters[ccs][pages][sortDir]=0&search_app_filters[ccs][database_1][sortKey]=date_added&search_app_filters[ccs][database_1][sortDir]=0&search_term={{{s}}}&search_app=forums"
+  },
+  {
+    "bang": "pin",
+    "name": "Pinterest",
+    "url": "http://pinterest.com/search/pins/?q={{{s}}}"
+  },
+  {
+    "bang": "plurk",
+    "name": "Plurk",
+    "url": "https://www.plurk.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "puzzse",
+    "name": "Puzzling",
+    "url": "https://puzzling.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "qum",
+    "name": "Qumran",
+    "url": "http://www.qumran2.net/indice.php?parole={{{s}}}"
+  },
+  {
+    "bang": "quora",
+    "name": "Quora",
+    "url": "http://www.quora.com/search?q={{{s}}}&context_type=&context_id="
+  },
+  {
+    "bang": "rallypoint",
+    "name": "RallyPoint",
+    "url": "https://www.rallypoint.com/answers?q={{{s}}}"
+  },
+  {
+    "bang": "redditold",
+    "name": "Reddit (old version)",
+    "url": "https://old.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "reddits",
+    "name": "Reddit subreddit",
+    "url": "http://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "redford",
+    "name": "Redford Evangelical Lutheran Church",
+    "url": "http://www.relcdetroit.org/index.php?p_id=1{{{s}}}"
+  },
+  {
+    "bang": "rold",
+    "name": "old reddit design",
+    "url": "https://old.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "r",
+    "name": "Reddit",
+    "url": "https://www.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rusr",
+    "name": "Reddit Users",
+    "url": "https://www.reddit.com/user/{{{s}}}"
+  },
+  {
+    "bang": "sca",
+    "name": "Reddit Skincare Addiction",
+    "url": "https://www.reddit.com/r/skincareaddiction/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "scoop",
+    "name": "Scoop.it",
+    "url": "http://www.scoop.it/search?q={{{s}}}"
+  },
+  {
+    "bang": "seriebox",
+    "name": "Seriebox",
+    "url": "http://www.seriebox.com/search.php?txt={{{s}}} &submit=OK"
+  },
+  {
+    "bang": "slant",
+    "name": "Slant.co",
+    "url": "http://www.slant.co/topics/?search={{{s}}}"
+  },
+  {
+    "bang": "smashbomb",
+    "name": "Smashbomb",
+    "url": "https://smashbomb.com/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "snoopsnoo",
+    "name": "Snoopsnoo",
+    "url": "https://www.snoopsnoo.com/u/{{{s}}}"
+  },
+  {
+    "bang": "srold",
+    "name": "Old Reddit by Subreddit",
+    "url": "https://old.reddit.com/r/{{{s}}}"
+  },
+  {
+    "bang": "stackexchange",
+    "name": "Stack Exchange",
+    "url": "http://stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "starmadedock",
+    "name": "StarMade Dock",
+    "url": "https://starmadedock.net/search/1/?q={{{s}}}"
+  },
+  {
+    "bang": "stex",
+    "name": "Stack Exchange",
+    "url": "http://stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "storybank",
+    "name": "storybank",
+    "url": "https://storybank.id/?s={{{s}}}"
+  },
+  {
+    "bang": "strava",
+    "name": "Strava",
+    "url": "https://www.strava.com/athletes/search?utf8=\u2713&text={{{s}}}&gsf=1"
+  },
+  {
+    "bang": "sx",
+    "name": "Stack Exchange",
+    "url": "http://stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "tain",
+    "name": "Tripadvisor.in",
+    "url": "https://www.tripadvisor.in/Search?q={{{s}}}"
+  },
+  {
+    "bang": "talky",
+    "name": "Talky.io",
+    "url": "https://talky.io/{{{s}}}"
+  },
+  {
+    "bang": "tar",
+    "name": "Taringa!",
+    "url": "http://www.taringa.net/buscar/?q={{{s}}}"
+  },
+  {
+    "bang": "tauk",
+    "name": "TripAdvisor (UK)",
+    "url": "https://www.tripadvisor.co.uk/Search?q={{{s}}}"
+  },
+  {
+    "bang": "teamsnap",
+    "name": "Teamsnap",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:teamsnap.com"
+  },
+  {
+    "bang": "tex",
+    "name": "TeX Stack Exchange",
+    "url": "http://tex.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tgd",
+    "name": "Tgether",
+    "url": "https://tgd.kr/search?q={{{s}}}"
+  },
+  {
+    "bang": "themighty",
+    "name": "The Mighty",
+    "url": "https://www.themighty.com/search/?search={{{s}}}"
+  },
+  {
+    "bang": "tlgrm",
+    "name": "Telegram",
+    "url": "https://web.telegram.org/#/im?p={{{s}}} "
+  },
+  {
+    "bang": "tlk",
+    "name": "tlk.io",
+    "url": "https://tlk.io/{{{s}}}"
+  },
+  {
+    "bang": "trump",
+    "name": "Donald Trump's Twitter",
+    "url": "https://twitter.com/search?q=from%3Arealdonaldtrump%20{{{s}}}&src=typd"
+  },
+  {
+    "bang": "tutanota",
+    "name": "Tutanota Mail",
+    "url": "https://mail.tutanota.com/search/mail/LSWThzP--3-1?query={{{s}}}"
+  },
+  {
+    "bang": "tweet",
+    "name": "Twitter",
+    "url": "https://mobile.twitter.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "twitters",
+    "name": "Twitter User",
+    "url": "https://twitter.com/{{{s}}}"
+  },
+  {
+    "bang": "twitter",
+    "name": "Twitter",
+    "url": "https://twitter.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "twitteruser",
+    "name": "Twitter User",
+    "url": "https://twitter.com/{{{s}}}"
+  },
+  {
+    "bang": "twit",
+    "name": "Twitter",
+    "url": "https://twitter.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "twpro",
+    "name": "\u30c4\u30a4\u30d7\u30ed",
+    "url": "https://twpro.jp/search?word={{{s}}}"
+  },
+  {
+    "bang": "tw",
+    "name": "Twitter",
+    "url": "https://twitter.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "twuser",
+    "name": "Twitter users",
+    "url": "https://twitter.com/search/users?q={{{s}}}"
+  },
+  {
+    "bang": "untappd",
+    "name": "Untappd",
+    "url": "https://untappd.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "ureka",
+    "name": "Ureka: Earth Heart Communityure",
+    "url": "https://www.ureka.org/search?loader=1&q={{{s}}}"
+  },
+  {
+    "bang": "v2ex",
+    "name": "V2EX",
+    "url": "https://www.duckduckgo.com/?q=site:v2ex.com/t+{{{s}}}"
+  },
+  {
+    "bang": "vivaldi",
+    "name": "Vivaldi Forums",
+    "url": "https://forum.vivaldi.net/search?term={{{s}}}"
+  },
+  {
+    "bang": "vk",
+    "name": "Vkontakte",
+    "url": "http://vk.com/search?c[q]={{{s}}}&c[section]=auto"
+  },
+  {
+    "bang": "weibo",
+    "name": "Sina Weibo",
+    "url": "http://s.weibo.com/weibo/{{{s}}}?frm=opensearch"
+  },
+  {
+    "bang": "whichit",
+    "name": "Whichit",
+    "url": "https://www.getwhichit.com/whichitapp.html#!/Search/{{{s}}}"
+  },
+  {
+    "bang": "whisper",
+    "name": "Whisper.sh",
+    "url": "http://whisper.sh/search?q={{{s}}}"
+  },
+  {
+    "bang": "xing",
+    "name": "Xing.de",
+    "url": "https://www.xing.com/app/search?op=combined;keywords={{{s}}} "
+  },
+  {
+    "bang": "yam",
+    "name": "Yammer",
+    "url": "https://www.yammer.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "yanswers",
+    "name": "Yahoo! Answers",
+    "url": "http://answers.yahoo.com/search/search_result;_ylt=AnPnri0ekBBFsWt64sNbHmvj1KIX;_ylv=3?p={{{s}}}&submit-go=Search+Y!+Answers"
+  },
+  {
+    "bang": "ylilauta",
+    "name": "ylilauta.org",
+    "url": "https://ylilauta.org/{{{s}}} "
+  },
+  {
+    "bang": "zeef",
+    "name": "ZEEF.com",
+    "url": "https://zeef.com/?query={{{s}}}&in=all"
+  },
+  {
+    "bang": "zhi",
+    "name": "\u77e5\u4e4e",
+    "url": "http://www.zhihu.com/search?q= {{{s}}} &type=question"
+  },
+  {
+    "bang": "zoom.us",
+    "name": "zoom.us",
+    "url": "https://zoom.us/?q={{{s}}}"
+  }
+]

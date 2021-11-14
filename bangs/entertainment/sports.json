@@ -1,0 +1,707 @@
+[
+  {
+    "bang": "11freunde",
+    "name": "11 Freunde",
+    "url": "http://www.11freunde.de/search/gss/{{{s}}}"
+  },
+  {
+    "bang": "8a",
+    "name": "8a.nu",
+    "url": "https://www.8a.nu/scorecard/Search.aspx?Mode=SIMPLE&AscentType=0&CragName={{{s}}}"
+  },
+  {
+    "bang": "adb",
+    "name": "Arquivo da Bola",
+    "url": "http://arquivodabola.com.br/busca.html?termo={{{s}}}"
+  },
+  {
+    "bang": "afc",
+    "name": "Arsenal",
+    "url": "https://www.arsenal.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "atp",
+    "name": "ATP World Tour",
+    "url": "http://www.atpworldtour.com/Search/Site.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "ausopen",
+    "name": "Australian Open",
+    "url": "https://ausopen.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "avaktiv",
+    "name": "alpenvereinaktiv",
+    "url": "https://www.alpenvereinaktiv.com/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "basketballreference",
+    "name": "Basketball Reference",
+    "url": "https://www.basketball-reference.com/search/search.fcgi?hint=&search={{{s}}}"
+  },
+  {
+    "bang": "bbcsport",
+    "name": "BBC Sport",
+    "url": "http://www.bbc.co.uk/search/sport/{{{s}}}?video=on&audio=on&text=on"
+  },
+  {
+    "bang": "bbref",
+    "name": "Baseball Reference",
+    "url": "https://www.baseball-reference.com/search/search.fcgi?hint=&search={{{s}}}"
+  },
+  {
+    "bang": "bjj",
+    "name": "BJJ Heroes",
+    "url": "https://www.bjjheroes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bkref",
+    "name": "Basketball Reference",
+    "url": "http://www.basketball-reference.com/search/search.fcgi?hint={{{s}}}&search={{{s}}}&pid=&idx="
+  },
+  {
+    "bang": "bodeka",
+    "name": "bodeka.org",
+    "url": "http://bodeka.org/?s={{{s}}}"
+  },
+  {
+    "bang": "bpro",
+    "name": "Baseball Prospectus",
+    "url": "https://legacy.baseballprospectus.com/player_search.php?search_name={{{s}}}"
+  },
+  {
+    "bang": "c2c",
+    "name": "Camptocamp",
+    "url": "http://www.camptocamp.org/summits/list/snam/{{{s}}}"
+  },
+  {
+    "bang": "c2cforum",
+    "name": "http://www.camptocamp.org",
+    "url": "http://www.camptocamp.org/documents/search?type=forums&q={{{s}}} "
+  },
+  {
+    "bang": "c2csite",
+    "name": "Camp to Camp",
+    "url": "http://www.camptocamp.org/documents/search?type=sites&q={{{s}}}"
+  },
+  {
+    "bang": "c2csummit",
+    "name": "Camp to Camp",
+    "url": "http://www.camptocamp.org/documents/search?type=summits&q={{{s}}}"
+  },
+  {
+    "bang": "cagematch",
+    "name": "Cagematch - The Internet Wrestling Database",
+    "url": "http://www.cagematch.net/?id=666&search={{{s}}}"
+  },
+  {
+    "bang": "capf",
+    "name": "CapFriendly",
+    "url": "https://www.capfriendly.com/search?s={{{s}}}"
+  },
+  {
+    "bang": "cbbr",
+    "name": "College Basketball Reference",
+    "url": "https://www.sports-reference.com/cbb/search/search.fcgi?hint=&search={{{s}}}&pid=&idx="
+  },
+  {
+    "bang": "cbssports",
+    "name": "CBS Sports",
+    "url": "http://www.sportsline.com/info/search?q={{{s}}}"
+  },
+  {
+    "bang": "ccb",
+    "name": "Climbbybike.com",
+    "url": "https://www.climbbybike.com/climbs_selection.asp?Mountainname={{{s}}}"
+  },
+  {
+    "bang": "cfbr",
+    "name": "College Football Reference",
+    "url": "http://www.sports-reference.com/cfb/search/search.fcgi?search={{{s}}}"
+  },
+  {
+    "bang": "cricbuzz",
+    "name": "Cricbuzz",
+    "url": "https://www.cricbuzz.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cricinfo",
+    "name": "Cricinfo",
+    "url": "http://search.espncricinfo.com/ci/content/site/search.html?search={{{s}}}&gblsearch="
+  },
+  {
+    "bang": "cyclingweekly",
+    "name": "Cycling Weekly",
+    "url": "https://www.cyclingweekly.com/?s={{{s}}}"
+  },
+  {
+    "bang": "deadspin",
+    "name": "Deadspin",
+    "url": "http://deadspin.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dleague",
+    "name": "NBA D-League",
+    "url": "http://dleague.nba.com/?q={{{s}}}"
+  },
+  {
+    "bang": "dobber",
+    "name": "DobberHockey",
+    "url": "https://dobberhockey.com/?s={{{s}}}&orderby=post_date"
+  },
+  {
+    "bang": "dopeclics",
+    "name": "Dopeclics",
+    "url": "http://www.dopeclics.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "draftexpress",
+    "name": "DraftExpress",
+    "url": "http://www.draftexpress.com/search/term/{{{s}}}"
+  },
+  {
+    "bang": "elite",
+    "name": "EliteProspects",
+    "url": "https://www.eliteprospects.com/search/player?q={{{s}}}"
+  },
+  {
+    "bang": "elitepr",
+    "name": "Elite Prospects",
+    "url": "https://www.eliteprospects.com/search/player?q={{{s}}}"
+  },
+  {
+    "bang": "eliteprospects",
+    "name": "Elite Prospects",
+    "url": "https://www.eliteprospects.com/search/team?q={{{s}}}"
+  },
+  {
+    "bang": "espn",
+    "name": "ESPN.com",
+    "url": "http://www.espn.com/search/results?q={{{s}}}"
+  },
+  {
+    "bang": "fangraphs",
+    "name": "Fangraphs",
+    "url": "http://www.fangraphs.com/players.aspx?lastname={{{s}}}"
+  },
+  {
+    "bang": "fbg",
+    "name": "FootballGuys",
+    "url": "https://duckduckgo.com/?q=site%3Afootballguys.com+{{{s}}}"
+  },
+  {
+    "bang": "fbr",
+    "name": "Pro Football Reference",
+    "url": "http://www.pro-football-reference.com/player_search.fcgi?search={{{s}}}"
+  },
+  {
+    "bang": "fbs",
+    "name": "FBSchedules",
+    "url": "http://www.fbschedules.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "fcbar",
+    "name": "FC Bayern Munich",
+    "url": "http://www.fcbayern.de/ar/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "bang": "fcben",
+    "name": "FC Bayern Munich",
+    "url": "http://www.fcbayern.de/en/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "bang": "fcbes",
+    "name": "FC Bayern M\u00fcnchen",
+    "url": "http://www.fcbayern.de/es/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "bang": "fcb",
+    "name": "FC Bayern M\u00fcnchen",
+    "url": "http://www.fcbayern.de/de/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "bang": "fcbjp",
+    "name": "FC Bayern Munich",
+    "url": "http://www.fcbayern.de/jp/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "bang": "fcbru",
+    "name": "FC Bayern Munich",
+    "url": "http://www.fcbayern.de/ru/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "bang": "fcbus",
+    "name": "FC Bayern Munich",
+    "url": "http://www.fcbayernmunich.com/us/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "bang": "fg",
+    "name": "Fangraphs",
+    "url": "http://www.fangraphs.com/players.aspx?lastname={{{s}}}"
+  },
+  {
+    "bang": "fide",
+    "name": "Fide - World Chess Federation",
+    "url": "https://ratings.fide.com/search.phtml?search={{{s}}}"
+  },
+  {
+    "bang": "fifa",
+    "name": "FIFA",
+    "url": "https://www.fifa.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "fmx",
+    "name": "Fightmatrix",
+    "url": "http://www.fightmatrix.com/fighter-search/?fName={{{s}}}"
+  },
+  {
+    "bang": "fotbollskanalen",
+    "name": "Fotbollskanalen",
+    "url": "http://www.fotbollskanalen.se/sok?q={{{s}}}"
+  },
+  {
+    "bang": "fot",
+    "name": "FotMob",
+    "url": "https://www.fotmob.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "foxsportsit",
+    "name": "Fox Sports Italia",
+    "url": "https://www.foxsports.it/?q={{{s}}}"
+  },
+  {
+    "bang": "fussballdaten",
+    "name": "Fussballdaten",
+    "url": "http://www.fussballdaten.de/suche/?{{{s}}}"
+  },
+  {
+    "bang": "fussball",
+    "name": "Fussball.de",
+    "url": "http://www.fussball.de/suche/-/text/{{{s}}}"
+  },
+  {
+    "bang": "futbin",
+    "name": "Futbin",
+    "url": "https://www.futbin.com/players?search={{{s}}}"
+  },
+  {
+    "bang": "genickbruch",
+    "name": "Genickbruch.com",
+    "url": "http://genickbruch.com/index.php?befehl=suche&sname={{{s}}}"
+  },
+  {
+    "bang": "giant",
+    "name": "Giant",
+    "url": "https://www.giant-bicycles.com/global/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "globoesporte",
+    "name": "GloboEsporte.com",
+    "url": "https://globoesporte.globo.com/busca/?q={{{s}}}"
+  },
+  {
+    "bang": "golfparks",
+    "name": "Golfparks Migros",
+    "url": "http://www.golfparks.ch/de/suche?q={{{s}}}"
+  },
+  {
+    "bang": "hdb",
+    "name": "Hockeydb.com",
+    "url": "http://www.hockeydb.com/ihdb/stats/find_player.php?full_name={{{s}}}"
+  },
+  {
+    "bang": "hikr",
+    "name": "Hikr.org",
+    "url": "http://www.hikr.org/cse.php?q={{{s}}}"
+  },
+  {
+    "bang": "hkref",
+    "name": "Hockey Reference",
+    "url": "https://www.hockey-reference.com/search/search.fcgi?hint=&search={{{s}}}"
+  },
+  {
+    "bang": "hockeydb",
+    "name": "hockeydb.com",
+    "url": "http://www.hockeydb.com/ihdb/stats/findplayer.php?full_name={{{s}}}"
+  },
+  {
+    "bang": "hockeyref",
+    "name": "Hockey Reference",
+    "url": "http://www.hockey-reference.com/search/search.fcgi?search={{{s}}}"
+  },
+  {
+    "bang": "hooph",
+    "name": "Hoops Hype",
+    "url": "http://hoopshype.com/?s={{{s}}}"
+  },
+  {
+    "bang": "huskermax",
+    "name": "huskermax",
+    "url": "http://huskermax.com/?q={{{s}}}"
+  },
+  {
+    "bang": "ibc",
+    "name": "MTB-News",
+    "url": "http://www.mtb-news.de/forum/search/12469693/?q={{{s}}}&o=relevance"
+  },
+  {
+    "bang": "ifab",
+    "name": "The IFAB",
+    "url": "http://theifab.com/search/{{{s}}}"
+  },
+  {
+    "bang": "ipl",
+    "name": "IPL",
+    "url": "https://www.iplt20.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "jumps",
+    "name": "Jumping Spectacles",
+    "url": "https://www.jumps.nl/index.php/component/finder/search?q={{{s}}}&Itemid=106"
+  },
+  {
+    "bang": "kicker",
+    "name": "kicker online",
+    "url": "http://www.kicker.de/home/suchergebnisse.html?suchbegriff={{{s}}}"
+  },
+  {
+    "bang": "kicknews",
+    "name": "KickNews",
+    "url": "http://www.kicknews.net/news/search?q={{{s}}} "
+  },
+  {
+    "bang": "lfc",
+    "name": "LiverpoolFC sub (old style)",
+    "url": "https://old.reddit.com/r/LiverpoolFC/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "lta",
+    "name": "LTA",
+    "url": "https://www.lta.org.uk/search-results/?q={{{s}}}"
+  },
+  {
+    "bang": "marca",
+    "name": "Marca",
+    "url": "http://cgi.marca.com/buscador/archivo_marca.html?q={{{s}}}"
+  },
+  {
+    "bang": "mlb",
+    "name": "MLB.com",
+    "url": "http://mlb.mlb.com/searchGlobalSearchServlet?club=mlb&search_mode=1&searchtypeid=-1&page_number=1&query_text1={{{s}}}"
+  },
+  {
+    "bang": "mlbp",
+    "name": "MLB Player Search",
+    "url": "http://espn.go.com/mlb/players?=1&search={{{s}}} "
+  },
+  {
+    "bang": "mls",
+    "name": "MLS Soccer",
+    "url": "http://www.mlssoccer.com/search/{{{s}}}"
+  },
+  {
+    "bang": "motorsport",
+    "name": "Motorsport.com",
+    "url": "http://www.motorsport.com/all/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mpora",
+    "name": "MPORA",
+    "url": "http://mpora.com/search/videos?q={{{s}}}"
+  },
+  {
+    "bang": "mproj",
+    "name": "Mountain Project",
+    "url": "https://www.mountainproject.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mtb",
+    "name": "mtbproject",
+    "url": "https://www.mtbproject.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mtn",
+    "name": "Mountain Project",
+    "url": "https://www.mountainproject.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "nbadl",
+    "name": "NBA D-League",
+    "url": "http://dleague.nba.com/?q={{{s}}}"
+  },
+  {
+    "bang": "nbam",
+    "name": "Nba Maniacs",
+    "url": "https://www.nbamaniacs.com/?s={{{s}}}"
+  },
+  {
+    "bang": "nba",
+    "name": "NBA.com",
+    "url": "http://www.nba.com/search#/{{{s}}}"
+  },
+  {
+    "bang": "nfl",
+    "name": "NFL.com",
+    "url": "http://search.nfl.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "nflps",
+    "name": "NFL Player Search",
+    "url": "http://www.nfl.com/players/search?category=name&filter={{{s}}}"
+  },
+  {
+    "bang": "nhl",
+    "name": "NHL.com",
+    "url": "http://www.nhl.com/ice/search.htm?tab=news&q={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "nrl",
+    "name": "National Rugby League",
+    "url": "https://www.nrl.com/search/?keyword={{{s}}}&sort=Relevance"
+  },
+  {
+    "bang": "ogol",
+    "name": "OGol",
+    "url": "http://www.ogol.com.br/search.php?inputString={{{s}}}"
+  },
+  {
+    "bang": "ohmygear",
+    "name": "OhMyGear",
+    "url": "https://ohmygear.net/en/search/{{{s}}}"
+  },
+  {
+    "bang": "ole",
+    "name": "Ol\u00e9",
+    "url": "http://buscador.ole.com.ar/{{{s}}}"
+  },
+  {
+    "bang": "omaps",
+    "name": "World of O",
+    "url": "http://omaps.worldofo.com/index.php?st={{{s}}}"
+  },
+  {
+    "bang": "ostadium",
+    "name": "OStadium",
+    "url": "http://ostadium.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "packers",
+    "name": "Packers",
+    "url": "http://packers.com/?={{{s}}}"
+  },
+  {
+    "bang": "paokfc",
+    "name": "Paok FC",
+    "url": "http://www.paokfc.gr/en/?s={{{s}}}"
+  },
+  {
+    "bang": "parkrun",
+    "name": "Parkrun",
+    "url": "https://www.parkrun.com/search?cx=partner-pub-2762663671557547%3A1576658957&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.parkrun.com%2F&ref=&ss=631j112681j5"
+  },
+  {
+    "bang": "pcs",
+    "name": "Pro Cycling Stats",
+    "url": "https://www.procyclingstats.com/search.php?term={{{s}}}"
+  },
+  {
+    "bang": "perfectgame",
+    "name": "Perfect Game",
+    "url": "https://www.perfectgame.org/Search.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "pfr",
+    "name": "pro-football-reference.com",
+    "url": "http://www.pro-football-reference.com/search/search.fcgi?search={{{s}}}&pid="
+  },
+  {
+    "bang": "pfx",
+    "name": "BrooksBaseball",
+    "url": "http://www.brooksbaseball.net/search.php?name={{{s}}}"
+  },
+  {
+    "bang": "racing",
+    "name": "RACING.COM",
+    "url": "http://www.racing.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "razzball",
+    "name": "Razzball",
+    "url": "http://razzball.com/index.php?s={{{s}}}"
+  },
+  {
+    "bang": "redbull",
+    "name": "Red Bull",
+    "url": "https://www.redbull.com/int-en/search/{{{s}}}"
+  },
+  {
+    "bang": "rhtt",
+    "name": "State of the DApps",
+    "url": "https://www.stateofthedapps.com/dapps?text={{{s}}}"
+  },
+  {
+    "bang": "rlp",
+    "name": "Rugby League Project",
+    "url": "http://www.rugbyleagueproject.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "roto",
+    "name": "Rotoworld",
+    "url": "https://www.rotoworld.com/search#query={{{s}}}"
+  },
+  {
+    "bang": "scout",
+    "name": "scout.com",
+    "url": "http://www.scout.com/news?query={{{s}}}"
+  },
+  {
+    "bang": "secondbike",
+    "name": "Secondbike",
+    "url": "https://www.secondbike.co.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "sherdog",
+    "name": "Sherdog",
+    "url": "http://www.sherdog.com/stats/fightfinder?SearchTxt={{{s}}}"
+  },
+  {
+    "bang": "si",
+    "name": "Sports Illustrated",
+    "url": "https://www.si.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sky",
+    "name": "Skysports",
+    "url": "http://www.skysports.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "soccerway",
+    "name": "Soccerway",
+    "url": "http://int.soccerway.com/search/?q={{{s}}}&module=all"
+  },
+  {
+    "bang": "soccerwiki",
+    "name": "Soccer Wiki",
+    "url": "http://soccerwiki.com/wiki.php?action=search&q={{{s}}}&searchType=players"
+  },
+  {
+    "bang": "sofasc",
+    "name": "SofaScore",
+    "url": "https://www.sofascore.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "studiofutbol",
+    "name": "StudioFutbol",
+    "url": "http://studiofutbol.com.ec/?submit=&s={{{s}}}"
+  },
+  {
+    "bang": "stw",
+    "name": "https://singletrackworld.com/forum",
+    "url": "https://singletrackworld.com/forum/search/{{{s}}}"
+  },
+  {
+    "bang": "tapology",
+    "name": "Tapology",
+    "url": "https://www.tapology.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "tena",
+    "name": "Tennis abstract",
+    "url": "http://www.tennisabstract.com/cgi-bin/player.cgi?p={{{s}}}"
+  },
+  {
+    "bang": "thecrag",
+    "name": "The Crag",
+    "url": "https://www.thecrag.com/nodes/fuzzy-search/{{{s}}}?S={{{s}}}&ST=w"
+  },
+  {
+    "bang": "tmen",
+    "name": "Transfermarkt.com",
+    "url": "http://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query={{{s}}}"
+  },
+  {
+    "bang": "tmuk",
+    "name": "Transfermarkt",
+    "url": "http://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "transfermarkt",
+    "name": "transfermarkt.de",
+    "url": "http://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "trfde",
+    "name": "transfermarkt.de",
+    "url": "http://www.transfermarkt.de/de/undefined/suche/ergebnis.html?quicksearch={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "uci",
+    "name": "Union Cycliste Internationale",
+    "url": "https://www.uci.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "ufc",
+    "name": "Ultimate Fighting Championship",
+    "url": "https://ufc.com/search?search={{{s}}}&sort_by=created"
+  },
+  {
+    "bang": "usopen",
+    "name": "US Open Tennis",
+    "url": "https://www.usopen.org/en_US/search/results.html?query={{{s}}}"
+  },
+  {
+    "bang": "wbafc",
+    "name": "West Bromwich Albion F.C.",
+    "url": "https://www.wba.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "wcach",
+    "name": "World Cube Association Championships",
+    "url": "https://www.worldcubeassociation.org/competitions?utf8=%E2%9C%93&region={{{s}}}&search=&state=present&year=all+years&display=list"
+  },
+  {
+    "bang": "wfdep",
+    "name": "weltfussball.de",
+    "url": "http://www.weltfussball.de/suche/?q={{{s}}}&kind=1"
+  },
+  {
+    "bang": "wfdet",
+    "name": "weltfussball.de",
+    "url": "http://www.weltfussball.de/suche/?q={{{s}}}&kind=2"
+  },
+  {
+    "bang": "wfootball",
+    "name": "WorldFootball",
+    "url": "http://www.worldfootball.net/search/?q={{{s}}}&kind=1"
+  },
+  {
+    "bang": "whoscored",
+    "name": "WhoScored",
+    "url": "http://www.whoscored.com/Search/?t={{{s}}}"
+  },
+  {
+    "bang": "wlfr",
+    "name": "Wikiloc French",
+    "url": "http://fr.wikiloc.com/wikiloc/find.do?q={{{s}}}"
+  },
+  {
+    "bang": "wta",
+    "name": "WTA Tennis",
+    "url": "http://www.wtatennis.com/search/query/{{{s}}}"
+  },
+  {
+    "bang": "wwe",
+    "name": "WWE",
+    "url": "https://www.wwe.com/search/all/relevance/{{{s}}}"
+  },
+  {
+    "bang": "ysports",
+    "name": "Yahoo Sports",
+    "url": "https://search.yahoo.com/search?p=/{{{s}}}"
+  },
+  {
+    "bang": "zz",
+    "name": "ZeroZero",
+    "url": "http://www.zerozero.pt/search.php?op=all&inputString={{{s}}}"
+  }
+]

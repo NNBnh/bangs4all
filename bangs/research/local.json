@@ -1,0 +1,247 @@
+[
+  {
+    "bang": "alib",
+    "name": "Auckland Libraries",
+    "url": "https://discover.elgar.govt.nz/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng&suite=def"
+  },
+  {
+    "bang": "apc",
+    "name": "Australia Post Postcode Lookup",
+    "url": "https://auspost.com.au/search?q={{{s}}}"
+  },
+  {
+    "bang": "bbb",
+    "name": "Better Business Bureau",
+    "url": "http://www.bbb.org/us/Find-Business-Reviews/name/{{{s}}}"
+  },
+  {
+    "bang": "berneri",
+    "name": "Circolo anarchico \"C. Berneri\"",
+    "url": "http://circoloberneri.indivia.net/?s={{{s}}}"
+  },
+  {
+    "bang": "bpp",
+    "name": "Biblioth\u00e8ques de pr\u00eat de la Ville de Paris",
+    "url": "https://bibliotheques.paris.fr/Default/search.aspx?SC=CATALOGUE&QUERY={{{s}}}&QUERY_LABEL="
+  },
+  {
+    "bang": "cern",
+    "name": "CERN Phonebook",
+    "url": "https://phonebook.cern.ch/phonebook/#search/?query={{{s}}}"
+  },
+  {
+    "bang": "daviswiki",
+    "name": "DavisWiki",
+    "url": "https://daviswiki.org/_rsearch/?q={{{s}}}"
+  },
+  {
+    "bang": "duedil",
+    "name": "Duedil",
+    "url": "https://www.duedil.com/companies/search?query={{{s}}}&op=Companies"
+  },
+  {
+    "bang": "dwiki",
+    "name": "DavisWiki",
+    "url": "https://daviswiki.org/_rsearch/?q={{{s}}}"
+  },
+  {
+    "bang": "editus",
+    "name": "editus.lu",
+    "url": "http://www.editus.lu/ed/fr/recherche.html?q={{{s}}}"
+  },
+  {
+    "bang": "fkb",
+    "name": "Biblioteket Frederiksberg",
+    "url": "https://fkb.dk/search/ting/{{{s}}}"
+  },
+  {
+    "bang": "frith",
+    "name": "Francis Frith",
+    "url": "https://www.francisfrith.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gah",
+    "name": "GetHuman",
+    "url": "https://gethuman.com/phone-number/search/{{{s}}}"
+  },
+  {
+    "bang": "gec",
+    "name": "Google Ecuador",
+    "url": "https://www.google.com.ec/search?safe=active&q={{{s}}}"
+  },
+  {
+    "bang": "geograph",
+    "name": "Geograph Britain and Ireland",
+    "url": "https://www.geograph.org.uk/of/{{{s}}}"
+  },
+  {
+    "bang": "hwz",
+    "name": "Hardware Zone Forums",
+    "url": "http://www.hardwarezone.com.sg/search/forum/?{{{s}}}"
+  },
+  {
+    "bang": "icpl",
+    "name": "Iowa City Public Library",
+    "url": "https://catpro.icpl.org/iii/encore/search?lang=eng&target={{{s}}}"
+  },
+  {
+    "bang": "insideschools",
+    "name": "Insideschools",
+    "url": "http://insideschools.org/search?q={{{s}}} "
+  },
+  {
+    "bang": "iptrack",
+    "name": "IPTracker",
+    "url": "http://www.ip-tracker.org/locator/ip-lookup.php?ip={{{s}}}"
+  },
+  {
+    "bang": "iscrap",
+    "name": "iScrapApp",
+    "url": "http://iscrapapp.com/?SearchTxt={{{s}}}"
+  },
+  {
+    "bang": "jdca",
+    "name": "JustDial Canada",
+    "url": "http://ca.justdial.com/allus/{{{s}}}"
+  },
+  {
+    "bang": "jdin",
+    "name": "JustDial India",
+    "url": "http://www.justdial.com/National-Search/{{{s}}}"
+  },
+  {
+    "bang": "jdpune",
+    "name": "JustDial Pune",
+    "url": "http://www.justdial.com/Pune/{{{s}}}"
+  },
+  {
+    "bang": "jdw",
+    "name": "J D Weatherpoon",
+    "url": "http://www.jdwetherspoon.co.uk/home/pubs/find/{{{s}}}"
+  },
+  {
+    "bang": "jedis",
+    "name": "http://www.jedisjeux.net",
+    "url": "http://www.jedisjeux.net/search_results.php?search={{{s}}}&button_search=Ok"
+  },
+  {
+    "bang": "kekanto",
+    "name": "Kekanto",
+    "url": "https://kekanto.com.br/newsearch?search={{{s}}}"
+  },
+  {
+    "bang": "kerdes",
+    "name": "Gyakorik\u00e9rd\u00e9sek",
+    "url": "https://www.gyakorikerdesek.hu/kereses.php?keres={{{s}}}"
+  },
+  {
+    "bang": "libiiitd",
+    "name": "IIITD library",
+    "url": "http://library.iiitd.edu.in/cgi-bin/koha/opac-search.pl?idx=&q={{{s}}}"
+  },
+  {
+    "bang": "locfr",
+    "name": "Local.ch",
+    "url": "http://tel.local.ch/fr/q?what={{{s}}}"
+  },
+  {
+    "bang": "mcplmd",
+    "name": "Montgomery County Public Libraries (Maryland)",
+    "url": "https://mdpl.ent.sirsi.net/client/en_US/catalog/search/results?qu={{{s}}}"
+  },
+  {
+    "bang": "metalab",
+    "name": "Metalab Mediawiki",
+    "url": "https://metalab.at/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "mugshots",
+    "name": "Mugshots.com",
+    "url": "http://mugshots.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "mymovingreviews",
+    "name": "MyMovingReviews.com",
+    "url": "http://www.mymovingreviews.com/search.php?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "op",
+    "name": "OpenPlaques",
+    "url": "https://openplaques.org/search?utf8=%E2%9C%93&phrase={{{s}}}"
+  },
+  {
+    "bang": "oslri",
+    "name": "Ocean State (Rhode Island) Libraries",
+    "url": "https://encore.oslri.net/iii/encore/search?target={{{s}}}"
+  },
+  {
+    "bang": "pagesblanches",
+    "name": "Pages Blanches",
+    "url": "https://www.pagesjaunes.fr/pagesblanches/recherche?quoiqui={{{s}}}"
+  },
+  {
+    "bang": "palatinelibrary",
+    "name": "Palatine Public Library",
+    "url": "http://encore.palatinelibrary.org/iii/encore/search?target={{{s}}}"
+  },
+  {
+    "bang": "pbl",
+    "name": "pages blanches",
+    "url": "http://www.pagesjaunes.fr/pagesblanches/recherche?quoiqui={{{s}}}&proximite=0"
+  },
+  {
+    "bang": "pegasos",
+    "name": "Kirkkonummen verkkokirjasto",
+    "url": "http://pegasos.kirjas.to/selaushaku.asp?kohde=vapaasana&hakuehto={{{s}}}"
+  },
+  {
+    "bang": "prpl",
+    "name": "Poudre River Public Library",
+    "url": "http://discover.poudrelibraries.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng"
+  },
+  {
+    "bang": "rocwiki",
+    "name": "Rochester Wiki",
+    "url": "http://rocwiki.org/?action=search&string={{{s}}}"
+  },
+  {
+    "bang": "stationsweb",
+    "name": "Stationsweb",
+    "url": "http://www.stationsweb.nl/stationlijst.asp?station={{{s}}} "
+  },
+  {
+    "bang": "tel",
+    "name": "SuperPages",
+    "url": "http://yellowpages.superpages.com/listings.jsp?C={{{s}}}&CS=L&MCBP=true&search=Find+It&SRC=&STYPE=S&SCS=&channelId=&sessionId="
+  },
+  {
+    "bang": "tiss",
+    "name": "tiss.tuwien.ac.at",
+    "url": "https://tiss.tuwien.ac.at/adressbuch/adressbuch/suche?suchtext={{{s}}}"
+  },
+  {
+    "bang": "tpl",
+    "name": "Toronto Public Library",
+    "url": "http://www.torontopubliclibrary.ca/search.jsp?Ntt={{{s}}}"
+  },
+  {
+    "bang": "ulbda",
+    "name": "ULB TU Darmstadt",
+    "url": "https://hds.hebis.de/ulbda/Search/Results?lookfor= {{{s}}}&service=catalog"
+  },
+  {
+    "bang": "vpl",
+    "name": "Vancouver Public Library",
+    "url": "https://vpl.bibliocommons.com/search?q={{{s}}}&t=smart&search_category=keyword"
+  },
+  {
+    "bang": "wtg",
+    "name": "World Textile Group",
+    "url": "https://wtg.pt/?s={{{s}}}"
+  },
+  {
+    "bang": "yellowlu",
+    "name": "Yellow.lu",
+    "url": "http://www.yellow.lu/en/yellow-pages/search?location=&query={{{s}}}&sort_by=relevance"
+  }
+]

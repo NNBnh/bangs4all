@@ -1,0 +1,12 @@
+[
+  {
+    "bang": "imdb",
+    "name": "IMDB",
+    "url": "http://www.imdb.com/find?s=all&q={{{s}}}"
+  },
+  {
+    "bang": "rottentomatoes",
+    "name": "Rotten Tomatoes",
+    "url": "http://www.rottentomatoes.com/search/?search={{{s}}}"
+  }
+]

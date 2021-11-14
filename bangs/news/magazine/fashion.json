@@ -1,0 +1,17 @@
+[
+  {
+    "bang": "gq",
+    "name": "GQ",
+    "url": "http://www.gq.com/search?qt=dismax&sort=score+desc&query={{{s}}}"
+  },
+  {
+    "bang": "jdf",
+    "name": "Journal des femmes",
+    "url": "http://www.journaldesfemmes.com/s/{{{s}}}"
+  },
+  {
+    "bang": "meucrespo",
+    "name": "MeuCrespo",
+    "url": "http://meucrespo.com.br/?s={{{s}}}"
+  }
+]

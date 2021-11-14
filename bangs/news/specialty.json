@@ -1,0 +1,612 @@
+[
+  {
+    "bang": "35c3",
+    "name": "35C3 Wiki",
+    "url": "https://events.ccc.de/congress/2018/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "an",
+    "name": "AniList",
+    "url": "http://anilist.co/search?q={{{s}}}"
+  },
+  {
+    "bang": "andpol",
+    "name": "Android Police",
+    "url": "http://www.androidpolice.com/?s={{{s}}}"
+  },
+  {
+    "bang": "antyweb",
+    "name": "Antyweb",
+    "url": "http://antyweb.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "april",
+    "name": "April",
+    "url": "https://www.april.org/search/node/{{{s}}}"
+  },
+  {
+    "bang": "archdaily",
+    "name": "ArchDaily",
+    "url": "https://www.archdaily.com/search/all?q={{{s}}}"
+  },
+  {
+    "bang": "arstechnica",
+    "name": "Ars Technica",
+    "url": "https://arstechnica.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "atd",
+    "name": "allthingsd",
+    "url": "http://allthingsd.com/?s={{{s}}}:"
+  },
+  {
+    "bang": "bcwalls",
+    "name": "Blockchainwalls",
+    "url": "https://www.blockchainwalls.com/category/{{{s}}}"
+  },
+  {
+    "bang": "busa",
+    "name": "Basket USA",
+    "url": "http://www.basketusa.com/?s={{{s}}}"
+  },
+  {
+    "bang": "caschy",
+    "name": "Caschys Blog",
+    "url": "http://stadt-bremerhaven.de/?s={{{s}}}"
+  },
+  {
+    "bang": "ccp",
+    "name": "Canadian Couch Potato",
+    "url": "http://canadiancouchpotato.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "churchofsatan",
+    "name": "Church of Satan Official Site",
+    "url": "http://www.churchofsatan.com/search-results.php?q={{{s}}}"
+  },
+  {
+    "bang": "cj",
+    "name": "Conjour",
+    "url": "https://conjour.world/?s={{{s}}}"
+  },
+  {
+    "bang": "clark",
+    "name": "Clark Howard",
+    "url": "https://clark.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "cnt",
+    "name": "Casino News Today",
+    "url": "http://casinonews.today/?s={{{s}}} "
+  },
+  {
+    "bang": "cnw",
+    "name": "Canna Newswire",
+    "url": "https://cannanewswire.co/?s={{{s}}}"
+  },
+  {
+    "bang": "contamet",
+    "name": "contamet.wordpress.com",
+    "url": "http://contamet.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "conv",
+    "name": "The Conversation",
+    "url": "https://theconversation.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cottrillcompassblog",
+    "name": "Cottrill Compass blog",
+    "url": "http://cottrillcompass.com/blog/?s={{{s}}}"
+  },
+  {
+    "bang": "cqrq",
+    "name": "CQ Roll Call",
+    "url": "https://www.rollcall.com/page/search?keyword={{{s}}}&advanced=false&sort=relevance"
+  },
+  {
+    "bang": "crol",
+    "name": "CroL",
+    "url": "https://www.crol.hr/index.php/search?searchword={{{s}}}&searchphrase=all"
+  },
+  {
+    "bang": "cryptoanalyst",
+    "name": "CryptoAnalyst",
+    "url": "https://www.cryptoanalyst.co/?s={{{s}}}"
+  },
+  {
+    "bang": "csdb",
+    "name": "The C64 Scene Database",
+    "url": "http://noname.c64.org/csdb/search/?seinsel=all&search={{{s}}}"
+  },
+  {
+    "bang": "cyber",
+    "name": "Cyberscoop",
+    "url": "https://www.cyberscoop.com/?s={{{s}}}"
+  },
+  {
+    "bang": "darknetmarkets",
+    "name": "Darknet Markets News",
+    "url": "https://www.darknetmarkets.net/?s={{{s}}}"
+  },
+  {
+    "bang": "dcr",
+    "name": "dcrainmaker.com",
+    "url": "http://www.dcrainmaker.com/?s={{{s}}} "
+  },
+  {
+    "bang": "delijn",
+    "name": "De Lijn",
+    "url": "https://www.delijn.be/nl/zoekresultaten/index.html?searchtext={{{s}}}"
+  },
+  {
+    "bang": "democracynow",
+    "name": "Democracy Now!",
+    "url": "http://www.democracynow.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "designernews",
+    "name": "Designer News",
+    "url": "https://www.designernews.co/search?q={{{s}}}"
+  },
+  {
+    "bang": "dexigner",
+    "name": "Dexigner",
+    "url": "http://www.dexigner.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dnt",
+    "name": "Norwegian Trekking Association",
+    "url": "https://www.dnt.no/s\u00f8k/?q={{{s}}}"
+  },
+  {
+    "bang": "dpreview",
+    "name": "DPReview",
+    "url": "http://www.dpreview.com/search/?query={{{s}}}&terms={{{s}}}"
+  },
+  {
+    "bang": "drudge",
+    "name": "Drudge Report",
+    "url": "http://www.drudgereportarchives.com/dsp/search.htm?searchFor={{{s}}}"
+  },
+  {
+    "bang": "eaterlon",
+    "name": "Eater London",
+    "url": "https://london.eater.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "elreg",
+    "name": "The Register",
+    "url": "http://search.theregister.co.uk/?q={{{s}}}"
+  },
+  {
+    "bang": "equestriadaily",
+    "name": "Equestria Daily",
+    "url": "http://duckduckgo.com/?q=site:equestriadaily.com+{{{s}}}"
+  },
+  {
+    "bang": "fair",
+    "name": "Fairness and Accuracy in Reporting",
+    "url": "https://fair.org/?s={{{s}}}"
+  },
+  {
+    "bang": "fantasy",
+    "name": "fantasy.fr",
+    "url": "http://www.fantasy.fr/searches/index/{{{s}}} "
+  },
+  {
+    "bang": "farmfor",
+    "name": "Blog do Farmfor",
+    "url": "https://www.farmfor.com.br/?s={{{s}}}"
+  },
+  {
+    "bang": "ffbbunt",
+    "name": "F\u00fcrstenfeldbruck ist bunt!",
+    "url": "https://ffbbunt.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "freep",
+    "name": "Freerepublic",
+    "url": "https://www.freerepublic.com/tag/{{{s}}}/index?tab=articles"
+  },
+  {
+    "bang": "fsm",
+    "name": "Futurism",
+    "url": "http://futurism.com/?s={{{s}}}"
+  },
+  {
+    "bang": "goe",
+    "name": "Stadtportal G\u00f6ttingen",
+    "url": "https://www.goettingen.de/portalsuche.html?keyword={{{s}}}"
+  },
+  {
+    "bang": "golem",
+    "name": "Golem.de",
+    "url": "http://suche.golem.de/search.php?l=10&q={{{s}}}"
+  },
+  {
+    "bang": "gpafrica",
+    "name": "Greenpeace Africa",
+    "url": "http://www.greenpeace.org/africa/en/Search-results/?all={{{s}}}"
+  },
+  {
+    "bang": "gpau",
+    "name": "Greenpeace Australia",
+    "url": "http://www.greenpeace.org/australia/en/System-templates/Site-Settings-Pages/Search/?all={{{s}}}"
+  },
+  {
+    "bang": "gpcanfr",
+    "name": "Greenpeace Canada (French)",
+    "url": "http://www.greenpeace.org/canada/fr/System-templates/Site-Settings-Pages/Recherche/?all={{{s}}}"
+  },
+  {
+    "bang": "gpcan",
+    "name": "Greenpeace Canada",
+    "url": "http://www.greenpeace.org/canada/en/System-templates/Site-Settings-Pages/Search/?all={{{s}}}"
+  },
+  {
+    "bang": "gpea",
+    "name": "Greenpeace East Asia",
+    "url": "http://www.greenpeace.org/eastasia/system-templates/search-results/?all={{{s}}}"
+  },
+  {
+    "bang": "gpeu",
+    "name": "Greenpeace EU Unit",
+    "url": "http://www.greenpeace.org/eu-unit/en/System-templates/such-resultate/?all={{{s}}}"
+  },
+  {
+    "bang": "gpindia",
+    "name": "Greenpeace India",
+    "url": "http://www.greenpeace.org/india/en/System-templates/Search-results/?all={{{s}}}"
+  },
+  {
+    "bang": "gpnz",
+    "name": "Greenpeace New Zealand",
+    "url": "http://www.greenpeace.org/new-zealand/en/System-templates/Search-results/?all={{{s}}}"
+  },
+  {
+    "bang": "gpphilip",
+    "name": "Greenpeace Philippines",
+    "url": "http://www.greenpeace.org/seasia/ph/System-templates/Search-results/?all={{{s}}}"
+  },
+  {
+    "bang": "gpseasia",
+    "name": "Greenpeace Southeast Asia",
+    "url": "http://www.greenpeace.org/seasia/System-templates/Search-results/?all={{{s}}}"
+  },
+  {
+    "bang": "gpuk",
+    "name": "Greenpeace UK",
+    "url": "http://www.greenpeace.org.uk/search/node/{{{s}}}"
+  },
+  {
+    "bang": "greenpeace",
+    "name": "Greenpeace",
+    "url": "http://www.greenpeace.org/usa/?s={{{s}}}"
+  },
+  {
+    "bang": "gz",
+    "name": "GeekZone",
+    "url": "http://www.geekzone.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "hardocp",
+    "name": "[H]ardOCP",
+    "url": "https://www.hardocp.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "hinews",
+    "name": "Hi-News.ru",
+    "url": "http://hi-news.ru/?s={{{s}}}"
+  },
+  {
+    "bang": "huffpost",
+    "name": "Huffington Post",
+    "url": "https://www.huffingtonpost.com/search?keywords={{{s}}}&sortBy=recency&sortOrder=desc"
+  },
+  {
+    "bang": "inkeri",
+    "name": "Inkeri Klubi \u2013 \u041a\u043b\u0443\u0431 \u0418\u043d\u0433\u0440\u0438\u044f",
+    "url": "http://inkeri-klubi.radioviola.net/system/app/pages/search?scope=search-site&q={{{s}}}"
+  },
+  {
+    "bang": "intercept",
+    "name": "The Intercept",
+    "url": "https://theintercept.com/search/?s={{{s}}}"
+  },
+  {
+    "bang": "itnews",
+    "name": "IT-NEWS: \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430",
+    "url": "https://it-news.press/search?searchword={{{s}}}"
+  },
+  {
+    "bang": "jacobin",
+    "name": "Jacobin Magazine",
+    "url": "https://jacobinmag.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "jlm",
+    "name": "Jean-Luc M\u00e9lenchon",
+    "url": "http://www.jean-luc-melenchon.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "jpralves",
+    "name": "jpralves.net",
+    "url": "https://jpralves.net/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "jwde",
+    "name": "Jehovas Zeugen \u2014 Offizielle Website: jw.org",
+    "url": "https://www.jw.org/de/suche/?q={{{s}}}"
+  },
+  {
+    "bang": "kt",
+    "name": "Kicktraq",
+    "url": "http://www.kicktraq.com/search/?find={{{s}}}"
+  },
+  {
+    "bang": "lewrockwell",
+    "name": "LewRockwell.com",
+    "url": "https://duckduckgo.com/?q=site%3Alewrockwell.com+{{{s}}} "
+  },
+  {
+    "bang": "lnp",
+    "name": "Logbuch:Netzpolitik",
+    "url": "https://logbuch-netzpolitik.de/?s={{{s}}}"
+  },
+  {
+    "bang": "lts",
+    "name": "LaToileScoute",
+    "url": "http://www.latoilescoute.net/spip.php?page=recherche&recherche={{{s}}} "
+  },
+  {
+    "bang": "malist",
+    "name": "MyAnimeList",
+    "url": "http://myanimelist.net/anime.php?q={{{s}}}"
+  },
+  {
+    "bang": "mdu",
+    "name": "Manual do Usu\u00e1rio",
+    "url": "https://manualdousuario.net/?s={{{s}}}"
+  },
+  {
+    "bang": "mnt",
+    "name": "Medical News Today",
+    "url": "http://www.medicalnewstoday.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "mobilegeeks",
+    "name": "Mobile Geeks",
+    "url": "http://www.mobilegeeks.com/?s={{{s}}}"
+  },
+  {
+    "bang": "msrd",
+    "name": "MusicRadar",
+    "url": "http://www.musicradar.com/search?searchTerm={{{s}}}:"
+  },
+  {
+    "bang": "nationalreview",
+    "name": "National Review",
+    "url": "https://www.nationalreview.com/?s={{{s}}}"
+  },
+  {
+    "bang": "natobserver",
+    "name": "National Observer",
+    "url": "https://www.nationalobserver.com/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "naturvin",
+    "name": "Naturvin \u2013 The Sound of Soil",
+    "url": "https://naturvin.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "nds",
+    "name": "Nachdenkseiten",
+    "url": "http://www.nachdenkseiten.de/?s={{{s}}}"
+  },
+  {
+    "bang": "netzpolitik",
+    "name": "Netzpolitik.org",
+    "url": "https://netzpolitik.org/?s={{{s}}}"
+  },
+  {
+    "bang": "newsarchive",
+    "name": "Google News Archive",
+    "url": "http://www.google.com/#q={{{s}}}&hl=en&tbm=nws&prmd=imvnsfd&source=lnt&tbs=ar:1&sa=X&ei=UJrnT8LwO8Sf6QGHmIjhDg&ved=0CCcQpwUoBQ&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=3c6a142c5aa1edc2&biw=1366&bih=706"
+  },
+  {
+    "bang": "nfowrs",
+    "name": "Infowars",
+    "url": "http://www.infowars.com/?q={{{s}}}"
+  },
+  {
+    "bang": "nifs",
+    "name": "NI Ferry Site",
+    "url": "https://www.niferry.co.uk/?s={{{s}}}"
+  },
+  {
+    "bang": "nn",
+    "name": "Natural News",
+    "url": "https://www.naturalnews.com/SearchResults.asp?query={{{s}}}&pr=NN"
+  },
+  {
+    "bang": "nthp",
+    "name": "New Theatre History Project",
+    "url": "https://history.newtheatre.org.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "nxim",
+    "name": "Next Inpact Mobile",
+    "url": "https://m.nextinpact.com/rechercher?term={{{s}}}"
+  },
+  {
+    "bang": "nyrb",
+    "name": "New York Review of Books",
+    "url": "http://www.nybooks.com/search/?s={{{s}}}&option_match=&year_after=1963&year_before=2017&type=all&orderby=relevance"
+  },
+  {
+    "bang": "pcper",
+    "name": "PC Perspective",
+    "url": "http://www.pcper.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "petitweb",
+    "name": "Petit Web",
+    "url": "http://www.petitweb.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "phonemore",
+    "name": "PhoneMore",
+    "url": "https://www.phonemore.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "phoronix",
+    "name": "Phoronix",
+    "url": "https://www.phoronix.com/scan.php?page=search&q={{{s}}}"
+  },
+  {
+    "bang": "pjm",
+    "name": "PJ Media",
+    "url": "https://pjmedia.com/search/?s={{{s}}} "
+  },
+  {
+    "bang": "politifact",
+    "name": "PolitiFact",
+    "url": "http://www.politifact.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "rcp",
+    "name": "RealClear Politics",
+    "url": "http://www.realclearpolitics.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "reason",
+    "name": "Reason.com",
+    "url": "http://reason.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "register",
+    "name": "The Register",
+    "url": "http://search.theregister.co.uk/?q={{{s}}}&advanced=1&author=&date=the+dawn+of+time&site=all+The+Register+sites&results_per_page=100"
+  },
+  {
+    "bang": "rijnmond",
+    "name": "rijnmond.nl",
+    "url": "http://www.rijnmond.nl/zoeken?query={{{s}}}"
+  },
+  {
+    "bang": "rmk",
+    "name": "Reddit's Mechanical Keyboards Subreddit",
+    "url": "https://www.reddit.com/r/MechanicalKeyboards/search?q={{{s}}}&sort=relevance&t=all"
+  },
+  {
+    "bang": "rockpapershotgun",
+    "name": "Rock Paper Shotgun",
+    "url": "http://www.rockpapershotgun.com/?s={{{s}}}"
+  },
+  {
+    "bang": "samaritans",
+    "name": "Samaritan's Purse",
+    "url": "http://www.samaritanspurse.org/?s={{{s}}}"
+  },
+  {
+    "bang": "sa",
+    "name": "Scientific American",
+    "url": "http://www.scientificamerican.com/search/?q={{{s}}}&x=-783&y=-180 "
+  },
+  {
+    "bang": "scottsradiosite",
+    "name": "Scott's Radio Site",
+    "url": "http://www.scottsradiosite.co.uk/?s={{{s}}}"
+  },
+  {
+    "bang": "seland",
+    "name": "Search Engine Land",
+    "url": "http://search.searchengineland.com/search?w={{{s}}}"
+  },
+  {
+    "bang": "smv",
+    "name": "SMV des OHG in KA",
+    "url": "http://www.ohg-ka.de/smv/?s={{{s}}}"
+  },
+  {
+    "bang": "snp",
+    "name": "snopes.com",
+    "url": "http://www.snopes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "t3n",
+    "name": "t3n",
+    "url": "http://t3n.de/search?q={{{s}}}"
+  },
+  {
+    "bang": "tandemtech",
+    "name": "Tandem Tech",
+    "url": "https://tandemtech.be/search?q={{{s}}}"
+  },
+  {
+    "bang": "tcp",
+    "name": "The Conservative Papers",
+    "url": "http://conservativepapers.com/?s={{{s}}}"
+  },
+  {
+    "bang": "techspot",
+    "name": "Techspot",
+    "url": "https://www.techspot.com/search/?cx=partner-pub-7395890353660701%3Aj5claj-6kfy&cof=FORID%3A11&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "thecheckeredflag",
+    "name": "The Checkered Flag",
+    "url": "http://www.thecheckeredflag.co.uk/?s={{{s}}} "
+  },
+  {
+    "bang": "tli",
+    "name": "The Logical Indian",
+    "url": "http://thelogicalindian.com/?s={{{s}}}"
+  },
+  {
+    "bang": "torrentfreak",
+    "name": "Torrent Freak",
+    "url": "http://torrentfreak.com/search/{{{s}}}"
+  },
+  {
+    "bang": "tpo",
+    "name": "ThePostOnline",
+    "url": "http://tpo.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "trfuk",
+    "name": "Transfermarkt",
+    "url": "http://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query={{{s}}}"
+  },
+  {
+    "bang": "tz",
+    "name": "timeanddate",
+    "url": "http://www.timeanddate.com/worldclock/results.html?query={{{s}}}"
+  },
+  {
+    "bang": "vice",
+    "name": "Vice",
+    "url": "https://www.vice.com/en_us/search?q={{{s}}}"
+  },
+  {
+    "bang": "vote",
+    "name": "Vote",
+    "url": "https://vote.us.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "wikinews",
+    "name": "Wikinews",
+    "url": "http://en.wikinews.org/w/index.php?title=Special%3ASearch&redirs=0&search={{{s}}}"
+  },
+  {
+    "bang": "winfu",
+    "name": "WinFuture",
+    "url": "http://winfuture.de/suche/?cx=001589123709424097799%3Asbdrzmcykc8&cof=FORID%3A11&ie=ISO-8859-1&q={{{s}}}"
+  },
+  {
+    "bang": "xmostrata",
+    "name": "Xmo Strata",
+    "url": "http://xmostrata.com/?s={{{s}}}"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "bang": "avw",
+    "name": "Anevandos Wiki",
+    "url": "http://anevandos.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "cyb",
+    "name": "Cyberlearn",
+    "url": "https://cyberlearn.hes-so.ch/course/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "elix",
+    "name": "Elix Dictionnaire LSF",
+    "url": "https://www.elix-lsf.fr/spip.php?page=recherche_definitions&recherche={{{s}}}&lang=fr"
+  },
+  {
+    "bang": "eternity",
+    "name": "Eternity Engine Wiki",
+    "url": "http://eternity.youfailit.net/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "findo",
+    "name": "Findo",
+    "url": "https://findo.com/app/search?query={{{s}}}"
+  },
+  {
+    "bang": "k-on",
+    "name": "K-ON! Wiki",
+    "url": "http://k-on.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "lemo",
+    "name": "Lebendiges Museum Online",
+    "url": "https://www.hdg.de/lemo/search/?q={{{s}}}"
+  },
+  {
+    "bang": "licentium",
+    "name": "\uc790\uc720\uc778\uc0ac\uc804(Licentium Wiki)",
+    "url": "https://licentium.net/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "mbdoc",
+    "name": "MusicBrainz documentation",
+    "url": "https://musicbrainz.org/search?query={{{s}}}&type=doc"
+  },
+  {
+    "bang": "mscore",
+    "name": "MuseScore (DuckDuckGo search)",
+    "url": "https://duckduckgo.com/?q=site%3Amusescore.org+{{{s}}}&ia=web"
+  },
+  {
+    "bang": "musixmatchde",
+    "name": "Musixmatch DE",
+    "url": "https://www.musixmatch.com/de/search/{{{s}}}"
+  },
+  {
+    "bang": "openbox",
+    "name": "Openbox",
+    "url": "http://openbox.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "prezi",
+    "name": "Prezi",
+    "url": "http://prezi.com/explore/search/?search={{{s}}}"
+  },
+  {
+    "bang": "priberam",
+    "name": "Priberam",
+    "url": "https://www.priberam.pt/dlpo/{{{s}}}"
+  },
+  {
+    "bang": "ruwk",
+    "name": "ru.WikiPedia.org",
+    "url": "https://ru.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "siec",
+    "name": "Sin\u00f2nims - Institut d'Estudis Catalans",
+    "url": "https://sinonims.iec.cat/sinonims_cerca_sin.asp?pclau2={{{s}}}&button=Cerca+arreu"
+  },
+  {
+    "bang": "sqa",
+    "name": "SQA Past papers",
+    "url": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm?subject={{{s}}}"
+  },
+  {
+    "bang": "thetvdb",
+    "name": "The TV db",
+    "url": "https://www.thetvdb.com/search?q={{{s}}}&l=en"
+  },
+  {
+    "bang": "trope",
+    "name": "TV Tropes",
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/{{{s}}}"
+  },
+  {
+    "bang": "vagssp",
+    "name": "ProCarManuals.com",
+    "url": "https://procarmanuals.com/?s={{{s}}}"
+  },
+  {
+    "bang": "vsdocs",
+    "name": "Visual Studio Code Docs",
+    "url": "https://code.visualstudio.com/Search?q={{{s}}}"
+  },
+  {
+    "bang": "vwe",
+    "name": "VWE",
+    "url": "http://www.vwe.nl/zoeken_resultaten.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "wikinl",
+    "name": "Wikipedia Nederland",
+    "url": "https://nl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikiquote",
+    "name": "Wikiquote",
+    "url": "https://en.wikiquote.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wzw",
+    "name": "Warpzone Wiki",
+    "url": "http://wiki.warpzone.ms/start?do=search&id={{{s}}}"
+  },
+  {
+    "bang": "\u0432\u0438\u043a\u0438",
+    "name": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+    "url": "https://ru.wikipedia.org/w/index.php?search={{{s}}}&"
+  },
+  {
+    "bang": "\u0433\u043e\u0441\u0442",
+    "name": "docs.cntd.ru",
+    "url": "http://docs.cntd.ru/search/intellectual?q={{{s}}}"
+  }
+]

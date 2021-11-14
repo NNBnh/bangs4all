@@ -1,0 +1,12 @@
+[
+  {
+    "bang": "matlabans",
+    "name": "MATLAB Answers",
+    "url": "https://es.mathworks.com/matlabcentral/answers/?term={{{s}}}"
+  },
+  {
+    "bang": "matlab",
+    "name": "Matlab",
+    "url": "http://uk.mathworks.com/help/search.html?qdoc={{{s}}}&submitsearch=Search"
+  }
+]

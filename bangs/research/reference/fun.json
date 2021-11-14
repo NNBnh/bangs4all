@@ -1,0 +1,312 @@
+[
+  {
+    "bang": "anag",
+    "name": "Internet Anagram Server",
+    "url": "https://new.wordsmith.org/anagram/anagram.cgi?anagram={{{s}}}&t=500&a=n"
+  },
+  {
+    "bang": "artsmia",
+    "name": "The Collection at the Minneapois Insitute of Arts",
+    "url": "https://collections.artsmia.org/index.php?page=search#query={{{s}}}"
+  },
+  {
+    "bang": "biluppg",
+    "name": "Biluppgifter",
+    "url": "https://biluppgifter.se/fordon/{{{s}}}"
+  },
+  {
+    "bang": "bnr",
+    "name": "BNR Metal Pages",
+    "url": "http://www.bnrmetal.com/v5/search/search/{{{s}}}"
+  },
+  {
+    "bang": "bricklinkcat",
+    "name": "Bricklink",
+    "url": "http://www.bricklink.com/catalogList.asp?q={{{s}}}"
+  },
+  {
+    "bang": "bu",
+    "name": "Bulbapedia",
+    "url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "bulba",
+    "name": "Bulbapedia",
+    "url": "http://bulbapedia.bulbagarden.net/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "cardboard",
+    "name": "https://www.cardboardconnection.com",
+    "url": "https://www.cardboardconnection.com/search-results?q={{{s}}}"
+  },
+  {
+    "bang": "conservapedia",
+    "name": "Conservapedia",
+    "url": "http://www.conservapedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "cow",
+    "name": "Combine OverWiki",
+    "url": "http://combineoverwiki.net/index.php?search={{{s}}}&button=&title=Special%3ASearch"
+  },
+  {
+    "bang": "ddgr",
+    "name": "Reddit search (via DuckDuckGo)",
+    "url": "https://duckduckgo.com/?q=site:reddit.com+{{{s}}}"
+  },
+  {
+    "bang": "dogechain",
+    "name": "DogeChain",
+    "url": "http://dogechain.info/address/{{{s}}}"
+  },
+  {
+    "bang": "dragball",
+    "name": "Dragon Ball Wiki",
+    "url": "https://dragonball.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "dream",
+    "name": "DreamMoods",
+    "url": "http://dreammoods.com/cgibin/dreamdictionarysearch.pl?method=exact&header=dreamsymbol&search={{{s}}}"
+  },
+  {
+    "bang": "ds1",
+    "name": "Dark Souls Wiki",
+    "url": "https://darksouls.wiki.fextralife.com/{{{s}}}"
+  },
+  {
+    "bang": "evawk",
+    "name": "evageeks wiki",
+    "url": "https://wiki.evageeks.org/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "folkwiki",
+    "name": "FolkWiki",
+    "url": "http://www.folkwiki.se/?n=Meta.Start&action=search&q={{{s}}}"
+  },
+  {
+    "bang": "fragrantica",
+    "name": "Fragrantica",
+    "url": "https://www.fragrantica.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "fright",
+    "name": "FrightFind",
+    "url": "https://frightfind.com/?s={{{s}}}"
+  },
+  {
+    "bang": "gamefly",
+    "name": "Gamefly",
+    "url": "https://www.gamefly.com/#!/search/all?q={{{s}}}"
+  },
+  {
+    "bang": "h2g2",
+    "name": "h2g2",
+    "url": "http://www.h2g2.com/search?search_type=article_quick_search&searchstring={{{s}}}&approved_entries_only_chk=1"
+  },
+  {
+    "bang": "hol",
+    "name": "Klingon Assault Group",
+    "url": "https://hol.kag.org/a/{{{s}}}"
+  },
+  {
+    "bang": "hpwiki",
+    "name": "Harry Potter Wikia",
+    "url": "http://harrypotter.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "initium",
+    "name": "initium wiki",
+    "url": "https://initium.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "jedi",
+    "name": "Jedipedia.net",
+    "url": "https://www.jedipedia.net/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "knowyourmeme",
+    "name": "Know Your Meme",
+    "url": "http://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "kym",
+    "name": "Know Your Meme",
+    "url": "http://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "lftwiki",
+    "name": "Lapfox Trax Wiki",
+    "url": "http://lapfoxtrax.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "libre",
+    "name": "\ub9ac\ube0c\ub808 \uc704\ud0a4",
+    "url": "https://librewiki.net/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "mcwiki",
+    "name": "Official Minecraft Wiki",
+    "url": "https://minecraft.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "memalphade",
+    "name": "MemoryAlpha Deutsch",
+    "url": "http://de.memory-alpha.wikia.com/wiki/Spezial:Suche?query={{{s}}}"
+  },
+  {
+    "bang": "meme",
+    "name": "Know Your Meme",
+    "url": "http://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "mendesah",
+    "name": "MediaMarkt DE",
+    "url": "https://www.mediamarkt.de/de/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "mtgw",
+    "name": "MTG WTF",
+    "url": "https://mtg.wtf/card?q={{{s}}}"
+  },
+  {
+    "bang": "naijalingo",
+    "name": "Naija Lingo",
+    "url": "http://naijalingo.com/search?word={{{s}}}"
+  },
+  {
+    "bang": "nwn",
+    "name": "Neverwinter Nights Wiki",
+    "url": "http://nwn.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "ootl",
+    "name": "r/OutOfTheLoop",
+    "url": "https://www.reddit.com/r/OutOfTheLoop/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "bang": "palio",
+    "name": "Archivio del Palio di Siena",
+    "url": "http://www.ilpalio.siena.it/5/cerca.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "ravelry",
+    "name": "Ravelry",
+    "url": "http://www.ravelry.com/patterns/search#query={{{s}}}"
+  },
+  {
+    "bang": "roll205e",
+    "name": "Roll20 DnD 5e Compendium",
+    "url": "https://roll20.net/compendium/dnd5e/searchbook/?terms={{{s}}}"
+  },
+  {
+    "bang": "rsw",
+    "name": "RuneScape Wiki",
+    "url": "https://runescape.wiki/?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "bang": "slang",
+    "name": "The Online Slang Dictionary",
+    "url": "http://onlineslangdictionary.com/definition+of/{{{s}}}"
+  },
+  {
+    "bang": "snopes",
+    "name": "Snopes",
+    "url": "http://www.snopes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "speedsolvingwiki",
+    "name": "Speedsolving wiki",
+    "url": "https://www.speedsolving.com/wiki/index.php?title=Special%3ASearch&search={{{s}}} &go=Go"
+  },
+  {
+    "bang": "sponge",
+    "name": "Encyclopedia SpongeBobia",
+    "url": "https://spongebob.fandom.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "sswiki",
+    "name": "Speedsolving.com Wiki",
+    "url": "https://www.speedsolving.com/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "strain",
+    "name": "wikileaf",
+    "url": "https://www.wikileaf.com/strains/?search={{{s}}}"
+  },
+  {
+    "bang": "stupi",
+    "name": "Stupidedia",
+    "url": "http://www.stupidedia.org/stupi?title=Spezial%3ASuche&search={{{s}}} "
+  },
+  {
+    "bang": "tastekid",
+    "name": "TasteKid",
+    "url": "http://www.tastekid.com/like/{{{s}}}"
+  },
+  {
+    "bang": "tbbtwiki",
+    "name": "The Big Bang Theory Wiki",
+    "url": "http://bigbangtheory.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1#"
+  },
+  {
+    "bang": "tgdb",
+    "name": "TheGamesDB",
+    "url": "http://thegamesdb.net/search/?string={{{s}}}&function=Search"
+  },
+  {
+    "bang": "tvt",
+    "name": "tvtropes",
+    "url": "http://tvtropes.org/pmwiki/search_result.php?q={{{s}}}"
+  },
+  {
+    "bang": "twiki",
+    "name": "Trove Wikia",
+    "url": "http://trove.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "ud",
+    "name": "Urban Dictionary",
+    "url": "https://www.urbandictionary.com/define.php?term={{{s}}}"
+  },
+  {
+    "bang": "ukiki",
+    "name": "Ukikipedia",
+    "url": "https://ukikipedia.net/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "urbandictionary",
+    "name": "Urban Dictionary",
+    "url": "http://www.urbandictionary.com/define.php?term={{{s}}}"
+  },
+  {
+    "bang": "urban",
+    "name": "Urban Dictionary",
+    "url": "http://www.urbandictionary.com/define.php?term={{{s}}}"
+  },
+  {
+    "bang": "vectorspace",
+    "name": "Vectorspace AI",
+    "url": "http://vectorspace.ai/recommend/app/crypto_discover?query={{{s}}}"
+  },
+  {
+    "bang": "whow",
+    "name": "wikiHow",
+    "url": "http://www.wikihow.com/Special:LSearch?search={{{s}}}"
+  },
+  {
+    "bang": "wikifur",
+    "name": "WikiFur",
+    "url": "https://en.wikifur.com/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "worldbuilding",
+    "name": "worldbuilding.stackexchange.com",
+    "url": "http://worldbuilding.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowwiki",
+    "name": "WoWWiki",
+    "url": "http://www.wowwiki.com/Special:Search?search={{{s}}}"
+  }
+]

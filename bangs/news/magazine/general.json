@@ -1,0 +1,477 @@
+[
+  {
+    "bang": "1001",
+    "name": "1001boom",
+    "url": "http://1001boom.com/?s={{{s}}}"
+  },
+  {
+    "bang": "aamulehti",
+    "name": "Aamulehti",
+    "url": "https://duckduckgo.com/?sites=www.aamulehti.fi&kh=1&q={{{s}}}&ia=web"
+  },
+  {
+    "bang": "alternet",
+    "name": "Alternet",
+    "url": "https://www.alternet.org/search/site/{{{s}}}"
+  },
+  {
+    "bang": "altro",
+    "name": "Altroconsumo",
+    "url": "http://www.altroconsumo.it/Serp/ShowResults?keyword={{{s}}}"
+  },
+  {
+    "bang": "azs",
+    "name": "AZspot",
+    "url": "https://azspot.net/search/{{{s}}}"
+  },
+  {
+    "bang": "babidoo",
+    "name": "BaBiDoo",
+    "url": "https://babidoo.de/?s={{{s}}}"
+  },
+  {
+    "bang": "birikim",
+    "name": "Birikim Dergisi",
+    "url": "http://www.birikimdergisi.com/arama/{{{s}}}"
+  },
+  {
+    "bang": "bloganchoi",
+    "name": "BlogAnChoi",
+    "url": "http://bloganchoi.com/?s={{{s}}}"
+  },
+  {
+    "bang": "bona",
+    "name": "Bona",
+    "url": "https://www.bona.co.za/?s={{{s}}}"
+  },
+  {
+    "bang": "celebrity",
+    "name": "Celebrity Magazine",
+    "url": "https://celebrity.tn/?s={{{s}}}"
+  },
+  {
+    "bang": "clicrbs",
+    "name": "ClicRBS",
+    "url": "http://www.clicrbs.com.br/busca/rs/?q={{{s}}} "
+  },
+  {
+    "bang": "cntrp",
+    "name": "Counterpunch",
+    "url": "https://www.counterpunch.org/search-results/?q={{{s}}}"
+  },
+  {
+    "bang": "cosmoty",
+    "name": "COSMOTY.de",
+    "url": "http://www.cosmoty.de/suche/{{{s}}}"
+  },
+  {
+    "bang": "deadline",
+    "name": "Deadline Hollywood",
+    "url": "https://deadline.com/results/#?q={{{s}}} "
+  },
+  {
+    "bang": "deco",
+    "name": "Decoraci\u00f3n 2.0",
+    "url": "https://decoracion2.com/search/{{{s}}}"
+  },
+  {
+    "bang": "delfi",
+    "name": "Delfi",
+    "url": "http://www.delfi.lt/paieska/?q={{{s}}}"
+  },
+  {
+    "bang": "dwru",
+    "name": "Dark-World.ru",
+    "url": "http://dark-world.ru/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ebukaokoriesblog",
+    "name": "ebuka okories blog",
+    "url": "https://ebukaokorie.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "edfeminism",
+    "name": "Everyday Feminism",
+    "url": "http://everydayfeminism.com/?s={{{s}}}"
+  },
+  {
+    "bang": "edm",
+    "name": "edmofy.com",
+    "url": "http://edmofy.com/?s={{{s}}}"
+  },
+  {
+    "bang": "edmsauce",
+    "name": "EDM Sauce",
+    "url": "https://www.edmsauce.com/?s={{{s}}}"
+  },
+  {
+    "bang": "eic",
+    "name": "Education in Chemistry",
+    "url": "https://eic.rsc.org/searchresults?qkeyword={{{s}}}"
+  },
+  {
+    "bang": "epwin",
+    "name": "Economic Political Weekly",
+    "url": "http://www.epw.in/search/site/{{{s}}}"
+  },
+  {
+    "bang": "factly",
+    "name": "Factly",
+    "url": "https://factly.in/?s={{{s}}}"
+  },
+  {
+    "bang": "freitag",
+    "name": "Der Freitag",
+    "url": "https://www.freitag.de/@@search?SearchableText={{{s}}}&SubmitSearch=Suche"
+  },
+  {
+    "bang": "gsp",
+    "name": "GegenStandpunkt Verlage",
+    "url": "https://de.gegenstandpunkt.com/artikel/suche?modus=AND&volltextsuche={{{s}}}"
+  },
+  {
+    "bang": "hesari",
+    "name": "Helsingin Sanomat",
+    "url": "http://hs.fi/haku/?search-term={{{s}}}"
+  },
+  {
+    "bang": "horor",
+    "name": "Horormag\u00f3ria",
+    "url": "https://horormagoria.sk/?s={{{s}}}"
+  },
+  {
+    "bang": "horormagoria",
+    "name": "Horormag\u00f3ria",
+    "url": "https://horormagoria.sk/?s={{{s}}}"
+  },
+  {
+    "bang": "horory",
+    "name": "Horormag\u00f3ria",
+    "url": "https://horormagoria.sk/?s={{{s}}}"
+  },
+  {
+    "bang": "hwd",
+    "name": "The Hollywood Reporter",
+    "url": "http://www.hollywoodreporter.com/search/{{{s}}} "
+  },
+  {
+    "bang": "ieees",
+    "name": "IEEE spectrum",
+    "url": "http://spectrum.ieee.org/searchContent?q={{{s}}}"
+  },
+  {
+    "bang": "iltasanomat",
+    "name": "Ilta-Sanomat",
+    "url": "http://iltasanomat.fi/haku/?search-term={{{s}}}"
+  },
+  {
+    "bang": "isrgrajan",
+    "name": "Isrg Rajan",
+    "url": "https://www.isrgrajan.com/?s={{{s}}}"
+  },
+  {
+    "bang": "iss",
+    "name": "Issuu",
+    "url": "http://issuu.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "issuu",
+    "name": "Issuu",
+    "url": "https://issuu.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "lapa",
+    "name": "lapatilla",
+    "url": "http://lapatilla.com/?s={{{s}}}"
+  },
+  {
+    "bang": "lrb",
+    "name": "The London Review of Books",
+    "url": "http://www.lrb.co.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "lvmag",
+    "name": "Linux Voice",
+    "url": "http://www.linuxvoice.com/?s={{{s}}}"
+  },
+  {
+    "bang": "lwn",
+    "name": "LWN.net",
+    "url": "https://lwn.net/Search/DoSearch?words={{{s}}}"
+  },
+  {
+    "bang": "mdash",
+    "name": "The M Dash",
+    "url": "https://mmlafleur.com/mdash/search/{{{s}}}"
+  },
+  {
+    "bang": "mellowviews",
+    "name": "Mellowviews",
+    "url": "https://mellowviews.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "natgeo",
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "nationalgeographic",
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "nautilus",
+    "name": "Nautil.us",
+    "url": "http://nautil.us/search/{{{s}}}"
+  },
+  {
+    "bang": "ndr",
+    "name": "Norddeutscher Rundfunk",
+    "url": "https://www.ndr.de/suche10.html?query={{{s}}}"
+  },
+  {
+    "bang": "ndtv",
+    "name": "NDTV",
+    "url": "http://ndtv.com/topic/{{{s}}}"
+  },
+  {
+    "bang": "nerdscoop",
+    "name": "Nerdscoop",
+    "url": "http://www.nerdscoop.com/?s={{{s}}}"
+  },
+  {
+    "bang": "newyorker",
+    "name": "The New Yorker",
+    "url": "http://www.newyorker.com/search/q/{{{s}}}"
+  },
+  {
+    "bang": "noticiados",
+    "name": "NoticiaDOS",
+    "url": "http://noticiados.net/blog/buscar/?query={{{s}}}"
+  },
+  {
+    "bang": "numerama",
+    "name": "Numerama",
+    "url": "http://www.numerama.com/magazine/recherche/1/{{{s}}}/date"
+  },
+  {
+    "bang": "nxi",
+    "name": "Next INpact",
+    "url": "http://www.nextinpact.com/recherche?_search={{{s}}}"
+  },
+  {
+    "bang": "omg",
+    "name": "OMG! Ubuntu!",
+    "url": "http://www.omgubuntu.co.uk/?s={{{s}}} "
+  },
+  {
+    "bang": "passapalavra",
+    "name": "Passa Palavra",
+    "url": "http://passapalavra.info/?s={{{s}}}"
+  },
+  {
+    "bang": "pci",
+    "name": "PC INpact",
+    "url": "http://www.pcinpact.com/recherche?_search={{{s}}}"
+  },
+  {
+    "bang": "pcmasters",
+    "name": "PCMasters.de",
+    "url": "http://www.pcmasters.de/suche?search_keywords={{{s}}}"
+  },
+  {
+    "bang": "popsci",
+    "name": "Popular Science",
+    "url": "https://www.popsci.com/find/{{{s}}}"
+  },
+  {
+    "bang": "pp",
+    "name": "Passa Palavra",
+    "url": "http://passapalavra.info/?s={{{s}}}"
+  },
+  {
+    "bang": "qsr",
+    "name": "Quick Service Restaurant Magazine",
+    "url": "https://www.qsrmagazine.com/search/site/{{{s}}}"
+  },
+  {
+    "bang": "redpanda",
+    "name": "Red Pandazine",
+    "url": "https://redpandazine.com/?s={{{s}}}"
+  },
+  {
+    "bang": "rodo",
+    "name": "GDPR PL",
+    "url": "https://gdpr.pl/?s={{{s}}}"
+  },
+  {
+    "bang": "rollingstone",
+    "name": "Rolling Stone",
+    "url": "http://www.rollingstone.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "roterpanda",
+    "name": "Red Pandazine",
+    "url": "https://redpandazine.at/?s={{{s}}}"
+  },
+  {
+    "bang": "rsar",
+    "name": "Rolling Stone Argentina",
+    "url": "http://www.rollingstone.com.ar/buscador-r30-{{{s}}}"
+  },
+  {
+    "bang": "sacl",
+    "name": "SA Country Life",
+    "url": "https://www.countrylife.co.za/?s={{{s}}}"
+  },
+  {
+    "bang": "scienceblog",
+    "name": "ScienceBlog.com",
+    "url": "https://scienceblog.com/?s={{{s}}}"
+  },
+  {
+    "bang": "scienze",
+    "name": "Le Scienze",
+    "url": "http://www.lescienze.it/?q={{{s}}}"
+  },
+  {
+    "bang": "sm",
+    "name": "Smashing Magazine",
+    "url": "http://www.smashingmagazine.com/search-results/?q={{{s}}}&cx=partner-pub-6779860845561969%3A5884617103&cof=FORID%3A10&ie=UTF-8"
+  },
+  {
+    "bang": "soapbox",
+    "name": "Soapbox",
+    "url": "https://www.sp-bx.com/?s={{{s}}}"
+  },
+  {
+    "bang": "speccie",
+    "name": "The Spectator",
+    "url": "http://www.spectator.co.uk/?s={{{s}}}"
+  },
+  {
+    "bang": "spiegel",
+    "name": "www.spiegel.de",
+    "url": "http://www.spiegel.de/suche/index.html?suchbegriff= {{{s}}}"
+  },
+  {
+    "bang": "spon",
+    "name": "Spiegel Online",
+    "url": "http://www.spiegel.de/suche/index.html?suchbegriff={{{s}}}"
+  },
+  {
+    "bang": "stern",
+    "name": "Stern",
+    "url": "http://www.stern.de/action/3000116/search?query={{{s}}}"
+  },
+  {
+    "bang": "strm",
+    "name": "The Stream",
+    "url": "https://stream.org/?s={{{s}}}"
+  },
+  {
+    "bang": "suconlavite",
+    "name": "Suconlavite.it",
+    "url": "http://www.suconlavite.it/?s={{{s}}}"
+  },
+  {
+    "bang": "swarajya",
+    "name": "Swarajya",
+    "url": "https://swarajyamag.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "taddlr",
+    "name": "Taddlr",
+    "url": "http://taddlr.com/de/?s={{{s}}}"
+  },
+  {
+    "bang": "tcnet",
+    "name": "TedCurran.net",
+    "url": "http://tedcurran.net/?s={{{s}}}"
+  },
+  {
+    "bang": "teslarati",
+    "name": "Teslarati",
+    "url": "https://www.teslarati.com/?s={{{s}}}"
+  },
+  {
+    "bang": "theatlantic",
+    "name": "The Atlantic",
+    "url": "http://www.theatlantic.com/search/?q={{{s}}} "
+  },
+  {
+    "bang": "tivi",
+    "name": "Tivi",
+    "url": "https://www.tivi.fi/haku/?q={{{s}}}"
+  },
+  {
+    "bang": "tlf",
+    "name": "The Ladies Finger",
+    "url": "http://theladiesfinger.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tntnews",
+    "name": "https://www.tntnews.net",
+    "url": "https://www.tntnews.net/?s={{{s}}}"
+  },
+  {
+    "bang": "variety",
+    "name": "Variety",
+    "url": "https://variety.com/results/#?q={{{s}}} "
+  },
+  {
+    "bang": "vikatan",
+    "name": "vikatan",
+    "url": "https://www.vikatan.com/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "vogueuk",
+    "name": "Vogue.co.uk",
+    "url": "https://www.vogue.co.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "vogue",
+    "name": "Vogue.com",
+    "url": "https://www.vogue.com/?s={{{s}}}"
+  },
+  {
+    "bang": "vox",
+    "name": "Vox.com",
+    "url": "http://www.vox.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "walrus",
+    "name": "The Walrus",
+    "url": "https://thewalrus.ca/?s={{{s}}}"
+  },
+  {
+    "bang": "wnv",
+    "name": "Waging Nonviolence",
+    "url": "http://wagingnonviolence.org/?s={{{s}}}"
+  },
+  {
+    "bang": "wonkette",
+    "name": "Wonkette",
+    "url": "https://www.wonkette.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "world",
+    "name": "WORLD Magazine",
+    "url": "https://world.wng.org/search/site/{{{s}}}"
+  },
+  {
+    "bang": "xgn",
+    "name": "XGN",
+    "url": "https://www.xgn.nl/zoeken/{{{s}}}"
+  },
+  {
+    "bang": "ytn",
+    "name": "YouTube News DE",
+    "url": "https://youtubenews.de/?s={{{s}}}"
+  },
+  {
+    "bang": "zentrum",
+    "name": "Zentrum Online",
+    "url": "https://zentrum-online.at/?s={{{s}}}"
+  }
+]

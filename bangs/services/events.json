@@ -1,0 +1,37 @@
+[
+  {
+    "bang": "coms",
+    "name": "COMS (conference-service.com)",
+    "url": "https://www.conference-service.com/conferences/conference-search.html?searchwords={{{s}}}"
+  },
+  {
+    "bang": "gagol",
+    "name": "Graf-Anton-G\u00fcnther Schule",
+    "url": "https://gymnasium-gag.de/?s={{{s}}}"
+  },
+  {
+    "bang": "insider",
+    "name": "Insider.in",
+    "url": "https://insider.in/search?q={{{s}}}"
+  },
+  {
+    "bang": "nevakit",
+    "name": "Ne Vakit",
+    "url": "https://nevakit.com/ara/{{{s}}}"
+  },
+  {
+    "bang": "ticketmaster",
+    "name": "Ticket Master",
+    "url": "https://www.ticketmaster.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tickets",
+    "name": "StubHub",
+    "url": "http://www.stubhub.com/search/doSearch?searchStr={{{s}}}&pageNumber=1&resultsPerPage=50&searchMode=event&start=0&rows=50"
+  },
+  {
+    "bang": "vef",
+    "name": "Venue First",
+    "url": "https://www.venuefirst.com/all/venues?search_keyword={{{s}}}"
+  }
+]

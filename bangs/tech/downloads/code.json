@@ -1,0 +1,82 @@
+[
+  {
+    "bang": "bundle",
+    "name": "BundlePhobia",
+    "url": "https://bundlephobia.com/result?p={{{s}}}"
+  },
+  {
+    "bang": "edbc",
+    "name": "exploit-db.com",
+    "url": "https://www.exploit-db.com/search/?action=search&text={{{s}}}"
+  },
+  {
+    "bang": "fsfd",
+    "name": "Free Software Directory",
+    "url": "http://directory.fsf.org/wiki?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "ghp",
+    "name": "GitHub Private Search",
+    "url": "https://github.com/search?q=is%3Aprivate+{{{s}}}"
+  },
+  {
+    "bang": "github",
+    "name": "GitHub.com",
+    "url": "http://github.com/search?q={{{s}}}&type=Everything&repo=&langOverride=&start_value=1"
+  },
+  {
+    "bang": "gitlab",
+    "name": "GitLab",
+    "url": "https://gitlab.com/search?utf8=%E2%9C%93&search={{{s}}}&group_id=&repository_ref="
+  },
+  {
+    "bang": "kashipara",
+    "name": "https://www.kashipara.com",
+    "url": "https://www.kashipara.com/search/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "ker",
+    "name": "The Linux Kernel Archives",
+    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/log/?h=v5.0.1&qt=grep&q={{{s}}}"
+  },
+  {
+    "bang": "kgitlab",
+    "name": "KDE GitLab",
+    "url": "https://invent.kde.org/search?utf8=\u2713&snippets=&scope=&search={{{s}}}"
+  },
+  {
+    "bang": "loslog",
+    "name": "LineageOS Log",
+    "url": "https://www.lineageoslog.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "macports",
+    "name": "MacPorts",
+    "url": "https://www.macports.org/ports.php?by=name&substr={{{s}}}"
+  },
+  {
+    "bang": "nab",
+    "name": "notabug.org (free code hosting)",
+    "url": "https://notabug.org/explore/repos?q={{{s}}}"
+  },
+  {
+    "bang": "repology",
+    "name": "Repology",
+    "url": "https://repology.org/metapackages/?search={{{s}}}"
+  },
+  {
+    "bang": "sea",
+    "name": "searchcode.com",
+    "url": "https://searchcode.com/?q={{{s}}}"
+  },
+  {
+    "bang": "streg",
+    "name": "Steam Activate Key",
+    "url": "https://store.steampowered.com/account/registerkey?key={{{s}}}"
+  },
+  {
+    "bang": "unpkg",
+    "name": "unpkg",
+    "url": "https://unpkg.com/{{{s}}}"
+  }
+]

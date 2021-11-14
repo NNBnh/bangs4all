@@ -1,0 +1,1007 @@
+[
+  {
+    "bang": "abuseip",
+    "name": "AbuseIPDB",
+    "url": "https://www.abuseipdb.com/check/{{{s}}}"
+  },
+  {
+    "bang": "adminwiki",
+    "name": "AdminWiki",
+    "url": "https://www.adminwiki.fr/start?do=search&id={{{s}}}"
+  },
+  {
+    "bang": "adoc",
+    "name": "Ansible Docs",
+    "url": "https://docs.ansible.com/ansible/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "allerstorfer",
+    "name": "Allerstorfer.at",
+    "url": "https://www.allerstorfer.at/?s={{{s}}}"
+  },
+  {
+    "bang": "alw",
+    "name": "alpine linux wiki",
+    "url": "https://wiki.alpinelinux.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "ansible",
+    "name": "docs.ansible.com",
+    "url": "https://docs.ansible.com/ansible/latest/#stq={{{s}}}&stp=1"
+  },
+  {
+    "bang": "ansible-galaxy",
+    "name": "Ansible Galaxy",
+    "url": "https://galaxy.ansible.com/list#/roles?page=1&page_size=10&autocomplete={{{s}}}"
+  },
+  {
+    "bang": "ansiblemod",
+    "name": "Ansible Module Documentation",
+    "url": "http://docs.ansible.com/ansible/{{{s}}}_module.html"
+  },
+  {
+    "bang": "apache",
+    "name": "Apache Docs",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttps%3A%2F%2Fhttpd.apache.org%2Fdocs%2Fcurrent%2F"
+  },
+  {
+    "bang": "applesupport",
+    "name": "Apple Support",
+    "url": "http://support.apple.com/kb/index?page=search&product=&q={{{s}}}&src=support_site.kbase.search.searchresults"
+  },
+  {
+    "bang": "aptbrowse",
+    "name": "Apt-Browse",
+    "url": "https://www.apt-browse.org/search/?query={{{s}}}"
+  },
+  {
+    "bang": "asa",
+    "name": "Awesome SysAdmin (LibHunt)",
+    "url": "https://sysadmin.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "asterisk",
+    "name": "Asterisk Wiki",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Awiki.asterisk.org&ia=web"
+  },
+  {
+    "bang": "atlas",
+    "name": "Atlas",
+    "url": "https://atlas.torproject.org/#search/{{{s}}}"
+  },
+  {
+    "bang": "blm",
+    "name": "Blogmotion",
+    "url": "http://blogmotion.fr/?utm_source=duckduckgo&utm_medium=bang&s={{{s}}}"
+  },
+  {
+    "bang": "boo",
+    "name": "openSUSE Bugzilla",
+    "url": "https://bugzilla.opensuse.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "bro",
+    "name": "BroPages",
+    "url": "http://bropages.org/{{{s}}}"
+  },
+  {
+    "bang": "bro-ids",
+    "name": "The Bro Network Security Monitor",
+    "url": "https://www.bro.org/sphinx/search.html?check_keywords=yes&q={{{s}}}"
+  },
+  {
+    "bang": "btrfs",
+    "name": "Btrfs wiki",
+    "url": "https://btrfs.wiki.kernel.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "bxr",
+    "name": "BSD Cross Reference",
+    "url": "http://bxr.su/search?refs={{{s}}}"
+  },
+  {
+    "bang": "cdnfinder",
+    "name": "CDNPlanet CDN Finder Tool",
+    "url": "http://www.cdnplanet.com/tools/cdnfinder/#host:{{{s}}} "
+  },
+  {
+    "bang": "censys",
+    "name": "Censys",
+    "url": "https://www.censys.io/ipv4?q={{{s}}}"
+  },
+  {
+    "bang": "chp",
+    "name": "Computer Hope",
+    "url": "https://www.computerhope.com/search2.htm?q={{{s}}}"
+  },
+  {
+    "bang": "clf",
+    "name": "Command Line Fu",
+    "url": "http://www.commandlinefu.com/commands/matching/{{{s}}}/bys=/sort-by-votes"
+  },
+  {
+    "bang": "cloudformation",
+    "name": "AWS CloudFormation Documentation",
+    "url": "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation-guide&searchQuery={{{s}}}&this_doc_product=AWS+CloudFormation&this_doc_guide=User+Guide&doc_locale=en_us#facet_doc_product=AWS CloudFormation&facet_doc_guide=User Guide"
+  },
+  {
+    "bang": "clr",
+    "name": "Clear Linux* Project",
+    "url": "https://clearlinux.org/search?search={{{s}}}"
+  },
+  {
+    "bang": "codeweavers",
+    "name": "Codeweavers",
+    "url": "http://www.codeweavers.com/compatibility/search/?name={{{s}}}"
+  },
+  {
+    "bang": "coobook",
+    "name": "Chef Supermarket",
+    "url": "https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "cookbook",
+    "name": "Opscode community cookbooks",
+    "url": "https://supermarket.chef.io/cookbooks?q={{{s}}}"
+  },
+  {
+    "bang": "cron",
+    "name": "Crontab.guru",
+    "url": "https://crontab.guru/#{{{s}}}"
+  },
+  {
+    "bang": "crux",
+    "name": "CRUX",
+    "url": "http://crux.nu/portdb/?a=search&q={{{s}}}"
+  },
+  {
+    "bang": "cved",
+    "name": "CVE Details",
+    "url": "http://cvedetails.com/cve-details.php?t=1&cve_id={{{s}}}"
+  },
+  {
+    "bang": "db2z",
+    "name": "IBM DB2 for z/OS doc search",
+    "url": "https://www.ibm.com/support/knowledgecenter/search/{{{s}}}?scope=SSEPEK_11.0.0"
+  },
+  {
+    "bang": "dk",
+    "name": "docker hub",
+    "url": "https://store.docker.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dkstore",
+    "name": "Docker Store",
+    "url": "https://store.docker.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "docker",
+    "name": "Docker Store",
+    "url": "https://store.docker.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dockerhub",
+    "name": "Docker Hub",
+    "url": "https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q={{{s}}}&starCount=0"
+  },
+  {
+    "bang": "do",
+    "name": "DigitalOcean",
+    "url": "https://www.digitalocean.com/community/search?q={{{s}}}"
+  },
+  {
+    "bang": "dot",
+    "name": "Digital Ocean Tutorials",
+    "url": "https://www.digitalocean.com/community/tutorials?q={{{s}}}"
+  },
+  {
+    "bang": "dsc",
+    "name": "Debian Screenshots",
+    "url": "https://screenshots.debian.net/packages?utf8=\u2713&search={{{s}}}"
+  },
+  {
+    "bang": "elinux",
+    "name": "eLinux",
+    "url": "http://elinux.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "eset",
+    "name": "ESET Knownledge Base",
+    "url": "http://support.eset.com/search/?search={{{s}}}"
+  },
+  {
+    "bang": "esh",
+    "name": "explainshell.com",
+    "url": "http://explainshell.com/explain?cmd={{{s}}}"
+  },
+  {
+    "bang": "etherscan",
+    "name": "etherscan",
+    "url": "https://etherscan.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "eventid",
+    "name": "EventID",
+    "url": "http://eventid.net/display.asp?eventid={{{s}}}&source="
+  },
+  {
+    "bang": "exex",
+    "name": "Experts Exchange",
+    "url": "http://www.experts-exchange.com/searchResults.jsp?searchTerms={{{s}}}&searchType=10"
+  },
+  {
+    "bang": "fish",
+    "name": "fishshell.com",
+    "url": "http://fishshell.com/docs/current/commands.html#{{{s}}}"
+  },
+  {
+    "bang": "fortinet",
+    "name": "Fortinet",
+    "url": "https://www.fortinet.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "fports",
+    "name": "FreeBSD Ports",
+    "url": "http://www.freebsd.org/cgi/ports.cgi?query={{{s}}}&stype=all"
+  },
+  {
+    "bang": "funtoo",
+    "name": "Funtoo",
+    "url": "http://www.funtoo.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "fwpkg",
+    "name": "Frugalware packages",
+    "url": "http://frugalware.org/packages?op=pkg&arch=all&ver=current&srch={{{s}}}"
+  },
+  {
+    "bang": "galaxy",
+    "name": "Ansible Galaxy",
+    "url": "https://galaxy.ansible.com/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "gdiag",
+    "name": "Google Safe Browsing Diagnostic Page",
+    "url": "https://google.com/safebrowsing/diagnostic?site={{{s}}}"
+  },
+  {
+    "bang": "gigabyte",
+    "name": "Gigabyte support",
+    "url": "https://www.gigabyte.com/Search?kw={{{s}}}"
+  },
+  {
+    "bang": "gman",
+    "name": "Google Support",
+    "url": "https://support.google.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gnomebugs",
+    "name": "GNOME Gitlab Issues",
+    "url": "https://gitlab.gnome.org/groups/GNOME/-/issues?search={{{s}}}"
+  },
+  {
+    "bang": "gnome",
+    "name": "GNOME Live",
+    "url": "http://live.gnome.org/Home?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "bang": "gnu",
+    "name": "GNU",
+    "url": "http://www.gnu.org/cgi-bin/estseek.cgi?phrase={{{s}}}"
+  },
+  {
+    "bang": "gpsearch",
+    "name": "Group Policy Search",
+    "url": "http://gpsearch.azurewebsites.net/default.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "grcp",
+    "name": "GRC Port Authority",
+    "url": "https://www.grc.com/port_{{{s}}}.htm"
+  },
+  {
+    "bang": "hosting",
+    "name": "WhoIsHostingThis",
+    "url": "http://www.whoishostingthis.com/?q={{{s}}}"
+  },
+  {
+    "bang": "idroot",
+    "name": "idroot",
+    "url": "https://idroot.us/?s={{{s}}}"
+  },
+  {
+    "bang": "imh",
+    "name": "InMotion Hosting Support Center",
+    "url": "https://www.inmotionhosting.com/support/search?searchword={{{s}}}"
+  },
+  {
+    "bang": "intodns",
+    "name": "intodns",
+    "url": "http://www.intodns.com/{{{s}}}"
+  },
+  {
+    "bang": "ipinfo",
+    "name": "ipinfo.io",
+    "url": "http://ipinfo.io/{{{s}}}"
+  },
+  {
+    "bang": "iploc",
+    "name": "iptolocation.net",
+    "url": "https://www.iptolocation.net/trace-{{{s}}}"
+  },
+  {
+    "bang": "iplookup",
+    "name": "theel0ja.info's IPLookup",
+    "url": "http://iplookup.theel0ja.info/?host={{{s}}}"
+  },
+  {
+    "bang": "ip",
+    "name": "WhatIsMyIPAddress.com",
+    "url": "http://whatismyipaddress.com/ip/{{{s}}}"
+  },
+  {
+    "bang": "isc",
+    "name": "Internet Storm Center",
+    "url": "https://isc.sans.edu/ipinfo.html?ip={{{s}}}"
+  },
+  {
+    "bang": "isec",
+    "name": "Information Security Stack Exchange",
+    "url": "https://security.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "iso",
+    "name": "Distrowatch",
+    "url": "https://distrowatch.com/table.php?distribution={{{s}}}"
+  },
+  {
+    "bang": "juju",
+    "name": "Juju Charm Store",
+    "url": "https://jujucharms.com/q/{{{s}}}"
+  },
+  {
+    "bang": "kali",
+    "name": "kali linux",
+    "url": "https://www.kali.org/?s={{{s}}}"
+  },
+  {
+    "bang": "kaos",
+    "name": "KaOS website search",
+    "url": "https://forum.kaosx.us/?q={{{s}}}"
+  },
+  {
+    "bang": "kaospkg",
+    "name": "KaOS packages",
+    "url": "http://kaosx.tk/packages/?act=search&subdir=&sortby=date&order=descending&searchpattern={{{s}}} "
+  },
+  {
+    "bang": "kaspersky",
+    "name": "Kaspersky Lab Technical Support",
+    "url": "http://support.kaspersky.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "kcp",
+    "name": "KaOS",
+    "url": "https://github.com/KaOS-Community-Packages?query={{{s}}}"
+  },
+  {
+    "bang": "kubernetes",
+    "name": "https://kubernetes.io/docs",
+    "url": "https://kubernetes.io/docs/search/?q={{{s}}}"
+  },
+  {
+    "bang": "kuserbase",
+    "name": "KDE Userbase",
+    "url": "https://userbase.kde.org/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "linode",
+    "name": "Linode Library",
+    "url": "https://library.linode.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "linorg",
+    "name": "Linux.org",
+    "url": "https://www.linux.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "linsnipp",
+    "name": "Linux Snippets",
+    "url": "http://linuxsnippets.net/en/search/node/{{{s}}}"
+  },
+  {
+    "bang": "linuxmint",
+    "name": "Linux Mint Forums",
+    "url": "http://forums.linuxmint.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "linuxq",
+    "name": "linuxquestions",
+    "url": "http://www.linuxquestions.org/questions/{{{s}}}"
+  },
+  {
+    "bang": "lor",
+    "name": "Linux.org.ru",
+    "url": "https://www.linux.org.ru/search.jsp?q={{{s}}}&range=ALL&interval=ALL&user=&_usertopic=on"
+  },
+  {
+    "bang": "lq",
+    "name": "Linux Quimper",
+    "url": "https://forum.linuxquimper.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "lqw",
+    "name": "Linux Questions Wiki",
+    "url": "http://wiki.linuxquestions.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "lxle",
+    "name": "LXLE Linux",
+    "url": "http://lxle.net/forum/#/search?Search={{{s}}}"
+  },
+  {
+    "bang": "lxr",
+    "name": "Linux Cross Reference",
+    "url": "http://elixir.bootlin.com/linux/latest/ident/{{{s}}}"
+  },
+  {
+    "bang": "macvendor",
+    "name": "macvendorlookup",
+    "url": "http://www.macvendorlookup.com/search/{{{s}}}"
+  },
+  {
+    "bang": "man",
+    "name": "Man Page",
+    "url": "http://manpage.me/?q={{{s}}}"
+  },
+  {
+    "bang": "mask",
+    "name": "Unmask Parasites",
+    "url": "http://www.UnmaskParasites.com/security-report/?page={{{s}}}"
+  },
+  {
+    "bang": "mint",
+    "name": "LinuxMint",
+    "url": "http://linuxmint.com/search.php?query={{{s}}}&search=1"
+  },
+  {
+    "bang": "msdocs",
+    "name": "Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}"
+  },
+  {
+    "bang": "msupdate",
+    "name": "Microsoft Update Catalog",
+    "url": "https://www.catalog.update.microsoft.com/Search.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "mx",
+    "name": "MxToolbox",
+    "url": "http://mxtoolbox.com/SuperTool.aspx?action=mx%3a{{{s}}}&run=networktools"
+  },
+  {
+    "bang": "mysql",
+    "name": "MySQL.com",
+    "url": "/?q={{{s}}}+site:dev.mysql.com"
+  },
+  {
+    "bang": "nakedsec",
+    "name": "Naked Security (by Sophos)",
+    "url": "https://nakedsecurity.sophos.com/?s={{{s}}}"
+  },
+  {
+    "bang": "netbsd",
+    "name": "The NetBSD Project",
+    "url": "http://www.google.com/cse?cx=006277936787196004968:mbdhrauy1wm&q=guide&oq=guide&gs_l=partner.12...0.0.1.52071.0.0.0.0.0.0.0.0..0.0.gsnos%2Cn%3D13..0.0.0jj1..1ac.#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1"
+  },
+  {
+    "bang": "nextcloudapp",
+    "name": "Nextcloud App Store",
+    "url": "https://apps.nextcloud.com/?search={{{s}}}"
+  },
+  {
+    "bang": "nixcourse",
+    "name": "Nix Discourse",
+    "url": "https://discourse.nixos.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "nixcraft",
+    "name": "Nix Craft",
+    "url": "http://www.cyberciti.biz/faq/?s={{{s}}}"
+  },
+  {
+    "bang": "nix",
+    "name": "NixOs Wiki",
+    "url": "https://nixos.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "nixopt",
+    "name": "NixOS options",
+    "url": "https://nixos.org/nixos/options.html#{{{s}}}"
+  },
+  {
+    "bang": "nixos",
+    "name": "Nixos Wiki",
+    "url": "https://nixos.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "nixoswiki",
+    "name": "Nixos Wiki",
+    "url": "https://nixos.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "nixpkgs",
+    "name": "NixOS Packages",
+    "url": "https://nixos.org/nixos/packages.html?query={{{s}}}"
+  },
+  {
+    "bang": "obs",
+    "name": "openSUSE Build Service",
+    "url": "https://build.opensuse.org/search?search_text={{{s}}} "
+  },
+  {
+    "bang": "ocat",
+    "name": "o.v.e.r.clockers.at",
+    "url": "https://www.overclockers.at/search.php?action=simplesearch&query={{{s}}}"
+  },
+  {
+    "bang": "openbsdman",
+    "name": "man.openbsd.org",
+    "url": "http://man.openbsd.org/?query={{{s}}}&apropos=0&sec=0&arch=default&manpath=OpenBSD-current"
+  },
+  {
+    "bang": "openbsdmisc",
+    "name": "OpenBSD misc list",
+    "url": "http://marc.info/?l=openbsd-misc&w=2&r=1&s={{{s}}}&q=b"
+  },
+  {
+    "bang": "openhub",
+    "name": "Open HUB",
+    "url": "https://www.openhub.net/p?query={{{s}}}&sort=relevance"
+  },
+  {
+    "bang": "opensuse",
+    "name": "OpenSUSE",
+    "url": "http://en.opensuse.org/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "osw",
+    "name": "openSUSE Wiki",
+    "url": "https://en.opensuse.org/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "packet",
+    "name": "Packet Storm",
+    "url": "http://packetstormsecurity.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "parabolaw",
+    "name": "Parabola Wiki",
+    "url": "https://wiki.parabola.nu/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "pcidss",
+    "name": "https://www.pcisecuritystandards.org",
+    "url": "https://www.pcisecuritystandards.org/search/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "peeringdb",
+    "name": "PeeringDB",
+    "url": "https://www.peeringdb.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "peppermintos",
+    "name": "Peppermint OS forums",
+    "url": "https://forum.peppermintos.com/index.php?action=search2&search={{{s}}}"
+  },
+  {
+    "bang": "pfss",
+    "name": "pfSense Doc",
+    "url": "https://www.netgate.com/docs/pfsense/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "pkgs",
+    "name": "Linux Packages Search",
+    "url": "http://pkgs.org/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "pkgsrc",
+    "name": "Pkgsrc.se",
+    "url": "http://pkgsrc.se/search.php?so={{{s}}}"
+  },
+  {
+    "bang": "playterm",
+    "name": "PlayTerm",
+    "url": "http://www.playterm.org/s/?tags={{{s}}}"
+  },
+  {
+    "bang": "pmos",
+    "name": "PeppermintOS Community Support Forum",
+    "url": "https://forum.peppermintos.com/index.php?action=search2&search={{{s}}}"
+  },
+  {
+    "bang": "postgres",
+    "name": "Postgres",
+    "url": "http://www.postgresql.org/search/?q={{{s}}}&a=1&submit=Search"
+  },
+  {
+    "bang": "psql",
+    "name": "PostgreSQL (Docs)",
+    "url": "http://www.postgresql.org/search/?q={{{s}}} &a=1&submit=Search"
+  },
+  {
+    "bang": "puppet",
+    "name": "Puppet Forge",
+    "url": "http://forge.puppetlabs.com/modules?q={{{s}}}&commit=Go"
+  },
+  {
+    "bang": "puptype",
+    "name": "Puppet Docs",
+    "url": "https://docs.puppet.com/puppet/latest/type.html#{{{s}}}"
+  },
+  {
+    "bang": "r7",
+    "name": "http://www.rapid7.com",
+    "url": "http://www.rapid7.com/db/search?utf8=%E2%9C%93&q={{{s}}} &t=a"
+  },
+  {
+    "bang": "rfck",
+    "name": "IETF RFC Keyword Search",
+    "url": "https://www.rfc-editor.org/search/rfc_search_detail.php?title={{{s}}}"
+  },
+  {
+    "bang": "ripedb",
+    "name": "RIPE Database",
+    "url": "https://apps.db.ripe.net/search/query.html?searchtext={{{s}}}&search%3AdoSearch=Search#resultsAnchor"
+  },
+  {
+    "bang": "sabayonbugs",
+    "name": "Sabayon Bugzilla",
+    "url": "https://bugs.sabayon.org/buglist.cgi?bug_status=__all__&content={{{s}}}"
+  },
+  {
+    "bang": "sabayonforums",
+    "name": "Sabayon Forums",
+    "url": "https://forum.sabayon.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "salixforums",
+    "name": "SalixOS Forums",
+    "url": "http://www.salixos.org/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "salix",
+    "name": "SalixOS",
+    "url": "http://www.salixos.org/wiki/index.php/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "saltmod",
+    "name": "SaltStack Execution Modules",
+    "url": "https://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.{{{s}}}.html"
+  },
+  {
+    "bang": "salt",
+    "name": "SaltStack",
+    "url": "https://cse.google.com/cse?cx=011515552685726825874:ht0p8miksrm&q={{{s}}}"
+  },
+  {
+    "bang": "saltstack",
+    "name": "SaltStack Documentation",
+    "url": "https://duckduckgo.com/?q=site%3Adocs.saltstack.com+{{{s}}}"
+  },
+  {
+    "bang": "saltstates",
+    "name": "SaltStack State Modules",
+    "url": "https://docs.saltstack.com/en/latest/ref/states/all/salt.states.{{{s}}}.html"
+  },
+  {
+    "bang": "samba",
+    "name": "Samba Wiki",
+    "url": "https://wiki.samba.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "sapdl",
+    "name": "SAP Downloads",
+    "url": "https://launchpad.support.sap.com/#/softwarecenter/search/{{{s}}}"
+  },
+  {
+    "bang": "saphelp",
+    "name": "SAP Help Portal",
+    "url": "https://help.sap.com/viewer/search?q={{{s}}}"
+  },
+  {
+    "bang": "sapnote",
+    "name": "SAP notes",
+    "url": "https://launchpad.support.sap.com/#/notes/{{{s}}}/E"
+  },
+  {
+    "bang": "sapnotes",
+    "name": "SAP Notes",
+    "url": "https://launchpad.support.sap.com/#/solutions/notes/?q={{{s}}}"
+  },
+  {
+    "bang": "saptables",
+    "name": "TCodeSearch Tables",
+    "url": "http://www.tcodesearch.com/sap-tables/detail?id={{{s}}}"
+  },
+  {
+    "bang": "saptable",
+    "name": "Tcodesearch Tables",
+    "url": "http://www.tcodesearch.com/sap-tables/detail?id={{{s}}}"
+  },
+  {
+    "bang": "seclists",
+    "name": "SecLists.org",
+    "url": "http://insecure.org/search.html?cx=partner-pub-0078565546631069%3Abx60rb-fytx&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}&sa=SecSearch"
+  },
+  {
+    "bang": "securedrop",
+    "name": "SecureDrop Read the Docs",
+    "url": "https://securedrop.readthedocs.org/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "senderbase",
+    "name": "SenderBase",
+    "url": "http://www.senderbase.org/senderbase_queries/detailhost?search_string={{{s}}}"
+  },
+  {
+    "bang": "server24",
+    "name": "servershop24",
+    "url": "https://www.servershop24.de/?ActionCall=WebActionArticleSearch&BranchId=0&multishop_id=0&customer_class=9&lang=de&Params[SearchParam]={{{s}}}"
+  },
+  {
+    "bang": "serverfault",
+    "name": "ServerFault",
+    "url": "http://serverfault.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sforce",
+    "name": "Salesforce",
+    "url": "https://login.salesforce.com/_ui/search/ui/UnifiedSearchResults?str={{{s}}}"
+  },
+  {
+    "bang": "sf",
+    "name": "ServerFault",
+    "url": "http://serverfault.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sharese",
+    "name": "SharePoint Stack Exchange",
+    "url": "https://sharepoint.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "shodan",
+    "name": "shodan",
+    "url": "https://www.shodan.io/search?query={{{s}}}"
+  },
+  {
+    "bang": "sh",
+    "name": "Shodan",
+    "url": "https://www.shodan.io/search?query={{{s}}}"
+  },
+  {
+    "bang": "shsh",
+    "name": "TSS Saver",
+    "url": "https://stor.1conan.com/tsssaver/shsh/{{{s}}}"
+  },
+  {
+    "bang": "sks",
+    "name": "SKS Keyservers",
+    "url": "https://sks-keyservers.net/pks/lookup?op=vindex&search={{{s}}}"
+  },
+  {
+    "bang": "slackdoc",
+    "name": "Slackware Documentation Project",
+    "url": "http://docs.slackware.com/start?do=search&id={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "snk",
+    "name": "community.servicenow.com",
+    "url": "https://community.servicenow.com/community?id=community_search&q={{{s}}}"
+  },
+  {
+    "bang": "soph",
+    "name": "Sophos",
+    "url": "https://www.sophos.com/en-us/search-results.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "spamcheck",
+    "name": "MXToolbox",
+    "url": "http://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "bang": "spf",
+    "name": "MXToolbox",
+    "url": "http://mxtoolbox.com/SuperTool.aspx?action=spf%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "bang": "spice",
+    "name": "Spiceworks Community",
+    "url": "https://community.spiceworks.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "sse",
+    "name": "https://security.stackexchange.com",
+    "url": "https://security.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "storm",
+    "name": "Internet Storm Center",
+    "url": "https://isc.sans.edu/ipinfo.html?ip={{{s}}}"
+  },
+  {
+    "bang": "susebug",
+    "name": "openSUSE Bugzilla",
+    "url": "https://bugzilla.novell.com/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "sus",
+    "name": "openSUSE",
+    "url": "http://software.opensuse.org/search?utf8=\u2713&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1"
+  },
+  {
+    "bang": "tcode",
+    "name": "TCodeSearch",
+    "url": "http://www.tcodesearch.com/tcodes/search?q={{{s}}}"
+  },
+  {
+    "bang": "technetlib",
+    "name": "Microsoft TechNet Library",
+    "url": "http://social.technet.microsoft.com/search/en-us/?query={{{s}}}#refinementChanges=85"
+  },
+  {
+    "bang": "techtips4u",
+    "name": "TechTips4U",
+    "url": "http://www.techtips4u.com/?s={{{s}}}"
+  },
+  {
+    "bang": "tecmint",
+    "name": "Tecmint",
+    "url": "https://www.tecmint.com/search/?cx=partner-pub-2601749019656699%3A2173448976&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.tecmint.com%2F&ref=duckduckgo.com%2F&ss=3875j2780811j15"
+  },
+  {
+    "bang": "tfopr",
+    "name": "Terraform Openstack Resource Docs",
+    "url": "https://www.terraform.io/docs/providers/openstack/r/{{{s}}}.html"
+  },
+  {
+    "bang": "thinkwikide",
+    "name": "thinkwiki.de",
+    "url": "http://thinkwiki.de/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "thinkwiki",
+    "name": "ThinkWiki",
+    "url": "http://www.thinkwiki.org/w/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "bang": "thwack",
+    "name": "Thwack",
+    "url": "https://thwack.solarwinds.com/search.jspa?q={{{s}}}"
+  },
+  {
+    "bang": "timestamp",
+    "name": "Unix Timestamp",
+    "url": "http://unixtimestamp.com/?unixTimestampInput={{{s}}}"
+  },
+  {
+    "bang": "time",
+    "name": "Unix Timestamp",
+    "url": "http://www.unixtimestamp.org/?timestamp={{{s}}}"
+  },
+  {
+    "bang": "tldp",
+    "name": "The Linux Documentation Project",
+    "url": "http://www.google.com/cse?cx=017644269519104757279%3Agm62gtzaoky&q={{{s}}}"
+  },
+  {
+    "bang": "tldr",
+    "name": "Tldr",
+    "url": "https://tldr.ostera.io/{{{s}}}"
+  },
+  {
+    "bang": "tmblog",
+    "name": "Trend Micro Security Blog",
+    "url": "https://blog.trendmicro.com/?s={{{s}}}"
+  },
+  {
+    "bang": "trendmicro",
+    "name": "Trend Micro",
+    "url": "https://www.trendmicro.com/en_us/common/cse.html#?cludoquery={{{s}}}"
+  },
+  {
+    "bang": "trisquel",
+    "name": "Trisquel",
+    "url": "http://trisquel.info/en/search/node/{{{s}}} & https://trisquel.info/en/search/node/{{{s}}}"
+  },
+  {
+    "bang": "uberspace",
+    "name": "Uberspace-Wiki",
+    "url": "https://wiki.uberspace.de/start?do=search&id={{{s}}}"
+  },
+  {
+    "bang": "ukeys",
+    "name": "Ubuntu keyserver",
+    "url": "https://keyserver.ubuntu.com/pks/lookup?search={{{s}}}&fingerprint=on&hash=on&op=vindex"
+  },
+  {
+    "bang": "unixhow",
+    "name": "Unix How",
+    "url": "https://unixhow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "use",
+    "name": "Unix & Linux (StackExchange)",
+    "url": "http://unix.stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "virustotalfilesearch",
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com/en/search?query={{{s}}}"
+  },
+  {
+    "bang": "vmdocs",
+    "name": "VMware Docs",
+    "url": "https://docs.vmware.com/en/search/#/{{{s}}}"
+  },
+  {
+    "bang": "vmkb",
+    "name": "VMware Knowledge Base",
+    "url": "https://kb.vmware.com/s/global-search/%40uri#q={{{s}}}"
+  },
+  {
+    "bang": "voiddocs",
+    "name": "Void Linux Handbook",
+    "url": "https://docs.voidlinux.org/?search={{{s}}}"
+  },
+  {
+    "bang": "void",
+    "name": "Void GNU/Linux",
+    "url": "https://wiki.voidlinux.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "voidwiki",
+    "name": "Void Linux Wiki",
+    "url": "https://wiki.voidlinux.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "vol",
+    "name": "Viva o Linux",
+    "url": "http://www.vivaolinux.com.br/busca/?cx=partner-pub-3535276187000580%3A4725058203&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&tipoBusca=0&siteurl=www.vivaolinux.com.br"
+  },
+  {
+    "bang": "vtip",
+    "name": "www.virustotal.com",
+    "url": "https://www.virustotal.com/en/ip-address/{{{s}}}/information"
+  },
+  {
+    "bang": "vw",
+    "name": "Void Linux Wiki",
+    "url": "https://wiki.voidlinux.org/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wbgw",
+    "name": "Wooledge - Greg's Wiki",
+    "url": "https://mywiki.wooledge.org/EnglishFrontPage?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "bang": "wikichips",
+    "name": "WikiChips",
+    "url": "https://en.wikichip.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "wikichip",
+    "name": "WikiChip",
+    "url": "https://en.wikichip.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikizimbra",
+    "name": "Zimbra wiki",
+    "url": "https://wiki.zimbra.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "xwiki",
+    "name": "XWiki",
+    "url": "http://www.xwiki.org/xwiki/bin/view/Main/Search?text={{{s}}}"
+  }
+]

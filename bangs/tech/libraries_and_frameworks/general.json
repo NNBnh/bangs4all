@@ -1,0 +1,692 @@
+[
+  {
+    "bang": "a5",
+    "name": "Angular.io v5",
+    "url": "https://v5.angular.io/api?query={{{s}}}"
+  },
+  {
+    "bang": "a6",
+    "name": "Angular.io v6",
+    "url": "https://v6.angular.io/api?query={{{s}}}"
+  },
+  {
+    "bang": "a7",
+    "name": "Angular.io v7",
+    "url": "https://v7.angular.io/api?query={{{s}}}"
+  },
+  {
+    "bang": "ang",
+    "name": "Angular",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aangular.io"
+  },
+  {
+    "bang": "apiplatform",
+    "name": "API Platform",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Aapi-platform.com&t=canonical&ia=web"
+  },
+  {
+    "bang": "arcdev",
+    "name": "Arcgis Developers",
+    "url": "https://developers.arcgis.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ax",
+    "name": "androidxref",
+    "url": "http://androidxref.com/5.1.0_r1/search?&project=abi&project=art&project=bionic&project=bootable&project=build&project=cts&project=dalvik&project=developers&project=development&project=device&project=docs&project=external&project=frameworks&project=hardware&project=libcore&project=libnativehelper&project=ndk&project=packages&project=pdk&project=prebuilts&project=sdk&project=system&project=tools&q={{{s}}}"
+  },
+  {
+    "bang": "bbdev",
+    "name": "BlackBerry Developer",
+    "url": "https://developer.blackberry.com/native/search/?search={{{s}}}&searchaction=Search"
+  },
+  {
+    "bang": "bintray",
+    "name": "JFrog Bintray",
+    "url": "https://bintray.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "blendapi",
+    "name": "Blender Current API",
+    "url": "https://docs.blender.org/api/current/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "boot",
+    "name": "Boostrap",
+    "url": "https://getbootstrap.com/docs/4.0/components/{{{s}}}"
+  },
+  {
+    "bang": "bourbon",
+    "name": "Bourbon",
+    "url": "http://bourbon.io/docs/?q={{{s}}}"
+  },
+  {
+    "bang": "bundlephobia",
+    "name": "BundlePhobia",
+    "url": "https://bundlephobia.com/result?p={{{s}}}"
+  },
+  {
+    "bang": "cake2book",
+    "name": "Cakephp 2 Book",
+    "url": "http://book.cakephp.org/2.0/en/search.html?q={{{s}}} "
+  },
+  {
+    "bang": "cake2",
+    "name": "CakePHP 2",
+    "url": "http://book.cakephp.org/2.0/en/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "cdn",
+    "name": "Cdn js",
+    "url": "http://www.cdnjs.com/#/search/{{{s}}} "
+  },
+  {
+    "bang": "chakrapkg",
+    "name": "The Chakra Project Packages",
+    "url": "http://www.chakraos.org/packages/index.php?act=search&subdir=&sortby=date&order=descending&searchpattern={{{s}}}"
+  },
+  {
+    "bang": "ci",
+    "name": "CodeIgniter",
+    "url": "https://www.codeigniter.com/user_guide/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "cmssw",
+    "name": "CMSSW Software Cross-Reference",
+    "url": "http://cmslxr.fnal.gov/search?_filestring=&_string={{{s}}}"
+  },
+  {
+    "bang": "compass",
+    "name": "Compass",
+    "url": "http://compass-style.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ctan",
+    "name": "CTAN.org",
+    "url": "http://ctan.org/search/?phrase={{{s}}}&x=1&PORTAL=on&PKG=on&AUTHORS=on&TOPICS=on&max=16"
+  },
+  {
+    "bang": "cve",
+    "name": "Common Vulnerabilities and Exposures (CVE)",
+    "url": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword={{{s}}}"
+  },
+  {
+    "bang": "cygwin",
+    "name": "Cygwin",
+    "url": "http://cygwin.com/cgi-bin2/package-grep.cgi?grep={{{s}}}"
+  },
+  {
+    "bang": "dapi",
+    "name": "Drupal API",
+    "url": "https://api.drupal.org/api/drupal/latest/search/{{{s}}}"
+  },
+  {
+    "bang": "delib",
+    "name": "Delaware Library Search",
+    "url": "http://dlc.lib.de.us/client/default/search/results?qu={{{s}}}&te="
+  },
+  {
+    "bang": "dgl4",
+    "name": "docs.GL for OpenGL 4",
+    "url": "https://duckduckgo.com/?q=site%3Adocs.gl%2Fgl4+{{{s}}}"
+  },
+  {
+    "bang": "dhdocs",
+    "name": "Dockerhub docs",
+    "url": "https://docs.docker.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "djs",
+    "name": "Discord.JS Docs",
+    "url": "https://discord.js.org/#/docs/main/stable/search?q={{{s}}}"
+  },
+  {
+    "bang": "drupalapi",
+    "name": "Drupal API",
+    "url": "https://api.drupal.org/api/drupal/includes%21common.inc/function/{{{s}}}/7.x"
+  },
+  {
+    "bang": "drupalcode",
+    "name": "drupalcode.org",
+    "url": "https://cgit.drupalcode.org/{{{s}}}"
+  },
+  {
+    "bang": "drupp",
+    "name": "drupal",
+    "url": "http://drupal.org/project/{{{s}}}"
+  },
+  {
+    "bang": "ember",
+    "name": "Ember",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttps%3A%2F%2Fapi.emberjs.com"
+  },
+  {
+    "bang": "expo",
+    "name": "Expo Documentation",
+    "url": "https://docs.expo.io/versions/latest/sdk/{{{s}}}"
+  },
+  {
+    "bang": "fdo",
+    "name": "freedesktop.org",
+    "url": "https://www.google.com/search?sitesearch=http%3A%2F%2Fwww.freedesktop.org%2Fwiki%2F&q={{{s}}}&gws_rd=ssl"
+  },
+  {
+    "bang": "fileinfo",
+    "name": "File info",
+    "url": "http://fileinfo.com/extension/{{{s}}}"
+  },
+  {
+    "bang": "flask",
+    "name": "Flask WebFramework",
+    "url": "http://flask.pocoo.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "flt",
+    "name": "Flutter",
+    "url": "https://flutter.io/search/?q={{{s}}}"
+  },
+  {
+    "bang": "flutter",
+    "name": "Flutter",
+    "url": "https://flutter.io/search/?q={{{s}}}"
+  },
+  {
+    "bang": "fonta",
+    "name": "Font Awesome",
+    "url": "https://fontawesome.com/icons?d=gallery&q={{{s}}}"
+  },
+  {
+    "bang": "git2",
+    "name": "libgit2 documentation",
+    "url": "https://libgit2.github.com/libgit2/#HEAD/search/{{{s}}}"
+  },
+  {
+    "bang": "gl",
+    "name": "OpenGL",
+    "url": "https://www.opengl.org/search/?cx=017055583490642512057%3Ahwpumfa180i&cof=FORID%3A9&q={{{s}}}"
+  },
+  {
+    "bang": "glwiki",
+    "name": "OpenGL Wiki",
+    "url": "https://www.khronos.org/opengl/wiki_opengl/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "gnomedev",
+    "name": "GNOME Developer Center",
+    "url": "https://developer.gnome.org/symbols/?q={{{s}}}"
+  },
+  {
+    "bang": "godotqa",
+    "name": "Godot Engine Q&A",
+    "url": "https://godotengine.org/qa/search?q={{{s}}}"
+  },
+  {
+    "bang": "gradlep",
+    "name": "gradle plugins",
+    "url": "https://plugins.gradle.org/search?term={{{s}}}"
+  },
+  {
+    "bang": "grav",
+    "name": "learn.getgrav.org",
+    "url": "https://learn.getgrav.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "graylog",
+    "name": "Graylog Marketplace",
+    "url": "https://marketplace.graylog.org/addons?search={{{s}}}"
+  },
+  {
+    "bang": "grp",
+    "name": "Grails Plugins",
+    "url": "http://plugins.grails.org/?query={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "hackage",
+    "name": "Hackage",
+    "url": "http://hackage.haskell.org/packages/search?terms={{{s}}}"
+  },
+  {
+    "bang": "hadoop",
+    "name": "Search-Hadoop",
+    "url": "http://search-hadoop.com/?q={{{s}}}"
+  },
+  {
+    "bang": "hckg",
+    "name": "Hackage",
+    "url": "https://hackage.haskell.org/packages/search?terms={{{s}}}"
+  },
+  {
+    "bang": "ios",
+    "name": "iOS Developer Library",
+    "url": "http://developer.apple.com/library/ios/search/?q={{{s}}}"
+  },
+  {
+    "bang": "jj",
+    "name": "Jinja",
+    "url": "http://jinja.pocoo.org/docs/2.10/search/?q={{{s}}}"
+  },
+  {
+    "bang": "jmew",
+    "name": "jMonkeyEngine WIki",
+    "url": "https://duckduckgo.com/?q={{{s}}} site:wiki.jmonkeyengine.org"
+  },
+  {
+    "bang": "k8s",
+    "name": "Kubernetes",
+    "url": "https://kubernetes.io/docs/search/?q={{{s}}}"
+  },
+  {
+    "bang": "kirby",
+    "name": "Kirby",
+    "url": "https://getkirby.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "kivyapi",
+    "name": "Kivy API docs",
+    "url": "http://kivy.org/docs/search.html?check_keywords=yes&area=default&q={{{s}}}"
+  },
+  {
+    "bang": "kivy",
+    "name": "Kivy API Reference",
+    "url": "http://kivy.org/docs/search.html?check_keywords=yes&area=default&q={{{s}}}"
+  },
+  {
+    "bang": "launchpad",
+    "name": "LaunchPad",
+    "url": "https://launchpad.net/+search?field.text={{{s}}}"
+  },
+  {
+    "bang": "lc",
+    "name": "Laracasts",
+    "url": "https://laracasts.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "libgdx",
+    "name": "LibGDX API",
+    "url": "https://duckduckgo.com/?q=site%3Alibgdx.badlogicgames.com+{{{s}}}&t=h&ia=web"
+  },
+  {
+    "bang": "liferay",
+    "name": "Liferay",
+    "url": "https://dev.liferay.com/es/search?p_p_id=3&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_3_struts_action=%2Fsearch%2Fsearch&_3_redirect=%2Fes%2Fdevelop%2Ftutorials%2F-%2Fknowledge_base%2F7-1%2Fupgrading-a-liferay-mvc-portlet&_3_keywords={{{s}}}&_3_groupId=10184"
+  },
+  {
+    "bang": "loopbackjs",
+    "name": "LoopbackJS Documentations site",
+    "url": "http://duckduckgo.com/?q=site:loopback.io/doc/en/lb3+{{{s}}}"
+  },
+  {
+    "bang": "love2d",
+    "name": "L\u00d6VE2D",
+    "url": "http://www.love2d.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "lovewiki",
+    "name": "L\u00d6VE Wiki",
+    "url": "https://love2d.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "markmail",
+    "name": "MarkMail",
+    "url": "http://markmail.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "maven",
+    "name": "Maven Central Repository",
+    "url": "http://search.maven.org/#search|ga|1|{{{s}}}"
+  },
+  {
+    "bang": "mediawiki",
+    "name": "MediaWiki",
+    "url": "https://www.mediawiki.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "meteorjs",
+    "name": "Meteor Docs",
+    "url": "http://docs.meteor.com/#/full/{{{s}}}"
+  },
+  {
+    "bang": "modx",
+    "name": "MODX",
+    "url": "https://docs.modx.org/current/en/search?q={{{s}}}"
+  },
+  {
+    "bang": "mse",
+    "name": "Magento StackExchange",
+    "url": "https://magento.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mui",
+    "name": "Material UI",
+    "url": "https://material-ui.com/api/{{{s}}}"
+  },
+  {
+    "bang": "mvnrepository",
+    "name": "MVNRepository",
+    "url": "http://mvnrepository.com/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "mvnrep",
+    "name": "The Maven Repository",
+    "url": "http://mvnrepository.com/search.html?query={{{s}}}:"
+  },
+  {
+    "bang": "mvn",
+    "name": "The Maven Repository",
+    "url": "https://mvnrepository.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "netapi",
+    "name": ".NET API Browser",
+    "url": "https://docs.microsoft.com/dotnet/api/?term={{{s}}}"
+  },
+  {
+    "bang": "nethack",
+    "name": "NetHack Wiki",
+    "url": "http://nethackwiki.com/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "ng2",
+    "name": "Angular.io v2",
+    "url": "https://v2.angular.io/api?search={{{s}}}"
+  },
+  {
+    "bang": "ng8",
+    "name": "Angular.io v8",
+    "url": "https://v8.angular.io/api?search={{{s}}}"
+  },
+  {
+    "bang": "nginx",
+    "name": "Nginx wiki",
+    "url": "https://www.nginx.com/resources/wiki/search/?q={{{s}}}"
+  },
+  {
+    "bang": "node",
+    "name": "node.js docs",
+    "url": "http://nodejs.org/api/{{{s}}}.html"
+  },
+  {
+    "bang": "of",
+    "name": "OpenFrameworks",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Fforum.openframeworks.cc"
+  },
+  {
+    "bang": "ohloh",
+    "name": "ohloh",
+    "url": "https://www.ohloh.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "opencv",
+    "name": "OpenCV",
+    "url": "http://docs.opencv.org/3.0-last-rst/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "openglwiki",
+    "name": "OpenGL Wiki",
+    "url": "https://www.khronos.org/opengl/wiki_opengl/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "osl",
+    "name": "Libraries - The Open Source Discovery Service",
+    "url": "http://libraries.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "oss",
+    "name": "OSStatus",
+    "url": "https://www.osstatus.com/search/results?platform=all&framework=all&search={{{s}}}"
+  },
+  {
+    "bang": "osx",
+    "name": "OS X Developer Library",
+    "url": "https://developer.apple.com/search/?q={{{s}}}&platform=OS%20X"
+  },
+  {
+    "bang": "pbone",
+    "name": "RPM.pbone.net",
+    "url": "http://rpm.pbone.net/index.php3?stat=3&search={{{s}}}&Search.x=0&Search.y=0&simple=1&srodzaj=1"
+  },
+  {
+    "bang": "pcl",
+    "name": "PCL Documentation",
+    "url": "http://docs.pointclouds.org/trunk/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "perseus",
+    "name": "Perseus Digital Library",
+    "url": "http://www.perseus.tufts.edu/hopper/searchresults?q={{{s}}}"
+  },
+  {
+    "bang": "phas3r",
+    "name": "Phaser 3 API Documentation",
+    "url": "https://duckduckgo.com/?q=inurl%3Ahttps%3A%2F%2Fphotonstorm.github.io%2Fphaser3-docs%2F+{{{s}}}#"
+  },
+  {
+    "bang": "plone",
+    "name": "Plone",
+    "url": "https://plone.org/@@search?SearchableText={{{s}}}"
+  },
+  {
+    "bang": "powerui",
+    "name": "PowerUI",
+    "url": "https://powerui.kulestar.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "ppa",
+    "name": "Personal Package Archives for Ubuntu",
+    "url": "https://launchpad.net/ubuntu/+ppas?name_filter={{{s}}}"
+  },
+  {
+    "bang": "pyramid",
+    "name": "docs.pylonproject.org",
+    "url": "https://docs.pylonsproject.org/projects/pyramid/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "qt4",
+    "name": "Qt Documentation",
+    "url": "https://doc.qt.io/qt-4.8/search-results.html?q={{{s}}}"
+  },
+  {
+    "bang": "rbugs",
+    "name": "Redhat Bugzilla",
+    "url": "https://bugzilla.redhat.com/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "redis",
+    "name": "Redis Command Reference",
+    "url": "http://redis.io/commands/{{{s}}} "
+  },
+  {
+    "bang": "redmine",
+    "name": "Redmine",
+    "url": "https://www.redmine.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "regex",
+    "name": "Regular Expression Library",
+    "url": "http://www.regexlib.com/Search.aspx?k={{{s}}} "
+  },
+  {
+    "bang": "root",
+    "name": "ROOT",
+    "url": "http://root.cern.ch/drupal/search/node/{{{s}}}"
+  },
+  {
+    "bang": "ros",
+    "name": "RobotOS",
+    "url": "http://www.ros.org/search/index.html?cx=018259903093183594226%3Atxvzw9fat6w&cof=FORID%3A11%3BNB%3A1&ie=UTF-8&filter=0&num=10&input={{{s}}}&q={{{s}}}&sa=Submit"
+  },
+  {
+    "bang": "rosw",
+    "name": "ROS Wiki",
+    "url": "https://wiki.ros.org/{{{s}}}"
+  },
+  {
+    "bang": "rti51cpp",
+    "name": "RTI DDS 5.1 C++ API Search",
+    "url": "https://community.rti.com/rti-doc/510/ndds.5.1.0/doc/html/api_cpp/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "rti51java",
+    "name": "RTI DDS 5.1 Java API Search",
+    "url": "https://community.rti.com/rti-doc/510/ndds.5.1.0/doc/html/api_java/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "rti523um",
+    "name": "RTI Connext-DDS 5.2.3 User Manual",
+    "url": "https://community.rti.com/static/documentation/connext-dds/5.2.3/doc/manuals/connext_dds/html_files/RTI_ConnextDDS_CoreLibraries_UsersManual/index.htm#search-{{{s}}}"
+  },
+  {
+    "bang": "rtikb",
+    "name": "RTI Knowledge Base",
+    "url": "https://community.rti.com/search/kb/{{{s}}}"
+  },
+  {
+    "bang": "schema",
+    "name": "schema.org",
+    "url": "https://schema.org/docs/search_results.html?q={{{s}}}"
+  },
+  {
+    "bang": "sdl2",
+    "name": "SDL2 Wiki",
+    "url": "https://wiki.libsdl.org/FrontPage?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "bang": "sdl",
+    "name": "Wiki LibSDL2",
+    "url": "https://wiki.libsdl.org/CategoryAPI?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "bang": "searchcode",
+    "name": "searchco.de",
+    "url": "http://searchco.de/?q={{{s}}}"
+  },
+  {
+    "bang": "sharesnc",
+    "name": "ServiceNow",
+    "url": "https://share.servicenow.com/app.do#/search-result?search_query={{{s}}}"
+  },
+  {
+    "bang": "slackbuild",
+    "name": "Slackbuilds",
+    "url": "http://slackbuilds.org/result/?search={{{s}}}"
+  },
+  {
+    "bang": "slackbuilds",
+    "name": "Slackbuilds",
+    "url": "http://slackbuilds.org/result/?search={{{s}}}"
+  },
+  {
+    "bang": "snc",
+    "name": "ServiceNow",
+    "url": "https://developer.servicenow.com/app.do#!/search?category=API&q={{{s}}}"
+  },
+  {
+    "bang": "sqlite",
+    "name": "SQLite",
+    "url": "https://www.sqlite.org/search?s=d&q={{{s}}}"
+  },
+  {
+    "bang": "ssp",
+    "name": "Silverstripe",
+    "url": "http://www.silverstripe.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "susy",
+    "name": "Susy",
+    "url": "http://susydocs.oddbird.net/en/latest/?q={{{s}}}"
+  },
+  {
+    "bang": "symfony",
+    "name": "Symfony Framework",
+    "url": "http://symfony.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tapestry",
+    "name": "Apache Tapestry ",
+    "url": "http://tapestry.apache.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "technet",
+    "name": "Microsoft TechNet",
+    "url": "http://social.technet.microsoft.com/search/en-us/?query={{{s}}}"
+  },
+  {
+    "bang": "twig",
+    "name": "Twig",
+    "url": "https://twig.symfony.com/{{{s}}}"
+  },
+  {
+    "bang": "ue4docs",
+    "name": "Unreal Engine Documentation",
+    "url": "https://docs.unrealengine.com/en-us/Search-Results?Search={{{s}}}"
+  },
+  {
+    "bang": "usr",
+    "name": "Unity3D Scripting Reference",
+    "url": "https://docs.unity3d.com/ScriptReference/30_search.html?q={{{s}}}"
+  },
+  {
+    "bang": "valve",
+    "name": "Valve Developer Wiki",
+    "url": "https://developer.valvesoftware.com/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "vue",
+    "name": "Vue Docs",
+    "url": "https://vuejs.org/v2/search/?q={{{s}}}"
+  },
+  {
+    "bang": "webcomp",
+    "name": "http://www.webcomponents.org",
+    "url": "https://www.webcomponents.org/search/{{{s}}}"
+  },
+  {
+    "bang": "wikihybris",
+    "name": "Hybris Wiki",
+    "url": "https://wiki.hybris.com/dosearchsite.action?queryString={{{s}}}"
+  },
+  {
+    "bang": "wkb",
+    "name": "WebKit Bugzilla",
+    "url": "https://bugs.webkit.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "bang": "worldcat",
+    "name": "WorldCat.org",
+    "url": "http://www.worldcat.org/search?qt=worldcat_org_all&q={{{s}}}"
+  },
+  {
+    "bang": "wxdev",
+    "name": "WeChat MiniProgram Developer Document",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:https://developers.weixin.qq.com/miniprogram/dev"
+  },
+  {
+    "bang": "wxw",
+    "name": "wxWidgets Documentation",
+    "url": "http://docs.wxwidgets.org/trunk/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "xamarinforums",
+    "name": "Xamarin Forums",
+    "url": "http://forums.xamarin.com/search?Search={{{s}}}"
+  },
+  {
+    "bang": "xojo",
+    "name": "Xojo Forum",
+    "url": "https://forum.xojo.com/conversations/all?search={{{s}}}"
+  },
+  {
+    "bang": "zff",
+    "name": "Zurb Foundation Forum",
+    "url": "http://foundation.zurb.com/forum/posts?utf8=\u2713&search={{{s}}}&button="
+  },
+  {
+    "bang": "zurbfoundation",
+    "name": "Zurb Foundation",
+    "url": "http://foundation.zurb.com/docs//?q={{{s}}}: "
+  },
+  {
+    "bang": "zurbf",
+    "name": "Zurb Foundation",
+    "url": "http://foundation.zurb.com/docs//?q={{{s}}}: "
+  }
+]

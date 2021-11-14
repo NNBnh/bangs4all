@@ -1,0 +1,17 @@
+[
+  {
+    "bang": "fuget",
+    "name": "FuGet Gallery",
+    "url": "https://www.fuget.org/packages?q={{{s}}}"
+  },
+  {
+    "bang": "unityapi",
+    "name": "Unity3D Scripting API",
+    "url": "http://docs.unity3d.com/ScriptReference/30_search.html?q={{{s}}} "
+  },
+  {
+    "bang": "uscript",
+    "name": "Unity Script Reference",
+    "url": "http://docs.unity3d.com/Documentation/ScriptReference/30_search.html?q={{{s}}}"
+  }
+]

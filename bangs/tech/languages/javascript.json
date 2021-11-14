@@ -1,0 +1,192 @@
+[
+  {
+    "bang": "angular",
+    "name": "Angular.io",
+    "url": "https://angular.io/api?query={{{s}}}"
+  },
+  {
+    "bang": "angularjs",
+    "name": "Angular JS (1.0) documentation",
+    "url": "https://docs.angularjs.org/?as_q={{{s}}}"
+  },
+  {
+    "bang": "atjs",
+    "name": "atmosphereJS",
+    "url": "https://atmospherejs.com/?q={{{s}}}"
+  },
+  {
+    "bang": "atmospherejs",
+    "name": "AtmosphereJS",
+    "url": "https://atmospherejs.com/?q={{{s}}}"
+  },
+  {
+    "bang": "bower",
+    "name": "bower",
+    "url": "https://libraries.io/search?q={{{s}}}&platforms=Bower&sort=rank&sort=rank"
+  },
+  {
+    "bang": "cdnjs",
+    "name": "cdnjs",
+    "url": "https://cdnjs.com/#q={{{s}}}"
+  },
+  {
+    "bang": "dom",
+    "name": "Mozilla Developer Network",
+    "url": "https://developer.mozilla.org/en-US/search?topic=api&q={{{s}}}"
+  },
+  {
+    "bang": "esdoc",
+    "name": "ESDoc",
+    "url": "https://doc.esdoc.org/-/search.html?keyword={{{s}}}"
+  },
+  {
+    "bang": "eslint",
+    "name": "ESLint",
+    "url": "http://eslint.org/docs/rules/{{{s}}}"
+  },
+  {
+    "bang": "ghjs",
+    "name": "GitHub JavaScript Code Search",
+    "url": "https://github.com/search?l=JavaScript&o=desc&q={{{s}}}&s=indexed&type=Code"
+  },
+  {
+    "bang": "gsw",
+    "name": "GreaseSpot Wiki",
+    "url": "https://wiki.greasespot.net/index.php?title=Special%3ASearch&fulltext=Search&search={{{s}}}"
+  },
+  {
+    "bang": "jqd",
+    "name": "jquery ",
+    "url": "http://api.jquery.com/{{{s}}}"
+  },
+  {
+    "bang": "jqm",
+    "name": "jquerymobile.com",
+    "url": "http://jquerymobile.com/?s={{{s}}}"
+  },
+  {
+    "bang": "jqui",
+    "name": "JQuery UI",
+    "url": "http://api.jqueryui.com/?s={{{s}}}"
+  },
+  {
+    "bang": "jqu",
+    "name": "jQuery UI",
+    "url": "http://jqueryui.com/?s={{{s}}}"
+  },
+  {
+    "bang": "jscoach",
+    "name": "JS.coach",
+    "url": "https://js.coach/?search={{{s}}}"
+  },
+  {
+    "bang": "jsd",
+    "name": "jsDelivr",
+    "url": "https://www.jsdelivr.com/?query={{{s}}}"
+  },
+  {
+    "bang": "jshint",
+    "name": "JSHint",
+    "url": "http://www.jshint.com/docs/options/#{{{s}}}"
+  },
+  {
+    "bang": "jsinfo",
+    "name": "Javascript Info",
+    "url": "https://javascript.info/search/?query={{{s}}}"
+  },
+  {
+    "bang": "js",
+    "name": "Mozilla Developer Network",
+    "url": "https://developer.mozilla.org/en-US/search?topic=api&topic=js&q={{{s}}}"
+  },
+  {
+    "bang": "learn-js",
+    "name": "learn.javascript.ru",
+    "url": "http://learn.javascript.ru/search?query={{{s}}}"
+  },
+  {
+    "bang": "lodash",
+    "name": "lodash documentation",
+    "url": "https://lodash.com/docs#{{{s}}}"
+  },
+  {
+    "bang": "mdnapi",
+    "name": "MDN API",
+    "url": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=api"
+  },
+  {
+    "bang": "mdnjs",
+    "name": "Mozilla Developer Network",
+    "url": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=js"
+  },
+  {
+    "bang": "ng",
+    "name": "AngularJS",
+    "url": "https://angular.io/api?query={{{s}}}"
+  },
+  {
+    "bang": "nodejs",
+    "name": "Node.js Documentation",
+    "url": "https://duckduckgo.com/?q=!node+{{{s}}}"
+  },
+  {
+    "bang": "npmd",
+    "name": "NPM Direct",
+    "url": "https://npmjs.com/package/{{{s}}}"
+  },
+  {
+    "bang": "npm",
+    "name": "npm",
+    "url": "https://www.npmjs.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "npmsearch",
+    "name": "node.js Package Search Utility",
+    "url": "https://npmsearch.com/?q={{{s}}}"
+  },
+  {
+    "bang": "npmsio",
+    "name": "npms",
+    "url": "https://npms.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "p5",
+    "name": "p5.js Reference",
+    "url": "https://p5js.org/reference/#/p5/{{{s}}}"
+  },
+  {
+    "bang": "pika",
+    "name": "Pikapkg",
+    "url": "https://www.pikapkg.com/packages/?q={{{s}}}"
+  },
+  {
+    "bang": "ramda",
+    "name": "Ramda Javascript library",
+    "url": "http://ramdajs.com/docs/#{{{s}}}"
+  },
+  {
+    "bang": "reactparts",
+    "name": "React Parts Libraries",
+    "url": "https://react.parts/?search={{{s}}}"
+  },
+  {
+    "bang": "sojs",
+    "name": "Stack Overflow JavaScript",
+    "url": "https://stackoverflow.com/search?q=[javascript]+{{{s}}}"
+  },
+  {
+    "bang": "tstypes",
+    "name": "DefinitelyTyped",
+    "url": "https://www.npmjs.com/search?q=%40types%2F{{{s}}}"
+  },
+  {
+    "bang": "webext",
+    "name": "WebExtension Docs",
+    "url": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=addons"
+  },
+  {
+    "bang": "yarnpkg",
+    "name": "Yarn",
+    "url": "https://yarnpkg.com/en/packages?q={{{s}}}"
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "bang": "acl",
+    "name": "ACL Anthology",
+    "url": "https://www.aclweb.org/anthology/search/?q={{{s}}}"
+  },
+  {
+    "bang": "acm",
+    "name": "ACM Guide",
+    "url": "http://dl.acm.org/results.cfm?dlr=GUIDE&query={{{s}}}"
+  },
+  {
+    "bang": "aops",
+    "name": "Art of Problem Solving [Wiki]",
+    "url": "http://artofproblemsolving.com/wiki/index.php?title=Special%3ASearch&fulltext=Search&search={{{s}}}"
+  },
+  {
+    "bang": "bdlp",
+    "name": "BDLP",
+    "url": "http://dblp.uni-trier.de/search?q={{{s}}}"
+  },
+  {
+    "bang": "brightstorm",
+    "name": "Brightstorm",
+    "url": "http://www.brightstorm.com/search/?k={{{s}}}"
+  },
+  {
+    "bang": "cde",
+    "name": "Computer Desktop Encyclopedia",
+    "url": "http://lookup.computerlanguage.com/host_app/search?cid=C999999&term={{{s}}}&lookup.x=0&lookup.y=0"
+  },
+  {
+    "bang": "chemie.de",
+    "name": "Chemie.de",
+    "url": "http://www.chemie.de/search/?q={{{s}}}"
+  },
+  {
+    "bang": "citeseer",
+    "name": "CiteSeer",
+    "url": "http://citeseer.ist.psu.edu/search?q={{{s}}}&submit=Search&sort=rlv&t=doc"
+  },
+  {
+    "bang": "cnba",
+    "name": "Colegio Nacional de Buenos Aires",
+    "url": "http://cnba.uba.ar/search/node/{{{s}}}"
+  },
+  {
+    "bang": "confrank",
+    "name": "Computing Research and Education Association of Australasia, CORE",
+    "url": "http://portal.core.edu.au/conf-ranks/?search={{{s}}}&by=all&source=all&sort=atitle&page=1"
+  },
+  {
+    "bang": "crossvalidated",
+    "name": "Cross Validated (Stats StackExchange)",
+    "url": "http://stats.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "csse",
+    "name": "Computer Science - Stack Exchange",
+    "url": "http://cs.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cymath",
+    "name": "Cymath",
+    "url": "http://www.cymath.com/answer.php?q={{{s}}}"
+  },
+  {
+    "bang": "cz",
+    "name": "The Complexity Zoo",
+    "url": "https://complexityzoo.uwaterloo.ca/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "dblp.pub",
+    "name": "DBLP",
+    "url": "http://dblp.uni-trier.de/search/publ?q={{{s}}} "
+  },
+  {
+    "bang": "dbyte",
+    "name": "Darkbyte",
+    "url": "http://int.darkbyte.ru/{{{s}}}"
+  },
+  {
+    "bang": "dlmf",
+    "name": "NIST Digital Library of Mathematical Functions",
+    "url": "http://dlmf.nist.gov/search/search?q={{{s}}}"
+  },
+  {
+    "bang": "dplb",
+    "name": "DPLB",
+    "url": "http://www.dblp.org/search/index.php#query={{{s}}}"
+  },
+  {
+    "bang": "dsv",
+    "name": "DSV SU",
+    "url": "http://dsv.su.se/s%C3%B6k?q={{{s}}}"
+  },
+  {
+    "bang": "factor",
+    "name": "Factor Number",
+    "url": "http://factornumber.com/?page={{{s}}};"
+  },
+  {
+    "bang": "fer",
+    "name": "University of Zagreb Faculty of Electrical Engineering and Computing",
+    "url": "http://www.fer.unizg.hr/search?sq={{{s}}} &s_skip=0"
+  },
+  {
+    "bang": "gdz",
+    "name": "G\u00f6ttinger Digitalsieriungszentrum",
+    "url": "http://gdz.sub.uni-goettingen.de/en/dms/suche/?tx_goobit3_search[formquery]={{{s}}}&tx_goobit3_search[order]=1&tx_goobit3_search[default]=METADATA&tx_goobit3_search[orderfield]=BYCREATOR&tx_goobit3_search[link]=0"
+  },
+  {
+    "bang": "ggbtube",
+    "name": "geogebratube.org",
+    "url": "http://tube.geogebra.org/search/perform/search/{{{s}}}"
+  },
+  {
+    "bang": "graph",
+    "name": "Graph.tk",
+    "url": "http://graph.tk/#{{{s}}}"
+  },
+  {
+    "bang": "groundai",
+    "name": "Ground AI",
+    "url": "https://www.groundai.com/search/?text={{{s}}}&sort=_score"
+  },
+  {
+    "bang": "hgpu",
+    "name": "hgpu.org",
+    "url": "http://hgpu.org/?s={{{s}}}"
+  },
+  {
+    "bang": "hott",
+    "name": "Homotopy Type Theory",
+    "url": "https://homotopytypetheory.org/?s={{{s}}}"
+  },
+  {
+    "bang": "iacr",
+    "name": "IACR",
+    "url": "https://www.iacr.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "imaths",
+    "name": "Images des math\u00e9matiques",
+    "url": "http://images.math.cnrs.fr/spip.php?page=recherche&page=recherche&recherche={{{s}}}"
+  },
+  {
+    "bang": "integral",
+    "name": "WolframAlpha integration",
+    "url": "https://www.wolframalpha.com/input/?i=integral+{{{s}}}"
+  },
+  {
+    "bang": "isprime",
+    "name": "isprimenumber",
+    "url": "http://www.isprimenumber.com/prime/{{{s}}}"
+  },
+  {
+    "bang": "ixl",
+    "name": "IXL",
+    "url": "https://ca.ixl.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "lnu",
+    "name": "Linn\u00e9universitetet Bibliotek LNU",
+    "url": "https://lnu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&search_scope=default_scope&sortby=rank&vid=primo-custom-lnu&pcAvailability=false&lang=sv_SE"
+  },
+  {
+    "bang": "maa",
+    "name": "Mathematical Association of America",
+    "url": "http://www.maa.org/search/node?keys={{{s}}}"
+  },
+  {
+    "bang": "magma",
+    "name": "Magma",
+    "url": "http://magma.maths.usyd.edu.au/magma/handbook/search?query={{{s}}}&intrinsics=1"
+  },
+  {
+    "bang": "mangahigh",
+    "name": "Mangahigh",
+    "url": "https://www.mangahigh.com/browse/?q={{{s}}}"
+  },
+  {
+    "bang": "mathisfun",
+    "name": "Math is fun",
+    "url": "http://www.mathsisfun.com/sphider/search.php?query={{{s}}}&submit=&search=1"
+  },
+  {
+    "bang": "math",
+    "name": "mathworld",
+    "url": "http://mathworld.wolfram.com/search/?query={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "mathoverflow",
+    "name": "MathOverflow",
+    "url": "http://mathoverflow.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "mathse",
+    "name": "Mathematics - Stack Exchange",
+    "url": "http://math.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mathworks",
+    "name": "Matlab File Exchange",
+    "url": "http://duckduckgo.com/?q={{{s}}}+site:mathworks.com"
+  },
+  {
+    "bang": "mathworld",
+    "name": "Wolfram MathWorld",
+    "url": "http://mathworld.wolfram.com/search/?query={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "matlabfx",
+    "name": "Matlab File Exchange",
+    "url": "http://www.mathworks.com/matlabcentral/fileexchange/?term={{{s}}}"
+  },
+  {
+    "bang": "mo",
+    "name": "MathOverflow",
+    "url": "http://mathoverflow.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "mref",
+    "name": "ams mathscinet mref",
+    "url": "https://mathscinet.ams.org/mathscinet-mref?ref={{{s}}}"
+  },
+  {
+    "bang": "msc",
+    "name": "AMS MathScinet",
+    "url": "http://www.ams.org/mathscinet/search/publications.html?pg4=ALLF&s4={{{s}}}"
+  },
+  {
+    "bang": "mstack",
+    "name": "Math Stack",
+    "url": "https://math.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mtu",
+    "name": "Michigan Technological University",
+    "url": "https://www.mtu.edu/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ncatlab",
+    "name": "nLab",
+    "url": "http://ncatlab.org/nlab/show/HomePage/?q={{{s}}}"
+  },
+  {
+    "bang": "nlab",
+    "name": "nLab",
+    "url": "https://ncatlab.org/nlab/search?query={{{s}}}"
+  },
+  {
+    "bang": "nl",
+    "name": "http://ncatlab.org/nlab/show/HomePage",
+    "url": "http://ncatlab.org/nlab/search?query={{{s}}}"
+  },
+  {
+    "bang": "ntnu",
+    "name": "Norwegian University of Science and Technology",
+    "url": "http://www.ntnu.edu/sok?query={{{s}}}"
+  },
+  {
+    "bang": "number",
+    "name": "Numbermatics, the number explorer",
+    "url": "http://numbermatics.com/n/{{{s}}}"
+  },
+  {
+    "bang": "physics",
+    "name": "Physics Forums",
+    "url": "https://www.physicsforums.com/search/90229641/?q={{{s}}}&o=relevance "
+  },
+  {
+    "bang": "planetmath",
+    "name": "Planet Math (GitHub repo)",
+    "url": "https://github.com/search?l=TeX&q=org%3Aplanetmath+{{{s}}}&type=Topics"
+  },
+  {
+    "bang": "proof",
+    "name": "Proof Wiki",
+    "url": "https://proofwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "purplemath",
+    "name": "PurpleMath",
+    "url": "http://search.freefind.com/find.html?id=5014414&pageid=r&mode=ALL&n=0&query={{{s}}}"
+  },
+  {
+    "bang": "pwc",
+    "name": "https://paperswithcode.com",
+    "url": "https://paperswithcode.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "pytorch",
+    "name": "pytorch.org",
+    "url": "https://pytorch.org/docs/stable/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "qso",
+    "name": "Stack Overflow Quantitative Finance",
+    "url": "https://quant.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sage",
+    "name": "SageMath documentation",
+    "url": "https://duckduckgo.com/?q=site%3Adoc.sagemath.org+{{{s}}}"
+  },
+  {
+    "bang": "semath",
+    "name": "Mathematics StackExchange",
+    "url": "https://math.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "seq",
+    "name": "The Online Encyclopedia Of Integer Sequences",
+    "url": "http://oeis.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "sklearn",
+    "name": "http://scikit-learn.org",
+    "url": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fscikit-learn.org%2Fstable%2Fmodules%2Fgenerated%2F+{{{s}}}&ia=web"
+  },
+  {
+    "bang": "stacksproj",
+    "name": "The Stacks project",
+    "url": "https://stacks.math.columbia.edu/search?query={{{s}}}"
+  },
+  {
+    "bang": "symb",
+    "name": "Symbolab",
+    "url": "https://www.symbolab.com/solver/step-by-step/{{{s}}}"
+  },
+  {
+    "bang": "symolab",
+    "name": "Symbolab",
+    "url": "http://www.symbolab.com/solver/step-by-step/{{{s}}}"
+  },
+  {
+    "bang": "talg",
+    "name": "Tiger Algebra",
+    "url": "http://tiger-algebra.com/drill/{{{s}}}"
+  },
+  {
+    "bang": "wa",
+    "name": "Wolfram|Alpha",
+    "url": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "bang": "wlr",
+    "name": "Wolfram Mathematica Reference",
+    "url": "http://reference.wolfram.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "wolf",
+    "name": "Wolfram Alpha",
+    "url": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "bang": "xvr",
+    "name": "arxiv vanity",
+    "url": "https://www.arxiv-vanity.com/convert/?query={{{s}}}"
+  },
+  {
+    "bang": "zbmath",
+    "name": "Zentralblatt MATH Database",
+    "url": "http://www.zentralblatt-math.org/zbmath/search/?q={{{s}}}"
+  },
+  {
+    "bang": "\u05d2",
+    "name": "Google Israel",
+    "url": "https://www.google.co.il/{{{s}}}"
+  }
+]

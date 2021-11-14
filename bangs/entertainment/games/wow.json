@@ -1,0 +1,132 @@
+[
+  {
+    "bang": "aowow",
+    "name": "AoWoW VanillaGaming",
+    "url": "http://db.vanillagaming.org/?search={{{s}}}"
+  },
+  {
+    "bang": "classicdb",
+    "name": "ClassicDB",
+    "url": "http://classicdb.ch/?search={{{s}}}"
+  },
+  {
+    "bang": "cwow",
+    "name": "https://classic.wowhead.com",
+    "url": "https://classic.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "dbuff",
+    "name": "Dotabuff",
+    "url": "http://www.dotabuff.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "hc",
+    "name": "HolidayCheck",
+    "url": "http://www.holidaycheck.de/schnellsuche.php?q={{{s}}}"
+  },
+  {
+    "bang": "pathfinderwiki",
+    "name": "Pathfinder Wiki",
+    "url": "https://pathfinderwiki.com/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "pubg",
+    "name": "Pubg Mobile Update",
+    "url": "https://pubgmobileupdate.com/?s={{{s}}}"
+  },
+  {
+    "bang": "raiderio",
+    "name": "Raider.io",
+    "url": "https://raider.io/search?type=character&name[0][contains]={{{s}}}"
+  },
+  {
+    "bang": "vag",
+    "name": "Vanilla Gaming",
+    "url": "http://db.vanillagaming.org/?search={{{s}}}"
+  },
+  {
+    "bang": "vani",
+    "name": "Vanilla WoW DB",
+    "url": "https://vanillawowdb.com/?search={{{s}}}"
+  },
+  {
+    "bang": "wcl",
+    "name": "Warcraftlogs",
+    "url": "https://www.warcraftlogs.com/search/?term={{{s}}}"
+  },
+  {
+    "bang": "whc",
+    "name": "WoWHead Classic",
+    "url": "https://classic.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowarmoryus",
+    "name": "Battle.net",
+    "url": "http://us.battle.net/wow/en/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowclassic",
+    "name": "wowclassic",
+    "url": "https://classic.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowdb",
+    "name": "Word of Warcraft Database - WOWDB",
+    "url": "http://www.wowdb.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "wowfr",
+    "name": "Wowhead",
+    "url": "https://fr.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowhc",
+    "name": "wowhead classic",
+    "url": "https://classic.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowheadde",
+    "name": "Wowhead german",
+    "url": "http://de.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowheadfr",
+    "name": "wowhead french",
+    "url": "http://fr.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowhead",
+    "name": "WowHead",
+    "url": "http://www.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowhes",
+    "name": "Wowhead (Espa\u00f1ol)",
+    "url": "https://es.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowhr",
+    "name": "Wowhead Russian",
+    "url": "http://ru.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowh",
+    "name": "Wowhead",
+    "url": "http://www.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wowpedia",
+    "name": "Wowpedia",
+    "url": "http://www.wowpedia.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "wowprogress",
+    "name": "WoWProgress",
+    "url": "https://www.wowprogress.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "wow",
+    "name": "World of Warcraft",
+    "url": "https://worldofwarcraft.com/search?q={{{s}}}"
+  }
+]

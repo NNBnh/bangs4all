@@ -1,0 +1,2917 @@
+[
+  {
+    "bang": "0to255",
+    "name": "0to255",
+    "url": "http://0to255.com/{{{s}}}"
+  },
+  {
+    "bang": "180",
+    "name": "180.no",
+    "url": "https://www.180.no/Search/All?w={{{s}}}"
+  },
+  {
+    "bang": "1881",
+    "name": "1881.no",
+    "url": "http://www.1881.no/?query={{{s}}}"
+  },
+  {
+    "bang": "27crags",
+    "name": "27crags",
+    "url": "https://27crags.com/site/search?qs={{{s}}}"
+  },
+  {
+    "bang": "3t",
+    "name": "TriTrans",
+    "url": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra={{{s}}}&button=Translate%21"
+  },
+  {
+    "bang": "4ga",
+    "name": "4chan /g/ archive",
+    "url": "https://archive.rebeccablacktech.com/g/search/text/{{{s}}}"
+  },
+  {
+    "bang": "ab-er",
+    "name": "Abbyy Dictionary En-Ru",
+    "url": "http://www.lingvo-online.ru/en/Translate/en-ru/{{{s}}}"
+  },
+  {
+    "bang": "abfahrt",
+    "name": "Abfahrtsplan Deutsche Bahn",
+    "url": "https://mobile.bahn.de/bin/mobil/bhftafel.exe/dox?input={{{s}}}&productsFilter=1111111111000000&time=actual&maxJourneys=40&start=Suchen&boardType=Abfahrt&rt=1"
+  },
+  {
+    "bang": "abnb",
+    "name": "Airbnb",
+    "url": "https://www.airbnb.com/s/{{{s}}}/all"
+  },
+  {
+    "bang": "accountkiller",
+    "name": "Account Killer",
+    "url": "http://www.accountkiller.com/en/delete-{{{s}}}-account"
+  },
+  {
+    "bang": "advfn",
+    "name": "ADVFN UK",
+    "url": "http://uk.advfn.com/p.php?pid=qkquote&symbol={{{s}}} "
+  },
+  {
+    "bang": "aeq",
+    "name": "AE7Q Amateur Extra Query Tools",
+    "url": "http://ae7q.com/query/data/CallHistory.php?CALL={{{s}}}"
+  },
+  {
+    "bang": "airn",
+    "name": "AirNav",
+    "url": "https://airnav.com/airport/{{{s}}}"
+  },
+  {
+    "bang": "airnav",
+    "name": "Airnav",
+    "url": "http://airnav.com/airport/{{{s}}}"
+  },
+  {
+    "bang": "ak",
+    "name": "Account Killer",
+    "url": "https://www.accountkiller.com/en/delete-{{{s}}}-account"
+  },
+  {
+    "bang": "alf",
+    "name": "ALF Insight",
+    "url": "https://www.alfinsight.com/app/SearchResults?quickSearch={{{s}}} "
+  },
+  {
+    "bang": "alicemail",
+    "name": "Alice Mail",
+    "url": "https://mail.alice.it/?q={{{s}}}"
+  },
+  {
+    "bang": "allabolag",
+    "name": "Alla Bolag",
+    "url": "https://www.allabolag.se/what/{{{s}}}"
+  },
+  {
+    "bang": "alt",
+    "name": "alternativeTo",
+    "url": "http://alternativeto.net/SearchResult.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "amipwned",
+    "name": "Have I Been Pwned?",
+    "url": "https://haveibeenpwned.com/account/{{{s}}}"
+  },
+  {
+    "bang": "animefiller",
+    "name": "Anime Filler List",
+    "url": "http://www.animefillerlist.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "antonimo",
+    "name": "Antonimos",
+    "url": "http://www.antonimos.net/?termino={{{s}}}&btnG=Ant%F3nimos"
+  },
+  {
+    "bang": "antonimos",
+    "name": "Ant\u00f4nimos.com.br",
+    "url": "https://www.antonimos.com.br/busca.php?q={{{s}}}"
+  },
+  {
+    "bang": "apert-en-es",
+    "name": "Apertium",
+    "url": "https://www.apertium.org/index.spa.html?dir=eng-spa&q={{{s}}}#translation"
+  },
+  {
+    "bang": "apility",
+    "name": "Apility.io",
+    "url": "https://apility.io/search/{{{s}}}"
+  },
+  {
+    "bang": "apk",
+    "name": "APK Downloader",
+    "url": "http://apps.evozi.com/apk-downloader/?id={{{s}}}"
+  },
+  {
+    "bang": "apnic",
+    "name": "APNIC Whois",
+    "url": "https://wq.apnic.net/static/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "aprsfi",
+    "name": "aprs.fi",
+    "url": "http://aprs.fi/#!mt=roadmap&z=11&call=a%2F{{{s}}}&timerange=3600&tail=3600"
+  },
+  {
+    "bang": "archchine",
+    "name": "Arch Chinese",
+    "url": "http://www.archchinese.com/chinese_english_dictionary.html?find={{{s}}} "
+  },
+  {
+    "bang": "archive",
+    "name": "Internet ",
+    "url": "https://archive.org/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "archiveteam",
+    "name": "Archive Team Wiki",
+    "url": "http://www.archiveteam.org/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "archiveweb",
+    "name": "Archive.org",
+    "url": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "bang": "asana",
+    "name": "Asana",
+    "url": "https://app.asana.com/0/search/{{{s}}}"
+  },
+  {
+    "bang": "ash",
+    "name": "Awesome Selfhosted",
+    "url": "https://selfhosted.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "astk",
+    "name": "Adobe Stock",
+    "url": "https://stock.adobe.com/search?k={{{s}}}"
+  },
+  {
+    "bang": "ath",
+    "name": "Athletic.net",
+    "url": "https://www.athletic.net/Search.aspx#?q={{{s}}}"
+  },
+  {
+    "bang": "AUD2EUR",
+    "name": "XE (AUD2EUR)",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=AUD&To=EUR"
+  },
+  {
+    "bang": "AUD2GDP",
+    "name": "XE (AUD2GBP)",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=AUD&To=GBP"
+  },
+  {
+    "bang": "aud2usd",
+    "name": "XE (AUD2USD)",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=AUD&To=USD"
+  },
+  {
+    "bang": "avax",
+    "name": "avax",
+    "url": "http://avxsearch.se/search?q={{{s}}}:"
+  },
+  {
+    "bang": "babdedk",
+    "name": "bab",
+    "url": "http://fr.bab.la/dictionnaire/danois-allemand/{{{s}}}"
+  },
+  {
+    "bang": "babel",
+    "name": "Bab.la NL",
+    "url": "http://nl.bab.la/woordenboek/nederlands-engels/{{{s}}}"
+  },
+  {
+    "bang": "babeneo",
+    "name": "Bab.la English-Esperanto",
+    "url": "http://en.bab.la/dictionary/english-esperanto/{{{s}}}"
+  },
+  {
+    "bang": "babensw",
+    "name": "bab.la english swedish",
+    "url": "https://en.bab.la/dictionary/english-swedish/{{{s}}}"
+  },
+  {
+    "bang": "babesde",
+    "name": "bab.la Spanish-German",
+    "url": "http://de.bab.la/woerterbuch/spanisch-deutsch/{{{s}}}"
+  },
+  {
+    "bang": "babplru",
+    "name": "Bab.la pl ru",
+    "url": "https://pl.bab.la/slownik/polski-rosyjski/{{{s}}}"
+  },
+  {
+    "bang": "babsv",
+    "name": "bab.la",
+    "url": "http://sv.bab.la/lexikon/engelsk-svensk/{{{s}}}"
+  },
+  {
+    "bang": "backpack",
+    "name": "BackPack.tf",
+    "url": "http://backpack.tf/id/{{{s}}}"
+  },
+  {
+    "bang": "barchive",
+    "name": "The /b/ Archive",
+    "url": "https://thebarchive.com/_/search/text/{{{s}}}"
+  },
+  {
+    "bang": "base64e",
+    "name": "cryotography.cc",
+    "url": "https://cryptography.cc/convert?text={{{s}}}&algorithm=base64encode"
+  },
+  {
+    "bang": "bbt",
+    "name": "BB&T Bank",
+    "url": "https://www.bbt.com/search-results.html?query={{{s}}}"
+  },
+  {
+    "bang": "bchain",
+    "name": "blockchain.info",
+    "url": "https://blockchain.info/address/{{{s}}}"
+  },
+  {
+    "bang": "berekenen",
+    "name": "BerekenHet",
+    "url": "http://www.berekenhet.nl/zoeken.html?q={{{s}}}"
+  },
+  {
+    "bang": "besch",
+    "name": "Bescherelle",
+    "url": "http://conjugueur.bescherelle.com/ConjugueurWeb/index.jsf?term={{{s}}}"
+  },
+  {
+    "bang": "bg",
+    "name": "BibleGateway",
+    "url": "http://www.biblegateway.com/passage/?search={{{s}}}"
+  },
+  {
+    "bang": "bgc",
+    "name": "Bankgirot - Search Bankgiro number by Company Name",
+    "url": "https://www.bankgirot.se/en/sok-bg-nr/?company={{{s}}}"
+  },
+  {
+    "bang": "bgm",
+    "name": "Bangumi \u756a\u7ec4\u8ba1\u5212",
+    "url": "https://bgm.tv/subject_search/{{{s}}}?cat=all"
+  },
+  {
+    "bang": "bgn",
+    "name": "Bankgirot - Search Bankgiro number",
+    "url": "https://www.bankgirot.se/en/sok-bg-nr/?bgnr={{{s}}}"
+  },
+  {
+    "bang": "bgo",
+    "name": "Bankgirot - Search Bankgiro number by Organization Number",
+    "url": "https://www.bankgirot.se/en/sok-bg-nr/?orgnr={{{s}}}"
+  },
+  {
+    "bang": "bibleserver",
+    "name": "bibleserver.com",
+    "url": "http://bibleserver.com/search/LUT/{{{s}}}/1"
+  },
+  {
+    "bang": "biblsrv",
+    "name": "Bibleserver",
+    "url": "http://www.bibleserver.com/search/{{{s}}}"
+  },
+  {
+    "bang": "bibnet",
+    "name": "BiblioNet",
+    "url": "http://www.biblionet.gr/main.asp?page=results&key={{{s}}}"
+  },
+  {
+    "bang": "bitbucket",
+    "name": "BitBucket.org",
+    "url": "http://bitbucket.org/repo/all/?name={{{s}}}"
+  },
+  {
+    "bang": "bitcoin",
+    "name": "Blockchain.info",
+    "url": "https://blockchain.info/search?search={{{s}}}"
+  },
+  {
+    "bang": "bittrust",
+    "name": "BitTrust",
+    "url": "http://bittrust.org/search#stq={{{s}}}"
+  },
+  {
+    "bang": "bluehive",
+    "name": "BlueHive",
+    "url": "https://www.bluehive.com/providers/search/{{{s}}}"
+  },
+  {
+    "bang": "bmk",
+    "name": "blendermarket.com",
+    "url": "https://blendermarket.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bpi",
+    "name": "Biodegradable Products Institute",
+    "url": "http://products.bpiworld.org/companies?title=&field_industry_category_tid=&field_member_id_value={{{s}}}"
+  },
+  {
+    "bang": "bsag",
+    "name": "Bremer Stra\u00dfenbahn AG",
+    "url": "https://www.bsag.de/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "bsp",
+    "name": "blendswap.com",
+    "url": "https://www.blendswap.com/blends/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "btc",
+    "name": "Blockchain.com",
+    "url": "https://www.blockchain.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "bt",
+    "name": "Microsoft/Bing Translator",
+    "url": "https://www.bing.com/translator?text={{{s}}}"
+  },
+  {
+    "bang": "bturl",
+    "name": "Microsoft/Bing Translator URL",
+    "url": "http://www.microsofttranslator.com/bv.aspx?a={{{s}}}"
+  },
+  {
+    "bang": "built",
+    "name": "BuiltWith",
+    "url": "https://builtwith.com/?{{{s}}}"
+  },
+  {
+    "bang": "bunq",
+    "name": "bunq Together",
+    "url": "https://together.bunq.com/?q={{{s}}}"
+  },
+  {
+    "bang": "cact",
+    "name": "Cactus2000 - Conjugation Table (German)",
+    "url": "http://conjd.cactus2000.de/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "calc",
+    "name": "DuckDuckGo Calculator",
+    "url": "https://duckduckgo.com/?q={{{s}}}&ia=calculator"
+  },
+  {
+    "bang": "calculator",
+    "name": "DuckDuckGo Calculator",
+    "url": "https://duckduckgo.com/?ia=calculator&q={{{s}}}"
+  },
+  {
+    "bang": "candlestickpatterns",
+    "name": "Candlestick Patterns",
+    "url": "http://www.candlestickpatterns.org/?s={{{s}}}"
+  },
+  {
+    "bang": "carjam",
+    "name": "CarJam",
+    "url": "https://carjam.co.nz/car/?plate={{{s}}}"
+  },
+  {
+    "bang": "cb",
+    "name": "CrunchBase",
+    "url": "https://www.crunchbase.com/textsearch?q={{{s}}}"
+  },
+  {
+    "bang": "cctrl",
+    "name": "Class Central",
+    "url": "https://www.class-central.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "ccu",
+    "name": "CoinCheckup",
+    "url": "https://coincheckup.com/coins/{{{s}}}"
+  },
+  {
+    "bang": "cdirect",
+    "name": "comdirect",
+    "url": "https://www.comdirect.de/inf/search/general.html?SEARCH_VALUE={{{s}}}"
+  },
+  {
+    "bang": "cdp",
+    "name": "CDP (Carbon Disclosure Project)",
+    "url": "https://www.cdp.net/en/responses?utf8=\u2713&queries[name]={{{s}}}"
+  },
+  {
+    "bang": "checkhost",
+    "name": "Check-host.net",
+    "url": "https://check-host.net/ip-info?host={{{s}}}"
+  },
+  {
+    "bang": "choice",
+    "name": "Choice",
+    "url": "https://www.choice.com.au/search?q={{{s}}}"
+  },
+  {
+    "bang": "chromewebstore",
+    "name": "Chrome Web Store",
+    "url": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "bang": "climatecounts",
+    "name": "Climate Counts",
+    "url": "http://climatecounts.org/searchresults.php?p=term&term={{{s}}}"
+  },
+  {
+    "bang": "cmcap",
+    "name": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/currencies/{{{s}}}"
+  },
+  {
+    "bang": "cmc",
+    "name": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/currencies/{{{s}}}"
+  },
+  {
+    "bang": "cnrtl",
+    "name": "Centre national de ressources textuelles et lexicales",
+    "url": "http://www.cnrtl.fr/definition/{{{s}}}"
+  },
+  {
+    "bang": "cny2eur",
+    "name": "XE",
+    "url": "https://www.xe.com/currencyconverter/convert/?From=CNY&To=EUR&Amount={{{s}}}"
+  },
+  {
+    "bang": "codepoints",
+    "name": "Codepoints",
+    "url": "http://codepoints.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "coingecko",
+    "name": "CoinGecko",
+    "url": "https://www.coingecko.com/en/search/bang?query={{{s}}}"
+  },
+  {
+    "bang": "coinmc",
+    "name": "Coin Market Cap",
+    "url": "https://coinmarketcap.com/currencies/search/?q={{{s}}}"
+  },
+  {
+    "bang": "conjen",
+    "name": "conjugator.reverso.net",
+    "url": "http://conjugator.reverso.net/conjugation-english-verb-{{{s}}}.html"
+  },
+  {
+    "bang": "conjfr",
+    "name": "conjugueur.reverso.net",
+    "url": "http://conjugueur.reverso.net/conjugaison-francais-verbe-{{{s}}}.html"
+  },
+  {
+    "bang": "crowdin",
+    "name": "Crowdin",
+    "url": "https://crowdin.com/projects?q={{{s}}}#advanced-search"
+  },
+  {
+    "bang": "csurf",
+    "name": "Couchsurfing.org",
+    "url": "https://www.couchsurfing.com/?q={{{s}}}"
+  },
+  {
+    "bang": "cymon",
+    "name": "Cymon",
+    "url": "https://cymon.io/{{{s}}}"
+  },
+  {
+    "bang": "dbl",
+    "name": "Discord Bot List",
+    "url": "https://discordbots.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "dboats",
+    "name": "Discord Boats",
+    "url": "https://discord.boats/bots?search={{{s}}}"
+  },
+  {
+    "bang": "dbots",
+    "name": "Discord Bots",
+    "url": "https://discord.bots.gg/search?q={{{s}}}"
+  },
+  {
+    "bang": "dbp",
+    "name": "Dropbox Paper",
+    "url": "https://paper.dropbox.com/?q={{{s}}}"
+  },
+  {
+    "bang": "d.com",
+    "name": "Dictionary.com",
+    "url": "http://dictionary.reference.com/browse/{{{s}}}?s=t"
+  },
+  {
+    "bang": "deen",
+    "name": "dict.cc free dictionary (de<>en)",
+    "url": "http://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "deeples",
+    "name": "DeepL Translator",
+    "url": "https://www.deepl.com/translator#en/es/{{{s}}}"
+  },
+  {
+    "bang": "dees",
+    "name": "Dict.cc Deutsch-Spanisch",
+    "url": "http://dees.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "defr",
+    "name": "dict.cc Deutsch-Franz\u00f6sisch",
+    "url": "http://defr.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "denl",
+    "name": "Dict.cc Deutsch-Niederl\u00e4ndisch",
+    "url": "http://denl.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "denru",
+    "name": "Deepl English to Russian ",
+    "url": "https://www.deepl.com/translator#en/ru/{{{s}}}%0A"
+  },
+  {
+    "bang": "deopenthesaurus",
+    "name": "https://www.openthesaurus.de",
+    "url": "https://www.openthesaurus.de/synonyme/?q={{{s}}}"
+  },
+  {
+    "bang": "desc",
+    "name": "Descriptionari",
+    "url": "http://descriptionari.com/q/{{{s}}}"
+  },
+  {
+    "bang": "dfeojm",
+    "name": "Down For Everyone Or Just Me",
+    "url": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "dgs",
+    "name": "De gule sider",
+    "url": "http://www.degulesider.dk/person/resultat/{{{s}}}"
+  },
+  {
+    "bang": "dictcc",
+    "name": "dict.cc",
+    "url": "https://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "diigo",
+    "name": "Diigo",
+    "url": "http://www.diigo.com/search/my?q={{{s}}}"
+  },
+  {
+    "bang": "ding",
+    "name": "BEOLINGUS Online ditctionary, German, English, Spanish (using the Linux program DING)",
+    "url": "https://dict.tu-chemnitz.de/dings.cgi?query={{{s}}}"
+  },
+  {
+    "bang": "dispt",
+    "name": "Dispostable",
+    "url": "http://www.dispostable.com/inbox/{{{s}}}"
+  },
+  {
+    "bang": "dkwk",
+    "name": "DokuWiki",
+    "url": "http://www.dokuwiki.org/start?do=search&id={{{s}}}"
+  },
+  {
+    "bang": "dme",
+    "name": "DMM\u82f1\u4f1a\u8a71\u306a\u3093\u3066uKnow?",
+    "url": "https://eikaiwa.dmm.com/uknow/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "dns",
+    "name": "MXToolbox",
+    "url": "http://mxtoolbox.com/SuperTool.aspx?action=a%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "bang": "domainsbot",
+    "name": "domainsbot.com",
+    "url": "http://domainsbot.com/?q={{{s}}} "
+  },
+  {
+    "bang": "douga",
+    "name": "niconico douga bypass",
+    "url": "http://en.niconico.sarashi.com/?{{{s}}}"
+  },
+  {
+    "bang": "down4me",
+    "name": "Down For Everyone Or Just Me",
+    "url": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "downfor",
+    "name": "DownForEveryone?",
+    "url": "http://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "downforme",
+    "name": "Down For Everyone Or Just Me",
+    "url": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "dpt",
+    "name": "Dicio",
+    "url": "http://www.dicio.com.br/{{{s}}}"
+  },
+  {
+    "bang": "drdba",
+    "name": "Dynamic Range Database (album)",
+    "url": "http://dr.loudness-war.info/album/list?album={{{s}}}"
+  },
+  {
+    "bang": "drdb",
+    "name": "Dynamic Range Database",
+    "url": "http://dr.loudness-war.info/album/list?artist={{{s}}}"
+  },
+  {
+    "bang": "drop",
+    "name": "MailDrop",
+    "url": "https://www.maildrop.cc/inbox/{{{s}}}"
+  },
+  {
+    "bang": "dtes",
+    "name": "EN to SPA | Dictionary.com",
+    "url": "http://translate.reference.com/english/spanish/{{{s}}}"
+  },
+  {
+    "bang": "dvb",
+    "name": "DVB",
+    "url": "https://m.dvb.de/de/verbindungsauskunft/verbindungen.do?vaform%5Bstartname%5D={{{s}}}"
+  },
+  {
+    "bang": "dvdupc",
+    "name": "Disc to Digital UPC",
+    "url": "https://www.dvdupc.com/find?find={{{s}}}"
+  },
+  {
+    "bang": "dynamicrangea",
+    "name": "Dynamic Range Database (album)",
+    "url": "http://www.dr.loudness-war.info/index.php?search_album={{{s}}}"
+  },
+  {
+    "bang": "dynamicrange",
+    "name": "Dynamic Range Database",
+    "url": "http://www.dr.loudness-war.info/index.php?search_artist={{{s}}}"
+  },
+  {
+    "bang": "earth911",
+    "name": "Earth911.com",
+    "url": "http://search.earth911.com/?what={{{s}}}"
+  },
+  {
+    "bang": "ecom",
+    "name": "eSpirit Community",
+    "url": "https://community.e-spirit.com/search.jspa?peopleEnabled=true&userID=&containerType=&container=&spotlight=true&q={{{s}}}"
+  },
+  {
+    "bang": "edinburgh",
+    "name": "City of Edinburgh Council",
+    "url": "http://www.edinburgh.gov.uk/site/scripts/google_results.php?q={{{s}}}"
+  },
+  {
+    "bang": "eggtimer",
+    "name": "Egg Timer",
+    "url": "http://e.ggtimer.com/{{{s}}} "
+  },
+  {
+    "bang": "ejoy",
+    "name": "Ejoy",
+    "url": "https://ejoy-english.com/go/wordhunt?word={{{s}}}"
+  },
+  {
+    "bang": "en2el",
+    "name": "Google Translate",
+    "url": "https://translate.google.gr/#en/el/{{{s}}}"
+  },
+  {
+    "bang": "en2nl",
+    "name": "Google Translate en-nl English Dutch",
+    "url": "https://translate.google.com/#en/nl/{{{s}}}"
+  },
+  {
+    "bang": "encyclo",
+    "name": "Encyclo",
+    "url": "http://www.encyclo.nl/begrip/{{{s}}}"
+  },
+  {
+    "bang": "enpl",
+    "name": "Google Translate (English to Polish)",
+    "url": "https://translate.google.com/#en/pl/{{{s}}}"
+  },
+  {
+    "bang": "entr",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/#en/tr/{{{s}}} "
+  },
+  {
+    "bang": "enum",
+    "name": "enumquery.com",
+    "url": "http://enumquery.com/lookup?e164={{{s}}}"
+  },
+  {
+    "bang": "epoch",
+    "name": "Unix Time converter",
+    "url": "https://www.unixtimeconverter.io//{{{s}}}"
+  },
+  {
+    "bang": "eshell",
+    "name": "explainshell",
+    "url": "https://explainshell.com/explain?cmd={{{s}}}"
+  },
+  {
+    "bang": "etde",
+    "name": "Excel Translator [DE]",
+    "url": "https://de.excel-translator.de/{{{s}}}"
+  },
+  {
+    "bang": "eten",
+    "name": "Excel Translator [EN]",
+    "url": "https://en.excel-translator.de/{{{s}}}"
+  },
+  {
+    "bang": "eth",
+    "name": "EtherScan",
+    "url": "http://etherscan.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "etrans",
+    "name": "TriTrans",
+    "url": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra={{{s}}}"
+  },
+  {
+    "bang": "etym",
+    "name": "https://www.etymonline.com",
+    "url": "https://www.etymonline.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "eur2cny",
+    "name": "XE",
+    "url": "https://www.xe.com/currencyconverter/convert/?From=EUR&To=CNY&Amount={{{s}}}"
+  },
+  {
+    "bang": "evernote",
+    "name": "Evernote",
+    "url": "https://www.evernote.com/Home.action#x={{{s}}}"
+  },
+  {
+    "bang": "evs",
+    "name": "Eesti-vene",
+    "url": "http://eki.ee/dict/evs/index.cgi?Q={{{s}}}"
+  },
+  {
+    "bang": "exodus",
+    "name": "\u03b5xodus Privacy",
+    "url": "https://reports.exodus-privacy.eu.org/reports/search/{{{s}}}"
+  },
+  {
+    "bang": "fas",
+    "name": "Font Awesome",
+    "url": "https://fontawesome.com/icons?d=gallery&q={{{s}}}"
+  },
+  {
+    "bang": "fastmail",
+    "name": "FastMail",
+    "url": "https://www.fastmail.com/help/search/?q={{{s}}}"
+  },
+  {
+    "bang": "fcode",
+    "name": "freeCodeCamp",
+    "url": "https://search.freecodecamp.org/?q={{{s}}}"
+  },
+  {
+    "bang": "fconj",
+    "name": "wordreference.com",
+    "url": "http://www.wordreference.com/conj/FRverbs.aspx?v={{{s}}} "
+  },
+  {
+    "bang": "felleskatalogen",
+    "name": "Felleskatalogen",
+    "url": "http://felleskatalogen.no/medisin/sok?sokord={{{s}}}"
+  },
+  {
+    "bang": "fgcs",
+    "name": "Frag Caesar",
+    "url": "http://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html"
+  },
+  {
+    "bang": "fid",
+    "name": "File.net",
+    "url": "https://www.file.net/process/{{{s}}}.html"
+  },
+  {
+    "bang": "fi",
+    "name": "finanzen.net",
+    "url": "http://www.finanzen.net/suchergebnis.asp?strSuchString={{{s}}}"
+  },
+  {
+    "bang": "fiu",
+    "name": "Fonts in Use",
+    "url": "https://fontsinuse.com/search?terms={{{s}}}"
+  },
+  {
+    "bang": "flat",
+    "name": "Flatpak",
+    "url": "https://flathub.org/apps/search/{{{s}}}"
+  },
+  {
+    "bang": "flattr",
+    "name": "Flattr",
+    "url": "https://flattr.com/q/{{{s}}}"
+  },
+  {
+    "bang": "fonecta",
+    "name": "Fonecta",
+    "url": "https://www.fonecta.fi/henkilot/haku/-/{{{s}}}"
+  },
+  {
+    "bang": "forexstation",
+    "name": "Forex Station",
+    "url": "https://forex-station.com/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search"
+  },
+  {
+    "bang": "framal",
+    "name": "Framalibre",
+    "url": "https://framalibre.org/recherche-par-crit-res?keys={{{s}}}"
+  },
+  {
+    "bang": "freenode",
+    "name": "Freenode",
+    "url": "http://webchat.freenode.net/?channels={{{s}}}"
+  },
+  {
+    "bang": "frequencycheck",
+    "name": "FrequencyCheck",
+    "url": "https://www.frequencycheck.com/search?s={{{s}}}"
+  },
+  {
+    "bang": "frge",
+    "name": "Reverso",
+    "url": "http://dictionnaire.reverso.net/francais-allemand/{{{s}}}"
+  },
+  {
+    "bang": "frit",
+    "name": "Google Translate French to Italian",
+    "url": "http://translate.google.com/#fr/it/{{{s}}}"
+  },
+  {
+    "bang": "frjp",
+    "name": "Reverso",
+    "url": "http://dictionnaire.reverso.net/francais-japonais/{{{s}}}"
+  },
+  {
+    "bang": "frpl",
+    "name": "Reverso",
+    "url": "http://dictionnaire.reverso.net/francais-polonais/{{{s}}}"
+  },
+  {
+    "bang": "fr.wiktionary",
+    "name": "Wiktionary Fran\u00e7ais",
+    "url": "https://fr.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "ftn",
+    "name": "Fortuneo",
+    "url": "https://www.fortuneo.fr/recherche?term={{{s}}}"
+  },
+  {
+    "bang": "fullcontact",
+    "name": "FullContact",
+    "url": "https://app.fullcontact.com/#/search/{{{s}}}"
+  },
+  {
+    "bang": "gap",
+    "name": "Anime+",
+    "url": "http://graph.anime.plus/{{{s}}}"
+  },
+  {
+    "bang": "gasolina",
+    "name": "Mais Gasolina",
+    "url": "https://www.maisgasolina.com/pesquisa/{{{s}}}"
+  },
+  {
+    "bang": "gbeo",
+    "name": "Glosbe",
+    "url": "https://en.glosbe.com/en/eo/{{{s}}}"
+  },
+  {
+    "bang": "gbp2eur",
+    "name": "xe.com",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=GBP&To=EUR"
+  },
+  {
+    "bang": "gbp2nzd",
+    "name": "xe",
+    "url": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=GBP&To=NZD"
+  },
+  {
+    "bang": "gbp2usd",
+    "name": "xe",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=GBP&To=USD"
+  },
+  {
+    "bang": "gecko",
+    "name": "CoinGecko",
+    "url": "https://www.coingecko.com/en/search/bang?query={{{s}}}"
+  },
+  {
+    "bang": "gefr",
+    "name": "Reverso",
+    "url": "http://dictionnaire.reverso.net/allemand-francais/{{{s}}}"
+  },
+  {
+    "bang": "gethuman",
+    "name": "GetHuman",
+    "url": "http://gethuman.com/phone-number/search/?q={{{s}}}"
+  },
+  {
+    "bang": "gfc",
+    "name": "greatfirewallofchina.org",
+    "url": "http://greatfirewallofchina.org/index.php?siteurl={{{s}}}"
+  },
+  {
+    "bang": "gfork",
+    "name": "Greasy Fork",
+    "url": "https://greasyfork.org/en/scripts?q={{{s}}}"
+  },
+  {
+    "bang": "glotennl",
+    "name": "Interglot",
+    "url": "http://www.interglot.com/dictionary/en/nl/search?q={{{s}}}"
+  },
+  {
+    "bang": "gookokugo",
+    "name": "Goo\u56fd\u8a9e\u8f9e\u5178\u691c\u7d22",
+    "url": "http://dictionary.goo.ne.jp/srch/jn/{{{s}}} /m0u"
+  },
+  {
+    "bang": "goosh",
+    "name": "Goosh",
+    "url": "http://goosh.org/#{{{s}}}"
+  },
+  {
+    "bang": "graphemica",
+    "name": "Graphemica",
+    "url": "http://graphemica.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gutschein",
+    "name": "Gutscheine.de",
+    "url": "http://www.gutscheine.de/suche?search={{{s}}}"
+  },
+  {
+    "bang": "gws",
+    "name": "Google WebStore XT",
+    "url": "https://chrome.google.com/webstore/search/{{{s}}}?_category=extensions"
+  },
+  {
+    "bang": "gwsonline",
+    "name": "Ghana Web Solutions",
+    "url": "https://www.ghanawebsolutions.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "gwsonlinegh",
+    "name": "GWS Online GH",
+    "url": "https://www.ghanawebsolutions.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "gyt",
+    "name": "GenYouTube",
+    "url": "https://www.genyoutube.net/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "hibp",
+    "name": "Have I Been Pwned",
+    "url": "https://haveibeenpwned.com/account/{{{s}}}"
+  },
+  {
+    "bang": "historious",
+    "name": "Historious",
+    "url": "http://historio.us/search/?q={{{s}}}"
+  },
+  {
+    "bang": "hsb",
+    "name": "soblex",
+    "url": "http://soblex.de/?p_w={{{s}}}&cmd=search_soblex"
+  },
+  {
+    "bang": "hy",
+    "name": "Hypothes.is Via",
+    "url": "https://via.hypothes.is/{{{s}}}"
+  },
+  {
+    "bang": "hyphen",
+    "name": "hyphenation24",
+    "url": "https://www.hyphenation24.com/word/{{{s}}}"
+  },
+  {
+    "bang": "ialoc",
+    "name": "ialoc bucuresti",
+    "url": "https://ialoc.ro/restaurante-bucuresti?search={{{s}}}"
+  },
+  {
+    "bang": "iata",
+    "name": "IATA Airport Code",
+    "url": "http://airportcodes.aero/{{{s}}}"
+  },
+  {
+    "bang": "icann",
+    "name": "ICANN",
+    "url": "https://www.icann.org/search/#!/?searchText={{{s}}}"
+  },
+  {
+    "bang": "icarecept",
+    "name": "ICA - Recept",
+    "url": "https://www.ica.se/receptsok/#:search={{{s}}}"
+  },
+  {
+    "bang": "iciba",
+    "name": "\u7231\u8bcd\u9738",
+    "url": "http://www.iciba.com/{{{s}}}"
+  },
+  {
+    "bang": "idfy",
+    "name": "Idfy",
+    "url": "https://docs.idfy.io/?q={{{s}}}"
+  },
+  {
+    "bang": "idioms",
+    "name": "The Free Dictionary",
+    "url": "http://www.thefreedictionary.com/{{{s}}} "
+  },
+  {
+    "bang": "ifttt",
+    "name": "IFTTT",
+    "url": "https://ifttt.com/search/query/{{{s}}}"
+  },
+  {
+    "bang": "imgops",
+    "name": "ImgOps",
+    "url": "https://imgops.com/{{{s}}}"
+  },
+  {
+    "bang": "imgurul",
+    "name": "Upload to imgur",
+    "url": "http://imgur.com/api/upload/?url={{{s}}}"
+  },
+  {
+    "bang": "infopedia",
+    "name": "Infop\u00e9dia",
+    "url": "http://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}"
+  },
+  {
+    "bang": "ipapi",
+    "name": "IP-API.com",
+    "url": "http://ip-api.com/#{{{s}}}"
+  },
+  {
+    "bang": "ipfs",
+    "name": "InterPlanetary File System",
+    "url": "https://ipfs.io/ipfs/{{{s}}}"
+  },
+  {
+    "bang": "ipns",
+    "name": "InterPlanetary Naming System",
+    "url": "https://ipfs.io/ipns/{{{s}}}"
+  },
+  {
+    "bang": "ipvoid",
+    "name": "Ipvoid",
+    "url": "http://www.ipvoid.com/scan/{{{s}}}"
+  },
+  {
+    "bang": "ires",
+    "name": "imaging-resource.com",
+    "url": "http://www.imaging-resource.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "is",
+    "name": "Ilmainen Sanakirja",
+    "url": "http://ilmainensanakirja.fi/sanakirja/{{{s}}}?"
+  },
+  {
+    "bang": "isup",
+    "name": "Is It Down For Everyone Or Just Me?",
+    "url": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "bang": "itverb",
+    "name": "Italian Verbs",
+    "url": "http://www.italian-verbs.com/italian-verbs/conjugation.php?verbo={{{s}}}"
+  },
+  {
+    "bang": "j\u00e1",
+    "name": "J\u00e1.is",
+    "url": "http://ja.is/?q={{{s}}}"
+  },
+  {
+    "bang": "jisho",
+    "name": "Jisho",
+    "url": "http://jisho.org/search/{{{s}}}"
+  },
+  {
+    "bang": "jorudan",
+    "name": "Jorudan",
+    "url": "https://www.jorudan.co.jp/jt/cgi/qsearch/qsearch.cgi?s={{{s}}}"
+  },
+  {
+    "bang": "jpd",
+    "name": "Japan Dict",
+    "url": "https://www.japandict.com/?s={{{s}}}"
+  },
+  {
+    "bang": "jsbf",
+    "name": "BundlePhobia",
+    "url": "https://bundlephobia.com/result?p={{{s}}}"
+  },
+  {
+    "bang": "jsonlint",
+    "name": "JsonLint",
+    "url": "http://jsonlint.com/?json={{{s}}}"
+  },
+  {
+    "bang": "juls",
+    "name": "http://slovniky.juls.savba.sk",
+    "url": "http://slovniky.juls.savba.sk/?w={{{s}}}&s=exact&c=608a&d=kssj4&d=psp&d=sssj&d=scs&d=sss&d=peciar&d=ma&d=hssjV&d=bernolak&d=obce&d=priezviska&d=un&d=locutio&d=pskcs&d=psken&d=noundb&ie=utf-8&oe=utf-8#"
+  },
+  {
+    "bang": "junat",
+    "name": "Junat.net",
+    "url": "https://www.junat.net/en/{{{s}}}"
+  },
+  {
+    "bang": "justice",
+    "name": "Justice - obchodn\u00ed rejst\u0159\u00edk",
+    "url": "https://or.justice.cz/ias/ui/rejstrik-$firma?jenPlatne=PLATNE&nazev={{{s}}}"
+  },
+  {
+    "bang": "jvc",
+    "name": "Japanese Verb Conjugator",
+    "url": "http://japaneseverbconjugator.com/VerbDetails.asp?txtVerb={{{s}}}"
+  },
+  {
+    "bang": "kam",
+    "name": "www.kamusiturki.com",
+    "url": "http://kamusiturki.com/{{{s}}}"
+  },
+  {
+    "bang": "key",
+    "name": "Keybase",
+    "url": "https://keybase.io/{{{s}}}"
+  },
+  {
+    "bang": "killerstartups",
+    "name": "Killer Startups",
+    "url": "http://www.killerstartups.com/?s={{{s}}} "
+  },
+  {
+    "bang": "koodous",
+    "name": "Koodous",
+    "url": "https://koodous.com/apks?search={{{s}}}"
+  },
+  {
+    "bang": "korrekturen",
+    "name": "korrekturen.de",
+    "url": "https://www.korrekturen.de/suche/searcher.php?q={{{s}}}"
+  },
+  {
+    "bang": "kotobank",
+    "name": "\u30b3\u30c8\u30d0\u30f3\u30af\u7528\u8a9e\u691c\u7d22",
+    "url": "http://kotobank.jp/word/{{{s}}} "
+  },
+  {
+    "bang": "kuopassa",
+    "name": "Kuopassa.net",
+    "url": "http://kuopassa.net/haku/?q={{{s}}}"
+  },
+  {
+    "bang": "kvraudio",
+    "name": "KVR",
+    "url": "http://www.kvraudio.com/q.php?search=1&q={{{s}}}"
+  },
+  {
+    "bang": "lam",
+    "name": "LambdaTest",
+    "url": "https://www.lambdatest.com/blog/?s={{{s}}}"
+  },
+  {
+    "bang": "larousse",
+    "name": "Larousse French Dictionary",
+    "url": "http://www.larousse.fr/dictionnaires/francais/{{{s}}}"
+  },
+  {
+    "bang": "las",
+    "name": "Latin Word Study Tool",
+    "url": "http://www.perseus.tufts.edu/hopper/morph?&la=la&l={{{s}}}&la=la"
+  },
+  {
+    "bang": "latlong",
+    "name": "LatLong.net",
+    "url": "http://www.latlong.net/search.php?keyword={{{s}}}"
+  },
+  {
+    "bang": "lde",
+    "name": "langenscheidt de-en",
+    "url": "https://en.langenscheidt.com/german-english/{{{s}}}"
+  },
+  {
+    "bang": "lef",
+    "name": "Linguee EN FR",
+    "url": "https://www.linguee.com/english-french/search?source=french&query={{{s}}}"
+  },
+  {
+    "bang": "lenfr",
+    "name": "Linguee",
+    "url": "https://www.linguee.fr/francais-anglais/search?source=anglais&query={{{s}}}"
+  },
+  {
+    "bang": "leofr",
+    "name": "LEO Dictionary French",
+    "url": "https://dict.leo.org/franz\u00f6sisch-deutsch/{{{s}}}"
+  },
+  {
+    "bang": "leopl",
+    "name": "Leo (Polski-Deutsch)",
+    "url": "https://dict.leo.org/plde/?search={{{s}}}"
+  },
+  {
+    "bang": "leopt",
+    "name": "LEO Dictionary Portuguese",
+    "url": "https://dict.leo.org/portugiesisch-deutsch/{{{s}}}"
+  },
+  {
+    "bang": "leoru",
+    "name": "LEO Dictionary Russian",
+    "url": "https://dict.leo.org/russisch-deutsch/{{{s}}}"
+  },
+  {
+    "bang": "lernuen",
+    "name": "Lernu!",
+    "url": "https://lernu.net/en/vortaro/{{{s}}}"
+  },
+  {
+    "bang": "lernues",
+    "name": "Lernu!",
+    "url": "https://lernu.net/es/vortaro/{{{s}}}"
+  },
+  {
+    "bang": "lesfr",
+    "name": "linguee Es-Fr",
+    "url": "https://www.linguee.fr/francais-espagnol/search?source=espagnol&query={{{s}}}"
+  },
+  {
+    "bang": "les",
+    "name": "Linguee",
+    "url": "http://www.linguee.es/espanol-ingles/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "letras",
+    "name": "Letras.mus.br",
+    "url": "http://letras.mus.br/?q={{{s}}} "
+  },
+  {
+    "bang": "lexp",
+    "name": "lexparency.org",
+    "url": "http://lexparency.org/eu/EN/search?deep=True&search_words={{{s}}}"
+  },
+  {
+    "bang": "lext",
+    "name": "\u039b\u03b5\u03be\u03b9\u03ba\u03cc \u03a4\u03c1\u03b9\u03b1\u03bd\u03c4\u03b1\u03c6\u03c5\u03bb\u03bb\u03af\u03b4\u03b7",
+    "url": "http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq={{{s}}}"
+  },
+  {
+    "bang": "libth",
+    "name": "Municipal Library of Thessaloniki",
+    "url": "http://lib.thessaloniki.gr/ipac20/ipac.jsp?session=14048C549F1N5.44906&menu=search&aspect=subtab37&npp=10&ipp=20&spp=20&profile=central--1&ri=&term={{{s}}}&index=.GW&x=0&y=0&aspect=subtab37"
+  },
+  {
+    "bang": "lide",
+    "name": "Linguee (Deutsch/Englisch)",
+    "url": "http://www.linguee.de/deutsch-englisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lidwoord",
+    "name": "Welklidwoord",
+    "url": "https://www.welklidwoord.nl/{{{s}}}"
+  },
+  {
+    "bang": "lied",
+    "name": "linguee.com German - English",
+    "url": "https://www.linguee.de/deutsch-englisch/search?source=englisch&query={{{s}}}"
+  },
+  {
+    "bang": "liende",
+    "name": "Linguee",
+    "url": "https://www.linguee.com/english-german/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lienit",
+    "name": "Linguee (English <-> Italian)",
+    "url": "http://www.linguee.com/english-italian/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lies",
+    "name": "https://www.linguee.es",
+    "url": "https://www.linguee.es/espanol-ingles/search?query={{{s}}}"
+  },
+  {
+    "bang": "lihu",
+    "name": "Linguee (Hungarian - English)",
+    "url": "https://www.linguee.com/english-hungarian/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lindp",
+    "name": "Linguee",
+    "url": "http://www.linguee.de/deutsch-portugiesisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "linei",
+    "name": "Linguee",
+    "url": "https://www.linguee.it/italiano-inglese/search?query={{{s}}}"
+  },
+  {
+    "bang": "linesin",
+    "name": "Linguee.es (ESP a ING)",
+    "url": "http://www.linguee.es/espanol-ingles/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lingfp",
+    "name": "Linguee",
+    "url": "http://www.linguee.fr/francais-portugais/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lingpf",
+    "name": "Linguee",
+    "url": "http://www.linguee.fr/francais-portugais/search?source=portugais&query={{{s}}}"
+  },
+  {
+    "bang": "lingp",
+    "name": "linguee",
+    "url": "http://www.linguee.de/deutsch-portugiesisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lingueefe",
+    "name": "Linguee",
+    "url": "https://www.linguee.de/francais-englisch/search?source=auto&query={{{s}}} "
+  },
+  {
+    "bang": "linguee",
+    "name": "Linguee",
+    "url": "http://www.linguee.de/deutsch-englisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "bang": "lingvo",
+    "name": "Lingvo Live",
+    "url": "https://lingvolive.ru/translate/en-ru/{{{s}}}"
+  },
+  {
+    "bang": "linkl",
+    "name": "LinkLocker ",
+    "url": "https://linklocker.co/search?query={{{s}}}"
+  },
+  {
+    "bang": "linse",
+    "name": "Linguee Swedish",
+    "url": "http://www.linguee.com/english-swedish/search?query={{{s}}}"
+  },
+  {
+    "bang": "linternautesy",
+    "name": "linternaute synonyme",
+    "url": "https://www.linternaute.fr/dictionnaire/fr/synonyme/{{{s}}}"
+  },
+  {
+    "bang": "listcorp",
+    "name": "Listcorp",
+    "url": "https://www.listcorp.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "litefx",
+    "name": "LiteFX",
+    "url": "https://www.litefx.to/search?q={{{s}}}"
+  },
+  {
+    "bang": "lmgtfy",
+    "name": "LMGTFY",
+    "url": "http://www.lmgtfy.com/?s=d&q={{{s}}}"
+  },
+  {
+    "bang": "localtime",
+    "name": "Time an Date (local time)",
+    "url": "http://www.timeanddate.com/time/zone/?query={{{s}}}"
+  },
+  {
+    "bang": "lof",
+    "name": "Learn OmniFocus",
+    "url": "https://learnomnifocus.com/?s={{{s}}}"
+  },
+  {
+    "bang": "lolnames",
+    "name": "LoL Names",
+    "url": "https://lolnames.gg/en/na/{{{s}}}"
+  },
+  {
+    "bang": "loseit",
+    "name": "loseit",
+    "url": "https://www.loseit.com/search/?term={{{s}}}"
+  },
+  {
+    "bang": "louisville",
+    "name": "LouisvilleKy.gov",
+    "url": "https://louisvilleky.gov/search/site/{{{s}}}"
+  },
+  {
+    "bang": "lse",
+    "name": "Linux Security Expert",
+    "url": "https://linuxsecurity.expert/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ltrans",
+    "name": "Linguee",
+    "url": "https://www.linguee.es/espanol-ingles/search?&query={{{s}}}"
+  },
+  {
+    "bang": "ludwig",
+    "name": "Ludwig",
+    "url": "https://ludwig.guru/s/{{{s}}} "
+  },
+  {
+    "bang": "lupa",
+    "name": "(DuckDuckGo) Ag\u00eancia Lupa Fact-Checking Brasil",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Apiaui.folha.uol.com.br+inurl%3Alupa&ia=web"
+  },
+  {
+    "bang": "maajim",
+    "name": "\u0645\u0639\u0627\u062c\u0645",
+    "url": "https://www.maajim.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "macbrit",
+    "name": "Macmillan Dictionary",
+    "url": "http://www.macmillandictionary.com/dictionary/british/{{{s}}}"
+  },
+  {
+    "bang": "madura",
+    "name": "Madura English-Sinhala Dictionary",
+    "url": "https://maduraonline.com/?find={{{s}}}"
+  },
+  {
+    "bang": "mailcatch",
+    "name": "mailcatch.com",
+    "url": "http://mailcatch.com/en/temporary-inbox?box={{{s}}}"
+  },
+  {
+    "bang": "mailchimp",
+    "name": "MailChimp",
+    "url": "https://mailchimp.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mailinator",
+    "name": "Mailinator",
+    "url": "https://www.mailinator.com/v3/index.jsp?zone=public&query={{{s}}}"
+  },
+  {
+    "bang": "manta",
+    "name": "Manta",
+    "url": "http://www.manta.com/mb?search={{{s}}}"
+  },
+  {
+    "bang": "marine",
+    "name": "MarineTraffic",
+    "url": "http://www.marinetraffic.com/en/ais/index/search/all/keyword:{{{s}}}"
+  },
+  {
+    "bang": "marinetraffic",
+    "name": "Marine Traffic",
+    "url": "https://www.marinetraffic.com/en/ais/index/search/all?keyword={{{s}}}"
+  },
+  {
+    "bang": "mcb",
+    "name": "MyCallBot",
+    "url": "http://mycallbot.com/numbers/{{{s}}}"
+  },
+  {
+    "bang": "mdbgt",
+    "name": "MDBG",
+    "url": "http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=1&wdqb={{{s}}}"
+  },
+  {
+    "bang": "mecabricks",
+    "name": "Mecabricks.com",
+    "url": "http://mecabricks.com/en/library/search?q={{{s}}}"
+  },
+  {
+    "bang": "megalodon",
+    "name": "megalodon jp",
+    "url": "http://megalodon.jp/?url={{{s}}}"
+  },
+  {
+    "bang": "metaculus",
+    "name": "Metaculus",
+    "url": "https://www.metaculus.com/questions/?search={{{s}}}"
+  },
+  {
+    "bang": "mfp",
+    "name": "My Fitness Pal",
+    "url": "http://www.myfitnesspal.com/food/search?search={{{s}}}"
+  },
+  {
+    "bang": "mib",
+    "name": "Mibbit",
+    "url": "http://search.mibbit.com/search/{{{s}}}"
+  },
+  {
+    "bang": "michaelis",
+    "name": "Michaelis - Portugu\u00eas - Ingl\u00eas",
+    "url": "http://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra={{{s}}}"
+  },
+  {
+    "bang": "michaelispt",
+    "name": "Michaelis English - Portuguese",
+    "url": "http://michaelis.uol.com.br/busca?r=1&f=1&t=0&palavra={{{s}}}"
+  },
+  {
+    "bang": "mmls",
+    "name": "Minuteman Library Network",
+    "url": "http://find.minlib.net/iii/encore/search?formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&target={{{s}}}"
+  },
+  {
+    "bang": "mm",
+    "name": "Macmillan Dictionary",
+    "url": "http://www.macmillandictionary.com/us/search/british/direct/?q={{{s}}}"
+  },
+  {
+    "bang": "mo13fps",
+    "name": "MasterOf13FPS",
+    "url": "https://masterof13fps.de/forums/search/46335/?q={{{s}}}"
+  },
+  {
+    "bang": "modulargrid",
+    "name": "ModularGrid",
+    "url": "https://www.modulargrid.net/e/modules/browser?SearchName={{{s}}}"
+  },
+  {
+    "bang": "moneyland",
+    "name": "moneyland.ch",
+    "url": "https://www.moneyland.ch/search?q={{{s}}}"
+  },
+  {
+    "bang": "mozpb",
+    "name": "Mozilla Phonebook",
+    "url": "https://phonebook.mozilla.org/?search/{{{s}}}"
+  },
+  {
+    "bang": "mseq",
+    "name": "Morningstar (ETF quote)",
+    "url": "http://etfs.morningstar.com/quote?t={{{s}}}"
+  },
+  {
+    "bang": "msfq",
+    "name": "Morningstar",
+    "url": "http://www.morningstar.com/funds/xnas/{{{s}}}/quote.html"
+  },
+  {
+    "bang": "msnm",
+    "name": "MSN Money",
+    "url": "http://investing.money.msn.com/investments/stock-price?Symbol={{{s}}} "
+  },
+  {
+    "bang": "mst",
+    "name": "Microsoft/Bing Translator URL",
+    "url": "http://www.microsofttranslator.com/bv.aspx?a={{{s}}}"
+  },
+  {
+    "bang": "multitran",
+    "name": "Multitran",
+    "url": "http://www.multitran.ru/c/m.exe?CL=1&s={{{s}}}&l1=1"
+  },
+  {
+    "bang": "mwb",
+    "name": "Mijnwoordenboek",
+    "url": "http://www.mijnwoordenboek.nl/vertaal/NL/EN/{{{s}}}"
+  },
+  {
+    "bang": "mxtool",
+    "name": "MxToolBox",
+    "url": "https://mxtoolbox.com/SuperTool.aspx?action={{{s}}}"
+  },
+  {
+    "bang": "mypdns",
+    "name": "My Private DNS",
+    "url": "http://www.mypdns.org/trac/search?q={{{s}}}"
+  },
+  {
+    "bang": "mywot",
+    "name": "Web of Trust",
+    "url": "https://www.mywot.com/en/scorecard/{{{s}}}"
+  },
+  {
+    "bang": "nbd",
+    "name": "Norwegian Bokm\u00e5l Dictionary",
+    "url": "http://ordbok.uib.no/perl/ordbok.cgi?bokmaal=1&opp={{{s}}}"
+  },
+  {
+    "bang": "neo",
+    "name": "Neocities",
+    "url": "https://neocities.org/browse?tag={{{s}}}"
+  },
+  {
+    "bang": "nightbot",
+    "name": "Nightbot Commands",
+    "url": "https://nightbot.tv/t/{{{s}}}/commands"
+  },
+  {
+    "bang": "nlverbix",
+    "name": "Verbix (Dutch)",
+    "url": "http://www.verbix.com/webverbix/go.php?D1=24&T1={{{s}}}"
+  },
+  {
+    "bang": "nnd",
+    "name": "The Norwegian Nynorsk dictionary",
+    "url": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&nynorsk=+&ordbok=nynorsk"
+  },
+  {
+    "bang": "nse",
+    "name": "National Stock Exchange of India",
+    "url": "http://www.nseindia.com/gsa/search.jsp?q={{{s}}}"
+  },
+  {
+    "bang": "ntrans",
+    "name": "TriTrans",
+    "url": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Norsk&Fra={{{s}}}"
+  },
+  {
+    "bang": "nutritiondata",
+    "name": "NutritionData",
+    "url": "http://nutritiondata.self.com/foods-{{{s}}}000000000000000000000.html"
+  },
+  {
+    "bang": "nvkrjp",
+    "name": "NAVER Translate from Korean to Japanese",
+    "url": "https://papago.naver.com/?sk=ko&tk=ja&st={{{s}}}"
+  },
+  {
+    "bang": "\u00f5",
+    "name": "Eesti \u00f5igekeelsuss\u00f5naraamat",
+    "url": "http://www.eki.ee/dict/qs/index.cgi?Q={{{s}}}"
+  },
+  {
+    "bang": "oeis",
+    "name": "The On-Line Encyclopedia of Integer Sequences",
+    "url": "http://oeis.org/search?q={{{s}}}&language=english&go=Search"
+  },
+  {
+    "bang": "ojad",
+    "name": "OJAD - Online Japanese Accent Dictionary",
+    "url": "http://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:{{{s}}}"
+  },
+  {
+    "bang": "onshape",
+    "name": "Onshape Docs",
+    "url": "https://cad.onshape.com/documents?resourceType=filter&nodeId=1&column=modifiedAt&order=desc&viewMode=0&q={{{s}}}"
+  },
+  {
+    "bang": "onvista",
+    "name": "Onvista",
+    "url": "http://www.onvista.de/suche/?onvHeaderSearchBoxAction=true&searchValue={{{s}}}"
+  },
+  {
+    "bang": "opggna",
+    "name": "OP.GG",
+    "url": "http://na.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "bang": "opq",
+    "name": "Opquast Checklists",
+    "url": "http://checklists.opquast.com/fr/opquastv2?q={{{s}}} "
+  },
+  {
+    "bang": "ordguru",
+    "name": "Ordguru",
+    "url": "https://www.ordguru.se/synonymer/s\u00f6k?q={{{s}}}"
+  },
+  {
+    "bang": "ordnet",
+    "name": "Den Danske Ordbog",
+    "url": "http://ordnet.dk/ddo/ordbog?query={{{s}}}"
+  },
+  {
+    "bang": "osalt",
+    "name": "Open Source Alternative",
+    "url": "https://osalt.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "othesa",
+    "name": "Open Thesaurus",
+    "url": "https://www.openthesaurus.de/synonyme/{{{s}}}"
+  },
+  {
+    "bang": "ou",
+    "name": "The University of Oklahoma",
+    "url": "http://www.ou.edu/content/web/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "ows",
+    "name": "Opera Add-ons XT WebStore",
+    "url": "https://addons.opera.com/ru/search/?query={{{s}}}&type=extensions"
+  },
+  {
+    "bang": "oxforddictionaries",
+    "name": "Oxford Dictionaries",
+    "url": "http://www.oxforddictionaries.com/definition/english/{{{s}}}"
+  },
+  {
+    "bang": "oxford",
+    "name": "Lexico",
+    "url": "https://en.oxforddictionaries.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "panideas",
+    "name": "The Ideas Kitchen",
+    "url": "https://www.theideaskitchen.co.uk/search/-{{{s}}}"
+  },
+  {
+    "bang": "parking",
+    "name": "ParkWhiz",
+    "url": "http://www.parkwhiz.com/search/?destination={{{s}}}"
+  },
+  {
+    "bang": "pastebin",
+    "name": "pastebin",
+    "url": "http://pastebin.com/search?cx=partner-pub-4339714761096906%3A1qhz41g8k4m&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "pb",
+    "name": "Pinboard",
+    "url": "http://pinboard.in/search/?query={{{s}}}&mine=Search+Mine"
+  },
+  {
+    "bang": "pdbe",
+    "name": "PDB Europe",
+    "url": "https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams={\"\"text\"\":[{\"\"value\"\":\"\"{{{s}}}\"\",\"\"condition1\"\":\"\"AND\"\",\"\"condition2\"\":\"\"Contains\"\"}]}"
+  },
+  {
+    "bang": "pdfy",
+    "name": "PrintFriendly & PDF",
+    "url": "https://www.printfriendly.com/print/?source=site&url={{{s}}}"
+  },
+  {
+    "bang": "perdola",
+    "name": "Perdola",
+    "url": "https://childishgiant.github.io/perdola/?app={{{s}}}"
+  },
+  {
+    "bang": "pgn",
+    "name": "PlusGirot - Search PlusGiro number",
+    "url": "https://kontoutdrag.plusgirot.se/ku/sokko002?SO_KTO={{{s}}}"
+  },
+  {
+    "bang": "pgp",
+    "name": "MIT PGP public key server lookup",
+    "url": "https://pgp.mit.edu/pks/lookup?search={{{s}}}"
+  },
+  {
+    "bang": "phonespell",
+    "name": "PhoneSpell",
+    "url": "https://phonespell.org/combo.cgi?n={{{s}}}"
+  },
+  {
+    "bang": "photopin",
+    "name": "PhotoPin",
+    "url": "http://photopin.com/search/{{{s}}}"
+  },
+  {
+    "bang": "pinboard",
+    "name": "Pinboard",
+    "url": "http://pinboard.in/search/?query={{{s}}}&mine=Search+Mine"
+  },
+  {
+    "bang": "pinyin1",
+    "name": "pin1yin1.com",
+    "url": "http://www.pin1yin1.com/#{{{s}}}"
+  },
+  {
+    "bang": "plfr",
+    "name": "Reverso",
+    "url": "http://dictionnaire.reverso.net/polonais-francais/{{{s}}}"
+  },
+  {
+    "bang": "plw",
+    "name": "Polish Wikipedia",
+    "url": "https://pl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pocket",
+    "name": "Pocket",
+    "url": "https://app.getpocket.com/search/{{{s}}}"
+  },
+  {
+    "bang": "podio",
+    "name": "Podio",
+    "url": "https://podio.com/search#/query/{{{s}}}"
+  },
+  {
+    "bang": "poe",
+    "name": "Path of Exile Wiki",
+    "url": "http://pathofexile.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "poly",
+    "name": "Poly",
+    "url": "https://poly.google.com/search/{{{s}}}"
+  },
+  {
+    "bang": "ponsdeen",
+    "name": "Pons",
+    "url": "http://en.pons.com/translate?q={{{s}}}&l=deen&in=&lf=de"
+  },
+  {
+    "bang": "ponsdela",
+    "name": "Pons Online-W\u00f6rterbuch Latein",
+    "url": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=dela"
+  },
+  {
+    "bang": "ponsderu",
+    "name": "PONS Deutsch-Russisch",
+    "url": "http://en.pons.com/translate?q={{{s}}}&l=deru&in=&lf=de&cid="
+  },
+  {
+    "bang": "ponsed",
+    "name": "pons.eu",
+    "url": "http://en.pons.com/translate?q={{{s}}}&l=deen&in=&lf=en"
+  },
+  {
+    "bang": "ponsende",
+    "name": "Pons",
+    "url": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=deen&in=&lf=en"
+  },
+  {
+    "bang": "pons",
+    "name": "pons.eu",
+    "url": "https://en.pons.com/translate?q={{{s}}}"
+  },
+  {
+    "bang": "ponspt",
+    "name": "Pons.eu",
+    "url": "http://en.pons.com/translate?q={{{s}}}&l=enpt&in=&lf=en"
+  },
+  {
+    "bang": "ports",
+    "name": "Speedguide.net Port Lookup",
+    "url": "http://www.speedguide.net/port.php?port={{{s}}}"
+  },
+  {
+    "bang": "prd",
+    "name": "Pathfinder Reference Document",
+    "url": "http://paizo.com/search?q={{{s}}}&what=prd&includeUnrated=true&includeUnavailable=true"
+  },
+  {
+    "bang": "predictit",
+    "name": "PredictIt",
+    "url": "https://www.predictit.org/markets/search?query={{{s}}}"
+  },
+  {
+    "bang": "prodhun",
+    "name": "Producthunt",
+    "url": "http://www.producthunt.com/#!/s/posts/{{{s}}}"
+  },
+  {
+    "bang": "pwned",
+    "name": "Have i been pwned?",
+    "url": "https://haveibeenpwned.com/account/{{{s}}}"
+  },
+  {
+    "bang": "qaz",
+    "name": "Unicode Text Converter",
+    "url": "http://qaz.wtf/u/convert.cgi?text={{{s}}}"
+  },
+  {
+    "bang": "qp",
+    "name": "Quip",
+    "url": "https://www.quip.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "quttera",
+    "name": "Quttera",
+    "url": "https://quttera.com/sitescan/{{{s}}}"
+  },
+  {
+    "bang": "r2u",
+    "name": "\u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e-\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0441\u043b\u043e\u0432\u043d\u0438\u043a\u0438",
+    "url": "http://www.r2u.org.ua/s?w={{{s}}}&scope=all&dicts=all&highlight=on"
+  },
+  {
+    "bang": "rae",
+    "name": "RAE",
+    "url": "https://dle.rae.es/?w={{{s}}}"
+  },
+  {
+    "bang": "random",
+    "name": "RANDOM.ORG",
+    "url": "https://www.random.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "rbl",
+    "name": "RBL Lookup",
+    "url": "http://www.dnswatch.info/dns/rbl-lookup?host={{{s}}}&submit=RBL+Lookup"
+  },
+  {
+    "bang": "rbndx",
+    "name": "Reverse Beacon Network - DX station",
+    "url": "http://www.reversebeacon.net/dxsd1/dxsd1.php?f=0&c={{{s}}}&t=dx"
+  },
+  {
+    "bang": "rbt",
+    "name": "RebeccaBlackTech",
+    "url": "https://rbt.asia/_/search/text/{{{s}}}"
+  },
+  {
+    "bang": "rcenpl",
+    "name": "Reverso Context English-Polish",
+    "url": "http://context.reverso.net/translation/english-polish/{{{s}}}"
+  },
+  {
+    "bang": "rcfe",
+    "name": "Reverso Context French-English",
+    "url": "http://context.reverso.net/translation/french-english/{{{s}}}"
+  },
+  {
+    "bang": "rcfrnl",
+    "name": "Reverso Context French Dutch",
+    "url": "http://context.reverso.net/translation/french-dutch/{{{s}}}"
+  },
+  {
+    "bang": "rcplde",
+    "name": "Reverso dictionary Polish- German",
+    "url": "http://context.reverso.net/t%C5%82umaczenie/niemiecki-polski/{{{s}}}"
+  },
+  {
+    "bang": "rcplen",
+    "name": "Reverso Context Polish-English",
+    "url": "http://context.reverso.net/translation/polish-english/{{{s}}}"
+  },
+  {
+    "bang": "rdns",
+    "name": "MXToolbox",
+    "url": "http://mxtoolbox.com/SuperTool.aspx?action=ptr%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "bang": "reenes",
+    "name": "Reverso English - Spanish",
+    "url": "http://dictionary.reverso.net/english-spanish/{{{s}}}"
+  },
+  {
+    "bang": "reenfr",
+    "name": "Reverso English - French",
+    "url": "http://dictionary.reverso.net/english-french/{{{s}}}"
+  },
+  {
+    "bang": "reen",
+    "name": "Reverso English - Definition",
+    "url": "http://dictionary.reverso.net/english-definition/{{{s}}}"
+  },
+  {
+    "bang": "reesen",
+    "name": "Reverso Spanish - English",
+    "url": "http://dictionary.reverso.net/spanish-english/{{{s}}}"
+  },
+  {
+    "bang": "reesfr",
+    "name": "Reverso Spanish - French",
+    "url": "http://dictionary.reverso.net/spanish-french/{{{s}}}"
+  },
+  {
+    "bang": "reesge",
+    "name": "Reverso Spanish - German",
+    "url": "http://woerterbuch.reverso.net/spanisch-deutsch/{{{s}}}"
+  },
+  {
+    "bang": "rees",
+    "name": "Reverso Spanish - Definition",
+    "url": "http://dictionary.reverso.net/spanish-definition/{{{s}}}"
+  },
+  {
+    "bang": "refreb",
+    "name": "Reverso French - English",
+    "url": "http://dictionary.reverso.net/french-english/{{{s}}}"
+  },
+  {
+    "bang": "refres",
+    "name": "Reverso French - Spanish",
+    "url": "http://dictionary.reverso.net/french-spanish/{{{s}}}"
+  },
+  {
+    "bang": "refrge",
+    "name": "Reverso French - German",
+    "url": "http://dictionnaire.reverso.net/francais-allemand/{{{s}}}"
+  },
+  {
+    "bang": "refr",
+    "name": "Reverso French - Definition",
+    "url": "http://dictionary.reverso.net/french-definition/{{{s}}}"
+  },
+  {
+    "bang": "regees",
+    "name": "Reverso German - Spanish",
+    "url": "http://woerterbuch.reverso.net/deutsch-spanisch/{{{s}}}"
+  },
+  {
+    "bang": "regefr",
+    "name": "Reverso German - French",
+    "url": "http://dictionnaire.reverso.net/allemand-francais/{{{s}}}"
+  },
+  {
+    "bang": "rege",
+    "name": "Reverso German - Definition",
+    "url": "http://dictionary.reverso.net/german-definition/{{{s}}}"
+  },
+  {
+    "bang": "retskriv",
+    "name": "Dansk Sprogn\u00e6vn",
+    "url": "https://dsn.dk/?retskriv={{{s}}}&ae=0"
+  },
+  {
+    "bang": "revenit",
+    "name": "Reverso Context",
+    "url": "http://context.reverso.net/translation/english-italian/{{{s}}}"
+  },
+  {
+    "bang": "revesen",
+    "name": "Reverso context",
+    "url": "http://context.reverso.net/translation/spanish-english/{{{s}}} "
+  },
+  {
+    "bang": "revgf",
+    "name": "Reverso (German-French)",
+    "url": "https://dictionary.reverso.net/german-french/{{{s}}}"
+  },
+  {
+    "bang": "reviten",
+    "name": "Reverso Context",
+    "url": "http://context.reverso.net/translation/italian-english/{{{s}}}"
+  },
+  {
+    "bang": "ripestat",
+    "name": "RIPEstat",
+    "url": "http://stat.ripe.net/{{{s}}}"
+  },
+  {
+    "bang": "riten",
+    "name": "Reverso context",
+    "url": "http://context.reverso.net/translation/italian-english/{{{s}}}"
+  },
+  {
+    "bang": "rkn",
+    "name": "\u0420\u043e\u0441\u043a\u043e\u043c\u0441\u0432\u043e\u0431\u043e\u0434\u0430 (rublacklist)",
+    "url": "https://reestr.rublacklist.net/search/?q={{{s}}}"
+  },
+  {
+    "bang": "rmp",
+    "name": "Rate My Professor",
+    "url": "http://www.ratemyprofessors.com/search.jsp?query={{{s}}}"
+  },
+  {
+    "bang": "rofi",
+    "name": "Dictionar roman-finlandez-roman",
+    "url": "http://www.dictionar-finlandez.net/online/?word={{{s}}}"
+  },
+  {
+    "bang": "rot13",
+    "name": "Decode",
+    "url": "http://decode.org/?q={{{s}}}"
+  },
+  {
+    "bang": "rpad",
+    "name": "riseUp networks Etherpad",
+    "url": "https://pad.riseup.net/p/{{{s}}}"
+  },
+  {
+    "bang": "rphone",
+    "name": "Whitepages",
+    "url": "http://www.whitepages.com/phone/{{{s}}}"
+  },
+  {
+    "bang": "rtm",
+    "name": "Remember the Milk",
+    "url": "https://www.rememberthemilk.com/app/#search/{{{s}}}"
+  },
+  {
+    "bang": "sana",
+    "name": "Sanakirja",
+    "url": "http://www.sanakirja.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "saob",
+    "name": "Svenska Akademiens Ordb\u00f6cker",
+    "url": "https://svenska.se/tre/?sok={{{s}}}&pz=1"
+  },
+  {
+    "bang": "sbt",
+    "name": "Socialblade twitter",
+    "url": "https://socialblade.com/twitter/user/{{{s}}}"
+  },
+  {
+    "bang": "scania",
+    "name": "Scania Commercial Vehicles",
+    "url": "https://www.scania.com/global/en/home/misc/searchresult.html?q={{{s}}}"
+  },
+  {
+    "bang": "searchbug",
+    "name": "SearchBug",
+    "url": "http://www.searchbug.com/tools/reverse-phone-lookup.aspx?TYPE=phonerev&TAG=tools&FULLPHONE={{{s}}}"
+  },
+  {
+    "bang": "semeta",
+    "name": "Meta Stack Exchange",
+    "url": "https://meta.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sendict",
+    "name": "SentenceDict",
+    "url": "http://sentencedict.com/{{{s}}}.html"
+  },
+  {
+    "bang": "shabbat",
+    "name": "https://www.hebcal.com",
+    "url": "https://www.hebcal.com/shabbat/?cfg=json&m=50&b=18&zip={{{s}}}&a=on"
+  },
+  {
+    "bang": "shorten",
+    "name": "Cortas - URL shortener",
+    "url": "http://cortas.elpais.com/encode.pl?u=http://{{{s}}}"
+  },
+  {
+    "bang": "similar",
+    "name": "SimilarSites",
+    "url": "http://www.similarsites.com/site/{{{s}}}"
+  },
+  {
+    "bang": "similarweb",
+    "name": "SimilarWeb",
+    "url": "http://www.similarweb.com/website/{{{s}}}"
+  },
+  {
+    "bang": "sinonimit",
+    "name": "Sinonimi.it",
+    "url": "http://sinonimi.it/{{{s}}}"
+  },
+  {
+    "bang": "sinonimos",
+    "name": "Sin\u00f4mimos.com.br",
+    "url": "https://www.sinonimos.com.br/{{{s}}}"
+  },
+  {
+    "bang": "sitealytics",
+    "name": "sitealytics.com",
+    "url": "http://www.sitealytics.com/{{{s}}}"
+  },
+  {
+    "bang": "sj",
+    "name": "sitejabber",
+    "url": "https://www.sitejabber.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "skenfi",
+    "name": "Sanakirja.org en-fi",
+    "url": "http://www.sanakirja.org/search.php?l=3&l2=17&q={{{s}}}"
+  },
+  {
+    "bang": "skyvector",
+    "name": "SkyVector",
+    "url": "https://skyvector.com/search/site/{{{s}}}"
+  },
+  {
+    "bang": "slds",
+    "name": "Salesforce Lightning Design System",
+    "url": "https://www.lightningdesignsystem.com/components/{{{s}}}"
+  },
+  {
+    "bang": "soxl",
+    "name": "Stack Overflow MS Excel Search",
+    "url": "http://stackoverflow.com/search?q=[excel]+{{{s}}}"
+  },
+  {
+    "bang": "spandict",
+    "name": "SpanishDict",
+    "url": "http://www.spanishdict.com/translate/{{{s}}}"
+  },
+  {
+    "bang": "spanishd",
+    "name": "SpanishDict",
+    "url": "http://www.spanishdict.com/translate/{{{s}}}"
+  },
+  {
+    "bang": "spb",
+    "name": "Speiderbasen",
+    "url": "https://speiderbasen.no/?searchWord={{{s}}}"
+  },
+  {
+    "bang": "sskj",
+    "name": "Bos.zrs-sazu.si",
+    "url": "http://bos.zrc-sazu.si/cgi/a03.exe?name=sskj_testa&expression={{{s}}}&hs=1"
+  },
+  {
+    "bang": "stabihannover",
+    "name": "Stadtbibliothek Hannover OPAC",
+    "url": "https://bibliothek.hannover-stadt.de/alswww3.dll/APS_ZONES?fn=SEARCH?q={{{s}}}"
+  },
+  {
+    "bang": "steamio",
+    "name": "steamid.io",
+    "url": "https://steamid.io/lookup/{{{s}}}"
+  },
+  {
+    "bang": "stib",
+    "name": "STIB MIVB",
+    "url": "http://www.stib-mivb.be/horaires-dienstregeling2.html?l=en&linecode={{{s}}}"
+  },
+  {
+    "bang": "$",
+    "name": "Stockflare",
+    "url": "https://stockflare.com/#stocks/${{{s}}} "
+  },
+  {
+    "bang": "strans",
+    "name": "TriTrans",
+    "url": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Spansk&Fra={{{s}}}"
+  },
+  {
+    "bang": "stsde",
+    "name": "Spreadthesign",
+    "url": "https://www.spreadthesign.com/de.de/search/?q={{{s}}}"
+  },
+  {
+    "bang": "sucuri",
+    "name": "Sucuri",
+    "url": "https://sitecheck.sucuri.net/results/{{{s}}}"
+  },
+  {
+    "bang": "surveygizmo",
+    "name": "SurveyGizmo help",
+    "url": "https://help.surveygizmo.com/help/search/?phrase={{{s}}}"
+  },
+  {
+    "bang": "survey",
+    "name": "SurveyMonkey",
+    "url": "https://www.surveymonkey.com/dashboard/?term{{{s}}}"
+  },
+  {
+    "bang": "svb",
+    "name": "Silicon Valley Bank",
+    "url": "http://www.svb.com/searchresults.aspx?term={{{s}}}"
+  },
+  {
+    "bang": "swagbucks",
+    "name": "Swagbucks",
+    "url": "https://swagbucks.com/?q={{{s}}}"
+  },
+  {
+    "bang": "syfr",
+    "name": "Synonymes.com",
+    "url": "http://www.synonymes.com/resultats.php?mot={{{s}}}"
+  },
+  {
+    "bang": "symbolab",
+    "name": "Symbolab",
+    "url": "https://www.symbolab.com/solver/step-by-step/{{{s}}}"
+  },
+  {
+    "bang": "sympy",
+    "name": "SymPy Gamma",
+    "url": "http://www.sympygamma.com/input/?i={{{s}}}"
+  },
+  {
+    "bang": "syncme",
+    "name": "Sync.me",
+    "url": "https://sync.me/search/?number={{{s}}}"
+  },
+  {
+    "bang": "synoniem",
+    "name": "Synoniemen.net",
+    "url": "http://synoniemen.net/index.php?zoekterm={{{s}}}"
+  },
+  {
+    "bang": "sys",
+    "name": "S\u00fcnon\u00fc\u00fcmis\u00f5nastik",
+    "url": "http://www.eki.ee/dict/sys/index.cgi?Q={{{s}}}&F=M&C06=en"
+  },
+  {
+    "bang": "systranet",
+    "name": "Systranet",
+    "url": "http://www.systranet.com/translate?text={{{s}}}"
+  },
+  {
+    "bang": "sznsde",
+    "name": "slovnik.seznam.cz n\u011bm\u010dina",
+    "url": "http://slovnik.seznam.cz/de/?q={{{s}}}"
+  },
+  {
+    "bang": "szns",
+    "name": "slovnik.seznam.cz",
+    "url": "http://slovnik.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "bang": "szotar",
+    "name": "Sz\u00f3t\u00e1r.net",
+    "url": "https://www.szotar.net/mind/{{{s}}}"
+  },
+  {
+    "bang": "sztaki",
+    "name": "SZTAKI Sz\u00f3t\u00e1r",
+    "url": "http://szotar.sztaki.hu/search?searchWord={{{s}}}"
+  },
+  {
+    "bang": "taaladvies",
+    "name": "Taaladvies.net",
+    "url": "https://taaladvies.net/taal/advies/zoek.php?q={{{s}}}"
+  },
+  {
+    "bang": "tabroom",
+    "name": "Tabroom",
+    "url": "https://www.tabroom.com/index/search.mhtml?search={{{s}}}"
+  },
+  {
+    "bang": "tagfinder",
+    "name": "Tagfinder",
+    "url": "https://tagfinder.herokuapp.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "taginfoch",
+    "name": "taginfo Switzerland",
+    "url": "http://taginfo.openstreetmap.ch/search?q={{{s}}}"
+  },
+  {
+    "bang": "taid",
+    "name": "Therapist Aid",
+    "url": "https://www.therapistaid.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "tbio",
+    "name": "Treccani Biografie",
+    "url": "http://www.treccani.it/biografie/?q={{{s}}}"
+  },
+  {
+    "bang": "td",
+    "name": "TimeAndDate",
+    "url": "http://www.timeanddate.com/search/results.html?query={{{s}}}"
+  },
+  {
+    "bang": "tempmail",
+    "name": "https://temp-mail.org",
+    "url": "https://temp-mail.org/{{{s}}}"
+  },
+  {
+    "bang": "termium",
+    "name": "TERMIUM Plus",
+    "url": "http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?srchtxt={{{s}}}"
+  },
+  {
+    "bang": "textise",
+    "name": "Textise",
+    "url": "https://www.textise.net/showText.aspx?strURL={{{s}}}"
+  },
+  {
+    "bang": "tezaurs",
+    "name": "T\u0113zaurs",
+    "url": "http://tezaurs.lv/#/sv/?{{{s}}}"
+  },
+  {
+    "bang": "tft",
+    "name": "The Free Thesaurus",
+    "url": "https://www.freethesaurus.com/{{{s}}}"
+  },
+  {
+    "bang": "thesaurusde",
+    "name": "Open Thesaurus",
+    "url": "http://www.openthesaurus.de/synonyme/{{{s}}}"
+  },
+  {
+    "bang": "thesaurus",
+    "name": "Thesaurus.com",
+    "url": "https://www.thesaurus.com/browse/{{{s}}}?s=t"
+  },
+  {
+    "bang": "tim",
+    "name": "DuckDuckGo Timer",
+    "url": "http://duckduckgo.com/?q=timer+{{{s}}}&ia=answer"
+  },
+  {
+    "bang": "timeis",
+    "name": "Time Is",
+    "url": "https://time.is/{{{s}}}"
+  },
+  {
+    "bang": "timer",
+    "name": "DuckDuckGo Timer",
+    "url": "http://duckduckgo.com/?q=timer+{{{s}}}&ia=answer"
+  },
+  {
+    "bang": "timerep",
+    "name": "Timerepubik",
+    "url": "https://timerepublik.com/?q={{{s}}}"
+  },
+  {
+    "bang": "timerepublik",
+    "name": "Timerepublik",
+    "url": "https://timerepublik.com/?q={{{s}}}"
+  },
+  {
+    "bang": "timezone",
+    "name": "Time and Date (time zone)",
+    "url": "http://www.timeanddate.com/time/zones/{{{s}}}"
+  },
+  {
+    "bang": "tink",
+    "name": "Tinkercad",
+    "url": "https://www.tinkercad.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tinycards",
+    "name": "Tinycards",
+    "url": "https://tinycards.duolingo.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "tis",
+    "name": "Time.is",
+    "url": "http://time.is/{{{s}}}"
+  },
+  {
+    "bang": "tldrlegal",
+    "name": "TL;DR Legal",
+    "url": "https://tldrlegal.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "tlld",
+    "name": "Trainline Live Departures",
+    "url": "https://www.thetrainline.com/live/departures/{{{s}}}"
+  },
+  {
+    "bang": "toa",
+    "name": "The Orange Alliance",
+    "url": "https://theorangealliance.org/teams/{{{s}}}"
+  },
+  {
+    "bang": "todoist",
+    "name": "Todoist",
+    "url": "https://todoist.com/app?lang=en#agenda%2F{{{s}}} "
+  },
+  {
+    "bang": "tosdr",
+    "name": "Terms of Service; Didn't Read",
+    "url": "https://tosdr.org/#search={{{s}}}"
+  },
+  {
+    "bang": "tperth",
+    "name": "transperth",
+    "url": "https://www.transperth.wa.gov.au/Search-Results?Search={{{s}}}"
+  },
+  {
+    "bang": "tradingview",
+    "name": "TradingView",
+    "url": "https://www.tradingview.com/chart/?symbol={{{s}}}"
+  },
+  {
+    "bang": "trad",
+    "name": "Reverso",
+    "url": "http://dictionary.reverso.net/french-english/{{{s}}}"
+  },
+  {
+    "bang": "translatesite",
+    "name": "Microsoft Translator (for websites)",
+    "url": "http://www.microsofttranslator.com/bv.aspx?from=&to=en&a={{{s}}}"
+  },
+  {
+    "bang": "trash",
+    "name": "Trashmail",
+    "url": "http://www.trashmail.de/?search={{{s}}}"
+  },
+  {
+    "bang": "trep",
+    "name": "Timerepublik",
+    "url": "https://timerepublik.com/?q={{{s}}}"
+  },
+  {
+    "bang": "tsin",
+    "name": "Treccani Sinonimi e Contrari",
+    "url": "http://www.treccani.it/sinonimi/?q={{{s}}}"
+  },
+  {
+    "bang": "twitchbots",
+    "name": "Twitch Bit Directory",
+    "url": "https://twitchbots.info/check?username={{{s}}}"
+  },
+  {
+    "bang": "tydala",
+    "name": "Tyda.\u200bse Dictionary (Swedish-Latin)",
+    "url": "http://tyda.se/search/{{{s}}}?lang%5B0%5D=la&lang%5B1%5D=sv"
+  },
+  {
+    "bang": "tyurl",
+    "name": "TinyUrl",
+    "url": "https://tinyurl.com/create.php?source=indexpage&url={{{s}}}&submit=Make+TinyURL%21&alias= "
+  },
+  {
+    "bang": "ucfl",
+    "name": "University of Central Florida",
+    "url": "https://search.ucf.edu/#?q={{{s}}}"
+  },
+  {
+    "bang": "ucpjp",
+    "name": "Uncyclopedia",
+    "url": "http://ja.uncyc.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "uit",
+    "name": "Uitmuntend",
+    "url": "http://www.uitmuntend.de/search.html?search={{{s}}}"
+  },
+  {
+    "bang": "unicodeparty",
+    "name": "Unicode Party",
+    "url": "http://unicode.party/?query={{{s}}}"
+  },
+  {
+    "bang": "unicodetable",
+    "name": "Unicode Table",
+    "url": "http://unicode-table.com/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "usd2gbp",
+    "name": "xe",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=USD&To=GBP"
+  },
+  {
+    "bang": "userbench",
+    "name": "User Benchmark",
+    "url": "http://www.userbenchmark.com/Search?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "us",
+    "name": "Userstyles.org",
+    "url": "https://userstyles.org/styles/browse?search_terms={{{s}}}"
+  },
+  {
+    "bang": "v2ve",
+    "name": "verb2verbe.com",
+    "url": "http://www.verb2verbe.com/EnglishConj.aspx?verb={{{s}}}&tail=&type=query"
+  },
+  {
+    "bang": "v2vf",
+    "name": "verb2verbe.com",
+    "url": "http://www.verb2verbe.com/francais/FrenchConj.aspx?verb={{{s}}}&tail=&ref=0&type=query"
+  },
+  {
+    "bang": "validatecss",
+    "name": "CSS Validation Service",
+    "url": "http://jigsaw.w3.org/css-validator/validator?uri={{{s}}}&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en"
+  },
+  {
+    "bang": "validate",
+    "name": "W3C Validator",
+    "url": "http://validator.w3.org/check?uri={{{s}}}&charset=%28detect+automatically%29&doctype=Inline&group=0"
+  },
+  {
+    "bang": "vanguard",
+    "name": "Vanguard",
+    "url": "https://www.vanguardinvestments.com.au/retail/mvc/searchresults.htm?https%3A%2F%2Fwww.vanguardinvestments.com.au%2Fretail%2Fmvc%2Fsearchresults.htm=&searchtext={{{s}}}"
+  },
+  {
+    "bang": "verbfi",
+    "name": "Finnish Verb Conjugator",
+    "url": "http://www.dictionar-finlandez.net/online/verbs/conjugate_verb.php?verb={{{s}}}"
+  },
+  {
+    "bang": "verbs",
+    "name": "Catal\u00e0, verbs i conjugaci\u00f3",
+    "url": "http://www.verbs.cat/ca/conjugacio.html?infinitive={{{s}}}"
+  },
+  {
+    "bang": "verse",
+    "name": "Bible.com",
+    "url": "https://www.bible.com/search/bible?q={{{s}}}"
+  },
+  {
+    "bang": "vertalennu",
+    "name": "Vertalen.nu",
+    "url": "http://www.vertalen.nu/vertaal?vertaal={{{s}}}&van=en&naar=nl"
+  },
+  {
+    "bang": "vgcollect",
+    "name": "VGCollect",
+    "url": "http://vgcollect.com/search/{{{s}}}"
+  },
+  {
+    "bang": "virgiliomail",
+    "name": "Virgilio Mail",
+    "url": "http://mail.virgilio.it/login/?q={{{s}}}:"
+  },
+  {
+    "bang": "vortaronl",
+    "name": "vortaro.nl",
+    "url": "https://vortaro.nl/?v={{{s}}}"
+  },
+  {
+    "bang": "wals",
+    "name": "Wikipedia Alemannisch",
+    "url": "https://als.wikipedia.org/w/index.php/search={{{s}}}"
+  },
+  {
+    "bang": "waybackmachine",
+    "name": "Internet Wayback Machine",
+    "url": "http://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "bang": "wcme",
+    "name": "PySpark documentation",
+    "url": "https://spark.apache.org/docs/latest/api/python/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "wd",
+    "name": "Wikidata",
+    "url": "https://www.wikidata.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "weboftrust",
+    "name": "Web of Trust",
+    "url": "https://www.mywot.com/en/scorecard/{{{s}}}"
+  },
+  {
+    "bang": "webxicon",
+    "name": "webxicon",
+    "url": "http://webxicon.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "wfdehu",
+    "name": "Webford\u00edt\u00e1s de-hu",
+    "url": "http://www.webforditas.hu/szotar.php?S={{{s}}}&l1=de&l2=hu"
+  },
+  {
+    "bang": "wfenhu",
+    "name": "Webford\u00edt\u00e1s en-hu",
+    "url": "http://www.webforditas.hu/szotar.php?S={{{s}}}&l1=en&l2=hu"
+  },
+  {
+    "bang": "wfhude",
+    "name": "Webford\u00edt\u00e1s hu-de",
+    "url": "http://www.webforditas.hu/szotar.php?S={{{s}}}&l1=hu&l2=de"
+  },
+  {
+    "bang": "wfhuen",
+    "name": "Webford\u00edt\u00e1s hu-en",
+    "url": "http://www.webforditas.hu/szotar.php?S= {{{s}}}&l1=hu&l2=en"
+  },
+  {
+    "bang": "wfren",
+    "name": "Wordreference",
+    "url": "http://www.wordreference.com/fren/{{{s}}}"
+  },
+  {
+    "bang": "wft",
+    "name": "warframe.market",
+    "url": "https://warframe.market/items/{{{s}}}"
+  },
+  {
+    "bang": "which",
+    "name": "Which",
+    "url": "https://search.which.co.uk/search?w={{{s}}}"
+  },
+  {
+    "bang": "whois.com",
+    "name": "Whois.com",
+    "url": "http://www.whois.com/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "whopm",
+    "name": "who.pm",
+    "url": "https://who.pm/{{{s}}}"
+  },
+  {
+    "bang": "whoscalltw",
+    "name": "Whoscall TW",
+    "url": "https://whoscall.com/en-US/tw/{{{s}}}"
+  },
+  {
+    "bang": "wikipediade",
+    "name": "Wikipedia Deutschland",
+    "url": "http://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikizionario",
+    "name": "wikizionario",
+    "url": "https://it.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wordhippo",
+    "name": "word hippo",
+    "url": "https://www.wordhippo.com/what-is/another-word-for/{{{s}}}.html"
+  },
+  {
+    "bang": "wordpress",
+    "name": "WordPress.org",
+    "url": "http://wordpress.org/search/{{{s}}}"
+  },
+  {
+    "bang": "word",
+    "name": "Wordnik",
+    "url": "https://www.wordnik.com/words?myWord={{{s}}}"
+  },
+  {
+    "bang": "wpplugins",
+    "name": "WordPress.org Plugins",
+    "url": "http://wordpress.org/extend/plugins/search.php?q={{{s}}}&sort="
+  },
+  {
+    "bang": "wpthemes",
+    "name": "WordPress.org Themes",
+    "url": "http://wordpress.org/extend/themes/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "wp",
+    "name": "WordPress.org",
+    "url": "http://wordpress.org/search/{{{s}}}"
+  },
+  {
+    "bang": "wqit",
+    "name": "WikiQuote Italian",
+    "url": "https://it.wikiquote.org/?q={{{s}}}:"
+  },
+  {
+    "bang": "wrdefr",
+    "name": "WordReference DE -> FR",
+    "url": "http://www.wordreference.com/frde/{{{s}}}"
+  },
+  {
+    "bang": "wrdes",
+    "name": "WordReference",
+    "url": "http://www.wordreference.com/definicion/{{{s}}}"
+  },
+  {
+    "bang": "wrenfr",
+    "name": "WordReference",
+    "url": "http://www.wordreference.com/enfr/{{{s}}}"
+  },
+  {
+    "bang": "wrengr",
+    "name": "wordreference english to greek translation",
+    "url": "http://www.wordreference.com/engr/{{{s}}}"
+  },
+  {
+    "bang": "wrenpl",
+    "name": "Word Reference",
+    "url": "http://www.wordreference.com/enpl/{{{s}}}"
+  },
+  {
+    "bang": "wrensyn",
+    "name": "WordReference.com English Synonyms",
+    "url": "http://www.wordreference.com/thesaurus/{{{s}}}"
+  },
+  {
+    "bang": "wren",
+    "name": "WordReference (EN)",
+    "url": "http://www.wordreference.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "wressin",
+    "name": "WordReference.com sin\u00f3nimos en espa\u00f1ol",
+    "url": "http://www.wordreference.com/sinonimos/{{{s}}}"
+  },
+  {
+    "bang": "wres",
+    "name": "WordReference (ES)",
+    "url": "http://www.wordreference.com/definicion/{{{s}}}"
+  },
+  {
+    "bang": "wre",
+    "name": "WordReference (ES)",
+    "url": "http://www.wordreference.com/definicion/{{{s}}}"
+  },
+  {
+    "bang": "wrgren",
+    "name": "wordreference greek to english translation",
+    "url": "http://www.wordreference.com/gren/{{{s}}}"
+  },
+  {
+    "bang": "writconj",
+    "name": "WordReference Italian Conjugator",
+    "url": "http://www.wordreference.com/conj/ItVerbs.aspx?v={{{s}}}"
+  },
+  {
+    "bang": "wrn",
+    "name": "WordReference (EN)",
+    "url": "http://www.wordreference.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "wrplen",
+    "name": "Word Reference",
+    "url": "http://www.wordreference.com/plen/{{{s}}}"
+  },
+  {
+    "bang": "wrse",
+    "name": "Wordreference",
+    "url": "http://www.wordreference.com/enes/{{{s}}}"
+  },
+  {
+    "bang": "wrsf",
+    "name": "Wordreference Spanish-French",
+    "url": "http://www.wordreference.com/esfr/{{{s}}}"
+  },
+  {
+    "bang": "wsc",
+    "name": "Sardinian Wikipedia",
+    "url": "http://sc.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wsr",
+    "name": "https://sr.wikipedia.org/wiki",
+    "url": "https://sr.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wunderlist",
+    "name": "Wunderlist",
+    "url": "https://www.wunderlist.com/#/search/{{{s}}}"
+  },
+  {
+    "bang": "wwoof",
+    "name": "Wwoof.net",
+    "url": "http://www.wwoof.net/?s={{{s}}}"
+  },
+  {
+    "bang": "yabla",
+    "name": "Yabla Chinese",
+    "url": "https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define={{{s}}} "
+  },
+  {
+    "bang": "yellownz",
+    "name": "Yellow NZ",
+    "url": "http://yellow.co.nz/yellow+pages/{{{s}}}/New+Zealand"
+  },
+  {
+    "bang": "yopmail",
+    "name": "YopMail",
+    "url": "http://www.yopmail.com/en/index.php?login={{{s}}}"
+  },
+  {
+    "bang": "ytj",
+    "name": "Yahoo! Travel Japan",
+    "url": "https://travel.yahoo.co.jp/dhotel/search/?qry={{{s}}}"
+  },
+  {
+    "bang": "ytren",
+    "name": "Yandex.Translate",
+    "url": "https://translate.yandex.com/?text={{{s}}}"
+  },
+  {
+    "bang": "ytr",
+    "name": "Yandex.Translate",
+    "url": "https://translate.yandex.ru/?text={{{s}}}"
+  },
+  {
+    "bang": "ytwd",
+    "name": "Yahoo\u5947\u6469\u5b57\u5178",
+    "url": "https://tw.dictionary.search.yahoo.com/search?p={{{s}}}"
+  },
+  {
+    "bang": "zhen",
+    "name": "Nciku",
+    "url": "http://nciku.com/search/zh/{{{s}}}"
+  },
+  {
+    "bang": "zip",
+    "name": "Zip-Codes.com",
+    "url": "https://www.zip-codes.com/search.asp?srch-type=fuzzy&q={{{s}}}"
+  },
+  {
+    "bang": "\u043a\u0433\u0443\u0442",
+    "name": "Google Translate (ru\u2192en)",
+    "url": "https://translate.google.com/#ru/en/{{{s}}}"
+  }
+]

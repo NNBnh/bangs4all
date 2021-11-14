@@ -1,0 +1,127 @@
+[
+  {
+    "bang": "arin",
+    "name": "ARIN Whois",
+    "url": "http://whois.arin.net/rest/nets;q={{{s}}}?showDetails=true&showARIN=false&ext=netref2"
+  },
+  {
+    "bang": "aruba",
+    "name": "Aruba Airheads Community",
+    "url": "https://community.arubanetworks.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+  },
+  {
+    "bang": "askf5",
+    "name": "AskF5 (support.f5.com)",
+    "url": "https://support.f5.com/kb/en-us/search.res.html?productList=big-ip%2Cbc%2Cfp%2C3-dns%2Clc%2Cts%2Cwj%2Cwa_5_x%2Csam%2Clinerate-eol&versionList=all%2C&searchType=basic&isFromGSASearch=false&query={{{s}}}&site=support_external&client=support-f5-com&q={{{s}}}&prodName=ALL&prodVersText=&docTypeName=ALL&includeArchived=false&submit_form=&product=all&eolProducts=all&documentType=all"
+  },
+  {
+    "bang": "bgp",
+    "name": "Hurricane Electrics Internet Services",
+    "url": "http://bgp.he.net/search?search%5Bsearch%5D={{{s}}}&commit=Search"
+  },
+  {
+    "bang": "cvedtls",
+    "name": "CVE Details",
+    "url": "https://www.cvedetails.com/google-search-results.php?q={{{s}}}&sa=Search"
+  },
+  {
+    "bang": "geoiptool",
+    "name": "Geo IP Tool",
+    "url": "http://geoiptool.com/fr/?IP={{{s}}}"
+  },
+  {
+    "bang": "honeypot",
+    "name": "Project Honey Pot",
+    "url": "http://www.projecthoneypot.org/ip_{{{s}}}"
+  },
+  {
+    "bang": "hsts",
+    "name": "HSTS preload list",
+    "url": "https://hstspreload.org/?domain={{{s}}}"
+  },
+  {
+    "bang": "iplocation",
+    "name": "IP Location",
+    "url": "https://www.iplocation.net/?query={{{s}}}"
+  },
+  {
+    "bang": "ipv6",
+    "name": "chair6.net",
+    "url": "http://ready.chair6.net/?url={{{s}}}"
+  },
+  {
+    "bang": "juninet",
+    "name": "Juniper networks",
+    "url": "https://www.juniper.net/search/gsa/?keyword={{{s}}}"
+  },
+  {
+    "bang": "mik",
+    "name": "Mikrotik Wiki",
+    "url": "https://wiki.mikrotik.com/index.php?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "bang": "opendns",
+    "name": "OpenDNS",
+    "url": "http://www.opendns.com/search/?s={{{s}}}"
+  },
+  {
+    "bang": "owrt",
+    "name": "OpenWrt",
+    "url": "https://openwrt.org/doku.php?do=search&id=start&q={{{s}}}"
+  },
+  {
+    "bang": "paloalto",
+    "name": "Palo Alto Networks Documentation",
+    "url": "https://www.paloaltonetworks.com/documentation/document-search.html?q={{{s}}}"
+  },
+  {
+    "bang": "port",
+    "name": "IANA Service Name and Transport Protocol Port Number Registry",
+    "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search={{{s}}}"
+  },
+  {
+    "bang": "ripe",
+    "name": "RIPEstat - Internet Measurments and Analysis",
+    "url": "https://stat.ripe.net/{{{s}}}"
+  },
+  {
+    "bang": "robtex",
+    "name": "Robtex",
+    "url": "https://www.robtex.com/dns-lookup/{{{s}}}"
+  },
+  {
+    "bang": "service",
+    "name": "IANA Service Name and Transport Protocol Port Number Registry",
+    "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search={{{s}}}"
+  },
+  {
+    "bang": "snort",
+    "name": "Snort",
+    "url": "https://www.snort.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "ssllabsdev",
+    "name": "SSLLabs Dev",
+    "url": "https://dev.ssllabs.com/ssltest/analyze.html?latest&d={{{s}}}"
+  },
+  {
+    "bang": "subnet",
+    "name": "Subnet Calculator - TunnelsUp",
+    "url": "http://www.tunnelsup.com/subnet-calculator?ip={{{s}}} "
+  },
+  {
+    "bang": "ubiquiti",
+    "name": "Ubiquiti Forums",
+    "url": "https://community.ubnt.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+  },
+  {
+    "bang": "whoisbr",
+    "name": "Registro.br",
+    "url": "https://registro.br/cgi-bin/whois/?qr={{{s}}}"
+  },
+  {
+    "bang": "whoizh",
+    "name": "Heroku Whoiz",
+    "url": "http://whoiz.herokuapp.com/lookup?url={{{s}}}"
+  }
+]

@@ -1,0 +1,3252 @@
+[
+  {
+    "bang": "538",
+    "name": "fivethirtyeight.com",
+    "url": "http://fivethirtyeight.com/?s={{{s}}}"
+  },
+  {
+    "bang": "academia",
+    "name": "academia.edu",
+    "url": "http://www.academia.edu/people/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "academicearth",
+    "name": "Academic Earth",
+    "url": "https://academicearth.org/?s={{{s}}}"
+  },
+  {
+    "bang": "acad",
+    "name": "http://dic.academic.ru",
+    "url": "http://dic.academic.ru/searchall.php?SWord={{{s}}}"
+  },
+  {
+    "bang": "acmdl",
+    "name": "ACM Digital Library",
+    "url": "https://dl.acm.org/results.cfm?query={{{s}}}"
+  },
+  {
+    "bang": "acs",
+    "name": "http://pubs.acs.org",
+    "url": "http://pubs.acs.org/action/doSearch?AllField={{{s}}}"
+  },
+  {
+    "bang": "activestate",
+    "name": "ActiveState.com",
+    "url": "http://www.activestate.com/search/index.html?cx=005567415255730122040%3Aiof7ftsiexy&cof=FORID%3A11&sa.x=0&sa.y=0&q={{{s}}}#1013"
+  },
+  {
+    "bang": "ada",
+    "name": "Ada 2005 Manual",
+    "url": "http://www.ada-auth.org/search-rm05.cgi?SearchA={{{s}}}&SearchO=&SearchN="
+  },
+  {
+    "bang": "ads",
+    "name": "ADS bumblebee",
+    "url": "https://ui.adsabs.harvard.edu/#search/q={{{s}}}"
+  },
+  {
+    "bang": "adsbeta",
+    "name": "Nasa ADS Beta",
+    "url": "https://ui.adsabs.harvard.edu/#search/q={{{s}}}"
+  },
+  {
+    "bang": "adslabs",
+    "name": "NASA ADS Labs",
+    "url": "http://labs.adsabs.harvard.edu/ui/cgi-bin/topicSearch?q={{{s}}}"
+  },
+  {
+    "bang": "adsref",
+    "name": "NASA ADS Bibliographical reference search",
+    "url": "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=ALL&bibcode={{{s}}} "
+  },
+  {
+    "bang": "afinna",
+    "name": "aalto.finna.fi",
+    "url": "https://aalto.finna.fi/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "bang": "aip",
+    "name": "aip.org",
+    "url": "http://scitation.aip.org/search?value1={{{s}}}&option1=fulltext"
+  },
+  {
+    "bang": "ametsoc",
+    "name": "American Meteorology Society ",
+    "url": "https://journals.ametsoc.org/action/doSearch?AllField={{{s}}}"
+  },
+  {
+    "bang": "analyser",
+    "name": "analyse-R",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Flarmarange.github.io%2Fanalyse-R"
+  },
+  {
+    "bang": "anki",
+    "name": "Ankiweb",
+    "url": "https://ankiweb.net/shared/decks/{{{s}}}"
+  },
+  {
+    "bang": "anulib",
+    "name": "The Australian National University Library",
+    "url": "http://anu.summon.serialssolutions.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "anu",
+    "name": "The Australian National University",
+    "url": "http://find.anu.edu.au/search?filter=0&client=anu_frontend&proxystylesheet=anu_frontend&site=default_collection&btnG=Search&q={{{s}}}&search1=Go"
+  },
+  {
+    "bang": "apcentral",
+    "name": "AP Central College Board",
+    "url": "https://apstudent.collegeboard.org/search?searchq={{{s}}}&searchType=aps_site&tp=aps_site"
+  },
+  {
+    "bang": "apin",
+    "name": "Academic Progress India",
+    "url": "https://academicprogress.in/library/search/?q={{{s}}}"
+  },
+  {
+    "bang": "apl",
+    "name": "Applied Physics Letters",
+    "url": "http://scitation.aip.org/search?value1={{{s}}}&option1=all"
+  },
+  {
+    "bang": "aps",
+    "name": "APS Journals",
+    "url": "http://journals.aps.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "archi",
+    "name": "Archipel",
+    "url": "http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?profile=http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?profile=http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?profile=http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?profile=?q={{{s}}}:"
+  },
+  {
+    "bang": "archipel",
+    "name": "Archipel",
+    "url": "http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?menu=search&aspect=subtab26&npp=10&ipp=20&spp=20&profile=sicd&ri=&index=.GK&term={{{s}}}"
+  },
+  {
+    "bang": "archiplus",
+    "name": "Archipel plus",
+    "url": "http://univtoulouse.summon.serialssolutions.com/search?s.q={{{s}}}"
+  },
+  {
+    "bang": "arx",
+    "name": "arXiv.org",
+    "url": "http://arxiv.org/search?query={{{s}}}&searchtype=all"
+  },
+  {
+    "bang": "asb",
+    "name": "astrobites",
+    "url": "https://astrobites.org/?s={{{s}}}"
+  },
+  {
+    "bang": "ascl",
+    "name": " ASCL.net - Astrophysics Source Code Library",
+    "url": "http://ascl.net/code/search/{{{s}}}"
+  },
+  {
+    "bang": "asee",
+    "name": "Papers on Engineering Education Repository (ASEE PEER)",
+    "url": "https://peer.asee.org/?q={{{s}}}"
+  },
+  {
+    "bang": "atilf",
+    "name": "Acad\u00e9mie Fran\u00e7aise",
+    "url": "https://academie.atilf.fr/9/consulter/{{{s}}}?page=1"
+  },
+  {
+    "bang": "aub",
+    "name": "Aalborg Universitetsbibliotek",
+    "url": "http://primo.aub.aau.dk/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=desktop&frbg=&vl%28freeText0%29={{{s}}}&scp.scps=scope%3A%28AUB_PROJEKT_DC%29%2Cscope%3A%28AUB_SFX%29%2Cscope%3A%28AUB_AAL%29%2Cscope%3A%28AUB_ESB%29%2Cscope%3A%28AUB_KBH%29%2Cscope%3A%28AUB_VBN%29%2Cprimo_central_multiple_fe&vl%2857399062UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2857399064UI0%29=any&vl%2857399064UI0%29=title&vl%2857399064UI0%29=any"
+  },
+  {
+    "bang": "avi",
+    "name": "Avicultura",
+    "url": "https://avicultura.com/?s={{{s}}}"
+  },
+  {
+    "bang": "base",
+    "name": "Base Search",
+    "url": "https://www.base-search.net/Search/Results?lookfor={{{s}}}&type=all&oaboost=1&ling=1&name=&newsearch=1&refid=dcbasen"
+  },
+  {
+    "bang": "basesearch",
+    "name": "BASE Search",
+    "url": "http://www.base-search.net/Search/Results?lookfor={{{s}}}&refid=duckduckgo"
+  },
+  {
+    "bang": "bbm",
+    "name": "Biblioteca Brasiliana Guita e Jos\u00e9 Mindlin",
+    "url": "https://digital.bbm.usp.br/simple-search?location=&query={{{s}}}"
+  },
+  {
+    "bang": "bbusp",
+    "name": "Biblioteca Brasiliana Guita e Jos\u00e9 Mindiin",
+    "url": "https://digital.bbm.usp.br/simple-search?location=&query= {{{s}}} &rpp=100"
+  },
+  {
+    "bang": "bdbaike",
+    "name": "\u767e\u5ea6\u767e\u79d1",
+    "url": "https://baike.baidu.com/item/{{{s}}}"
+  },
+  {
+    "bang": "bhb",
+    "name": "BibleHub",
+    "url": "http://biblehub.net/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "bho",
+    "name": "British History Online",
+    "url": "http://www.british-history.ac.uk/search?query={{{s}}}"
+  },
+  {
+    "bang": "biberfurt",
+    "name": "Katalog der Universit\u00e4ts- und Forschungsbibliothek Erfurt/Gotha",
+    "url": "http://opac.uni-erfurt.de/DB=1/SET=3/TTL=11/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "bang": "biblehub",
+    "name": "BibleHub",
+    "url": "http://biblemenus.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "bibsonomy",
+    "name": "BibSonomy",
+    "url": "http://www.bibsonomy.org/search/{{{s}}}"
+  },
+  {
+    "bang": "bibunipi",
+    "name": "Onesearch Unipi",
+    "url": "http://onesearch.unipi.it/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=39UPI_V1&frbg=&tb=t&vl(freeText0)={{{s}}}&scp.scps=scope%3A(39UPI)%2C39UPI_EbscoLocal%2Cprimo_central_multiple_fe"
+  },
+  {
+    "bang": "bigfuture",
+    "name": "BigFuture",
+    "url": "https://bigfuture.collegeboard.org/sitesearch?searchType=bf_site&tp=bf&q={{{s}}}"
+  },
+  {
+    "bang": "bio",
+    "name": "Biography",
+    "url": "http://www.biography.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bioc",
+    "name": "Bioconductor",
+    "url": "http://bioconductor.org/help/search/index.html?q={{{s}}}"
+  },
+  {
+    "bang": "biogrid",
+    "name": "BioGRID",
+    "url": "http://thebiogrid.org/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "biorxiv",
+    "name": "bioRxiv",
+    "url": "http://biorxiv.org/search/{{{s}}}"
+  },
+  {
+    "bang": "bitesizegcse",
+    "name": "BBC GCSE Bitesize",
+    "url": "http://www.bbc.co.uk/schools/gcsebitesize/search/index.shtml?scope=gcsebitesize_include&q={{{s}}}"
+  },
+  {
+    "bang": "biz",
+    "name": "IncFact",
+    "url": "https://incfact.com/company/search/?q={{{s}}}"
+  },
+  {
+    "bang": "blex",
+    "name": " _ Blender Stack Exchange",
+    "url": "http://blender.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "blms",
+    "name": "British Library Explore Archives and Manuscripts",
+    "url": "http://searcharchives.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
+  },
+  {
+    "bang": "bl",
+    "name": "The British Library Catalogue",
+    "url": "http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
+  },
+  {
+    "bang": "bluk",
+    "name": "The British Library Catalogue",
+    "url": "http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
+  },
+  {
+    "bang": "bmj",
+    "name": "The BMJ",
+    "url": "https://www.bmj.com/search/advanced/{{{s}}}"
+  },
+  {
+    "bang": "bonnus",
+    "name": "Bonnus",
+    "url": "https://bonnus.ulb.uni-bonn.de/Summon/Search?lookfor={{{s}}}&type=AllFields&submit=Suchen"
+  },
+  {
+    "bang": "brainpopeducators",
+    "name": "BrainPOP Educators",
+    "url": "http://educators.brainpop.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "brit",
+    "name": "Encyclopaedia Brittanica",
+    "url": "https://www.britannica.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "brly",
+    "name": "Brainly",
+    "url": "https://brainly.com/app/ask?entry=hero&q={{{s}}}"
+  },
+  {
+    "bang": "brook",
+    "name": "Brookings Institution",
+    "url": "https://www.brookings.edu/search/?s={{{s}}}"
+  },
+  {
+    "bang": "brown",
+    "name": "Brown University Library",
+    "url": "https://search.library.brown.edu/?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "brownlib",
+    "name": "Brown University Library",
+    "url": "https://search.library.brown.edu/?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "brumario",
+    "name": "Biblioteca - Universidad de Salamanca",
+    "url": "http://brumario.usal.es/search/?searchtype=X&searcharg={{{s}}} &op=Buscar&SORT=D&searchscope="
+  },
+  {
+    "bang": "bsb",
+    "name": "Bayerische Staatsbibliothek",
+    "url": "https://opacplus.bsb-muenchen.de/InfoGuideClient/start.do?Login=opacext&BaseURL=https%3a%2f%2fopacplus.bsb-muenchen.de%2fInfoGuideClient%2fstart.do%3fLogin%3dopacext&Query=-1=%22{{{s}}}%22"
+  },
+  {
+    "bang": "bstar",
+    "name": "Biostars",
+    "url": "https://www.biostars.org/local/search/page/?q={{{s}}}"
+  },
+  {
+    "bang": "bucea",
+    "name": "BUCea - Bibliotecas UCM",
+    "url": "http://ucm.summon.serialssolutions.com/es-ES/#!/search?ho=t&fvf=ContentType,Newspaper%20Article,t&l=es-ES&q={{{s}}}&pg=buscador&utf8=%E2%9C%93"
+  },
+  {
+    "bang": "buej",
+    "name": "BU Alumni Medical Library- E-Journals",
+    "url": "https://buprimo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=BU&lang=en_US&offset=0"
+  },
+  {
+    "bang": "bup8",
+    "name": "Universit\u00e9 Paris 8 (Biblioth\u00e8que)",
+    "url": "http://catalogue.bu.univ-paris8.fr/cgi-bin/koha/opac-search.pl?idx=&q={{{s}}}"
+  },
+  {
+    "bang": "cairn",
+    "name": "Cairn",
+    "url": "http://www.cairn.info/resultats_recherche.php?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "camlib",
+    "name": "University of Cambridge Libraries iDiscover",
+    "url": "http://idiscover.lib.cam.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=cam_lib_coll&search_scope=SCOP_CAM_ALL&vid=44CAM_PROD&lang=en_US&offset=0"
+  },
+  {
+    "bang": "campusnav",
+    "name": "TU Dresden Campus Navigator",
+    "url": "https://navigator.tu-dresden.de/erweitertesuche/{{{s}}}"
+  },
+  {
+    "bang": "cam",
+    "name": "University of Cambridge",
+    "url": "http://search.cam.ac.uk/web?query={{{s}}}"
+  },
+  {
+    "bang": "cas",
+    "name": "Common Chemistry (CAS Registry Number)",
+    "url": "http://www.commonchemistry.org/ChemicalDetail.aspx?ref={{{s}}}"
+  },
+  {
+    "bang": "cath",
+    "name": "CATH database",
+    "url": "http://www.cathdb.info/search?q={{{s}}}"
+  },
+  {
+    "bang": "cds",
+    "name": "CDS Portal",
+    "url": "http://cdsportal.u-strasbg.fr/#{{{s}}}"
+  },
+  {
+    "bang": "cerl",
+    "name": "CERL Thesaurus",
+    "url": "http://thesaurus.cerl.org/cgi-bin/search.pl?type=l&type=i&type=p&type=c&query={{{s}}}"
+  },
+  {
+    "bang": "cfa",
+    "name": "CFA Institute",
+    "url": "https://www.cfainstitute.org/en/search#q={{{s}}}"
+  },
+  {
+    "bang": "cg",
+    "name": "CultureGraph",
+    "url": "http://hub.culturegraph.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "chemse",
+    "name": "Chemistry StackExchange",
+    "url": "http://chemistry.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "chinook",
+    "name": "University of Colorado Libraries Catalog",
+    "url": "http://ucblibraries.summon.serialssolutions.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "chl",
+    "name": "Church History Library",
+    "url": "http://churchhistorycatalog.lds.org/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=chl&indx=1&dum=true&srt=rank&vid=CHL_PUBLIC&frbg=&tb=t&vl%28freeText0%29={{{s}}}&scp.scps=scope%3A%28PEAD%29%2Cscope%3A%28PARCHIVES%29%2Cscope%3A%28PLIBRARY%29%2Cscope%3A%28ALEPH-PCPX%29%2Cscope%3A%28ALEPH-JHX%29%2Cscope%3A%28ALEPH-CAX%29&vl%2830857204UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2830857210UI0%29=any&vl%2830857210UI0%29=title&vl%2830857210UI0%29=any"
+  },
+  {
+    "bang": "chlib",
+    "name": "Chalmers Library",
+    "url": "http://chalmers.summon.serialssolutions.com/en/search?ho=t&q={{{s}}}"
+  },
+  {
+    "bang": "cie",
+    "name": "Paper.sc",
+    "url": "https://paper.sc/search/?as=page&query={{{s}}}"
+  },
+  {
+    "bang": "cisne",
+    "name": "Cat\u00e1logo Cisne UCM",
+    "url": "http://cisne.sim.ucm.es/search*spi~S/X?SEARCH={{{s}}}"
+  },
+  {
+    "bang": "clio",
+    "name": "CLIO: Columbia University Library Catalog",
+    "url": "https://clio.columbia.edu/catalog?q={{{s}}}"
+  },
+  {
+    "bang": "clu",
+    "name": "Catalogue Leiden University",
+    "url": "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,{{{s}}}&tab=all_content&search_scope=All_Content&vid=UBL_V1&lang=en_US&offset=0"
+  },
+  {
+    "bang": "cms",
+    "name": "Chicago Manual of Style",
+    "url": "http://www.chicagomanualofstyle.org/search.epl?q={{{s}}}"
+  },
+  {
+    "bang": "cnm",
+    "name": "Central New Mexico Community College",
+    "url": "https://www.cnm.edu/@@gcse-searchresults?q={{{s}}}"
+  },
+  {
+    "bang": "codata",
+    "name": "https://physics.nist.gov/cuu/Constants/index.html",
+    "url": "https://physics.nist.gov/cgi-bin/cuu/Results?search_for={{{s}}}"
+  },
+  {
+    "bang": "collegeboard",
+    "name": "CollegeBoard",
+    "url": "https://www.collegeboard.org/search?tp=usearch&x=15&x1=t4&y=13&searchType=site&word={{{s}}}"
+  },
+  {
+    "bang": "collegeconfidential",
+    "name": "CollegeConfidential Forums",
+    "url": "http://www.collegeconfidential.com/search_results.htm?q={{{s}}}&sa=Google+Search&userInput=&sitesearch=collegeconfidential.com&cx=013579521852154800353%3Avvp1k6kluvq&cof=FORID%3A9 "
+  },
+  {
+    "bang": "Cololib",
+    "name": "Colorado State Universtiy library",
+    "url": "https://colostate-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01COLSU&lang=en_US&primoQueryTemp=d&search_field=any&search_scope=Everything&query=any,contains,{{{s}}}"
+  },
+  {
+    "bang": "connectny",
+    "name": "Connect NY",
+    "url": "http://www.connectny.info/search/?searchtype=X&SORT=D&searcharg={{{s}}}"
+  },
+  {
+    "bang": "copac",
+    "name": "COPAC",
+    "url": "http://copac.ac.uk/search?&title={{{s}}}"
+  },
+  {
+    "bang": "core",
+    "name": "CORE",
+    "url": "https://core.ac.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "coursera",
+    "name": "Coursera",
+    "url": "https://www.coursera.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "crossref",
+    "name": "crossref",
+    "url": "http://search.crossref.org/?q={{{s}}}"
+  },
+  {
+    "bang": "csn",
+    "name": "Cat\u00e1logo cisne UCM",
+    "url": "http://cisne.sim.ucm.es/search*spi~S/X?SEARCH={{{s}}}&sort=D"
+  },
+  {
+    "bang": "ctextd",
+    "name": "Chinese Text Project Dictionary",
+    "url": "http://ctext.org/dictionary.pl?if=en&char={{{s}}}"
+  },
+  {
+    "bang": "cudl",
+    "name": "Cambridge Digital Library",
+    "url": "https://cudl.lib.cam.ac.uk/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "cul",
+    "name": "Cornell University Library",
+    "url": "https://newcatalog.library.cornell.edu/search?q={{{s}}}"
+  },
+  {
+    "bang": "culib",
+    "name": "Cornell Library Catalog",
+    "url": "https://newcatalog.library.cornell.edu/catalog?q={{{s}}}"
+  },
+  {
+    "bang": "culibrary",
+    "name": "Clemson University Library",
+    "url": "http://libraries.clemson.edu/?s={{{s}}}"
+  },
+  {
+    "bang": "cybl",
+    "name": "\u041a\u0438\u0431\u0435\u0440\u043b\u0435\u043d\u0438\u043d\u043a\u0430",
+    "url": "https://cyberleninka.ru/search?q={{{s}}}"
+  },
+  {
+    "bang": "dalla",
+    "name": "Diccionariu de l'Academia de la Llingua Asturiana",
+    "url": "http://asturianu.elahorcado.net/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "dane",
+    "name": "dane dijon",
+    "url": "http://dane.ac-dijon.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "dartlib",
+    "name": "Dartmouth College Libraries",
+    "url": "http://libcat.dartmouth.edu/search/X?{{{s}}}"
+  },
+  {
+    "bang": "dash",
+    "name": "Digital Access to Scholarship at Harvard",
+    "url": "http://dash.harvard.edu/search?scope=%2F&query={{{s}}}&rpp=10&sort_by=0&order=DESC"
+  },
+  {
+    "bang": "datacite",
+    "name": "datacite.org",
+    "url": "https://search.datacite.org/works?query={{{s}}}"
+  },
+  {
+    "bang": "data",
+    "name": "Google Dataset Search",
+    "url": "https://toolbox.google.com/datasetsearch/search?query={{{s}}}"
+  },
+  {
+    "bang": "datazar",
+    "name": "Datazar",
+    "url": "https://www.datazar.com/search/data/?q={{{s}}}"
+  },
+  {
+    "bang": "dbgap",
+    "name": "dbGaP",
+    "url": "https://www.ncbi.nlm.nih.gov/gap/?term={{{s}}}"
+  },
+  {
+    "bang": "dblp",
+    "name": "DBLP Computer Science Bibliography",
+    "url": "https://dblp.uni-trier.de/search?q={{{s}}}"
+  },
+  {
+    "bang": "dcs",
+    "name": "Rutgers University \u2013 Digital Classroom Services",
+    "url": "https://dcs.rutgers.edu/search/node/{{{s}}}"
+  },
+  {
+    "bang": "dcul",
+    "name": "Dublin City University Library Catalogue",
+    "url": "https://capitadiscovery.co.uk/dcu/items?query={{{s}}}"
+  },
+  {
+    "bang": "deakin",
+    "name": "Deakin University Library",
+    "url": "http://library.deakin.edu.au/search/?searchtype=X&SORT=D&searcharg={{{s}}}&searchscope=1"
+  },
+  {
+    "bang": "dedalus",
+    "name": "University of Sao Paulo Library",
+    "url": "http://dedalus.usp.br/F/?func=find-b&request={{{s}}}"
+  },
+  {
+    "bang": "ded",
+    "name": "Dedalus - Cat\u00e1logo Geral",
+    "url": "http://dedalus.usp.br/F/2GT4AME1FV9M25Q886NF9PCLB2BK39NF8XMFRXNHCQIL1JX5IG-19193?func=find-b&request={{{s}}}&find_code=WRD&adjacent=N&local_base=USP01&x=39&y=11&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WMA&filter_request_4=&filter_code_5=WBA&filter_request_5="
+  },
+  {
+    "bang": "deepdyve",
+    "name": "DeepDyve",
+    "url": "https://www.deepdyve.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "deepthidevaki",
+    "name": "Deepthi Devaki Akkoorath",
+    "url": "https://dd.thekkedam.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "definekids",
+    "name": "Kids Wordsmyth",
+    "url": "https://kids.wordsmyth.net/we/?ent={{{s}}}"
+  },
+  {
+    "bang": "def",
+    "name": "The Free Dictionary",
+    "url": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "deic",
+    "name": "Deichmanske Biblotek",
+    "url": "https://sok.deichman.no/search?query={{{s}}}"
+  },
+  {
+    "bang": "delcat",
+    "name": "DELCAT Discovery",
+    "url": "https://delcat.worldcat.org/search?qt=wc_org_delcat&q={{{s}}}&scope=0&oldscope=0&wcsbtn2w=Search&fq=&dblist=1461%2C1542%2C638"
+  },
+  {
+    "bang": "dew",
+    "name": "de.wikipedia.org",
+    "url": "https://de.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "dhbb",
+    "name": "Dicion\u00e1rio Hist\u00f3rico e Biogr\u00e1fico Brasileiro do CPDOC",
+    "url": "http://www.fgv.br/cpdoc/acervo/arquivo?busca= {{{s}}} &TipoUD=0&MacroTipoUD=0&nItens=100"
+  },
+  {
+    "bang": "dialnet",
+    "name": "Dialnet",
+    "url": "http://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO={{{s}}}"
+  },
+  {
+    "bang": "diccionari",
+    "name": "Diccionari de la llengua Catalana",
+    "url": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}"
+  },
+  {
+    "bang": "dic",
+    "name": "http://www.merriam-webster.com",
+    "url": "http://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "dict.cc",
+    "name": "dict.cc",
+    "url": "http://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "bang": "dict",
+    "name": "Dict.org",
+    "url": "http://www.dict.org/bin/Dict?Form=Dict2&Database=*&Query={{{s}}}"
+  },
+  {
+    "bang": "dictgr",
+    "name": "http://www.greek-language.gr",
+    "url": "http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq={{{s}}}"
+  },
+  {
+    "bang": "dictionary",
+    "name": "The Free Dictionary",
+    "url": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "dimensions",
+    "name": "Dimensions",
+    "url": "https://app.dimensions.ai/discover/publication?search_text={{{s}}}&search_type=kws&search_field=full_search"
+  },
+  {
+    "bang": "diva",
+    "name": "DiVA - Digitala Vetenskapliga Arkivet",
+    "url": "https://www.diva-portal.org/smash/resultList.jsf?dswid=8805&language=en&searchType=SIMPLE&query={{{s}}}&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all"
+  },
+  {
+    "bang": "divaliu",
+    "name": "divaliu",
+    "url": "http://liu.diva-portal.org/smash/resultList.jsf?searchType=SIMPLE&query={{{s}}}"
+  },
+  {
+    "bang": "dlss",
+    "name": "Duke Summon",
+    "url": "http://duke.summon.serialssolutions.com/?summonVersion=2.0#!/search?ho=t&fvf=SourceType,Library%20Catalog,f%7CContentType,Book%20%2F%20eBook,f&q={{{s}}}&l=en"
+  },
+  {
+    "bang": "dnb",
+    "name": "Deutsche National Bibliothek",
+    "url": "https://portal.dnb.de/opac.htm?query={{{s}}}&method=simpleSearch"
+  },
+  {
+    "bang": "dnp",
+    "name": "Der Neue Pauly",
+    "url": "http://referenceworks.brillonline.com/search?s.q={{{s}}}&s.f.s2_parent=s.f.book.der-neue-pauly"
+  },
+  {
+    "bang": "doaj",
+    "name": "Directory of Open Access Journals",
+    "url": "https://www.doaj.org/search?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22{{{s}}}%22%2C%22default_operator%22%3A%22AND%22%7D%7D%2C%22from%22%3A0%2C%22size%22%3A10%7D"
+  },
+  {
+    "bang": "doccde",
+    "name": "DocCheck",
+    "url": "http://flexikon.doccheck.com/de/index.php?title=Spezial:Suche&q={{{s}}}"
+  },
+  {
+    "bang": "dpg",
+    "name": "https://www.dpg-verhandlungen.de",
+    "url": "https://www.dpg-verhandlungen.de/year/2019/conference/regensburg/search?query={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "dspse",
+    "name": "StackExchange Signal Processing",
+    "url": "http://dsp.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "d",
+    "name": "The Free Dictionary",
+    "url": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "bang": "duc",
+    "name": "Duke University Catalog",
+    "url": "https://find.library.duke.edu/?search_field=all_fields&q={{{s}}}"
+  },
+  {
+    "bang": "easybib",
+    "name": "Easybib",
+    "url": "http://www.easybib.com/cite/eval?url={{{s}}}"
+  },
+  {
+    "bang": "ebi",
+    "name": "European Bioinformatics Institute",
+    "url": "https://www.ebi.ac.uk/ebisearch/search.ebi?db=allebi&query={{{s}}}&requestFrom=duckduckgo"
+  },
+  {
+    "bang": "ebrit",
+    "name": "Encyclopedia Britanica",
+    "url": "https://www.britannica.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "ecodices",
+    "name": "e-codices: Virtual Manuscript Library of Switzerland",
+    "url": "http://www.e-codices.unifr.ch/en/search/all?sQueryString={{{s}}}"
+  },
+  {
+    "bang": "econbiz",
+    "name": "Econbiz",
+    "url": "http://www.econbiz.de/Search/Results?lookfor={{{s}}}&type=AllFields&submit=Suchen"
+  },
+  {
+    "bang": "econlib",
+    "name": "Library of Economics and Liberty",
+    "url": "http://econlib.org/cgi-bin/fullsearch.pl?query={{{s}}}"
+  },
+  {
+    "bang": "ecs",
+    "name": "Soton Electronics and Computer Science",
+    "url": "https://secure.ecs.soton.ac.uk/kb/search/?q={{{s}}}&s=1"
+  },
+  {
+    "bang": "edb",
+    "name": "Exploits Database by Offensive Security (exploit-db.com)",
+    "url": "https://www.exploit-db.com/search/?action=search&description={{{s}}}"
+  },
+  {
+    "bang": "edutalk",
+    "name": "edutalk.id",
+    "url": "https://edutalk.id/?s={{{s}}}"
+  },
+  {
+    "bang": "egdl",
+    "name": "Eurographics Digital Library",
+    "url": "http://diglib.eg.org/discover?query={{{s}}}&submit=Go"
+  },
+  {
+    "bang": "ejw",
+    "name": "Econ Journal Watch",
+    "url": "https://econjwatch.org/search/?m=all&q={{{s}}}"
+  },
+  {
+    "bang": "elconjugador",
+    "name": "El conjugador",
+    "url": "http://www.elconjugador.com/conjugaison/verbe/espagnol/{{{s}}}.html"
+  },
+  {
+    "bang": "emich",
+    "name": "Eastern Michigan University",
+    "url": "https://www.emich.edu/search/?q={{{s}}}"
+  },
+  {
+    "bang": "enbr",
+    "name": "Google Translator",
+    "url": "https://translate.google.com/#en/pt/{{{s}}}"
+  },
+  {
+    "bang": "encyclopedia",
+    "name": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "enlat",
+    "name": "Latdict",
+    "url": "http://latin-dictionary.net/search/english/{{{s}}}"
+  },
+  {
+    "bang": "enmu",
+    "name": "Eastern New Mexico University",
+    "url": "http://www.enmu.edu/search?q={{{s}}}"
+  },
+  {
+    "bang": "ensembl",
+    "name": "Ensembl",
+    "url": "http://www.ensembl.org/Multi/Search/Results?q={{{s}}};site=ensembl"
+  },
+  {
+    "bang": "epflbib",
+    "name": "https://beast-epfl.hosted.exlibrisgroup.com/primo-explore/search?sortby=rank&vid=EPFL&lang=en_US",
+    "url": "https://beast-epfl.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=EPFL&lang=en_US&offset=0"
+  },
+  {
+    "bang": "epflbook",
+    "name": "EPFL Library",
+    "url": "https://beast-epfl.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=EPFL&lang=fr_FR&offset=0&fn=search"
+  },
+  {
+    "bang": "epfldir",
+    "name": "EPFL Directory",
+    "url": "https://search.epfl.ch/psearch.action?q={{{s}}}&f=directory&lang=en&pageSize=10&sort="
+  },
+  {
+    "bang": "epfl",
+    "name": "EPFL",
+    "url": "http://search.epfl.ch/web.action?q={{{s}}}"
+  },
+  {
+    "bang": "epflp",
+    "name": "EPFL Plan",
+    "url": "http://plan.epfl.ch/?room={{{s}}}"
+  },
+  {
+    "bang": "epmc",
+    "name": "European Pubmed Central",
+    "url": "http://europepmc.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "esse",
+    "name": "Earth Science Stack Exchange",
+    "url": "https://physics.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "etymology",
+    "name": "EtymOnline.com",
+    "url": "http://www.etymonline.com/index.php?search={{{s}}}&searchmode=none"
+  },
+  {
+    "bang": "eup",
+    "name": "Edinboro University of Pennsylvania",
+    "url": "http://edinboro.edu/search/search.html?keyword={{{s}}}"
+  },
+  {
+    "bang": "europepmc",
+    "name": "Europe PMC",
+    "url": "http://europepmc.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "evafing",
+    "name": "EVA Fing",
+    "url": "https://eva.fing.edu.uy/course/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "exaled",
+    "name": "exaled",
+    "url": "http://www.3ds.com/search/?q={{{s}}} "
+  },
+  {
+    "bang": "fd",
+    "name": "Free Dictionary",
+    "url": "http://freedictionary.org/?Query={{{s}}}&button=Search"
+  },
+  {
+    "bang": "feedough",
+    "name": "Feedough",
+    "url": "https://www.feedough.com/?s={{{s}}}"
+  },
+  {
+    "bang": "fiueds",
+    "name": "FIU Libraries EDS",
+    "url": "http://search.ebscohost.com.ezproxy.fiu.edu/login.aspx?direct=true&scope=site&type=0&site=eds-live&lang=en&bquery=[{{{s}}}]"
+  },
+  {
+    "bang": "fred",
+    "name": "FRED Economic Data",
+    "url": "https://research.stlouisfed.org/fred2/search?st={{{s}}}"
+  },
+  {
+    "bang": "frontiers",
+    "name": "Frontiers",
+    "url": "http://www.frontiersin.org/SearchData.aspx?sq={{{s}}}"
+  },
+  {
+    "bang": "ftln",
+    "name": "futurelearn",
+    "url": "https://www.futurelearn.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gawi",
+    "name": "Gabler Wirtschaftslexikon",
+    "url": "https://wirtschaftslexikon.gabler.de/search/content?keys={{{s}}}"
+  },
+  {
+    "bang": "gdlc",
+    "name": "Gran diccionari de la llengua catalana",
+    "url": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "genbank",
+    "name": "GenBank Database",
+    "url": "http://www.ncbi.nlm.nih.gov/nuccore/?term={{{s}}}"
+  },
+  {
+    "bang": "genecards",
+    "name": "GeneCards",
+    "url": "http://www.genecards.org/index.php?path=/Search/keyword/{{{s}}}"
+  },
+  {
+    "bang": "genesis",
+    "name": "Librery Genesis",
+    "url": "http://gen.lib.rus.ec/search.php?req={{{s}}}&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def"
+  },
+  {
+    "bang": "geo",
+    "name": "NCBI Gene Expresion Omnibus",
+    "url": "http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc={{{s}}}"
+  },
+  {
+    "bang": "globaledge",
+    "name": "globalEDGE",
+    "url": "http://globaledge.msu.edu/search?q={{{s}}}"
+  },
+  {
+    "bang": "googlescholar",
+    "name": "Google Scholar",
+    "url": "http://scholar.google.com/scholar?hl=en&q={{{s}}}"
+  },
+  {
+    "bang": "grammis",
+    "name": "Grammis",
+    "url": "https://grammis.ids-mannheim.de/suche?search={{{s}}}&research=&research%5B%5D=sysgrams&research%5B%5D=corpora&research%5B%5D=phonos&research%5B%5D=terms&knowledge=&knowledge%5B%5D=questions&knowledge%5B%5D=programs&knowledge%5B%5D=eurograms&knowledge%5B%5D=orthos&ressources=&ressources%5B%5D=connectors&ressources%5B%5D=affixes&ressources%5B%5D=prepositions&ressources%5B%5D=verbs&scat=DuckDuckGo+Bang"
+  },
+  {
+    "bang": "gsch",
+    "name": "Google Scholar",
+    "url": "http://scholar.google.com/scholar?&q={{{s}}}"
+  },
+  {
+    "bang": "gschol",
+    "name": "Google Scholar",
+    "url": "http://scholar.google.com/scholar?q={{{s}}} "
+  },
+  {
+    "bang": "gsrc",
+    "name": "Gradesource",
+    "url": "http://www.gradesource.com/findcourse.asp?sb=C&name={{{s}}}&st=0&x=0&y=0"
+  },
+  {
+    "bang": "gtlib",
+    "name": "Georgia Tech Library",
+    "url": "https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01GALI_GIT&search_scope=Everything&query=any,contains,{{{s}}}"
+  },
+  {
+    "bang": "gvk",
+    "name": "Gemeinsamer Verbundkatalog",
+    "url": "https://gso.gbv.de/DB=2.1/CMD?MATCFILTER=N&MATCSET=N&ACT0=&IKT0=&TRM0=&ACT3=*&IKT3=8183&ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "bang": "gvrl",
+    "name": "Gale Virtual Reference Library",
+    "url": "http://go.galegroup.com/ps/headerQuickSearch.do?quickSearchTerm={{{s}}}&inputFieldNames%5B0%5D=OQE&searchType=BasicSearchForm&userGroupName=mlin_m_newtnsh&nwf=y&prodId=GVRL&stw.option=&ebook=&quicksearchIndex=OQE&spellCheck=true&hasCoProduct=false"
+  },
+  {
+    "bang": "gwct",
+    "name": "Game & Wildlife Conservation Trust",
+    "url": "http://www.gwct.org.uk/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "gwlib",
+    "name": "George Washington University Libraries",
+    "url": "http://library.gwu.edu/search-all?query={{{s}}}"
+  },
+  {
+    "bang": "gwu",
+    "name": "The George Washington University",
+    "url": "https://search.gwu.edu/search?site=gw_main_VCM&client=gw_main_VCM&proxystylesheet=phase2fe&output=xml_no_dtd&q={{{s}}}"
+  },
+  {
+    "bang": "hal",
+    "name": "HAL",
+    "url": "https://hal.archives-ouvertes.fr/search/index/?q={{{s}}}"
+  },
+  {
+    "bang": "happi",
+    "name": "www.happi.com",
+    "url": "https://www.happi.com/contents/searchcontent/all/{{{s}}}"
+  },
+  {
+    "bang": "harvardlib",
+    "name": "Harvard University Library",
+    "url": "http://hollis.harvard.edu/primo_library/libweb/action/dlSearch.do?institution=HVD&vid=HVD&tab=everything&displayField=all&search_scope=everything&mode=Basic&onCampus=false&displayMode=full&query=any%2Ccontains%2C{{{s}}}"
+  },
+  {
+    "bang": "hathi",
+    "name": "HathiTrust",
+    "url": "http://babel.hathitrust.org/cgi/ls?field1=ocr;q1={{{s}}};a=srchls"
+  },
+  {
+    "bang": "hcommons",
+    "name": "Humanities Commons",
+    "url": "https://hcommons.org/?s={{{s}}}"
+  },
+  {
+    "bang": "helka",
+    "name": "Helka",
+    "url": "https://helka.finna.fi/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "bang": "hfuboss",
+    "name": "HS Furtwangen BOSS",
+    "url": "https://hsfu.boss2.bsz-bw.de/Search/Results?lookfor={{{s}}}&limit=20"
+  },
+  {
+    "bang": "hga",
+    "name": "Holbein Gymnasium Augsburg",
+    "url": "https://holbein-gymnasium.de/index.php/component/search/?searchword={{{s}}}"
+  },
+  {
+    "bang": "hnu",
+    "name": "Hochschule Neu-Ulm",
+    "url": "https://www.hs-neu-ulm.de/nc/suchergebnisse/?id=1289&L=0&q={{{s}}}"
+  },
+  {
+    "bang": "hollis",
+    "name": "HOLLIS",
+    "url": "https://hollis.harvard.edu/primo-explore/search?query=any,contains,{{{s}}}&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0"
+  },
+  {
+    "bang": "homework",
+    "name": "Homework Help For Kids",
+    "url": "http://homeworkhelpforkids.co.uk/?s={{{s}}}"
+  },
+  {
+    "bang": "hopac",
+    "name": "hessen.OPAC",
+    "url": "http://opac.hebib.de/search?scope=R1&q={{{s}}}"
+  },
+  {
+    "bang": "hro",
+    "name": "Hogeschool Rotterdam",
+    "url": "https://www.hogeschoolrotterdam.nl/zoek/?q={{{s}}}"
+  },
+  {
+    "bang": "hsas",
+    "name": "Hochschule Albstadt-Sigmaringen",
+    "url": "http://www.hs-albsig.de/search/results.aspx?k={{{s}}}&cs=Diese%20Website&u=http%3A%2F%2Fwww.hs-albsig.de"
+  },
+  {
+    "bang": "htw",
+    "name": "HTW Dresden",
+    "url": "https://www.htw-dresden.de/suche.html?tx_kesearch_pi1[sword]={{{s}}}"
+  },
+  {
+    "bang": "hud",
+    "name": "University of Huddersfield Library",
+    "url": "https://hud.summon.serialssolutions.com/search?ho=t&l=en&fvf=ContentType%2CBook+Review%2Ct&q={{{s}}}&limit=everything"
+  },
+  {
+    "bang": "iacobus",
+    "name": "Cat\u00e1logo Iacobus - Universidade de Santiago de Compostela",
+    "url": "http://iacobus.usc.es/search*gag/?searchtype=Y&SORT=D&searcharg={{{s}}} "
+  },
+  {
+    "bang": "icd",
+    "name": "Code Suche",
+    "url": "http://www.icd-code.de/suche/icd/recherche.html?sp=0&sp=S{{{s}}} "
+  },
+  {
+    "bang": "ic",
+    "name": "Imperial College London",
+    "url": "https://www.imperial.ac.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ideas",
+    "name": "RePEc IDEAS",
+    "url": "http://ideas.repec.org/cgi-bin/htsearch?q={{{s}}}&cmd=Search!"
+  },
+  {
+    "bang": "ieee",
+    "name": "IEEE Xplore",
+    "url": "http://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText={{{s}}}"
+  },
+  {
+    "bang": "iep",
+    "name": "Internet Encyclopedia of Philosophy",
+    "url": "http://www.iep.utm.edu/{{{s}}} "
+  },
+  {
+    "bang": "iet",
+    "name": "IET Digital Library",
+    "url": "https://digital-library.theiet.org/search?value1={{{s}}}&option1=all&option2=contentType&pageSize=20&value2="
+  },
+  {
+    "bang": "ifht",
+    "name": "Institue For High-Voltage Technology",
+    "url": "http://www.ifht.rwth-aachen.de/ca/be/ovbs/?lidx=&search={{{s}}}"
+  },
+  {
+    "bang": "igem",
+    "name": "parts.igem.org",
+    "url": "http://parts.igem.org/Special:Search?search={{{s}}} "
+  },
+  {
+    "bang": "ihep",
+    "name": "InspireHEP",
+    "url": "http://inspirehep.net/search?p={{{s}}}"
+  },
+  {
+    "bang": "iiba",
+    "name": "https://www.iiba.org",
+    "url": "https://www.iiba.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ikkepedia",
+    "name": "Ikkepedia",
+    "url": "http://ikkepedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "ilstu",
+    "name": "Illinois State University",
+    "url": "http://search.illinoisstate.edu/?q={{{s}}}"
+  },
+  {
+    "bang": "imb",
+    "name": "imbiomed",
+    "url": "http://www.imbiomed.com.mx/1/1/articulos.php?method=searchKeyword&keywords={{{s}}}"
+  },
+  {
+    "bang": "imperial",
+    "name": "Imperial College London",
+    "url": "https://www.imperial.ac.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "in2p3",
+    "name": "Annuaire in2p3 - CNRS",
+    "url": "https://annuaire.in2p3.fr/search/{{{s}}}"
+  },
+  {
+    "bang": "inah",
+    "name": "Instituto Nacional de Antropolog\u00eda e Historia",
+    "url": "https://www.inah.gob.mx/buscador?searchword={{{s}}}"
+  },
+  {
+    "bang": "infogal",
+    "name": "Infogalactic",
+    "url": "https://infogalactic.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "inha",
+    "name": "INHA",
+    "url": "http://catalogue.inha.fr/inha/List.csp?SearchT1={{{s}}}&Index1=Tlm&Database=5&OpacLanguage=fre&NumberToRetrieve=50&SearchMethod=Find_1&SearchTerm1={{{s}}}&Profile=Profile35&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&MyChannelCount="
+  },
+  {
+    "bang": "innsida",
+    "name": "Innsida NTNU",
+    "url": "https://innsida.ntnu.no/sok?site=innsida&query={{{s}}}&category=all"
+  },
+  {
+    "bang": "insas",
+    "name": "INSA de Strasbourg",
+    "url": "http://www.insa-strasbourg.fr/fr/?s={{{s}}}"
+  },
+  {
+    "bang": "insectimages",
+    "name": "Insect Images",
+    "url": "https://www.insectimages.org/search/action.cfm?q={{{s}}}"
+  },
+  {
+    "bang": "inspire",
+    "name": "Inspire HEP ",
+    "url": "http://inspirehep.net/search?p={{{s}}}"
+  },
+  {
+    "bang": "iop",
+    "name": "Institute of Physics Science",
+    "url": "http://iopscience.iop.org/nsearch?terms={{{s}}}&searchType=yourSearch"
+  },
+  {
+    "bang": "ismu",
+    "name": "Information system of Masaryk University",
+    "url": "https://is.muni.cz/auth/vyhledavani/?search={{{s}}}"
+  },
+  {
+    "bang": "janus",
+    "name": "Janus: Catalogues of Cambridge Archives",
+    "url": "https://janus.lib.cam.ac.uk/db/node.xsp?search={{{s}}}"
+  },
+  {
+    "bang": "jep",
+    "name": "The Journal of Economic Perspectives",
+    "url": "https://www.aeaweb.org/journals/jep/search-results?within%5Btitle%5D=on&within%5Babstract%5D=on&within%5Bauthor%5D=on&journal=3&q={{{s}}}"
+  },
+  {
+    "bang": "jfl",
+    "name": "Jerry Falwell Library",
+    "url": "https://www.liberty.edu/library/search-results/?type=all&q={{{s}}}"
+  },
+  {
+    "bang": "jfm",
+    "name": "Journal of Fluid Mechanics",
+    "url": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/listing?q={{{s}}}"
+  },
+  {
+    "bang": "jhulib",
+    "name": "Johns Hopkins University Library",
+    "url": "https://catalyst.library.jhu.edu/multi_search?utf8=\u2713&search_field=all_fields&q={{{s}}}"
+  },
+  {
+    "bang": "jove",
+    "name": "Jove",
+    "url": "https://www.jove.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ka",
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query={{{s}}}"
+  },
+  {
+    "bang": "kaprof",
+    "name": "Khan Academy (Profile Page)",
+    "url": "https://www.khanacademy.org/profile/{{{s}}}"
+  },
+  {
+    "bang": "kcl",
+    "name": "King's College London",
+    "url": "https://www.kcl.ac.uk/search/search.aspx#/all?term={{{s}}}"
+  },
+  {
+    "bang": "khan",
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query={{{s}}}"
+  },
+  {
+    "bang": "kobv",
+    "name": "http://www.kobv.de",
+    "url": "http://portal.kobv.de/simpleSearch.do?query= {{{s}}}"
+  },
+  {
+    "bang": "kpe",
+    "name": "Kalliope Verbundkatalog",
+    "url": "http://kalliope.staatsbibliothek-berlin.de/de/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "kth",
+    "name": "KTH",
+    "url": "https://www.kth.se/search/search?q={{{s}}}"
+  },
+  {
+    "bang": "kulib",
+    "name": "University of Kansas Library Catalog",
+    "url": "https://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?Search_Arg={{{s}}}&SL=None&Search_Code=FT*&PID=vT8gNN42qqUs0JjgNd8tssHev&SEQ=20180430021422&CNT=25&HIST=1&kujSubmitButtonName=Search"
+  },
+  {
+    "bang": "kvkde",
+    "name": "Karlsruher Virtueller Katalog (DE, Titel)",
+    "url": "http://kvk.bibliothek.kit.edu/hylib-bin/kvk/nph-kvk2.cgi?maske=kvk-redesign&lang=de&title=KIT-Bibliothek%3A+Karlsruher+Virtueller+Katalog+KVK+%3A+Ergebnisanzeige&head=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fhead.html&header=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fheader.html&spacer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fspacer.html&footer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Ffooter.html&css=none&input-charset=utf-8&ALL=&TI={{{s}}}&AU=&CI=&ST=&PY=&SB=&SS=&PU=&kataloge=SWB&kataloge=BVB&kataloge=NRW&kataloge=HEBIS&kataloge=HEBIS_RETRO&kataloge=KOBV_SOLR&kataloge=GBV&kataloge=DDB&kataloge=STABI_BERLIN&kataloge=TIB&kataloge=OEVK_GBV&kataloge=VD16&kataloge=VD17&kataloge=VD18&kataloge=VOE&kataloge=ZDB&ref=direct&client-js=yes"
+  },
+  {
+    "bang": "kzs",
+    "name": "KidzSearch",
+    "url": "http://www.kidzsearch.com/kzsearch.php?q={{{s}}}"
+  },
+  {
+    "bang": "lammps",
+    "name": "LAMMPS Documentation",
+    "url": "http://lammps.sandia.gov/doc/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "lau",
+    "name": "Lebanese American University",
+    "url": "https://www.lau.edu.lb/search/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "lcauth",
+    "name": "Library of Congress Authorities",
+    "url": "http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?Search_0Arg={{{s}}}&Search_Code=SHED_&PID=pyauyDhI6ZL9vR3exz9cx8t8BF&SEQ=20161101104025&CNT=100&HIST=1"
+  },
+  {
+    "bang": "lcharts",
+    "name": "LitCharts",
+    "url": "https://www.litcharts.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "lcid",
+    "name": "Library of Congress Linked Data",
+    "url": "http://id.loc.gov/search/?q={{{s}}}&q="
+  },
+  {
+    "bang": "leidenlib",
+    "name": "Bibilotheek Universiteit Leiden",
+    "url": "https://www.bibliotheek.universiteitleiden.nl/zoeken?q={{{s}}}"
+  },
+  {
+    "bang": "le",
+    "name": "University of Leicester",
+    "url": "https://le.ac.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "liberia",
+    "name": "Libreria Universitaria",
+    "url": "http://www.libreriauniversitaria.it/c_power_search.php?shelf=BIT&q={{{s}}}&submit="
+  },
+  {
+    "bang": "libuniversitaria",
+    "name": "Libreria Universitaria",
+    "url": "http://www.libreriauniversitaria.it/c_power_search.php?shelf=BIT&q={{{s}}}&submit="
+  },
+  {
+    "bang": "libuva",
+    "name": "UvA CataloguePlus",
+    "url": "https://lib.uva.nl/primo-explore/search?query=any,contains,{{{s}}}&tab=all&search_scope=uva_all&vid=UVA"
+  },
+  {
+    "bang": "liu",
+    "name": "Link\u00f6ping University",
+    "url": "http://search.liu.se/en/?query={{{s}}}"
+  },
+  {
+    "bang": "lmu",
+    "name": "Universit\u00e4tsbibliothek der Ludwig-Maximilians-Universit\u00e4t (LMU) M\u00fcnchen",
+    "url": "https://opac.ub.uni-muenchen.de/TouchPoint/start.do?View=sunrise&Language=de&Query=-1=%22{{{s}}}%22"
+  },
+  {
+    "bang": "loop",
+    "name": "Loop",
+    "url": "http://www.frontiersin.org/SearchData.aspx?sq={{{s}}}"
+  },
+  {
+    "bang": "lselib",
+    "name": "LSE Library ",
+    "url": "https://librarysearch.lse.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=CSCOP_ALL&sortby=rank&vid=44LSE_VU1"
+  },
+  {
+    "bang": "ltulib",
+    "name": "La Trobe University Library",
+    "url": "http://search.lib.latrobe.edu.au/primo_library/libweb/action/dlSearch.do?vid=LATROBE&institution=LATROBE&search_scope=All&query=any,contains, {{{s}}} "
+  },
+  {
+    "bang": "ltwiki",
+    "name": "Lithuanian Wikipedia",
+    "url": "https://lt.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "lu",
+    "name": "Liberty University",
+    "url": "https://www.liberty.edu/search/?q={{{s}}}"
+  },
+  {
+    "bang": "lux",
+    "name": "Lux Leuphana Bibliothek",
+    "url": "https://lux.leuphana.de/vufind/Search/Results?lookfor={{{s}}}&submit=Suchen"
+  },
+  {
+    "bang": "lwg",
+    "name": "https://ludwig.guru",
+    "url": "https://ludwig.guru/s/{{{s}}}"
+  },
+  {
+    "bang": "macewan",
+    "name": "Macewan Library",
+    "url": "https://library.macewan.ca/library-search?query={{{s}}}"
+  },
+  {
+    "bang": "mcc",
+    "name": "MCC",
+    "url": "https://www.monroecc.edu/search/#gsc.q={{{s}}}"
+  },
+  {
+    "bang": "mcgilllib",
+    "name": "McGill University Library",
+    "url": "http://mcgill.worldcat.org/search?q={{{s}}}&qt=owc_search&scope=2"
+  },
+  {
+    "bang": "mcgill",
+    "name": "McGill University",
+    "url": "http://www.mcgill.ca/search/?query={{{s}}}&find=Search"
+  },
+  {
+    "bang": "medf",
+    "name": "Mechanical Engineering \u00bb Discussion Forum \u00bb Questions & Answers",
+    "url": "https://mechanicalsite.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mediatum",
+    "name": "mediaTUM",
+    "url": "https://mediatum.ub.tum.de/?query={{{s}}}"
+  },
+  {
+    "bang": "melvyl",
+    "name": "Melvyl Catalog (University of California Libraries)",
+    "url": "http://melvyl.worldcat.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "memrise",
+    "name": "Memrise",
+    "url": "http://www.memrise.com/courses/english/?q={{{s}}}"
+  },
+  {
+    "bang": "menadoc",
+    "name": "MENAdoc",
+    "url": "https://menadoc.bibliothek.uni-halle.de/search/quick?query={{{s}}}"
+  },
+  {
+    "bang": "mendeley",
+    "name": "Mendeley",
+    "url": "http://www.mendeley.com/research-papers/search/?query={{{s}}}"
+  },
+  {
+    "bang": "merit",
+    "name": "MeritBadgeDotOrg",
+    "url": "http://meritbadge.org/wiki/index.php/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "mesh",
+    "name": "https://www.ncbi.nlm.nih.gov/mesh",
+    "url": "https://www.ncbi.nlm.nih.gov/mesh/?term={{{s}}}"
+  },
+  {
+    "bang": "meteoblue",
+    "name": "meteoblue",
+    "url": "https://www.meteoblue.com/en/weather/forecast/14-days/{{{s}}}"
+  },
+  {
+    "bang": "mgh",
+    "name": "Monumenta Germaniae Historica",
+    "url": "https://www.dmgh.de/de/fs1/search/query.html?fulltext={{{s}}}"
+  },
+  {
+    "bang": "millersv",
+    "name": "Millersville University",
+    "url": "https://www.millersville.edu/search-results.php?query={{{s}}}"
+  },
+  {
+    "bang": "mindat",
+    "name": "Mindat",
+    "url": "http://www.mindat.org/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "mirabile",
+    "name": "Mirabile: Digital Archives for Medieval Culture",
+    "url": "http://www.mirabileweb.it/ricerca_semplice.aspx?tsearch={{{s}}}"
+  },
+  {
+    "bang": "mitlib",
+    "name": "MIT Libraries",
+    "url": "https://lib.mit.edu/search/bento?q={{{s}}}"
+  },
+  {
+    "bang": "mit",
+    "name": "MIT Subject Listing & Schedule",
+    "url": "http://student.mit.edu/catalog/search.cgi?search={{{s}}}"
+  },
+  {
+    "bang": "mitocw",
+    "name": "MIT OpenCourseWare",
+    "url": "http://search.mit.edu/search?site=ocw&client=mit&output=xml_no_dtd&proxystylesheet=http://ocw.mit.edu/search/google-ocw.xsl&proxyreload=1&q={{{s}}}"
+  },
+  {
+    "bang": "mlat",
+    "name": "Corpus Corporum: repositorium operum latinorum apud universitatem Turicensem",
+    "url": "http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff={{{s}}}&mode=SPH_MATCH_EXTENDED2&corpus=all"
+  },
+  {
+    "bang": "mlgb",
+    "name": "Medieval Libraries of Great Britain",
+    "url": "http://mlgb3.bodleian.ox.ac.uk/mlgb/?search_term={{{s}}}"
+  },
+  {
+    "bang": "mlpes",
+    "name": "Medline plus in spanish",
+    "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus-spanish&v%3Asources=medlineplus-spanish-bundle&query={{{s}}}"
+  },
+  {
+    "bang": "mmol",
+    "name": "Medieval Manuscripts in Oxford Libraries",
+    "url": "https://medieval.bodleian.ox.ac.uk/?q={{{s}}}"
+  },
+  {
+    "bang": "monash",
+    "name": "Monash University",
+    "url": "https://www.monash.edu/search?query={{{s}}}"
+  },
+  {
+    "bang": "mooc",
+    "name": "Class Central",
+    "url": "https://www.class-central.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "mpgde",
+    "name": "Max Planck Gesellschaft",
+    "url": "http://www.mpg.de/en/search?utf8=%E2%9C%93&searchfield={{{s}}}"
+  },
+  {
+    "bang": "mpg",
+    "name": "Max Planck Gesellschaft",
+    "url": "http://www.mpg.de/en/search?utf8=%E2%9C%93&searchfield={{{s}}}"
+  },
+  {
+    "bang": "mpgrena",
+    "name": "MPG.ReNa - Max Planck Reseource Navigator",
+    "url": "http://rena.mpdl.mpg.de/rena/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "bang": "mri",
+    "name": "MRI Wiki",
+    "url": "https://mri.iop.kcl.ac.uk/mediawiki/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "msacademic",
+    "name": "Microsoft Academic Search",
+    "url": "http://academic.research.microsoft.com/Search?query={{{s}}}&s=0"
+  },
+  {
+    "bang": "msac",
+    "name": "Microsoft Academic",
+    "url": "https://academic.microsoft.com/search?q={{{s}}}&f=&orderBy=0&forceFallback=true"
+  },
+  {
+    "bang": "msa",
+    "name": "Microsoft Academic",
+    "url": "https://academic.microsoft.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "msulibrary",
+    "name": "Michigan State University Library",
+    "url": "https://lib.msu.edu/searchresults/?Ntt={{{s}}}"
+  },
+  {
+    "bang": "mwld",
+    "name": "Merriam-Webster's Learner's Dictionary",
+    "url": "http://www.learnersdictionary.com/definition/{{{s}}}"
+  },
+  {
+    "bang": "nano",
+    "name": "Timini",
+    "url": "https://www.timini.no/search/q/{{{s}}}"
+  },
+  {
+    "bang": "ncbi",
+    "name": "NCBI",
+    "url": "http://www.ncbi.nlm.nih.gov/gquery/?term={{{s}}}"
+  },
+  {
+    "bang": "ncl",
+    "name": "NC Live",
+    "url": "https://www.nclive.org/search-everything?search={{{s}}}"
+  },
+  {
+    "bang": "ncsulib",
+    "name": "NCSU Libraries",
+    "url": "http://search.lib.ncsu.edu/?q={{{s}}}"
+  },
+  {
+    "bang": "ndla",
+    "name": "NDLA",
+    "url": "https://ndla.no/en/search/apachesolr_search/{{{s}}}?language[]=und&filters=1"
+  },
+  {
+    "bang": "nd",
+    "name": "Notre Dame Library OneSearch",
+    "url": "https://onesearch.library.nd.edu/primo-explore/search?query=any,contains,{{{s}}}&tab=onesearch&search_scope=malc_blended&vid=NDU&lang=en_US&offset=0"
+  },
+  {
+    "bang": "ndpr",
+    "name": "Notre Dame Philosophical Reviews",
+    "url": "http://ndpr.nd.edu/search/?search_keyword=&as_sitesearch=ndpr.nd.edu&q={{{s}}}"
+  },
+  {
+    "bang": "nebis",
+    "name": "Nebis",
+    "url": "https://recherche.nebis.ch/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=NEBIS"
+  },
+  {
+    "bang": "neb",
+    "name": "New England BioLabs",
+    "url": "https://www.neb.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ned",
+    "name": "NASA Extragalactic Database",
+    "url": "http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname={{{s}}}"
+  },
+  {
+    "bang": "ne.se",
+    "name": "Svenska Nationalencyklopedin",
+    "url": "http://www.ne.se/s%C3%B6k/?t=uppslagsverk&q={{{s}}}"
+  },
+  {
+    "bang": "networkx",
+    "name": "networkx",
+    "url": "http://networkx.lanl.gov/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "newport",
+    "name": "Newport",
+    "url": "https://www.newport.com/search/?text={{{s}}}"
+  },
+  {
+    "bang": "ngrams",
+    "name": "Google Ngram Viewer",
+    "url": "https://books.google.com/ngrams/graph?content={{{s}}}&year_start=1800&year_end=2000"
+  },
+  {
+    "bang": "niche",
+    "name": "Niche",
+    "url": "https://www.niche.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "nlr",
+    "name": "New Left Review",
+    "url": "https://newleftreview.org/search/hybrid?query={{{s}}}"
+  },
+  {
+    "bang": "nmsu",
+    "name": "New Mexico State University",
+    "url": "https://www.nmsu.edu/search_results.html?q={{{s}}}"
+  },
+  {
+    "bang": "npoz",
+    "name": "Nacionalni portal odprte znanosti",
+    "url": "http://openscience.si/NaprednoIskanje.aspx?t=s&q=1:0:{{{s}}};"
+  },
+  {
+    "bang": "nusearch",
+    "name": "NUsearch",
+    "url": "http://nusearch.nottingham.ac.uk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28UNUK%29%2Cscope%3A%28unuk_pda_ebl%29&frbg=&tab=default_tab&dstmp=1430162925299&srt=rank&ct=search&mode=Basic&dum=true&indx=1&tb=t&vl(freeText0)={{{s}}}&fn=search&vid=UNUK"
+  },
+  {
+    "bang": "nx",
+    "name": "networkx",
+    "url": "http://networkx.lanl.gov/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "nzlibraries",
+    "name": "New Zealand Libraries' Catalogue",
+    "url": "https://tepuna.on.worldcat.org/external-search?queryString={{{s}}}"
+  },
+  {
+    "bang": "nzqa",
+    "name": "New Zealand Qualifications Authority",
+    "url": "https://search.nzqa.govt.nz/apps/search/?q={{{s}}}"
+  },
+  {
+    "bang": "oab",
+    "name": "Open Access Button",
+    "url": "https://openaccessbutton.org/?url={{{s}}}"
+  },
+  {
+    "bang": "oclc",
+    "name": "OCLC Worldcat",
+    "url": "https://www.worldcat.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "ocw",
+    "name": "MIT OpenCourseWare",
+    "url": "http://search.mit.edu/search?site=ocw&client=mit&output=xml_no_dtd&proxystylesheet=http://ocw.mit.edu/search/google-ocw.xsl&proxyreload=1&q={{{s}}}"
+  },
+  {
+    "bang": "odnb",
+    "name": "Oxford Dictionary of National Biography",
+    "url": "http://www.oxforddnb.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "od",
+    "name": "Oxford Dictionary",
+    "url": "http://oxforddictionaries.com/definition/english/{{{s}}}?q={{{s}}}"
+  },
+  {
+    "bang": "omeka",
+    "name": "Omeka Forums",
+    "url": "https://forum.omeka.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "opachgw",
+    "name": "OPAC Uni Greifswald",
+    "url": "https://lhgrw.gbv.de/DB=1/SET=18/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "bang": "opachu",
+    "name": "Universit\u00e4tsbibliothek Humboldt (Grimmzentrum)",
+    "url": "https://hu-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&search_scope=default_scope&displayField=all&pcAvailabiltyMode=false&dum=true&vid=hub_ub&displayMode=full&bulkSize=30&mode=Basic&tab=default_tab&highlight=true&institution=HUB_UB&sortby=rank&lang=de_DE"
+  },
+  {
+    "bang": "opacp",
+    "name": "Universit\u00e4tsbibliothek Potsdam",
+    "url": "https://opac.ub.uni-potsdam.de/DB=1/SET=4/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "bang": "openbadges",
+    "name": "OpenBadges",
+    "url": "https://openbadges.it/search/{{{s}}} "
+  },
+  {
+    "bang": "orcid",
+    "name": "ORCID",
+    "url": "https://orcid.org/orcid-search/quick-search?searchQuery={{{s}}} "
+  },
+  {
+    "bang": "orfoqrafiya",
+    "name": "Orfoqrafiya",
+    "url": "http://www.orfoqrafiya.az/aze/?q={{{s}}}"
+  },
+  {
+    "bang": "oriantnu",
+    "name": "Oria NTNU",
+    "url": "https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=NTNU_UB&lang=no_NO&offset=0"
+  },
+  {
+    "bang": "oru",
+    "name": "\u00d6rebro University",
+    "url": "https://www.oru.se/funktioner/sokresultat/?query={{{s}}}"
+  },
+  {
+    "bang": "osa",
+    "name": "OSA Publishing",
+    "url": "https://www.osapublishing.org/search.cfm?q={{{s}}}"
+  },
+  {
+    "bang": "osf",
+    "name": "Open Science Framework",
+    "url": "https://osf.io/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ottobibtex",
+    "name": "http://www.ottobib.com",
+    "url": "http://www.ottobib.com/isbn/{{{s}}}/bibtex"
+  },
+  {
+    "bang": "owl",
+    "name": "http://www.lechuza.org",
+    "url": "http://buscador.lechuza.org/resultados.php?texto={{{s}}}&xx=buscar"
+  },
+  {
+    "bang": "oxbib",
+    "name": "Oxford Bibliographies",
+    "url": "http://www.oxfordbibliographies.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "paper",
+    "name": "Paperity - first open science aggregator",
+    "url": "https://paperity.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "papers",
+    "name": "Google Scholar",
+    "url": "http://scholar.google.com/scholar?as_ylo=2000&q={{{s}}}&as_sdt=1,5&as_vis=1&num=100"
+  },
+  {
+    "bang": "pauly",
+    "name": "Der Neue Pauly (Brill)",
+    "url": "http://referenceworks.brillonline.com/search?s.q={{{s}}}&s.f.s2_parent=s.f.book.der-neue-pauly&search-go=Search"
+  },
+  {
+    "bang": "pcat",
+    "name": "Princeton University Library Catalog",
+    "url": "https://catalog.princeton.edu/catalog?utf8=\u2713&search_field=all_fields&q={{{s}}}"
+  },
+  {
+    "bang": "pdqtglobal",
+    "name": "ProQuest Dissertations & Theses Global",
+    "url": "http://fedsearch.proquest.com/search/sru/pqdtglobal?operation=searchRetrieve&version=1.2&maximumRecords=30&query={{{s}}}"
+  },
+  {
+    "bang": "pdqtopen",
+    "name": "ProQuest Dissertations & Theses Open",
+    "url": "https://pqdtopen.proquest.com/results.html?QryTxt={{{s}}}"
+  },
+  {
+    "bang": "pediaa",
+    "name": "Pediaa",
+    "url": "https://pediaa.com/?s={{{s}}}"
+  },
+  {
+    "bang": "pennbooks",
+    "name": "UPENN: The Online Books Page",
+    "url": "https://onlinebooks.library.upenn.edu/webbin/book/search?author=&amode=words&title={{{s}}}&tmode=words&c=x"
+  },
+  {
+    "bang": "persee",
+    "name": "Pers\u00e9e",
+    "url": "http://www.persee.fr/search?q={{{s}}}"
+  },
+  {
+    "bang": "pgde",
+    "name": "Projekt Gutenberg-DE",
+    "url": "http://gutenberg.spiegel.de/suche?q={{{s}}}"
+  },
+  {
+    "bang": "pgkb",
+    "name": "PharmGKB",
+    "url": "https://www.pharmgkb.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "pharmgkb",
+    "name": "PharmGKB",
+    "url": "https://www.pharmgkb.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "philpapers",
+    "name": "PhilPapers",
+    "url": "http://philpapers.org/s/{{{s}}}"
+  },
+  {
+    "bang": "phi",
+    "name": "PHI Latin Texts",
+    "url": "http://latin.packhum.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "phy",
+    "name": "Physics Classroom",
+    "url": "https://www.physicsclassroom.com/?q={{{s}}}"
+  },
+  {
+    "bang": "physe",
+    "name": "Physics StackExchange",
+    "url": "https://physics.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "physse",
+    "name": "Physics StackExchange",
+    "url": "https://physics.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "pirsa",
+    "name": "Perimeter Institute Recorded Seminar Archive",
+    "url": "http://pirsa.org/index.php?p=speaker&name={{{s}}}"
+  },
+  {
+    "bang": "plato",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "url": "http://plato.stanford.edu/search/searcher.py?query={{{s}}}"
+  },
+  {
+    "bang": "pleiades",
+    "name": "Pleiades",
+    "url": "http://pleiades.stoa.org/search?SearchableText={{{s}}}&portal_type=Place&submit=Search"
+  },
+  {
+    "bang": "pmd",
+    "name": "Pubmed",
+    "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+  },
+  {
+    "bang": "pmid",
+    "name": "Pubmed",
+    "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+  },
+  {
+    "bang": "pm",
+    "name": "pubmed",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+  },
+  {
+    "bang": "pmuse",
+    "name": "Project Muse",
+    "url": "https://muse.jhu.edu/search?action=search&query=content:{{{s}}}:and&min=1&max=10&t=header"
+  },
+  {
+    "bang": "polito",
+    "name": "Politecnico di Torino",
+    "url": "http://www.polito.it/search/?lang=it&q={{{s}}}"
+  },
+  {
+    "bang": "polymtl",
+    "name": "Polytechnique Montreal",
+    "url": "https://www.polymtl.ca/etudes/cours/recherche/*?sigle={{{s}}}"
+  },
+  {
+    "bang": "pomagalo",
+    "name": "pomagalo.com",
+    "url": "https://search.pomagalo.com/?keywords_id=&keywords={{{s}}}"
+  },
+  {
+    "bang": "poweren",
+    "name": "Power Engineering",
+    "url": "https://poweren.ir/?s={{{s}}}"
+  },
+  {
+    "bang": "prdl",
+    "name": "The Post-Reformation Digital Library",
+    "url": "http://www.prdl.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "primo",
+    "name": "Bibliothekskatalog Primo der FU Berlin",
+    "url": "https://fu-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=fub&search_scope=FUB_ALL&vid=FUB&lang=de_DE&offset=0"
+  },
+  {
+    "bang": "princetonlib",
+    "name": "Princeton University Library",
+    "url": "https://library.princeton.edu/find/all/{{{s}}}"
+  },
+  {
+    "bang": "princeton",
+    "name": "Princeton",
+    "url": "https://www.princeton.edu/main/tools/search/?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "princetonreview",
+    "name": "Princeton Review",
+    "url": "https://www.princetonreview.com/search-results?q={{{s}}}"
+  },
+  {
+    "bang": "prl",
+    "name": "American Physical Society",
+    "url": "http://journals.aps.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "projectgutenberg",
+    "name": "Project Gutenberg",
+    "url": "http://www.gutenberg.org/ebooks/search/?query={{{s}}}"
+  },
+  {
+    "bang": "protocolsio",
+    "name": "Protocols.io",
+    "url": "https://protocols.io/search?key={{{s}}}"
+  },
+  {
+    "bang": "psulib",
+    "name": "Penn State Library",
+    "url": "http://psu.summon.serialssolutions.com/search/results?spellcheck=true&q={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "publabs",
+    "name": "PubMed Labs",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term={{{s}}}"
+  },
+  {
+    "bang": "qb",
+    "name": "Quimbee",
+    "url": "https://www.quimbee.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "qc",
+    "name": "https://www.qconcursos.com",
+    "url": "https://www.qconcursos.com/busca?q={{{s}}}"
+  },
+  {
+    "bang": "qstu",
+    "name": "QS Top Universities",
+    "url": "https://www.topuniversities.com/search/site/{{{s}}}"
+  },
+  {
+    "bang": "qual",
+    "name": "Qualtrics Support",
+    "url": "https://www.qualtrics.com/support/search/?q={{{s}}}"
+  },
+  {
+    "bang": "quizlet",
+    "name": "Quizlet",
+    "url": "http://quizlet.com/subject/{{{s}}}"
+  },
+  {
+    "bang": "qwe",
+    "name": "Qwant Junior Education",
+    "url": "https://www.qwantjunior.com/?q={{{s}}}&t=education"
+  },
+  {
+    "bang": "rag",
+    "name": "Real Academia Galega",
+    "url": "http://academia.gal/dicionario/-/termo/busca/{{{s}}}"
+  },
+  {
+    "bang": "ratemyprofessor",
+    "name": "Rate My Professor",
+    "url": "http://www.ratemyprofessors.com/search.jsp?query={{{s}}}"
+  },
+  {
+    "bang": "rate",
+    "name": "Rate My Professors",
+    "url": "https://www.ratemyprofessors.com/search.jsp?query={{{s}}}"
+  },
+  {
+    "bang": "re3",
+    "name": "Registry of Research Data Repositories",
+    "url": "https://www.re3data.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "rebiun",
+    "name": "Red de Bibliotecas REBIUN",
+    "url": "http://rebiun.baratz.es/rebiun/search?q={{{s}}}&start=0&rows=12&sort=score+desc&advanced_handler=advanced"
+  },
+  {
+    "bang": "redalyc",
+    "name": "REDALYC",
+    "url": "http://www.redalyc.org/busquedaArticuloFiltros.oa?q={{{s}}}"
+  },
+  {
+    "bang": "refseek",
+    "name": "RefSeek",
+    "url": "https://www.refseek.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "repum",
+    "name": "Repositorium University of Minho",
+    "url": "https://repositorium.sdum.uminho.pt/simple-search?query={{{s}}}"
+  },
+  {
+    "bang": "researchgate",
+    "name": "ResearchGate",
+    "url": "https://www.researchgate.net/search/publications?q={{{s}}}"
+  },
+  {
+    "bang": "research",
+    "name": "PLOS",
+    "url": "http://journals.plos.org/plosone/search?unformattedQuery=everything:\"{{{s}}}\""
+  },
+  {
+    "bang": "resp",
+    "name": "Respaper",
+    "url": "http://www.respaper.com/s?q={{{s}}}"
+  },
+  {
+    "bang": "rex",
+    "name": "REX \u2013 The Royal Library and Copenhagen University Library Service",
+    "url": "http://rex.kb.dk/primo_library/libweb/action/search.do?fn=search&vl%28freeText0%29={{{s}}}"
+  },
+  {
+    "bang": "rgate",
+    "name": "ResearchGate",
+    "url": "https://www.researchgate.net/search.Search.html?query={{{s}}}"
+  },
+  {
+    "bang": "riopac",
+    "name": "Regesta Imperii OPAC",
+    "url": "http://opac.regesta-imperii.de/lang_en/suche.php?qs={{{s}}}"
+  },
+  {
+    "bang": "ritlib",
+    "name": "RIT Library",
+    "url": "https://rit.summon.serialssolutions.com/search?l=en&q={{{s}}}"
+  },
+  {
+    "bang": "rmit",
+    "name": "RMIT University",
+    "url": "https://www.rmit.edu.au/search?q={{{s}}}"
+  },
+  {
+    "bang": "rphilos",
+    "name": "Radical Philosophy",
+    "url": "http://www.radicalphilosophy.com/?s={{{s}}}"
+  },
+  {
+    "bang": "rsci",
+    "name": "Reddit Ask Science",
+    "url": "https://www.reddit.com/r/askscience/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "bang": "rug",
+    "name": "University of Groningen",
+    "url": "http://www.rug.nl/search/?searchtext={{{s}}}"
+  },
+  {
+    "bang": "rvcc",
+    "name": "Raritan Valley Community College",
+    "url": "http://raritanval.edu/rvcc/search.aspx?searchtext={{{s}}}"
+  },
+  {
+    "bang": "rwth",
+    "name": "RWTH Aachen University",
+    "url": "http://www.rwth-aachen.de/ca/be/hx/?lidx=&institution=RWTH+Aachen+University&search={{{s}}}"
+  },
+  {
+    "bang": "s2",
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "sbn",
+    "name": "OPAC SBN",
+    "url": "http://opac.sbn.it/opacsbn/opac/iccu/free.jsp={{{s}}}"
+  },
+  {
+    "bang": "scdirect",
+    "name": "ScienceDirect",
+    "url": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "bang": "scdpo",
+    "name": "SCD de l'Universit\u00e9 de Poitiers (biblioth\u00e8ques universitaires)",
+    "url": "http://scd.summon.serialssolutions.com/search?s.q={{{s}}}"
+  },
+  {
+    "bang": "scd",
+    "name": "Science Daily",
+    "url": "https://www.sciencedaily.com/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "schp",
+    "name": "Scholarpedia",
+    "url": "http://scholarpedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "scid",
+    "name": "http://www.sciencedirect.com",
+    "url": "http://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "bang": "scidict",
+    "name": "The Science Dictionary",
+    "url": "http://thesciencedictionary.org/search2/?q={{{s}}}"
+  },
+  {
+    "bang": "scidirect",
+    "name": "ScienceDirect",
+    "url": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "bang": "scidir",
+    "name": "ScienceDirect",
+    "url": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "bang": "scilit",
+    "name": "Scilit",
+    "url": "https://www.scilit.net/articles/10/0?Search={{{s}}}"
+  },
+  {
+    "bang": "scimago",
+    "name": "SCImago Journal Rank",
+    "url": "http://scimagojr.com/journalsearch.php?q={{{s}}}"
+  },
+  {
+    "bang": "searchworks",
+    "name": "SearchWorks (SULAIR)",
+    "url": "http://searchworks.stanford.edu/?q={{{s}}}&search_field=search"
+  },
+  {
+    "bang": "segdl",
+    "name": "SEG Digital Library",
+    "url": "https://library.seg.org/action/doSearch?AllField={{{s}}}"
+  },
+  {
+    "bang": "seg",
+    "name": "SEG Digital Library",
+    "url": "https://library.seg.org/action/doSearch?AllField={{{s}}}&publication="
+  },
+  {
+    "bang": "selectome",
+    "name": "Selectome",
+    "url": "https://selectome.unil.ch/cgi-bin/getResult.cgi?query={{{s}}}&res_type=auto"
+  },
+  {
+    "bang": "semantic",
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/search?q={{{s}}}&sort=relevance&ae=false"
+  },
+  {
+    "bang": "sep",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "url": "http://plato.stanford.edu/search/searcher.py?query={{{s}}}"
+  },
+  {
+    "bang": "sfmoma",
+    "name": "SFMOMA",
+    "url": "https://www.sfmoma.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "sfulib",
+    "name": "Simon Fraser University Library",
+    "url": "http://search.lib.sfu.ca/?q={{{s}}}"
+  },
+  {
+    "bang": "shmoop",
+    "name": "Shmoop",
+    "url": "http://www.shmoop.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "shura",
+    "name": "Sheffield Hallam University Research Archive (SHURA)",
+    "url": "http://shura.shu.ac.uk/cgi/facet/simple2?q={{{s}}}"
+  },
+  {
+    "bang": "sigma",
+    "name": "Sigma Aldritch Catalog",
+    "url": "http://www.sigmaaldrich.com/catalog/search?interface=All&term={{{s}}}"
+  },
+  {
+    "bang": "simbad",
+    "name": "SIMBAD Astronomical Database",
+    "url": "http://simbad.u-strasbg.fr/simbad/sim-basic?Ident={{{s}}}"
+  },
+  {
+    "bang": "sjiauto",
+    "name": "Science Jobs India",
+    "url": "https://sjiauto.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "sjr",
+    "name": "Scimago Journal & Country Rank",
+    "url": "http://www.scimagojr.com/journalsearch.php?q={{{s}}}"
+  },
+  {
+    "bang": "slub",
+    "name": "SLUB Katalog",
+    "url": "http://katalogbeta.slub-dresden.de/?tx_find_find[q][default]={{{s}}} "
+  },
+  {
+    "bang": "smag",
+    "name": "sciencemag",
+    "url": "http://science.sciencemag.org/search/{{{s}}}"
+  },
+  {
+    "bang": "smartcat",
+    "name": "Smartcat",
+    "url": "https://rug.on.worldcat.org/search?databaseList=&queryString={{{s}}}"
+  },
+  {
+    "bang": "smithsonian",
+    "name": "Smithsonian",
+    "url": "https://si.edu/sisearch?edan_q={{{s}}}"
+  },
+  {
+    "bang": "smpl",
+    "name": "Santa Monica Public Library",
+    "url": "https://smpl.bibliocommons.com/search?t=smart&search_category=keyword&q={{{s}}}"
+  },
+  {
+    "bang": "smsc",
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "snf",
+    "name": "Swiss National Science Foundation",
+    "url": "http://www.snf.ch/en/Search/Pages/default.aspx?k={{{s}}}"
+  },
+  {
+    "bang": "solo",
+    "name": "SOLO: Search Oxford Libraries Online",
+    "url": "http://solo.bodleian.ox.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=local&search_scope=LSCOP_ALL&vid=SOLO&lang=en_US&offset=0"
+  },
+  {
+    "bang": "spekgeo",
+    "name": "Spektrum",
+    "url": "https://www.spektrum.de/lexikon/geographie/?q={{{s}}}"
+  },
+  {
+    "bang": "springerfree",
+    "name": "Springer Link",
+    "url": "https://link.springer.com/search?showAll=false&query={{{s}}}"
+  },
+  {
+    "bang": "springerlink",
+    "name": "Springer Link",
+    "url": "https://link.springer.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "ssoar",
+    "name": "SSOAR",
+    "url": "http://www.ssoar.info/ssoar/discover?query={{{s}}}"
+  },
+  {
+    "bang": "statsbiblioteket",
+    "name": "Statsbiblioteket Aarhus",
+    "url": "https://www.statsbiblioteket.dk/au/?locale=en#/search?query={{{s}}}"
+  },
+  {
+    "bang": "stats",
+    "name": "Statistics By Jim",
+    "url": "https://statisticsbyjim.com/?s={{{s}}}"
+  },
+  {
+    "bang": "stdoc",
+    "name": "Stata 14 help",
+    "url": "http://www.stata.com/help.cgi?{{{s}}}"
+  },
+  {
+    "bang": "sthlmbibbla",
+    "name": "Stockholms stadsbibliotek",
+    "url": "https://biblioteket.stockholm.se/sok?freetext={{{s}}}"
+  },
+  {
+    "bang": "study",
+    "name": "Study.com",
+    "url": "https://study.com/search/text/academy.html?q={{{s}}}"
+  },
+  {
+    "bang": "stws",
+    "name": "Super Teacher Worksheets",
+    "url": "https://www.superteacherworksheets.com/search-results.html?srch_words={{{s}}}"
+  },
+  {
+    "bang": "sudoc",
+    "name": "Sudoc",
+    "url": "http://www.sudoc.abes.fr//DB=2.1/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM={{{s}}}"
+  },
+  {
+    "bang": "suttac",
+    "name": "www.suttacentral.net",
+    "url": "https://suttacentral.net/search?query={{{s}}}"
+  },
+  {
+    "bang": "suwho",
+    "name": "Stanford People Search (StanfordWho)",
+    "url": "https://stanford.rimeto.io/search/{{{s}}}"
+  },
+  {
+    "bang": "swissbib",
+    "name": "swissbib",
+    "url": "https://www.swissbib.ch/Search/Results?lookfor={{{s}}}&type=AllFields"
+  },
+  {
+    "bang": "sworks",
+    "name": "Stanford SearchWorks",
+    "url": "http://searchworks.stanford.edu/?utf8=\u2713&search_field=search&q={{{s}}}"
+  },
+  {
+    "bang": "swtsearch",
+    "name": "Sweet Search",
+    "url": "http://www.sweetsearch.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tba",
+    "name": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "technobyte",
+    "name": "Technobyte",
+    "url": "https://www.technobyte.org/?s={{{s}}}"
+  },
+  {
+    "bang": "tec",
+    "name": "The Ecological Citizen",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Fwww.ecologicalcitizen.net%2F&ia=web"
+  },
+  {
+    "bang": "teded",
+    "name": "TedEd",
+    "url": "https://ed.ted.com/search?utf8=\u2713&qs={{{s}}}"
+  },
+  {
+    "bang": "test",
+    "name": "http://www.greek-language.gr",
+    "url": "http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq={{{s}}}"
+  },
+  {
+    "bang": "theses",
+    "name": "Theses.fr",
+    "url": "http://www.theses.fr/?q={{{s}}}"
+  },
+  {
+    "bang": "thesetel",
+    "name": "TEL - Th\u00e8ses en ligne",
+    "url": "https://tel.archives-ouvertes.fr/search/index/?q={{{s}}}"
+  },
+  {
+    "bang": "thj",
+    "name": "ThULB Jena",
+    "url": "https://suche.thulb.uni-jena.de/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "bang": "thnuernberg",
+    "name": "TH N\u00fcrnberg",
+    "url": "https://www.th-nuernberg.de/suche/?id=1&L=0&q={{{s}}}"
+  },
+  {
+    "bang": "tib",
+    "name": "TIB/UB-OPAC (Library of Leibniz Universit\u00e4t Hannover)",
+    "url": "http://opac.tib.uni-hannover.de/DB=1/CHARSET=UTF-8/SRCH?IKT=1016&TRM={{{s}}}"
+  },
+  {
+    "bang": "tibub",
+    "name": "TIBUB OPAC Hannover",
+    "url": "http://opac.tib.uni-hannover.de/DB=1/SET=1/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "bang": "tippie",
+    "name": "Tippie College of Business",
+    "url": "https://tippie.uiowa.edu/google-search?search={{{s}}}"
+  },
+  {
+    "bang": "tol",
+    "name": "Tree of Life Web Project",
+    "url": "http://tolweb.org/tree/home.pages/search.html?q={{{s}}}&sa=Search"
+  },
+  {
+    "bang": "trove",
+    "name": "Trove - National Library of Australia",
+    "url": "http://trove.nla.gov.au/result?q={{{s}}} "
+  },
+  {
+    "bang": "tsr",
+    "name": "The Student Room",
+    "url": "https://www.thestudentroom.co.uk/search/?tsr-search-query={{{s}}}"
+  },
+  {
+    "bang": "tub",
+    "name": "TUHH Library",
+    "url": "https://katalog.tub.tuhh.de/Search/Results?lookfor={{{s}}}&type=AllFields&limit=20&sort=relevance"
+  },
+  {
+    "bang": "tuc",
+    "name": "Technische Universit\u00e4t Chemnitz",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Awww.tu-chemnitz.de"
+  },
+  {
+    "bang": "tud",
+    "name": "Delft University of Technology",
+    "url": "https://www.tudelft.nl/en/search/?q={{{s}}}"
+  },
+  {
+    "bang": "tug",
+    "name": "Graz University of Technology",
+    "url": "http://search.tugraz.at/search?q={{{s}}}&site=Alle&btnG=Suchen&client=tug_portal&output=xml_no_dtd&proxystylesheet=tug_portal&sitesearch=www.tugraz.at"
+  },
+  {
+    "bang": "tuhh",
+    "name": "tuhh.de",
+    "url": "https://www.tuhh.de/tuhh/suche/suchergebnis.html?cx=013498366615220259019:ljc1ircsxvi&ie=utf8&hl=de&q={{{s}}}"
+  },
+  {
+    "bang": "tum",
+    "name": "Technical University of Munich",
+    "url": "https://www.tum.de/en/spezialseiten/search/?q={{{s}}}&sites=all"
+  },
+  {
+    "bang": "tunearch",
+    "name": "Tune Arch: The Traditional Tune Archive",
+    "url": "https://tunearch.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "tu",
+    "name": "TU Dresden",
+    "url": "https://tu-dresden.de/@@search?SearchableText={{{s}}}"
+  },
+  {
+    "bang": "tuwlib",
+    "name": "TUW Library",
+    "url": "https://catalogplus.tuwien.ac.at/primo_library/libweb/action/dlSearch.do?queryfield=&x=0&y=0&institution=UTW&vid=UTW&tab=default_tab&search_scope=UTW&mode=Basic&indx=1&bulkSize=10&dum=true&highlight=true&pcAvailabiltyMode=false&prefLang=en_US&dummyChar=\u2665&query=any%2Ccontains%2C{{{s}}}&displayField=title"
+  },
+  {
+    "bang": "twid",
+    "name": "Twitter",
+    "url": "https://twitter.com/intent/user?user_id={{{s}}}"
+  },
+  {
+    "bang": "ubclib",
+    "name": "University of British Columbia Library",
+    "url": "http://ubc.summon.serialssolutions.com/search?s.cmd=addFacetValueFilters%28ContentType%2CNewspaper+Article%3At%29&spellcheck=true&s.q={{{s}}}"
+  },
+  {
+    "bang": "ubfr",
+    "name": "Universit\u00e4tsbibliothek Freiburg",
+    "url": "https://katalog.ub.uni-freiburg.de/opac/RDSIndex/Search?lookfor={{{s}}}&source=homepage"
+  },
+  {
+    "bang": "ub",
+    "name": "G\u00f6teborgs universitetsbibliotek / University of Gothenburg library",
+    "url": "https://gu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=46GUB_VU1&lang=sv_SE&offset=0"
+  },
+  {
+    "bang": "ubjgu",
+    "name": "Universit\u00e4tsbibliothek Mainz",
+    "url": "https://hds.hebis.de/ubmz/Search/Results?lookfor={{{s}}}&trackSearchEvent=Einfache+Suche&type=allfields&search=new&submit=Suchen"
+  },
+  {
+    "bang": "ubks",
+    "name": "Universit\u00e4tsbibliothek Kassel",
+    "url": "https://hds.hebis.de/ubks/Discover/EBSCO?lookfor={{{s}}} "
+  },
+  {
+    "bang": "ubl",
+    "name": "Universit\u00e4tsbibliothek Leipzig",
+    "url": "https://katalog.ub.uni-leipzig.de/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "bang": "ucd",
+    "name": "UC Davis",
+    "url": "https://www.ucdavis.edu/search/google/{{{s}}}"
+  },
+  {
+    "bang": "uchi",
+    "name": "University of Chicago Library Catalog",
+    "url": "https://catalog.lib.uchicago.edu/vufind/Search/Results?lookfor={{{s}}} &type=AllFields"
+  },
+  {
+    "bang": "ucllib",
+    "name": "UCL Library",
+    "url": "https://ucl-new-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&offset=0&tab=local&vid=UCL_VU2&search_scope=CSCOP_UCL"
+  },
+  {
+    "bang": "ucl",
+    "name": "UCL",
+    "url": "https://search2.ucl.ac.uk/s/search.html?query={{{s}}}&collection=website-meta&profile=_website&tab=websites&submit=Go"
+  },
+  {
+    "bang": "ucscgb",
+    "name": "https://www.genome.ucsc.edu",
+    "url": "http://www.genome.ucsc.edu/cgi-bin/hgTracks?hgsid=592541357_hq8TArn5c0CoLwcXM3n3eZOaR8ZC&org=Human&db=hg38&position={{{s}}}&pix=800"
+  },
+  {
+    "bang": "uc",
+    "name": "University of Chicago Library Catalog",
+    "url": "https://catalog.lib.uchicago.edu/vufind/Search/Results?lookfor={{{s}}}&type=AllFields"
+  },
+  {
+    "bang": "ufind",
+    "name": "u:find - Universit\u00e4t Wien",
+    "url": "https://ufind.univie.ac.at/de/search.html?filter=all&query={{{s}}}"
+  },
+  {
+    "bang": "ufrj",
+    "name": "Universidade Federal do Rio de Janeiro",
+    "url": "http://www.ufrj.br/buscagoogle2.php?ie=utf-8&oe=utf-8&cx=001879131226118048161%3Ac12ayzh7sok&cof=FORID%3A11&q={{{s}}}"
+  },
+  {
+    "bang": "ugr",
+    "name": "Universidad de Granada",
+    "url": "http://www.ugr.es/pages/search?query={{{s}}}"
+  },
+  {
+    "bang": "uh",
+    "name": "uHasselt",
+    "url": "https://www.uhasselt.be/google-search?q={{{s}}}"
+  },
+  {
+    "bang": "uja",
+    "name": "Universidad de Ja\u00e9n",
+    "url": "https://www.ujaen.es/search?s={{{s}}}"
+  },
+  {
+    "bang": "ukn",
+    "name": "University of Konstanz",
+    "url": "https://www.uni-konstanz.de/suche/?q={{{s}}}"
+  },
+  {
+    "bang": "ulb",
+    "name": "Biblioth\u00e8ques de l'Universit\u00e9 Libre de Bruxelles",
+    "url": "https://cibleplus.ulb.ac.be/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=32ULB_VU1&lang=fr_FR&offset=0"
+  },
+  {
+    "bang": "ulbd",
+    "name": " Universit\u00e4tsbibliothek D\u00fcsseldorf",
+    "url": "https://katalog.ulb.hhu.de/Search/Results?lookfor={{{s}}}&type=AllFields"
+  },
+  {
+    "bang": "ulbh",
+    "name": "Landesbibliothek Hessen/ULB Darmstadt",
+    "url": "https://hds.hebis.de/ulbda/Search/Results?lookfor={{{s}}}&service=catalog"
+  },
+  {
+    "bang": "umassd",
+    "name": "University of Massachusetts Dartmouth",
+    "url": "https://www.umassd.edu/universitysearch/?q={{{s}}}"
+  },
+  {
+    "bang": "umass",
+    "name": "UMass Amherst",
+    "url": "https://www.umass.edu/search/#stq={{{s}}}&stp=1"
+  },
+  {
+    "bang": "umb",
+    "name": "UMass Boston",
+    "url": "https://www.umb.edu/search?cx=001225130692263366863%3Auxj4oosyzxy&cof=FORID%3A11&q={{{s}}}"
+  },
+  {
+    "bang": "umd",
+    "name": "University of Maryland",
+    "url": "http://www.searchum.umd.edu/search?site=UMCP&client=UMCP&proxystylesheet=UMCP&output=xml_no_dtd&q={{{s}}}"
+  },
+  {
+    "bang": "umelb",
+    "name": "University of Melbourne",
+    "url": "https://search.unimelb.edu.au/?q={{{s}}}"
+  },
+  {
+    "bang": "umich",
+    "name": "University of Michigan",
+    "url": "http://umich.edu/search/keywords/{{{s}}}"
+  },
+  {
+    "bang": "uml",
+    "name": "University of Manitoba Library",
+    "url": "https://primo-pmtna01.hosted.exlibrisgroup.com/primo-explore/search?institution=UMB&vid=UMB&tab=default_tab&search_scope=UManitoba&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,{{{s}}}&displayField=all&pcAvailabiltyMode=true&sortby=rank&lang=en_US"
+  },
+  {
+    "bang": "umn",
+    "name": "University of Minnesota",
+    "url": "https://search.umn.edu/tc/index.php?q={{{s}}} "
+  },
+  {
+    "bang": "unbri",
+    "name": "Universidade de Bras\u00edlia / Reposit\u00f3rio Institucional",
+    "url": "http://repositorio.unb.br/simple-search?query={{{s}}}&submit=Ir"
+  },
+  {
+    "bang": "uncg",
+    "name": "University of North Caroline at Greensboro",
+    "url": "http://search.uncg.edu/search?q={{{s}}}&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend"
+  },
+  {
+    "bang": "unclib",
+    "name": "University of North Carolina at Chapel Hill Library",
+    "url": "https://library.unc.edu/find/combinedresults/?Ntt={{{s}}}&Ntk=Keyword"
+  },
+  {
+    "bang": "une",
+    "name": "University of New England (Australia)",
+    "url": "https://www.une.edu.au/search?collection=une-meta&query={{{s}}}"
+  },
+  {
+    "bang": "unicat",
+    "name": "Unicat",
+    "url": "http://unicat.be/uniCat?func=search&language=en&fromWeb=1&formQuery={{{s}}}"
+  },
+  {
+    "bang": "unig\u00f6",
+    "name": "Georg-August-Universit\u00e4t G\u00f6ttingen",
+    "url": "http://www.uni-goettingen.de/de/suche.html?query={{{s}}}"
+  },
+  {
+    "bang": "unima",
+    "name": "Uni Mannheim",
+    "url": "https://www.uni-mannheim.de/suche/?tx_solr%5Bq%5D={{{s}}}"
+  },
+  {
+    "bang": "unimc",
+    "name": "Universit\u00e0 degli Studi di Macerata",
+    "url": "http://www.unimc.it/@@search?SearchableText={{{s}}}"
+  },
+  {
+    "bang": "uniprot",
+    "name": "UniprotKB",
+    "url": "http://www.uniprot.org/uniprot/?query={{{s}}}"
+  },
+  {
+    "bang": "unisalib",
+    "name": "UniSA Library Catalogue",
+    "url": "http://search.library.unisa.edu.au/?query=any,contains,{{{s}}}"
+  },
+  {
+    "bang": "universalis",
+    "name": "Encyclop\u00e6dia Universalis",
+    "url": "https://www.universalis.fr/recherche/q/{{{s}}}"
+  },
+  {
+    "bang": "univie",
+    "name": "University of Vienna",
+    "url": "http://ufind.univie.ac.at/en/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "unm",
+    "name": "University of New Mexico",
+    "url": "http://search.unm.edu/search?q={{{s}}}"
+  },
+  {
+    "bang": "unomaha",
+    "name": "unomaha",
+    "url": "https://www.unomaha.edu/search/?q={{{s}}}"
+  },
+  {
+    "bang": "uoalib",
+    "name": "University of Auckland Library",
+    "url": "https://www.library.auckland.ac.nz/search/{{{s}}}"
+  },
+  {
+    "bang": "uoal",
+    "name": "University of Alberta Library",
+    "url": "https://search.library.ualberta.ca/symphony?q={{{s}}}"
+  },
+  {
+    "bang": "uoa",
+    "name": "University of Auckland",
+    "url": "https://search.auckland.ac.nz/search?site=All_university_websites&client=uoa_frontend&proxystylesheet=uoa_frontend&proxyreload=0&output=xml_no_dtd&q={{{s}}}"
+  },
+  {
+    "bang": "uod",
+    "name": "University of Dallas",
+    "url": "http://udallas.edu/searchresults.html?q={{{s}}}"
+  },
+  {
+    "bang": "uoftlib",
+    "name": "University of Toronto Libraries",
+    "url": "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}/"
+  },
+  {
+    "bang": "uoft",
+    "name": "University of Toronto Library Onesearch",
+    "url": "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}"
+  },
+  {
+    "bang": "uok",
+    "name": "University of Kent",
+    "url": "https://www.kent.ac.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "uom",
+    "name": " University of Manchester ",
+    "url": "http://www.manchester.ac.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "uon",
+    "name": "University of Nottingham",
+    "url": "http://www.nottingham.ac.uk/search.aspx?q={{{s}}}:"
+  },
+  {
+    "bang": "uos",
+    "name": "University of Surrey",
+    "url": "https://www.surrey.ac.uk/search?query={{{s}}}"
+  },
+  {
+    "bang": "upng",
+    "name": "University of Papua New Guinea",
+    "url": "http://www.upng.ac.pg/site/component/search/?searchword={{{s}}}&searchphrase=all&Itemid=101"
+  },
+  {
+    "bang": "uql",
+    "name": "University of Queensland Library",
+    "url": "https://search.library.uq.edu.au/primo-explore/search?query=any,contains,{{{s}}}&tab=61uq_all&search_scope=61UQ_All&sortby=rank&vid=61UQ&offset=0"
+  },
+  {
+    "bang": "ur",
+    "name": "Universit\u00e4t Regensburg",
+    "url": "http://suche.uni-regensburg.de/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "usal",
+    "name": "usal",
+    "url": "http://www.usal.es/webusal/usal_buscador?query={{{s}}}"
+  },
+  {
+    "bang": "usclib",
+    "name": "University of Southern California Libraries",
+    "url": "https://usc-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=01USC_INST&vid=01USC&mode=Basic&facet=&displayMode=full&bulkSize=25&highlight=true&dum=true&query=any,contains,{{{s}}}&displayField=all&pcAvailabiltyMode=true&sortby=rank&lang=en_US"
+  },
+  {
+    "bang": "usegalaxy",
+    "name": "Galaxy Community Hub",
+    "url": "https://galaxyproject.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "usq",
+    "name": "University of Southern Queensland",
+    "url": "https://usq.summon.serialssolutions.com/search?s.q={{{s}}} "
+  },
+  {
+    "bang": "usydlib",
+    "name": "University of Sydney Library",
+    "url": "http://opac.library.usyd.edu.au/search/?searchtype=X&SORT=D&searcharg={{{s}}}&searchscope=4&submit=Submit"
+  },
+  {
+    "bang": "usydl",
+    "name": "Usyd Library",
+    "url": "https://usyd.summon.serialssolutions.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "usyd",
+    "name": "The University of Sydney",
+    "url": "http://sydney.edu.au/s/search.html?collection=Usyd&query={{{s}}}"
+  },
+  {
+    "bang": "uta",
+    "name": "University of Texas at Arlington",
+    "url": "http://www.uta.edu/search/?q={{{s}}}"
+  },
+  {
+    "bang": "utk",
+    "name": "UTK Library OneSearch",
+    "url": "https://utk-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?vid=01UTK&institution=01UTK&facet=rtype,exclude,reviews&facet=rtype,exclude,reference_entrys&search_scope=OneSearch&tab=default_tab&onCampus=false&group=GUEST&query=any,contains,{{{s}}}&lang=en_US"
+  },
+  {
+    "bang": "utlibrary",
+    "name": "University of Texas in Austin - Library",
+    "url": "https://catalog.lib.utexas.edu/search/?searchtype=X&SORT=D&searcharg={{{s}}}&searchscope=29"
+  },
+  {
+    "bang": "utlib",
+    "name": "University of Toronto Libraries",
+    "url": "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}"
+  },
+  {
+    "bang": "utl",
+    "name": "University of Toronto Libraries",
+    "url": "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}"
+  },
+  {
+    "bang": "utoronto",
+    "name": "University of Toronto",
+    "url": "http://find.utoronto.ca/search?proxystylesheet=default_frontend&q={{{s}}}"
+  },
+  {
+    "bang": "ut",
+    "name": "utexas.edu",
+    "url": "https://www.utexas.edu/search/results?query={{{s}}}"
+  },
+  {
+    "bang": "uvac",
+    "name": "University of Virginia Library Catalog",
+    "url": "http://search.lib.virginia.edu/catalog?q={{{s}}}"
+  },
+  {
+    "bang": "uvafaulk",
+    "name": "Faulkner at Virginia",
+    "url": "http://faulkner.lib.virginia.edu/results?type=transcription&q={{{s}}} "
+  },
+  {
+    "bang": "uvalib",
+    "name": "University of Virginia Library",
+    "url": "http://search.lib.virginia.edu/catalog?q={{{s}}}"
+  },
+  {
+    "bang": "uvic",
+    "name": "The University of Victoria",
+    "url": "https://www.uvic.ca/search/q/web.php?q={{{s}}}&t=4&p=1&g=true"
+  },
+  {
+    "bang": "uwalib",
+    "name": "The University of Western Australia Library",
+    "url": "https://onesearch.library.uwa.edu.au/discovery/search?query=any,contains,{{{s}}}&tab=Everything&search_scope=MyInst_and_CI&sortby=rank&vid=61UWA_INST:UWA&offset=0"
+  },
+  {
+    "bang": "uwlib",
+    "name": "University of Wisconsin Libraries",
+    "url": "https://search.library.wisc.edu/search/catalog?q={{{s}}}"
+  },
+  {
+    "bang": "uzh",
+    "name": "University of Zurich",
+    "url": "http://www.uzh.ch/de/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "varsome",
+    "name": "VarSome",
+    "url": "https://varsome.com/variant/search?query={{{s}}}"
+  },
+  {
+    "bang": "verbixes",
+    "name": "Verbix Spanish",
+    "url": "http://www.verbix.com/webverbix/Spanish/{{{s}}}.html"
+  },
+  {
+    "bang": "vici",
+    "name": "Vicipaedia",
+    "url": "https://la.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "viul",
+    "name": "Vancouver Island University Library",
+    "url": "http://viu.summon.serialssolutions.com/search?s.q={{{s}}}"
+  },
+  {
+    "bang": "voced",
+    "name": "VOCED",
+    "url": "http://www.voced.edu.au/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "bang": "vsb",
+    "name": "Vancouver School District",
+    "url": "http://www.vsb.bc.ca/search/node/{{{s}}}"
+  },
+  {
+    "bang": "vtech",
+    "name": "Virginia Tech",
+    "url": "https://search.vt.edu/search/pages.html;sa=Search&q={{{s}}}"
+  },
+  {
+    "bang": "vub",
+    "name": "Bibliotheek van de Vrije Univesiteit Brussel",
+    "url": "http://biblio.vub.ac.be/vubissmartweb/List.csp?SearchT1={{{s}}}&Index1=Vuballewoorden&Database=3_UB01&OpacLanguage=dut&NumberToRetrieve=20&SearchMethod=Find_1&SearchTerm1=test&Profile=Default&PreviousList=Start&PageType=Start&EncodedRequest=p*20W*20*0A*20*B5*86*DF*D6*7E*A7*15*FD*0F*5E&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&MyChannelCount="
+  },
+  {
+    "bang": "w0",
+    "name": "Wikizero",
+    "url": "https://www.wikizero.com/search.php?s={{{s}}}&lang=en"
+  },
+  {
+    "bang": "walpha",
+    "name": "Wolfram|Alpha",
+    "url": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "bang": "wayne",
+    "name": "Wayne State University",
+    "url": "https://wayne.edu/search/?type=all&q={{{s}}}"
+  },
+  {
+    "bang": "waz",
+    "name": "Vikipediya (AZ)",
+    "url": "https://az.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wbde",
+    "name": "Wikibooks De",
+    "url": "https://de.wikibooks.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wb",
+    "name": "Wikibooks",
+    "url": "http://en.wikibooks.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wcz",
+    "name": "Czech Wikipedia",
+    "url": "https://cs.wikipedia.org/w/index.php?search={{{s}}}&title=Speci%C3%A1ln%C3%AD%3AHled%C3%A1n%C3%AD&go=J%C3%ADt+na"
+  },
+  {
+    "bang": "wda",
+    "name": "Wikipedia (DA)",
+    "url": "http://da.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "webmin",
+    "name": "Webmineral",
+    "url": "http://webmineral.com/cgi-bin/search/search.pl?sitesearch=&Terms={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "wen",
+    "name": "Wikipedia (EN)",
+    "url": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "weo",
+    "name": "Wikipedia (EO)",
+    "url": "http://eo.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wes1",
+    "name": "Wesleyan Library OneSearch",
+    "url": "http://wesleyan.summon.serialssolutions.com/search?utf8=\u2713&s.q={{{s}}}"
+  },
+  {
+    "bang": "weslib",
+    "name": "Wesleyan Library OneSearch",
+    "url": "http://wesleyan.summon.serialssolutions.com/search?utf8=\u2713&s.q={{{s}}}"
+  },
+  {
+    "bang": "wesu",
+    "name": "Wesleyan University",
+    "url": "http://www.wesleyan.edu/search/search-results.html?cx=001254463385620737445%3Anbar83le1bc&cof=FORID%3A11&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "wes",
+    "name": "Wikipedia (ES)",
+    "url": "http://es.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "weus",
+    "name": "Wikipedia Euskaraz (in Basque)",
+    "url": "https://eu.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wfr",
+    "name": "Wikipedia (FR)",
+    "url": "http://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wgal",
+    "name": "Galipedia",
+    "url": "https://gl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wge",
+    "name": "wikipedia german",
+    "url": "https://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "whip",
+    "name": "Wordhippo",
+    "url": "https://www.wordhippo.com/what-is/another-word-for/{{{s}}}.html"
+  },
+  {
+    "bang": "whitakers",
+    "name": "Whitaker's Words English",
+    "url": "http://www.archives.nd.edu/cgi-bin/wordz.pl?english={{{s}}}"
+  },
+  {
+    "bang": "whitl",
+    "name": "Whitaker's Words Latin",
+    "url": "http://www.archives.nd.edu/cgi-bin/wordz.pl?keyword={{{s}}}"
+  },
+  {
+    "bang": "wid",
+    "name": "Wikipedia (ID)",
+    "url": "https://id.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikibooks",
+    "name": "Wikibooks",
+    "url": "http://en.wikibooks.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "wikic",
+    "name": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikipedia",
+    "name": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wikisource",
+    "name": "Wikisource",
+    "url": "https://en.wikisource.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wikiversity",
+    "name": "Wikiversity",
+    "url": "https://en.wikiversity.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wiki",
+    "name": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wiktgr",
+    "name": "Wikrionary(GR)",
+    "url": "https://el.m.wiktionary.org/wiki{{{s}}}"
+  },
+  {
+    "bang": "wiley",
+    "name": "Wiley Online Library",
+    "url": "https://www.onlinelibrary.wiley.com/action/doSearch?AllField={{{s}}}"
+  },
+  {
+    "bang": "wim",
+    "name": "Wikimedia Commons",
+    "url": "http://commons.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "winc",
+    "name": "Wikimedia Incubator",
+    "url": "http://incubator.wikimedia.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "wissen",
+    "name": "wissen.de",
+    "url": "http://www.wissen.de/wissensserver/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "witgr",
+    "name": "Wiktionary(GR)",
+    "url": "https://el.m.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wit",
+    "name": "Wikipedia (IT)",
+    "url": "http://it.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wja",
+    "name": "Wikipedia (JA)",
+    "url": "http://ja.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wjec",
+    "name": "WJEC",
+    "url": "http://www.wjec.co.uk/search/pf_search.php?q={{{s}}}"
+  },
+  {
+    "bang": "wku",
+    "name": "wikiversity",
+    "url": "https://en.wikiversity.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wk",
+    "name": "wikipedia",
+    "url": "https://en.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wmeta",
+    "name": "Wikimedia Meta-Wiki",
+    "url": "http://meta.wikimedia.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "wm",
+    "name": "Wikipedia mobile",
+    "url": "http://en.m.wikipedia.org/wiki?search={{{s}}}"
+  },
+  {
+    "bang": "wnn",
+    "name": "Wikipedia Nynorsk",
+    "url": "https://nn.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wno",
+    "name": "Norwegian Wikipedia",
+    "url": "https://no.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "woerterbuchnetz",
+    "name": "W\u00f6rterbuchnetz",
+    "url": "http://woerterbuchnetz.de/cgi-bin/WBNetz/startGlobalSearch.tcl?stichwort={{{s}}}"
+  },
+  {
+    "bang": "wolframalpha",
+    "name": "Wolfram|Alpha",
+    "url": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "bang": "wolfram",
+    "name": "Wolfram|Alpha",
+    "url": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "bang": "worldatlas",
+    "name": "World Atlas",
+    "url": "https://www.worldatlas.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "worm",
+    "name": "Wormbase",
+    "url": "http://www.wormbase.org/species/c_elegans/gene/{{{s}}}"
+  },
+  {
+    "bang": "wosc",
+    "name": "Web of Science",
+    "url": "https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=WEB&SrcAuth=ProQuest&DestApp=UA&DestLinkType=GeneralSearchSummary&topic={{{s}}}"
+  },
+  {
+    "bang": "wpl",
+    "name": "Wikipedia (PL)",
+    "url": "http://pl.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wpt",
+    "name": "Wikipedia (PT)",
+    "url": "http://pt.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wra",
+    "name": "Wolfram|Alpha",
+    "url": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "bang": "wrighttools",
+    "name": "Wright Tools",
+    "url": "http://wright.tools/en/stable/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "wrro",
+    "name": "White Rose Research Online",
+    "url": "http://eprints.whiterose.ac.uk/cgi/search/simple?full={{{s}}}&_action_search=Search&_order=bytitle&basic_srchtype=ALL&_satisfyall=ALL"
+  },
+  {
+    "bang": "wsem",
+    "name": "Wesley Theological Seminary",
+    "url": "https://www.wesleyseminary.edu/?s={{{s}}}"
+  },
+  {
+    "bang": "wsu",
+    "name": "Wayne State University",
+    "url": "https://wayne.edu/search/?q={{{s}}}&type=all"
+  },
+  {
+    "bang": "wsv",
+    "name": "Wikipedia (SV)",
+    "url": "http://sv.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wuk",
+    "name": "Wikipedia (UK)",
+    "url": "http://uk.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wulfila",
+    "name": "Project Wulfila",
+    "url": "http://www.wulfila.be/gothic/browse/search/?find={{{s}}}&mode=1"
+  },
+  {
+    "bang": "wwpt",
+    "name": "Wikiwand em Portug\u00eas",
+    "url": "https://www.wikiwand.com/pt/{{{s}}}"
+  },
+  {
+    "bang": "wwzh",
+    "name": "WikiWand in Chinese",
+    "url": "https://www.wikiwand.com/zh/{{{s}}}"
+  },
+  {
+    "bang": "xref",
+    "name": "CrossRef",
+    "url": "http://search.crossref.org/?q={{{s}}}"
+  },
+  {
+    "bang": "xu",
+    "name": "Xavier University",
+    "url": "https://www.xavier.edu/search/?q={{{s}}}"
+  },
+  {
+    "bang": "yeast",
+    "name": "Saccharomyces Genome Database (SGD) ",
+    "url": "http://www.yeastgenome.org/search?q={{{s}}}&is_quick=true"
+  },
+  {
+    "bang": "yg",
+    "name": "Saccharomyces Genome Database",
+    "url": "https://www.yeastgenome.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "zedat",
+    "name": "ZEDAT",
+    "url": "https://www.zedat.fu-berlin.de/FAQ?q={{{s}}}"
+  },
+  {
+    "bang": "zenodo",
+    "name": "Zenodo",
+    "url": "https://zenodo.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "zeno",
+    "name": "zeno.org",
+    "url": "http://www.zeno.org/Zeno/0/Suche?q={{{s}}}&k=Bibliothek"
+  },
+  {
+    "bang": "zli",
+    "name": "ZLI Z\u00fcrich",
+    "url": "https://www.zli.ch/service/suche/?q={{{s}}}"
+  },
+  {
+    "bang": "\u05d5\u05d9\u05e7\u05d9",
+    "name": "Hebrew wikipedia",
+    "url": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=\u05de\u05d9\u05d5\u05d7\u05d3%3A\u05d7\u05d9\u05e4\u05d5\u05e9&go=\u05dc\u05e2\u05e8\u05da"
+  },
+  {
+    "bang": "\u0392\u03b9\u03ba\u03b9",
+    "name": "\u0392\u03b9\u03ba\u03b9\u03c0\u03b1\u03af\u03b4\u03b5\u03b9\u03b1 ",
+    "url": "https://el.m.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "\u039b\u03b5\u03be\u03b9\u03ba\u03cc",
+    "name": "\u039b\u03b5\u03be\u03b9\u03ba\u03cc ",
+    "url": "https://el.m.wiktionary.org/wiki/{{{s}}}"
+  }
+]

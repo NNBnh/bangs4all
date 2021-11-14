@@ -1,0 +1,187 @@
+[
+  {
+    "bang": "aventrix",
+    "name": "Aventrix",
+    "url": "https://www.aventrix.com/?q={{{s}}}"
+  },
+  {
+    "bang": "bf",
+    "name": "BuzzFeed",
+    "url": "http://www.buzzfeed.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "brussels",
+    "name": "We Love Brussels",
+    "url": "https://welovebrussels.org/?s={{{s}}}"
+  },
+  {
+    "bang": "choual",
+    "name": "Choualbox",
+    "url": "https://choualbox.com/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "clwb",
+    "name": "clwb",
+    "url": "https://clwb.net/?post_type=event&s={{{s}}}"
+  },
+  {
+    "bang": "colloq",
+    "name": "Colloq.io",
+    "url": "https://colloq.io/search?query={{{s}}}"
+  },
+  {
+    "bang": "dagjeweg",
+    "name": "DagjeWeg.NL",
+    "url": "https://www.dagjeweg.nl/zoeken?dq={{{s}}}"
+  },
+  {
+    "bang": "diyorg",
+    "name": "diy.org",
+    "url": "/?q=site:diy.org+{{{s}}}"
+  },
+  {
+    "bang": "dsmrf",
+    "name": "The Des Moines Renaissance Faire",
+    "url": "https://www.dsmrf.com/?s={{{s}}}"
+  },
+  {
+    "bang": "eventful",
+    "name": "Eventful",
+    "url": "http://eventful.com/events?ga_type=events&ga_search={{{s}}}&q={{{s}}}"
+  },
+  {
+    "bang": "eventim",
+    "name": "Eventim",
+    "url": "http://www.eventim.de/Tickets.html?affiliate=TUG&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff={{{s}}}&btn=true&x10=4"
+  },
+  {
+    "bang": "explara",
+    "name": "Explara",
+    "url": "https://www.explara.com/search/{{{s}}}"
+  },
+  {
+    "bang": "fansale",
+    "name": "fansale",
+    "url": "https://www.fansale.de/fansale/events.htm?searchText={{{s}}}"
+  },
+  {
+    "bang": "gooutbrno",
+    "name": "Go Out BRNO",
+    "url": "https://goout.net/cs/brno/#\"?\":\"{{{s}}}\""
+  },
+  {
+    "bang": "gooutprague",
+    "name": "Go Out PRAGUE",
+    "url": "https://goout.net/cs/praha/#\"?\":\"{{{s}}}\""
+  },
+  {
+    "bang": "iap",
+    "name": "Inde \u00e0 Paris",
+    "url": "http://indeaparis.com/component/finder/search?q={{{s}}} "
+  },
+  {
+    "bang": "ims",
+    "name": "Instituto Moreira Salles",
+    "url": "https://ims.com.br/?s={{{s}}}"
+  },
+  {
+    "bang": "kktix",
+    "name": "KKTIX",
+    "url": "https://kktix.com/events?search={{{s}}}"
+  },
+  {
+    "bang": "marmaris",
+    "name": "marmaris tekne turlar\u0131",
+    "url": "https://www.marmarisreservation.com/?s={{{s}}}"
+  },
+  {
+    "bang": "meteli",
+    "name": "Meteli",
+    "url": "http://www.meteli.net/tapahtumahaku?q={{{s}}}"
+  },
+  {
+    "bang": "muralpsi",
+    "name": "Mural psicologia",
+    "url": "http://muralpsicologia.com.br/eventos/pesquisa?s={{{s}}}"
+  },
+  {
+    "bang": "runsignup",
+    "name": "RunSignUp",
+    "url": "https://runsignup.com/Races?s=&cloudSearch=T&name={{{s}}}"
+  },
+  {
+    "bang": "seatgeek",
+    "name": "SeatGeek",
+    "url": "http://seatgeek.com/search/?search={{{s}}}"
+  },
+  {
+    "bang": "starticket",
+    "name": "Starticket",
+    "url": "https://www.starticket.ch/de/suche?_csquery={{{s}}}"
+  },
+  {
+    "bang": "stubhub",
+    "name": "StubHub",
+    "url": "http://www.stubhub.com/search/doSearch?searchStr={{{s}}}&pageNumber=1&resultsPerPage=50&searchMode=event&start=0&rows=50"
+  },
+  {
+    "bang": "sxsw",
+    "name": "SXSW Schedule",
+    "url": "https://schedule.sxsw.com/2019/search?q={{{s}}}"
+  },
+  {
+    "bang": "tfe",
+    "name": "TickeForEvent",
+    "url": "https://ticketforevent.com/events/?q={{{s}}}"
+  },
+  {
+    "bang": "ticketnetwork",
+    "name": "TicketNetwork",
+    "url": "https://www.ticketnetwork.com/en/search/?text={{{s}}}"
+  },
+  {
+    "bang": "tikettien",
+    "name": "Tiketti (English)",
+    "url": "http://www.tiketti.fi/events#q={{{s}}}"
+  },
+  {
+    "bang": "tiketti",
+    "name": "Tiketti",
+    "url": "http://www.tiketti.fi/tapahtumat#q={{{s}}}"
+  },
+  {
+    "bang": "uitinv",
+    "name": "UIT in Vlaanderen",
+    "url": "http://www.uitinvlaanderen.be/agenda/search?query={{{s}}}"
+  },
+  {
+    "bang": "vggde",
+    "name": "viagogo.de",
+    "url": "http://www.viagogo.de/searchResults.aspx?SearchText={{{s}}}"
+  },
+  {
+    "bang": "vgguk",
+    "name": "viagogo.co.uk",
+    "url": "http://www.viagogo.co.uk/searchResults.aspx?SearchText={{{s}}}"
+  },
+  {
+    "bang": "vgg",
+    "name": "viagogo",
+    "url": "http://www.viagogo.com/searchResults.aspx?SearchText={{{s}}}"
+  },
+  {
+    "bang": "whatupintown",
+    "name": "What up in town",
+    "url": "https://whatupintown.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "woutick",
+    "name": "Woutick",
+    "url": "https://www.woutick.es/?busqueda={{{s}}}"
+  },
+  {
+    "bang": "zero",
+    "name": "Zero",
+    "url": "http://www.zero.eu/?s={{{s}}}"
+  }
+]

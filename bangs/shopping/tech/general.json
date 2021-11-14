@@ -1,0 +1,977 @@
+[
+  {
+    "bang": "8020",
+    "name": "80/20",
+    "url": "https://8020.net/freetextsearch/search/result/?keyword={{{s}}}"
+  },
+  {
+    "bang": "91",
+    "name": "91 mobiles",
+    "url": "http://www.91mobiles.com/topic/{{{s}}}/all"
+  },
+  {
+    "bang": "adafruit",
+    "name": "Adafruit",
+    "url": "https://www.adafruit.com/?q={{{s}}}"
+  },
+  {
+    "bang": "aft",
+    "name": "Adafruit",
+    "url": "https://www.adafruit.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "alatest",
+    "name": "alaTest",
+    "url": "http://alatest.de/searchaction.html?keyword1={{{s}}}"
+  },
+  {
+    "bang": "allelec",
+    "name": "All Electronics",
+    "url": "http://www.allelectronics.com/index.php?page=seek&id%5Bm%5D=pattern&id%5Bq%5D={{{s}}}"
+  },
+  {
+    "bang": "alliedelec",
+    "name": "Allied Electronics",
+    "url": "http://www.alliedelec.com/search/results.aspx?term={{{s}}}"
+  },
+  {
+    "bang": "altbe",
+    "name": "Alternate Belgi\u00eb",
+    "url": "https://www.alternate.be/html/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "alternatenl",
+    "name": "Alternate Nederland",
+    "url": "https://www.alternate.nl/html/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "apple",
+    "name": "Apple",
+    "url": "http://www.apple.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "appstore",
+    "name": "App Store on iTunes",
+    "url": "/?q=site%3Aitunes.apple.com%2Fus%2Fapp%2F+{{{s}}}"
+  },
+  {
+    "bang": "aria",
+    "name": "Aria",
+    "url": "http://www.aria.co.uk/Products?search={{{s}}}"
+  },
+  {
+    "bang": "arrow",
+    "name": "Arrow Electronics",
+    "url": "https://www.arrow.com/en/products/search?q={{{s}}}"
+  },
+  {
+    "bang": "asiavape",
+    "name": "AsiaVape.co",
+    "url": "https://asiavape.co/?s={{{s}}}&post_type=product"
+  },
+  {
+    "bang": "asus",
+    "name": "Asus",
+    "url": "http://www.asus.com/us/Search/?SearchKey={{{s}}}"
+  },
+  {
+    "bang": "atlona",
+    "name": "Atlona",
+    "url": "http://atlona.com/?s={{{s}}}"
+  },
+  {
+    "bang": "audiojungle",
+    "name": "AudioJungle",
+    "url": "http://audiojungle.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "bang": "bby",
+    "name": "Bestbuy",
+    "url": "http://www.bestbuy.com/site/olspage.jsp?id=pcat17071&type=page&st={{{s}}}&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960"
+  },
+  {
+    "bang": "belkin",
+    "name": "Belkin",
+    "url": "http://www.belkin.com/us/search?text={{{s}}}"
+  },
+  {
+    "bang": "belsimpel",
+    "name": "Belsimpel",
+    "url": "https://www.belsimpel.nl/zoeken?s={{{s}}}"
+  },
+  {
+    "bang": "bendixking",
+    "name": "bendixkingradios.com",
+    "url": "https://bendixkingradios.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "bestbuyca",
+    "name": "Best Buy Canada",
+    "url": "https://www.bestbuy.ca/en-ca/search?search={{{s}}}"
+  },
+  {
+    "bang": "bkradio",
+    "name": "bendixkingradios.com",
+    "url": "https://bendixkingradios.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "boulanger",
+    "name": "Boulanger",
+    "url": "http://www.boulanger.com/resultats?tr={{{s}}}"
+  },
+  {
+    "bang": "bstars",
+    "name": "Bundle Stars",
+    "url": "https://www.bundlestars.com/en/games?search={{{s}}}"
+  },
+  {
+    "bang": "bundles",
+    "name": "Bundle Stars",
+    "url": "https://www.bundlestars.com/en/games?search={{{s}}}"
+  },
+  {
+    "bang": "canadacomputers",
+    "name": "Canada Computers",
+    "url": "http://www.canadacomputers.com/advanced_search_result.php?keywords={{{s}}} "
+  },
+  {
+    "bang": "canon",
+    "name": "Canon USA",
+    "url": "https://www.usa.canon.com/internet/portal/us/home/searchresults?query={{{s}}}&searchTab=products"
+  },
+  {
+    "bang": "cblue",
+    "name": "Coolblue",
+    "url": "https://www.coolblue.nl/zoeken?query={{{s}}}"
+  },
+  {
+    "bang": "ccl",
+    "name": "CCL",
+    "url": "http://www.cclonline.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "chipoteka",
+    "name": "Chipoteka",
+    "url": "https://www.chipoteka.hr/search?q={{{s}}}"
+  },
+  {
+    "bang": "codecanyon",
+    "name": "CodeCanyon",
+    "url": "http://codecanyon.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "bang": "conrad",
+    "name": "Conrad",
+    "url": "http://www.conrad.de/ce/de/Search.html?search={{{s}}}"
+  },
+  {
+    "bang": "cpb",
+    "name": "Cpu Benchmarks",
+    "url": "https://www.passmark.com/search/zoomsearch.php?zoom_query={{{s}}}"
+  },
+  {
+    "bang": "cpc",
+    "name": "CPC",
+    "url": "http://cpc.farnell.com/search?st={{{s}}}"
+  },
+  {
+    "bang": "dgky",
+    "name": "Digikey",
+    "url": "https://www.digikey.com/products/en?keywords={{{s}}}"
+  },
+  {
+    "bang": "digikey",
+    "name": "Digi-Key",
+    "url": "http://www.digikey.com/product-search/en?x=17&y=13&lang=en&site=us&KeyWords={{{s}}}"
+  },
+  {
+    "bang": "digitec",
+    "name": "Digitec",
+    "url": "https://www.digitec.ch/Search?q={{{s}}}"
+  },
+  {
+    "bang": "distch",
+    "name": "Distrelec Schweiz",
+    "url": "https://www.distrelec.ch/search?q={{{s}}}"
+  },
+  {
+    "bang": "dist",
+    "name": "Distrelec",
+    "url": "http://www.distrelec.de/search?q={{{s}}}"
+  },
+  {
+    "bang": "dkc",
+    "name": "Digikey.ca",
+    "url": "http://www.digikey.ca/product-search/en?x=-1308&y=-74&lang=en&site=ca&KeyWords={{{s}}} "
+  },
+  {
+    "bang": "dkde",
+    "name": "Digikey DE (Germany)",
+    "url": "http://www.digikey.de/product-search/de?keywords={{{s}}}"
+  },
+  {
+    "bang": "dkes",
+    "name": "Digikey ES",
+    "url": "https://www.digikey.es/products/es?keywords={{{s}}}"
+  },
+  {
+    "bang": "dkfr",
+    "name": "DigiKey.fr",
+    "url": "http://www.digikey.fr/product-search/fr?keywords={{{s}}}"
+  },
+  {
+    "bang": "dkit",
+    "name": "Digikey Italy",
+    "url": "http://www.digikey.it/products/it?keywords={{{s}}}"
+  },
+  {
+    "bang": "dky",
+    "name": "Digi-Key",
+    "url": "https://www.digikey.com/products/en?keywords={{{s}}}"
+  },
+  {
+    "bang": "dpr",
+    "name": "Digital Photgrapy Review",
+    "url": "http://www.dpreview.com/search/?query={{{s}}} "
+  },
+  {
+    "bang": "ebuyer",
+    "name": "eBuyer",
+    "url": "https://www.ebuyer.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ecia",
+    "name": "ECIA Authorized",
+    "url": "http://www.eciaauthorized.com/search?pn={{{s}}}"
+  },
+  {
+    "bang": "edbpriser",
+    "name": "EDBpriser.dk",
+    "url": "http://www.edbpriser.dk/Search/General.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "egear",
+    "name": "e-Gear",
+    "url": "https://e-gear.se/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "ekwb",
+    "name": "EK Water Blocks",
+    "url": "https://www.ekwb.com/shop/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "elfa",
+    "name": "Elfa Distrelec",
+    "url": "https://www.elfa.se/elfa3~se_sv/elfa/init.do?sq={{{s}}}"
+  },
+  {
+    "bang": "elgiganten",
+    "name": "Elgiganten",
+    "url": "https://www.elgiganten.se/search?SearchTerm={{{s}}}"
+  },
+  {
+    "bang": "existgo",
+    "name": "Exist.ua",
+    "url": "https://exist.ua/price.aspx?pcode={{{s}}}&sortType="
+  },
+  {
+    "bang": "extra",
+    "name": "Extra Saudi Arabia",
+    "url": "http://www.extrastores.com/en-sa/search?q={{{s}}}"
+  },
+  {
+    "bang": "farnde",
+    "name": "Farnell DE",
+    "url": "http://de.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-3&storeId=10161&categoryName=Alle%20Kategorien&selectedCategoryId=&gs=true&st={{{s}}}"
+  },
+  {
+    "bang": "farnes",
+    "name": "Farnell ES",
+    "url": "https://es.farnell.com/search?st={{{s}}}"
+  },
+  {
+    "bang": "farnl",
+    "name": "Farnell (NL)",
+    "url": "https://nl.farnell.com/webapp/wcs/stores/servlet/Search?&st={{{s}}}"
+  },
+  {
+    "bang": "fibercables",
+    "name": "FiberCables.com",
+    "url": "http://www.fibercables.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "frys",
+    "name": "Fry's Electronics",
+    "url": "http://www.frys.com/search?search_type=regular&sqxts=1&query_string={{{s}}}"
+  },
+  {
+    "bang": "gadgetflow",
+    "name": "The Gadget Flow",
+    "url": "http://thegadgetflow.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "gapp",
+    "name": "Google Store",
+    "url": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "bang": "giffgaff",
+    "name": "GiffGaff",
+    "url": "http://community.giffgaff.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+  },
+  {
+    "bang": "gme",
+    "name": "GM electronic",
+    "url": "https://www.gme.cz/vysledky-vyhledavani?search_keyword= {{{s}}}"
+  },
+  {
+    "bang": "goodguys",
+    "name": "The Good Guys",
+    "url": "https://www.thegoodguys.com.au/SearchDisplay?categoryId=&storeId=900&catalogId=30000&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&orderBy=0&pageSize=60&searchTerm={{{s}}}"
+  },
+  {
+    "bang": "googleplay",
+    "name": "Google Play Store",
+    "url": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "bang": "graphicriver",
+    "name": "GraphicRiver",
+    "url": "http://graphicriver.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "bang": "grosbill",
+    "name": "GrosBill",
+    "url": "https://www.grosbill.com/catv2.cgi?mode=recherche&recherche={{{s}}}"
+  },
+  {
+    "bang": "grossoshop",
+    "name": "Grossoshop",
+    "url": "http://www.grossoshop.net/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "bang": "gstore",
+    "name": "Google Store",
+    "url": "https://store.google.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "hafelenl",
+    "name": "Hafele.nl",
+    "url": "https://www.hafele.nl/INTERSHOP/web/WFS/Haefele-HNL-Site/nl_NL/-/EUR/ViewParametricSearch-SimpleOfferSearch?SearchType=all&SearchTerm={{{s}}}"
+  },
+  {
+    "bang": "hds",
+    "name": "All Datasheet Catalog",
+    "url": "http://search.datasheetcatalog.net/key/{{{s}}}"
+  },
+  {
+    "bang": "headfi",
+    "name": "Head-Fi",
+    "url": "https://www.head-fi.org/search/9458473/?q={{{s}}}&o=relevance&c[p][sonnb_xengallery_photo][focal]=0&c[p][sonnb_xengallery_photo][iso]=0&c[p][sonnb_xengallery_photo][aperture]=0"
+  },
+  {
+    "bang": "henry",
+    "name": "Henrys",
+    "url": "https://www.henrys.com/Search/{{{s}}}.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "henrysphoto",
+    "name": "Henrys",
+    "url": "https://www.henrys.com/Search/{{{s}}}.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "huawei",
+    "name": "Huawei",
+    "url": "http://consumer.huawei.com/en/search/index.htm?keywords={{{s}}}"
+  },
+  {
+    "bang": "icstation",
+    "name": "icstation.com",
+    "url": "http://www.icstation.com/advanced_search_result.php?keywords={{{s}}}&search_in_description=1"
+  },
+  {
+    "bang": "idfr",
+    "name": "Idealo France",
+    "url": "https://www.idealo.fr/prechcat.html?q={{{s}}} "
+  },
+  {
+    "bang": "incredible",
+    "name": "Incredible Connection",
+    "url": "https://www.incredible.co.za/search/?q={{{s}}}"
+  },
+  {
+    "bang": "innerf",
+    "name": "InnerFidelity",
+    "url": "http://www.innerfidelity.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "jaycar",
+    "name": "Jaycar Electronics NZ",
+    "url": "https://www.jaycar.co.nz/search/?q={{{s}}}"
+  },
+  {
+    "bang": "jay",
+    "name": "Jaycar",
+    "url": "http://www.jaycar.com.au/search?text={{{s}}}"
+  },
+  {
+    "bang": "jbhifi",
+    "name": "JB Hi Fi",
+    "url": "http://www.jbhifi.com.au/?q={{{s}}}"
+  },
+  {
+    "bang": "jimms",
+    "name": "Jimm's",
+    "url": "https://www.jimms.fi/fi/Product/Search?q={{{s}}}"
+  },
+  {
+    "bang": "kabum",
+    "name": "KaBuM",
+    "url": "https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?string={{{s}}}&btnG="
+  },
+  {
+    "bang": "kimovil",
+    "name": "Kimovil",
+    "url": "http://www.kimovil.com/en/compare-smartphones/name.{{{s}}}"
+  },
+  {
+    "bang": "kjell",
+    "name": "Kjell & Company",
+    "url": "http://www.kjell.com/Sok?query={{{s}}}"
+  },
+  {
+    "bang": "kjellno",
+    "name": "Kjell & Company Norge",
+    "url": "https://www.kjell.com/no/sok?query={{{s}}}"
+  },
+  {
+    "bang": "komplett",
+    "name": "Komplett",
+    "url": "https://www.komplett.no/search?q={{{s}}}"
+  },
+  {
+    "bang": "ksppc",
+    "name": "KSP",
+    "url": "https://ksp.co.il/index.php?txt_search={{{s}}}"
+  },
+  {
+    "bang": "laptopdirect",
+    "name": "LaptopDirect",
+    "url": "http://www.laptopdirect.co.za/search.php?SearchTerm={{{s}}}"
+  },
+  {
+    "bang": "lcsc",
+    "name": "LCSC",
+    "url": "https://lcsc.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ldlcbe",
+    "name": "LDLC Belgium",
+    "url": "http://www.ldlc.be/navigation/{{{s}}}"
+  },
+  {
+    "bang": "leclerc",
+    "name": "Espace Culturel E.Leclerc",
+    "url": "https://www.culture.leclerc/pageRecherche?q={{{s}}}&univers=all"
+  },
+  {
+    "bang": "lps",
+    "name": "LaptopSpirit",
+    "url": "http://www.laptopspirit.fr/search/{{{s}}}"
+  },
+  {
+    "bang": "macsales",
+    "name": "Other World Computing (MacSales)",
+    "url": "https://eshop.macsales.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "macupdate",
+    "name": "MacUpdate",
+    "url": "http://www.macupdate.com/find/mac/{{{s}}}"
+  },
+  {
+    "bang": "maedler",
+    "name": "https://www.maedler.de",
+    "url": "https://www.maedler.de/ShopSearch?query={{{s}}}"
+  },
+  {
+    "bang": "market",
+    "name": "Android Market",
+    "url": "https://market.android.com/search?q={{{s}}}&c=apps"
+  },
+  {
+    "bang": "materiel",
+    "name": "materiel.net",
+    "url": "http://www.materiel.net/achat/{{{s}}}"
+  },
+  {
+    "bang": "mcmaster",
+    "name": "McMaster-Carr",
+    "url": "http://www.mcmaster.com/#{{{s}}}"
+  },
+  {
+    "bang": "mdcomp",
+    "name": "MD Computers",
+    "url": "https://mdcomputers.in/index.php?route=product/search&search={{{s}}}&description=true"
+  },
+  {
+    "bang": "mediamarktfr",
+    "name": "MediaMarkt FR",
+    "url": "http://www.mediamarkt.be/fr/search.html?query={{{s}}}"
+  },
+  {
+    "bang": "mediamarktnl",
+    "name": "MediaMarkt Nederland",
+    "url": "http://www.mediamarkt.nl/nl/search.html?query={{{s}}}&searchProfile=onlineshop&channel=mmnlnl"
+  },
+  {
+    "bang": "medimax",
+    "name": "MediMax",
+    "url": "https://www.medimax.de/search?search={{{s}}}"
+  },
+  {
+    "bang": "memoryexpress",
+    "name": "Memory Express",
+    "url": "http://www.memoryexpress.com/Search/Products?Search={{{s}}}"
+  },
+  {
+    "bang": "memx",
+    "name": "Memory Express",
+    "url": "http://www.memoryexpress.com/Search/Products?Search={{{s}}}"
+  },
+  {
+    "bang": "mfac",
+    "name": "Mindfactory",
+    "url": "https://www.mindfactory.de/search_result.php?select_search=0&search_query={{{s}}}"
+  },
+  {
+    "bang": "microcenter",
+    "name": "Micro Center",
+    "url": "http://www.microcenter.com/search/search_results.phtml?Ntt={{{s}}}"
+  },
+  {
+    "bang": "mindfactory",
+    "name": "Mindfactory.de",
+    "url": "https://www.mindfactory.de/search_result.php?select_search=0&search_query={{{s}}}"
+  },
+  {
+    "bang": "mindf",
+    "name": "Mindfactory",
+    "url": "https://www.mindfactory.de/search_result.php?select_search=0&search_query={{{s}}}"
+  },
+  {
+    "bang": "misumi",
+    "name": "Misumi USA",
+    "url": "https://us.misumi-ec.com/vona2/result/?Keyword={{{s}}}"
+  },
+  {
+    "bang": "mk",
+    "name": "Mechanical Keyboards",
+    "url": "http://mechanicalkeyboards.com/search.php?switch_id=ALL&size=ALL&keyword={{{s}}} "
+  },
+  {
+    "bang": "mobce",
+    "name": "Mobile Centre",
+    "url": "https://mobilecentre.am/search/?searchData={{{s}}}"
+  },
+  {
+    "bang": "monoprice",
+    "name": "Monoprice",
+    "url": "http://www.monoprice.com/products/search.asp?keyword={{{s}}}"
+  },
+  {
+    "bang": "mouser",
+    "name": "Mouser Electronics",
+    "url": "http://www.mouser.com/Search/Refine.aspx?Keyword={{{s}}}"
+  },
+  {
+    "bang": "nbooks",
+    "name": "NotebooksBillger",
+    "url": "http://www.notebooksbilliger.de/produkte/{{{s}}}"
+  },
+  {
+    "bang": "ne",
+    "name": "Newegg",
+    "url": "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Description={{{s}}}"
+  },
+  {
+    "bang": "newark",
+    "name": "Newark",
+    "url": "http://www.newark.com/jsp/search/browse.jsp;jsessionid=HLQ02PGLEB0YKCXDUZ1G4IQ?N=0&Ntk=gensearch_001&Ntt={{{s}}}&Ntx=mode+matchallpartial&suggestions=false&ref=globalsearch&_requestid=285160"
+  },
+  {
+    "bang": "neweggca",
+    "name": "Newegg Canada",
+    "url": "https://www.newegg.ca/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description={{{s}}}&N=-1&isNodeId=1"
+  },
+  {
+    "bang": "newegg",
+    "name": "Newegg",
+    "url": "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Description={{{s}}}"
+  },
+  {
+    "bang": "nikonuk",
+    "name": "Nikon UK",
+    "url": "https://www.nikon.co.uk/en_GB/search.page#keywords={{{s}}}"
+  },
+  {
+    "bang": "noel",
+    "name": "Noel Leeming",
+    "url": "https://www.noelleeming.co.nz/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "octo",
+    "name": "Octopart",
+    "url": "https://octopart.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ocuk",
+    "name": "OverclockersUK",
+    "url": "http://overclockers.co.uk/search_results.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "onbit",
+    "name": "Onbit",
+    "url": "https://www.onbit.pt/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "ot4",
+    "name": "optochip",
+    "url": "https://optochip.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "owc",
+    "name": "Other World Computing (MacSales)",
+    "url": "https://eshop.macsales.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pbtech",
+    "name": "PB Tech",
+    "url": "https://www.pbtech.co.nz/search?sf={{{s}}}"
+  },
+  {
+    "bang": "pccg",
+    "name": "PCCaseGear",
+    "url": "http://search.pccasegear.com/search#w={{{s}}} "
+  },
+  {
+    "bang": "pccomponentes",
+    "name": "PcComponentes",
+    "url": "https://www.pccomponentes.com/buscar/?query={{{s}}}"
+  },
+  {
+    "bang": "pcco",
+    "name": "PcComponentes",
+    "url": "https://www.pccomponentes.com/buscar/?query={{{s}}}"
+  },
+  {
+    "bang": "pcc",
+    "name": "PC Connection",
+    "url": "http://www.pcconnection.com/IPA/Shop/Product/Search.htm?SearchType=1&term={{{s}}}"
+  },
+  {
+    "bang": "pcd",
+    "name": "PCDiga",
+    "url": "https://www.pcdiga.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "pcpartpicker",
+    "name": "PCPartPicker",
+    "url": "http://pcpartpicker.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pcpp",
+    "name": "PcPartPicker",
+    "url": "http://pcpartpicker.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "photodune",
+    "name": "PhotoDune",
+    "url": "http://photodune.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "bang": "pimo",
+    "name": "Pimoroni",
+    "url": "https://shop.pimoroni.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "playstation",
+    "name": "Playstation",
+    "url": "https://www.playstation.com/search-results/?q={{{s}}}"
+  },
+  {
+    "bang": "plombservice",
+    "name": "Plombservice",
+    "url": "http://www.plombservice.fr/catalogsearch/result/?imageField.x=0&imageField.y=0&q={{{s}}}"
+  },
+  {
+    "bang": "pollin",
+    "name": "Pollin Electronic",
+    "url": "http://www.pollin.de/shop/suchergebnis.html?S_TEXT={{{s}}}"
+  },
+  {
+    "bang": "pretium",
+    "name": "Pretium",
+    "url": "http://pretium.direct/search/?query={{{s}}}"
+  },
+  {
+    "bang": "pricewatch",
+    "name": "Tweakers Pricewatch",
+    "url": "http://tweakers.net/pricewatch/zoeken/?keyword={{{s}}}"
+  },
+  {
+    "bang": "primeabgb",
+    "name": "PrimeABGB",
+    "url": "https://www.primeabgb.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "bang": "proll",
+    "name": "Precision Roller",
+    "url": "http://www.precisionroller.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "proshop",
+    "name": "Proshop",
+    "url": "https://www.proshop.dk/?s={{{s}}}"
+  },
+  {
+    "bang": "ps",
+    "name": "Playstation",
+    "url": "https://www.playstation.com/search-results/?q={{{s}}}"
+  },
+  {
+    "bang": "pw",
+    "name": "Pricewatch",
+    "url": "http://www.pricewatch.com/search?q={{{s}}} "
+  },
+  {
+    "bang": "radioshack",
+    "name": "RadioShack",
+    "url": "https://www.radioshack.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "razer",
+    "name": "Razer",
+    "url": "https://www.razer.com/search/?text={{{s}}}"
+  },
+  {
+    "bang": "relmbk",
+    "name": "bendixkingradios.com",
+    "url": "https://bendixkingradios.com/catalogsearch/result/?q={{{s}}} "
+  },
+  {
+    "bang": "reviewgeek",
+    "name": "ReviewGeek",
+    "url": "https://www.reviewgeek.com/?s={{{s}}}"
+  },
+  {
+    "bang": "revolico",
+    "name": "Revolico",
+    "url": "https://www.revolico.com/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "rk",
+    "name": "robokart",
+    "url": "http://www.robokart.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "bang": "rsc",
+    "name": "RS Components",
+    "url": "http://uk.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rsde",
+    "name": "RS Components (DE)",
+    "url": "http://de.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rsfr",
+    "name": "RS Component (FR)",
+    "url": "http://radiospares-fr.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rsit",
+    "name": "RS Components Italy",
+    "url": "http://it.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rsnl",
+    "name": "RS Components (NL)",
+    "url": "http://nl.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rsnz",
+    "name": "RS Components NZ",
+    "url": "https://nz.rs-online.com/web/c/?sra=oss&r=t&searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rsuk",
+    "name": "RadioSpare UK",
+    "url": "http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rsza",
+    "name": "RS Components South Africa",
+    "url": "https://za.rs-online.com/web/c/?sra=oss&r=t&searchTerm={{{s}}}"
+  },
+  {
+    "bang": "rtings",
+    "name": "Rtings.com",
+    "url": "https://www.rtings.com/search?cx=partner-pub-9742413462301870%3A7201788216&cof=FORID%3A10&ie=UTF-8&silo=&q={{{s}}}"
+  },
+  {
+    "bang": "rugame",
+    "name": "R. U. Game?",
+    "url": "https://www.retrovideogamestore.com/index.php?option=com_mijoshop&route=product/search&search={{{s}}}"
+  },
+  {
+    "bang": "ryans",
+    "name": "Ryans Computers",
+    "url": "https://ryanscomputers.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "bang": "saturn",
+    "name": "Saturn",
+    "url": "https://www.saturn.de/de/search.html?query={{{s}}}&searchProfile=onlineshop&channel=sedede"
+  },
+  {
+    "bang": "scan",
+    "name": "Scan",
+    "url": "http://www.scan.co.uk/search.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "sfe",
+    "name": "Sparkfun Electronics",
+    "url": "http://www.sparkfun.com/search/results?term={{{s}}}&what=products"
+  },
+  {
+    "bang": "shopto",
+    "name": "ShopTo.net",
+    "url": "https://www.shopto.net/search/newSearchPage?Filter_department=&newsearch={{{s}}}"
+  },
+  {
+    "bang": "snogard",
+    "name": "Snogard.de",
+    "url": "https://www.snogard.de/suche.html?suchwort={{{s}}}"
+  },
+  {
+    "bang": "soft32",
+    "name": "Soft32",
+    "url": "http://www.soft32.com/search/?k={{{s}}}&submit="
+  },
+  {
+    "bang": "stacksocial",
+    "name": "Stack Social",
+    "url": "https://stacksocial.com/search?utf8=\u2713&query={{{s}}}"
+  },
+  {
+    "bang": "swtl",
+    "name": "Switch Technology",
+    "url": "http://swtl.pt/web/index.php?route=product/isearch&search={{{s}}}"
+  },
+  {
+    "bang": "swtr",
+    "name": "Sweetwater",
+    "url": "https://www.sweetwater.com/store/search.php?s={{{s}}}"
+  },
+  {
+    "bang": "tekmag",
+    "name": "Teknikmagasinet",
+    "url": "http://www.teknikmagasinet.se/sokresultat?CMS_SearchString={{{s}}}"
+  },
+  {
+    "bang": "teknofiyat",
+    "name": "TeknoFiyat",
+    "url": "http://www.teknofiyat.com/?search={{{s}}}"
+  },
+  {
+    "bang": "tematimi",
+    "name": "Tematimi",
+    "url": "https://www.tematimi.com/ara&search={{{s}}}"
+  },
+  {
+    "bang": "theitdepot",
+    "name": "The IT Depot",
+    "url": "https://www.theitdepot.com/search.html?keywords={{{s}}}"
+  },
+  {
+    "bang": "themeforest",
+    "name": "ThemeForest",
+    "url": "http://themeforest.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "bang": "thesource",
+    "name": "The Source",
+    "url": "http://www.thesource.ca/en-ca/search/?text={{{s}}}&search_submit="
+  },
+  {
+    "bang": "thorlabs",
+    "name": "Thorlabs",
+    "url": "http://www.thorlabs.de/search/thorsearch.cfm?search={{{s}}}"
+  },
+  {
+    "bang": "tigerdirect",
+    "name": "TigerDirect",
+    "url": "http://www.tigerdirect.com/applications/SearchTools/search.asp?keywords={{{s}}}"
+  },
+  {
+    "bang": "tweakers",
+    "name": "tweakers.net",
+    "url": "https://tweakers.net/nieuws/zoeken/?keyword={{{s}}}"
+  },
+  {
+    "bang": "umo",
+    "name": "Umart Online",
+    "url": "http://www.umart.com.au/newsite/search.php?type=0&keywords={{{s}}}"
+  },
+  {
+    "bang": "vdb",
+    "name": "Vanden Borre",
+    "url": "https://www.vandenborre.be/zoekresultaat?query={{{s}}}&v2"
+  },
+  {
+    "bang": "vedant",
+    "name": "Vedant Computers",
+    "url": "https://www.vedantcomputers.com/index.php?route=product/search&search={{{s}}}&description=true"
+  },
+  {
+    "bang": "videohive",
+    "name": "VideoHive",
+    "url": "http://videohive.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "bang": "webhallen",
+    "name": "Webhallen",
+    "url": "https://www.webhallen.com/se/search?searchString={{{s}}}&sort=searchRating"
+  },
+  {
+    "bang": "wind",
+    "name": "Wind",
+    "url": "https://www.wind.gr/search?_dyncharset=utf-8&Dy=1&Ntt={{{s}}}"
+  },
+  {
+    "bang": "wirecutter",
+    "name": "The Wirecutter",
+    "url": "http://thewirecutter.com/search/?s={{{s}}}"
+  },
+  {
+    "bang": "woodbrass",
+    "name": "Woodbrass",
+    "url": "https://www.woodbrass.com/advanced_search_result.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "worten",
+    "name": "Worten",
+    "url": "https://www.worten.es/?qs={{{s}}}"
+  },
+  {
+    "bang": "wurthe",
+    "name": "Wurth Elektronik",
+    "url": "https://www.we-online.com/web/en/wuerth_elektronik/searchpage.php?search={{{s}}}"
+  },
+  {
+    "bang": "\u0645\u0648\u0628\u0627\u064a\u0644",
+    "name": "\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0645\u0648\u0628\u0627\u064a\u0644",
+    "url": "https://mobilesacademy.com/?s={{{s}}}"
+  }
+]

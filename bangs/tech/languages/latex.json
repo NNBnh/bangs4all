@@ -1,0 +1,17 @@
+[
+  {
+    "bang": "latexwb",
+    "name": "LaTeX - Wikibooks",
+    "url": "https://en.wikibooks.org/wiki/Search?search={{{s}}}&prefix=LaTeX"
+  },
+  {
+    "bang": "texdoc",
+    "name": "Texdoc",
+    "url": "http://texdoc.net/pkg/{{{s}}}"
+  },
+  {
+    "bang": "texse",
+    "name": "tex.stackexchange",
+    "url": "http://tex.stackexchange.com/search?q={{{s}}}"
+  }
+]

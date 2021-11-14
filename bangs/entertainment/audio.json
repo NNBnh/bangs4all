@@ -1,0 +1,422 @@
+[
+  {
+    "bang": "aaj",
+    "name": "All About Jazz",
+    "url": "https://www.allaboutjazz.com/php/article_center.php?in_artist={{{s}}}&in_album=&in_label=&in_author=&in_type=0&orderby=dt_pub"
+  },
+  {
+    "bang": "amusic",
+    "name": "Amazon Music",
+    "url": "https://music.amazon.com/search/{{{s}}}"
+  },
+  {
+    "bang": "anilyrics",
+    "name": "AniLyrics",
+    "url": "https://anilyrics.com/?s={{{s}}}"
+  },
+  {
+    "bang": "avpod",
+    "name": "AVpodcast",
+    "url": "https://avpodcast.net/?s={{{s}}}"
+  },
+  {
+    "bang": "blogtalkradio",
+    "name": "BlogTalkRadio",
+    "url": "http://blogtalkradio.com/search/{{{s}}}"
+  },
+  {
+    "bang": "castbox",
+    "name": "CastBox",
+    "url": "https://castbox.fm/podcasts/{{{s}}}"
+  },
+  {
+    "bang": "celticpodcast",
+    "name": "Irish & Celtic Music Podcast",
+    "url": "http://celticmusicpodcast.com/?s={{{s}}}"
+  },
+  {
+    "bang": "cos",
+    "name": "Consequence of Sound",
+    "url": "http://consequenceofsound.net/?s={{{s}}}"
+  },
+  {
+    "bang": "deezer",
+    "name": "Deezer",
+    "url": "https://www.deezer.com/search/{{{s}}}"
+  },
+  {
+    "bang": "difm",
+    "name": "Digitally Imported",
+    "url": "https://www.di.fm/search?q={{{s}}}"
+  },
+  {
+    "bang": "dis",
+    "name": "http://discogs.com",
+    "url": "https://www.discogs.com/search/?q={{{s}}}&type=all"
+  },
+  {
+    "bang": "djay",
+    "name": "Deejay.de",
+    "url": "http://www.deejay.de/{{{s}}}"
+  },
+  {
+    "bang": "djent",
+    "name": "DjentMag",
+    "url": "https://www.djentmag.com/?s={{{s}}}"
+  },
+  {
+    "bang": "drinkify",
+    "name": "Drinkify",
+    "url": "http://www.drinkify.org/{{{s}}}"
+  },
+  {
+    "bang": "exc",
+    "name": "Exclusiveclue",
+    "url": "http://www.exclusiveclue.com/?term={{{s}}}"
+  },
+  {
+    "bang": "flatmusic",
+    "name": "Flat",
+    "url": "https://flat.io/search?q={{{s}}}"
+  },
+  {
+    "bang": "fyyd",
+    "name": "fyyd",
+    "url": "https://fyyd.de/search?search={{{s}}}"
+  },
+  {
+    "bang": "gen",
+    "name": "Genius",
+    "url": "http://genius.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "god",
+    "name": "Guts of Darkness",
+    "url": "http://www.gutsofdarkness.com/god/recherche.php?r1={{{s}}}"
+  },
+  {
+    "bang": "gpm",
+    "name": "Google Play Music",
+    "url": "https://play.google.com/music/listen#/sr/{{{s}}}"
+  },
+  {
+    "bang": "gpmusic",
+    "name": "Google Play Music",
+    "url": "https://play.google.com/music/listen?u=0#/sr/{{{s}}}"
+  },
+  {
+    "bang": "head-fi",
+    "name": "Head-Fi",
+    "url": "http://www.head-fi.org/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "hmiku",
+    "name": "\u521d\u97f3\u30df\u30af Wiki",
+    "url": "http://www5.atwiki.jp/hmiku/?cmd=search&keyword={{{s}}}"
+  },
+  {
+    "bang": "incomp",
+    "name": "INCOMPETECH",
+    "url": "https://incompetech.com/wordpress/?s={{{s}}}"
+  },
+  {
+    "bang": "infloo",
+    "name": "inflooenz",
+    "url": "http://inflooenz.com/?artist={{{s}}}"
+  },
+  {
+    "bang": "inrocks",
+    "name": "lesinrocks.com",
+    "url": "https://lesinrocks.com/recherche/?q={{{s}}}"
+  },
+  {
+    "bang": "ishuffle",
+    "name": "IndieShuffle",
+    "url": "http://www.indieshuffle.com/search/songs/{{{s}}}"
+  },
+  {
+    "bang": "ivoox",
+    "name": "ivoox",
+    "url": "https://www.ivoox.com/{{{s}}}_sb.html?sb={{{s}}}"
+  },
+  {
+    "bang": "juno",
+    "name": "juno.co.uk",
+    "url": "https://www.juno.co.uk/search/?q[all][]={{{s}}}"
+  },
+  {
+    "bang": "kgm",
+    "name": "KEYGENMUSiC",
+    "url": "http://keygenmusic.net/?page=search&query={{{s}}}"
+  },
+  {
+    "bang": "lastfmmusic",
+    "name": "last.fm",
+    "url": "https://www.last.fm/music/{{{s}}}"
+  },
+  {
+    "bang": "laut",
+    "name": "laut.de",
+    "url": "https://www.laut.de/Suche?q={{{s}}}"
+  },
+  {
+    "bang": "liveatc",
+    "name": "LiveATC.net",
+    "url": "https://www.liveatc.net/search/?icao={{{s}}}"
+  },
+  {
+    "bang": "locast",
+    "name": "Locast",
+    "url": "https://locast.be/?s={{{s}}}"
+  },
+  {
+    "bang": "lsi",
+    "name": "Let's sing it",
+    "url": "http://search.letssingit.com/cgi-exe/am.cgi?a=search&l=archive&typeid=2&s={{{s}}}"
+  },
+  {
+    "bang": "mmatch",
+    "name": "Musixmatch",
+    "url": "https://www.musixmatch.com/search/{{{s}}}"
+  },
+  {
+    "bang": "mnf",
+    "name": "Make New Friends Podcast",
+    "url": "https://www.makenewfriendspodcast.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mobcup",
+    "name": "MobCup",
+    "url": "https://mobcup.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "moncul",
+    "name": "Et mon cul c'est du tofu ?",
+    "url": "http://moncul.org/?s={{{s}}}"
+  },
+  {
+    "bang": "monstercat",
+    "name": "Monstercat",
+    "url": "https://www.monstercat.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "mtt",
+    "name": "Multitracks",
+    "url": "http://www.multitracks.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "murfie",
+    "name": "Murfie",
+    "url": "https://www.murfie.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "musicr",
+    "name": "Music Radar",
+    "url": "http://www.musicradar.com/search?searchTerm={{{s}}} "
+  },
+  {
+    "bang": "musicxm",
+    "name": "Musixmatch",
+    "url": "https://www.musixmatch.com/search/{{{s}}}"
+  },
+  {
+    "bang": "musixmatch",
+    "name": "Musixmatch",
+    "url": "https://www.musixmatch.com/search/{{{s}}}"
+  },
+  {
+    "bang": "mwi",
+    "name": "MusicWeb International",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Amusicweb-international.com"
+  },
+  {
+    "bang": "mxc",
+    "name": "MIxcloud",
+    "url": "https://www.mixcloud.com/{{{s}}}"
+  },
+  {
+    "bang": "myinstants",
+    "name": "My Instants",
+    "url": "https://www.myinstants.com/search/?name={{{s}}}"
+  },
+  {
+    "bang": "ow",
+    "name": "Open Whyd",
+    "url": "https://openwhyd.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "pdcstlst",
+    "name": "Podcast List",
+    "url": "https://podcastlist.ca/?s={{{s}}}"
+  },
+  {
+    "bang": "pianostreet",
+    "name": "Pianostreet",
+    "url": "https://www.pianostreet.com/index_sr.php?q={{{s}}}"
+  },
+  {
+    "bang": "progarchives",
+    "name": "Prog Archives",
+    "url": "http://www.progarchives.com/google-search-results.asp?cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&cx=partner-pub-0447992028883143%3Aj1syec-2iv1&sa=submit&siteurl=www.progarchives.com%252Falbum.asp%253Fid%253D998"
+  },
+  {
+    "bang": "rap",
+    "name": "rapgenius",
+    "url": "https://genius.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rateyourgenre",
+    "name": "Rate Your Music (genre)",
+    "url": "https://rateyourmusic.com/genre/{{{s}}}"
+  },
+  {
+    "bang": "residentadvisor",
+    "name": "Resident Advisor",
+    "url": "http://www.residentadvisor.net/search.aspx?searchstr={{{s}}}"
+  },
+  {
+    "bang": "rym",
+    "name": "Rate Your Music",
+    "url": "https://rateyourmusic.com/search?searchterm={{{s}}}"
+  },
+  {
+    "bang": "saavn",
+    "name": "Saavn",
+    "url": "https://www.jiosaavn.com/search/{{{s}}}"
+  },
+  {
+    "bang": "scloud",
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sentireascoltare",
+    "name": "Sentire Ascoltare",
+    "url": "http://sentireascoltare.com/?s={{{s}}}"
+  },
+  {
+    "bang": "setlist",
+    "name": "Setlist.fm",
+    "url": "http://www.setlist.fm/search?query={{{s}}}"
+  },
+  {
+    "bang": "singa",
+    "name": "Singa",
+    "url": "https://singa.com/search/results/{{{s}}}"
+  },
+  {
+    "bang": "sixdegrees",
+    "name": "Six Degrees of Kanye West",
+    "url": "https://sixdegreesofkanyewest.com/artist?q={{{s}}}"
+  },
+  {
+    "bang": "sk",
+    "name": "Songkick",
+    "url": "http://www.songkick.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "songfacts",
+    "name": "Songfacts",
+    "url": "http://www.songfacts.com/search-song-1.php?{{{s}}}"
+  },
+  {
+    "bang": "songkick",
+    "name": "SongKick",
+    "url": "https://www.songkick.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "sonofmarketing",
+    "name": "Son of Marketing",
+    "url": "http://www.sonofmarketing.it/?q={{{s}}}"
+  },
+  {
+    "bang": "sounddogs",
+    "name": "Sounddogs",
+    "url": "https://www.sounddogs.com/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "soundy",
+    "name": "Soundy",
+    "url": "https://www.soundy.top/sounds?q={{{s}}}"
+  },
+  {
+    "bang": "spinrilla",
+    "name": "Spinrilla",
+    "url": "https://spinrilla.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "sprkr",
+    "name": "Spreaker",
+    "url": "https://www.spreaker.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "spy",
+    "name": "Spotify",
+    "url": "https://open.spotify.com/search/{{{s}}}"
+  },
+  {
+    "bang": "sysk",
+    "name": "Stuff You Should Know",
+    "url": "https://www.stuffyoushouldknow.com/search.php?terms={{{s}}}"
+  },
+  {
+    "bang": "thislife",
+    "name": "This American Life",
+    "url": "https://www.thisamericanlife.org/archive?keyword={{{s}}}"
+  },
+  {
+    "bang": "tokyonoise",
+    "name": "TokyoNoise",
+    "url": "http://www.tokyonoise.net/cerca.php?s={{{s}}}&p=1"
+  },
+  {
+    "bang": "ug",
+    "name": "Ultimate Guitar",
+    "url": "https://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "bang": "urbanfx",
+    "name": "urbaneffect.net",
+    "url": "http://urbaneffect.net/?s={{{s}}}"
+  },
+  {
+    "bang": "vgmdb",
+    "name": "Vgmdb",
+    "url": "https://vgmdb.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "vocaloid",
+    "name": "Vocaloid Wiki",
+    "url": "http://vocaloid.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "voicy",
+    "name": "Voicy Network",
+    "url": "https://www.voicy.network/clips/search?search={{{s}}}"
+  },
+  {
+    "bang": "weezer",
+    "name": "Weezerpedia",
+    "url": "http://weezerpedia.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wire",
+    "name": "The Wire",
+    "url": "https://www.thewire.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "bang": "worldmusic",
+    "name": "RootsWorld",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Arootsworld.com%2Crootsworld.org&ia=web"
+  },
+  {
+    "bang": "wtl",
+    "name": "What the fuck should I listen to right now",
+    "url": "http://whatthefuckshouldilistentorightnow.com/artist.php?artist={{{s}}}"
+  },
+  {
+    "bang": "xiami",
+    "name": "Xiami",
+    "url": "http://www.xiami.com/search?key={{{s}}}"
+  }
+]

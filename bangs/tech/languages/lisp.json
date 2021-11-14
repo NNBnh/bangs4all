@@ -1,0 +1,22 @@
+[
+  {
+    "bang": "clhs",
+    "name": "CommonLisp HyperSpec",
+    "url": "http://www.lispworks.com/cgi-bin/search.cgi?q={{{s}}}&cmd=Search%21&t=-D--HB-"
+  },
+  {
+    "bang": "cliki",
+    "name": "Cliki",
+    "url": "http://cliki.net/site/search?query={{{s}}}"
+  },
+  {
+    "bang": "picolisp",
+    "name": "picolisp.com",
+    "url": "http://picolisp.com/wiki/?home&*Search={{{s}}}"
+  },
+  {
+    "bang": "quickdocs",
+    "name": "Quickdocs",
+    "url": "http://quickdocs.org/search?q={{{s}}}"
+  }
+]

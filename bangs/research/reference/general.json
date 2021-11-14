@@ -1,0 +1,1767 @@
+[
+  {
+    "bang": "3gpp",
+    "name": "3GPP Technical Specification",
+    "url": "http://www.3gpp.org/DynaReport/{{{s}}}.htm"
+  },
+  {
+    "bang": "990",
+    "name": "990 Search (Foundation Center)",
+    "url": "http://990finder.foundationcenter.org/990results.aspx?990_type=&fn={{{s}}}&st=&zp=&ei=&fy=&action=Search"
+  },
+  {
+    "bang": "aeiou",
+    "name": "Austria Forum",
+    "url": "https://austria-forum.org/Search.jsp?category=Austria-Forum&sname=name%2Csuchbegriff&query={{{s}}}+&searchType=default&useShortcuts=y&useSynonyms=n&doFuzzy=y&minResults=15"
+  },
+  {
+    "bang": "agora",
+    "name": "http://agora.gg",
+    "url": "http://agora.gg/search/{{{s}}}"
+  },
+  {
+    "bang": "aifit",
+    "name": "Arlington Industries",
+    "url": "http://www.aifittings.com/searchResults?q={{{s}}}"
+  },
+  {
+    "bang": "airframes",
+    "name": "Aircraft Registration Database Lookup",
+    "url": "http://www.airframes.org/reg/{{{s}}}"
+  },
+  {
+    "bang": "aitopics",
+    "name": "AITopics",
+    "url": "https://aitopics.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "akc",
+    "name": "American Kennel Club",
+    "url": "https://www.akc.org/?s={{{s}}}"
+  },
+  {
+    "bang": "allaboutcircuits",
+    "name": "allaboutcircuits",
+    "url": "http://www.allaboutcircuits.com/scripts/search.html?cx=006978388026519765659%3Ahg719j5vhl8&cof=FORID%3A9&q={{{s}}}&sa=Find"
+  },
+  {
+    "bang": "almaanyen",
+    "name": "Almaany",
+    "url": "http://www.almaany.com/ar/dict/ar-en/{{{s}}}"
+  },
+  {
+    "bang": "anaped",
+    "name": "Anarchopedia",
+    "url": "http://en.anarchopedia.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "anarchopedia",
+    "name": "Anarchopedia",
+    "url": "http://anarchopedia.org/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "angelhalowiki",
+    "name": "Angelhalo Wiki",
+    "url": "http://www.rigvedawiki.net/r1/wiki.php/{{{s}}}"
+  },
+  {
+    "bang": "anguscatalogue",
+    "name": "Angus Libraries Catalogue",
+    "url": "http://library.angus.gov.uk/ipac20/ipac.jsp?session=138BN7L458484.310312&menu=search&aspect=subtab184&npp=10&ipp=20&spp=20&profile=ang--7&ri=&term={{{s}}}&index=.AW&x=-354&y=-218&aspect=subtab184&term=&index=.TW&term=&index=.SE&term=&index=.SW&term=&index=BSTLLR&sort="
+  },
+  {
+    "bang": "applese",
+    "name": "Ask Different",
+    "url": "http://apple.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "arcadeotaku",
+    "name": "Arcade Otaku Wiki",
+    "url": "https://wiki.arcadeotaku.com/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "arda",
+    "name": "The Encyclopedia of ARDA",
+    "url": "http://www.glyphweb.com/arda/search.asp?search={{{s}}}"
+  },
+  {
+    "bang": "area51",
+    "name": "Area51",
+    "url": "http://discuss.area51.stackexchange.com/search?q= {{{s}}}"
+  },
+  {
+    "bang": "argot",
+    "name": "Speaking Latino",
+    "url": "http://www.speakinglatino.com/?s={{{s}}}&advanced=0&search_type=&posts_country=&posts_category=&words_country=&words_category=&words_letter=CHOOSE+A+STARTING+LETTER&all_country=&all_letter=CHOOSE+A+STARTING+LETTER"
+  },
+  {
+    "bang": "arl",
+    "name": "The Ayn Rand Lexicon",
+    "url": "http://aynrandlexicon.com/searchresults/index.html?cx=013104633629966810561%3Ag5jt9ka8qre&cof=FORID%3A11&q={{{s}}}"
+  },
+  {
+    "bang": "artstor",
+    "name": "ArtStor",
+    "url": "https://library.artstor.org/#/search/{{{s}}};page=1;size=48"
+  },
+  {
+    "bang": "atl",
+    "name": "ATL Wiki",
+    "url": "http://atlwiki.net/Special:Search/{{{s}}}"
+  },
+  {
+    "bang": "azm",
+    "name": "AZoM",
+    "url": "https://www.azom.com/search.aspx?q={{{s}}}&site=all&fsb=1"
+  },
+  {
+    "bang": "azom",
+    "name": "Azom",
+    "url": "https://www.azom.com/search.aspx?q={{{s}}}&site=all&fsb=1"
+  },
+  {
+    "bang": "bancodata",
+    "name": "Banco Data",
+    "url": "https://bancodata.com.br/busca/?i={{{s}}}"
+  },
+  {
+    "bang": "banq",
+    "name": "Biblioth\u00e8que et Archives Nationales du Qu\u00e9bec",
+    "url": "http://www.banq.qc.ca/techno/recherche/rms.html?keyword={{{s}}}&Recherche=tout&fonction=chercher&afficherPortail=checked&afficherIris=checked&afficherPistard=checked&afficherColNum=checked"
+  },
+  {
+    "bang": "baseballreference",
+    "name": "Baseball-Reference",
+    "url": "http://www.baseball-reference.com/pl/player_search.cgi?search={{{s}}}"
+  },
+  {
+    "bang": "basenotes",
+    "name": "Basenotes",
+    "url": "http://www.basenotes.net/fragrancedirectory/?search={{{s}}}"
+  },
+  {
+    "bang": "bballref",
+    "name": "Basketball Reference",
+    "url": "https://www.basketball-reference.com/search/search.fcgi?hint=&search={{{s}}}&pid=&idx= "
+  },
+  {
+    "bang": "bbcr",
+    "name": "BBC Resources",
+    "url": "http://www.bbc.co.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "bbr",
+    "name": "Basketball-Reference ",
+    "url": "http://www.basketball-reference.com/player_search.cgi?search={{{s}}}"
+  },
+  {
+    "bang": "bermuda",
+    "name": "Bermuda.io",
+    "url": "http://bermuda.io/dataset?q={{{s}}}"
+  },
+  {
+    "bang": "bibliotek",
+    "name": "Bibliotek.dk",
+    "url": "https://bibliotek.dk/search/work/{{{s}}}"
+  },
+  {
+    "bang": "bigenc",
+    "name": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f",
+    "url": "https://bigenc.ru/search?q={{{s}}}"
+  },
+  {
+    "bang": "bike",
+    "name": "Sheldon Brown's Bicycle Technical Info",
+    "url": "http://sheldonbrown.com/searchResults.html?cx=partner-pub-1229949690989515%3A1174459614&cof=FORID%3A10&q={{{s}}}"
+  },
+  {
+    "bang": "biography",
+    "name": "Biography",
+    "url": "https://www.biography.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "bkr",
+    "name": "Basketball Reference",
+    "url": "http://www.basketball-reference.com/player_search.cgi?search={{{s}}}"
+  },
+  {
+    "bang": "bmonotes",
+    "name": "BMO Structured Notes",
+    "url": "https://www.bmonotes.com/Search/GeneralSearch?query={{{s}}}"
+  },
+  {
+    "bang": "bnf",
+    "name": "Catalogue BNF",
+    "url": "http://catalogue.bnf.fr/rechercher.do?motRecherche={{{s}}}"
+  },
+  {
+    "bang": "brainyquote",
+    "name": "BrainyQuote",
+    "url": "https://www.brainyquote.com/search_results.html?q={{{s}}}"
+  },
+  {
+    "bang": "bratabase",
+    "name": "Bratabase",
+    "url": "http://www.bratabase.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "br",
+    "name": "Baseball-Reference",
+    "url": "http://www.baseball-reference.com/pl/player_search.cgi?search={{{s}}}"
+  },
+  {
+    "bang": "britannica",
+    "name": "Britannica.com",
+    "url": "http://www.britannica.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "britannicaschoole",
+    "name": "Britannica School (Elementary)",
+    "url": "http://school.eb.com/levels/elementary/search/articles?query={{{s}}}"
+  },
+  {
+    "bang": "britannicaschoolh",
+    "name": "Britannica School (High)",
+    "url": "http://school.eb.com/levels/high/search/articles?query={{{s}}}"
+  },
+  {
+    "bang": "britannicaschoolm",
+    "name": "Britannica School (Middle)",
+    "url": "http://school.eb.com/levels/middle/search/articles?query={{{s}}}"
+  },
+  {
+    "bang": "britsche",
+    "name": "Britannica School (Elementary)",
+    "url": "http://school.eb.com/levels/elementary/search/articles?query={{{s}}}"
+  },
+  {
+    "bang": "britschh",
+    "name": "Britannica School (High)",
+    "url": "http://school.eb.com/levels/high/search/articles?query={{{s}}}"
+  },
+  {
+    "bang": "britschm",
+    "name": "Britannica School (Middle)",
+    "url": "http://school.eb.com/levels/middle/search/articles?query={{{s}}}"
+  },
+  {
+    "bang": "brockhaus",
+    "name": "Brockhaus",
+    "url": "https://brockhaus.de/search/?t=enzy&q={{{s}}}"
+  },
+  {
+    "bang": "brt",
+    "name": "Britannyca",
+    "url": "http://www.britannica.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "buffalolib",
+    "name": "Buffalo & Erie County Public Library",
+    "url": "https://www.buffalolib.org/vufind/Union/Search?lookfor={{{s}}}&type=keyword&submit=Find&sort=title"
+  },
+  {
+    "bang": "cald",
+    "name": "Cambridge Dictionary",
+    "url": "http://dictionary.cambridge.org/search/british/?source=duckduckgo&q={{{s}}}"
+  },
+  {
+    "bang": "call",
+    "name": "QRZCQ",
+    "url": "http://qrzcq.com/?q={{{s}}}&action=search&page=search"
+  },
+  {
+    "bang": "camd",
+    "name": "http://dictionary.cambridge.org",
+    "url": "http://dictionary.cambridge.org/search/american-english/direct/?q={{{s}}}"
+  },
+  {
+    "bang": "camg",
+    "name": "Cambridge University Press",
+    "url": "http://dictionary.cambridge.org/us/grammar/british-grammar/{{{s}}}"
+  },
+  {
+    "bang": "ccd",
+    "name": "FoxHollow CCD",
+    "url": "http://hamster.foxhollow.ca/ccd/index.php?keywords={{{s}}} "
+  },
+  {
+    "bang": "ccode",
+    "name": "Country calling codes",
+    "url": "http://www.country-codes.org/{{{s}}}"
+  },
+  {
+    "bang": "cfp",
+    "name": "WikiCFP",
+    "url": "http://wikicfp.com/cfp/servlet/tool.search?q={{{s}}}&year=f"
+  },
+  {
+    "bang": "charity",
+    "name": "Charity Navigator",
+    "url": "http://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list={{{s}}}"
+  },
+  {
+    "bang": "charitynavigator",
+    "name": "Charity Navigator",
+    "url": "http://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list={{{s}}}"
+  },
+  {
+    "bang": "cheatography",
+    "name": "Cheatography",
+    "url": "http://www.cheatography.com/explore/search/?q={{{s}}}"
+  },
+  {
+    "bang": "chillingeffects",
+    "name": "Chilling Effects",
+    "url": "https://www.chillingeffects.org/notices/search?&term={{{s}}}"
+  },
+  {
+    "bang": "chipdb",
+    "name": "msarnoff.org ChipDB",
+    "url": "http://www.msarnoff.org/chipdb/{{{s}}}"
+  },
+  {
+    "bang": "cia",
+    "name": "CIA World Factbook",
+    "url": "https://www.cia.gov/search?q={{{s}}}&site=WORLD_FACTBOOK&btnG=Search&x=0&y=0&output=xml_no_dtd&client=CIA&myAction=%2Fsearch&proxystylesheet=CIA&submitMethod=get&sort=date%3AD%3AL%3Ad1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1"
+  },
+  {
+    "bang": "cio",
+    "name": "Company.info",
+    "url": "https://company.info/organisations/search?q={{{s}}}"
+  },
+  {
+    "bang": "citeul",
+    "name": "CikeULike",
+    "url": "http://www.citeulike.org/search/all?q={{{s}}}"
+  },
+  {
+    "bang": "citroenc3owners",
+    "name": "citroenC3owners.com",
+    "url": "http://citroenc3owners.com/search.php?keywords={{{s}}}&terms=all&author=&fid[]=5&sc=1&sf=all&sk=t&sd=d&sr=posts&st=0&ch=300&t=0&submit=Search"
+  },
+  {
+    "bang": "ck12",
+    "name": "cK-12.org",
+    "url": "https://www.ck12.org/search/?q={{{s}}}&referrer=top_nav&autoComplete=false"
+  },
+  {
+    "bang": "clt",
+    "name": "\u6771\u4eac\u90fd\u306e\u56f3\u66f8\u9928\u6a2a\u65ad\u691c\u7d22 | \u30ab\u30fc\u30ea\u30eb",
+    "url": "https://calil.jp/local/search?csid=tokyo&q={{{s}}}"
+  },
+  {
+    "bang": "cop2usd",
+    "name": "Xe.com",
+    "url": "http://www.xe.com/currencyconverter/convert/?From=COP&To=USD&Amount={{{s}}}"
+  },
+  {
+    "bang": "cpl",
+    "name": "Chicago Public Library",
+    "url": "https://chipublib.bibliocommons.com/search?&t=title&search_category=title&q={{{s}}}"
+  },
+  {
+    "bang": "crep",
+    "name": "Consumer Reports",
+    "url": "https://www.consumerreports.org/search/?query={{{s}}}"
+  },
+  {
+    "bang": "creps",
+    "name": "Consumer Reports",
+    "url": "https://www.consumerreports.org/search/?query={{{s}}}"
+  },
+  {
+    "bang": "cwde",
+    "name": "Wikipedia - Zitierhilfe",
+    "url": "https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page={{{s}}}"
+  },
+  {
+    "bang": "cwen",
+    "name": "Wikipedia - Cite This Page",
+    "url": "https://en.wikipedia.org/wiki/Special:CiteThisPage?page={{{s}}}"
+  },
+  {
+    "bang": "cye",
+    "name": "Chooseyourevent.co.uk",
+    "url": "http://www.chooseyourevent.co.uk/keywordsearch.asp?searchterms={{{s}}}"
+  },
+  {
+    "bang": "datasearch",
+    "name": "https://toolbox.google.com/datasetsearch",
+    "url": "https://toolbox.google.com/datasetsearch/search?query={{{s}}}"
+  },
+  {
+    "bang": "dbnf",
+    "name": "Data Bnf",
+    "url": "http://data.bnf.fr/search?term={{{s}}}"
+  },
+  {
+    "bang": "dbpedia",
+    "name": "DBPedia",
+    "url": "http://wiki.dbpedia.org/Search?phrase={{{s}}}"
+  },
+  {
+    "bang": "dcom",
+    "name": "Dictionary.com",
+    "url": "http://www.dictionary.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "dcp",
+    "name": "Dynacase documentation",
+    "url": "http://docs.anakeen.com/dynacase/stable/#{{{s}}}"
+  },
+  {
+    "bang": "ddgf",
+    "name": "DuckDuckgo France",
+    "url": "http://duckduckgo.com/?kl=fr-fr&q={{{s}}}"
+  },
+  {
+    "bang": "designdirectory",
+    "name": "Design Directory",
+    "url": "http://www.dexigner.com/directory/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "dibe",
+    "name": "http://differencebetween.net",
+    "url": "http://www.differencebetween.net/search/?q={{{s}}}"
+  },
+  {
+    "bang": "disco",
+    "name": "Discovery Wiki",
+    "url": "http://discoverygc.com/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "djangodoc",
+    "name": "Django Documentation",
+    "url": "https://docs.djangoproject.com/en/1.8/search/?q={{{s}}}"
+  },
+  {
+    "bang": "dogpedia",
+    "name": "DogPedia",
+    "url": "http://www.dogpedia.org/?s={{{s}}}"
+  },
+  {
+    "bang": "doi",
+    "name": "Digital Object Identifier",
+    "url": "https://doi.org/{{{s}}}"
+  },
+  {
+    "bang": "dotwhat",
+    "name": "DotWhat",
+    "url": "http://dotwhat.net/search/{{{s}}}"
+  },
+  {
+    "bang": "dreambible",
+    "name": "Dream Bible",
+    "url": "http://www.dreambible.com/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "dref",
+    "name": "Dictionary at Reference.com",
+    "url": "http://dictionary.reference.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "dsd",
+    "name": "Den Store Danske",
+    "url": "http://www.denstoredanske.dk/Special:Opslag?q={{{s}}}"
+  },
+  {
+    "bang": "dsgvo",
+    "name": "Datenschutz-Wiki.de",
+    "url": "https://www.datenschutz-wiki.de/index.php?search={{{s}}}&ns3000=1"
+  },
+  {
+    "bang": "dswiki",
+    "name": "Datenschutz-Wiki.de",
+    "url": "https://www.datenschutz-wiki.de/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "dt",
+    "name": "Deskthority Wiki",
+    "url": "https://deskthority.net/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "dtn",
+    "name": "Discover the Networks",
+    "url": "http://www.discoverthenetworks.org/search/?q={{{s}}}&cof=FORID%3A11&cx=013255222075609514560%3Avfcebs4vcuo"
+  },
+  {
+    "bang": "dtwiki",
+    "name": "Deskthority Wiki",
+    "url": "https://deskthority.net/wiki/{{{s}}}"
+  },
+  {
+    "bang": "dul",
+    "name": "Duke University Libraries",
+    "url": "http://library.duke.edu/find/all?Ntt={{{s}}} "
+  },
+  {
+    "bang": "dummies",
+    "name": "dummies.com",
+    "url": "https://www.dummies.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ean",
+    "name": "EAN Search",
+    "url": "http://www.ean-search.org/perl/ean-search.pl?q={{{s}}}"
+  },
+  {
+    "bang": "eir",
+    "name": "Encyclop\u00e6dia Iranica",
+    "url": "http://www.iranicaonline.org/articles/search/keywords:{{{s}}}"
+  },
+  {
+    "bang": "elw",
+    "name": "\u0392\u03b9\u03ba\u03b9\u03c0\u03b1\u03af\u03b4\u03b5\u03b9\u03b1",
+    "url": "https://el.wikipedia.org/w/index.php?search={{{s}}}&title=%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%3A%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&go=%CE%9C%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7"
+  },
+  {
+    "bang": "emojipedia",
+    "name": "Emojipedia",
+    "url": "http://emojipedia.org/?s={{{s}}}"
+  },
+  {
+    "bang": "enc",
+    "name": "encyclo",
+    "url": "http://www.encyclo.nl/begrip/{{{s}}}"
+  },
+  {
+    "bang": "encom",
+    "name": "Encyclopedia.com",
+    "url": "http://www.encyclopedia.com/searchresults.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "encyc",
+    "name": "encyc",
+    "url": "http://encyc.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "engfor",
+    "name": "English Forums",
+    "url": "https://www.englishforums.com/search/{{{s}}}.htm"
+  },
+  {
+    "bang": "enid",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/translate#en/id/{{{s}}}"
+  },
+  {
+    "bang": "equaldex",
+    "name": "Equaldex",
+    "url": "http://equaldex.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ethnologue",
+    "name": "Ethnologue",
+    "url": "http://www.ethnologue.com/search?keys={{{s}}}"
+  },
+  {
+    "bang": "eur2usd",
+    "name": "Xe.com",
+    "url": "http://www.xe.com/currencyconverter/convert/?From=EUR&To=USD&Amount={{{s}}}"
+  },
+  {
+    "bang": "everymac",
+    "name": "EveryMac.com",
+    "url": "http://www.everymac.com/ultimate-mac-lookup/?search_keywords={{{s}}}"
+  },
+  {
+    "bang": "exp",
+    "name": "IrfanTOOR Exploits",
+    "url": "http://irfantoor.com/exploits?s={{{s}}}"
+  },
+  {
+    "bang": "ezine",
+    "name": "Ezinearticles.com",
+    "url": "http://ezinearticles.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "factbites",
+    "name": "Factbites",
+    "url": "http://www.factbites.com/topics/{{{s}}}"
+  },
+  {
+    "bang": "fassv",
+    "name": "Fass V\u00e5rdpersonal",
+    "url": "https://www.fass.se/LIF/result?userType=0&query={{{s}}}"
+  },
+  {
+    "bang": "fileext",
+    "name": "File-Extensions.org",
+    "url": "http://www.file-extensions.org/search/?searchstring={{{s}}}"
+  },
+  {
+    "bang": "filext",
+    "name": "FILExt",
+    "url": "http://filext.com/file-extension/{{{s}}}"
+  },
+  {
+    "bang": "fo",
+    "name": "File.org",
+    "url": "http://file.org/extension/{{{s}}} "
+  },
+  {
+    "bang": "font",
+    "name": "Identifont",
+    "url": "http://www.identifont.com/find?font={{{s}}}&similar={{{s}}}"
+  },
+  {
+    "bang": "fontslike",
+    "name": "Identifont (similar)",
+    "url": "http://www.identifont.com/find?similar={{{s}}}&q=Go"
+  },
+  {
+    "bang": "frmb",
+    "name": "framabee",
+    "url": "https://framabee.org/?q={{{s}}}"
+  },
+  {
+    "bang": "fullform",
+    "name": "Fullformgo",
+    "url": "https://www.fullformgo.com/term/{{{s}}}"
+  },
+  {
+    "bang": "fullforms",
+    "name": "FullForms",
+    "url": "http://fullforms.com/{{{s}}} "
+  },
+  {
+    "bang": "gbooks",
+    "name": "Books.google.com",
+    "url": "https://www.google.com/search?nfpr=1&tbm=bks&q={{{s}}}"
+  },
+  {
+    "bang": "gcm",
+    "name": "Great Circle Mapper",
+    "url": "http://www.gcmap.com/mapui?P={{{s}}}&MS=wls&DU=nm"
+  },
+  {
+    "bang": "genea",
+    "name": "Genealogie Online",
+    "url": "https://www.genealogieonline.nl/en/zoeken/?q={{{s}}} "
+  },
+  {
+    "bang": "geonames",
+    "name": "GeoNames",
+    "url": "http://www.geonames.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "glotenes",
+    "name": "Interglot EN -> ES",
+    "url": "http://www.interglot.com/dictionary/en/es/search?q={{{s}}} "
+  },
+  {
+    "bang": "glotesen",
+    "name": "Interglot ES -> EN",
+    "url": "http://www.interglot.com/dictionary/es/en/search?q={{{s}}} "
+  },
+  {
+    "bang": "glotnl",
+    "name": "Interglot (NL->EN)",
+    "url": "http://interglot.com/dictionary/nl/en/search?q={{{s}}}"
+  },
+  {
+    "bang": "glottolog",
+    "name": "Glottolog",
+    "url": "http://glottolog.org/glottolog?search={{{s}}}"
+  },
+  {
+    "bang": "gobang",
+    "name": "Duck Go !Bang",
+    "url": "http://duckgobang.com/?s={{{s}}}"
+  },
+  {
+    "bang": "golden",
+    "name": "golden.com",
+    "url": "https://golden.com/search/{{{s}}}"
+  },
+  {
+    "bang": "googleimg",
+    "name": "Google Image",
+    "url": "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "bang": "gre",
+    "name": "Great Russian Encyclopedia",
+    "url": "https://bigenc.ru/search?q={{{s}}}"
+  },
+  {
+    "bang": "gsm",
+    "name": "GSMArena",
+    "url": "http://www.gsmarena.com/results.php3?sName={{{s}}}"
+  },
+  {
+    "bang": "gtrends",
+    "name": "Google Trends",
+    "url": "https://trends.google.com/trends/explore?date=all&geo=US&q={{{s}}}"
+  },
+  {
+    "bang": "ham",
+    "name": "http://www.hamdata.com/getcall.html",
+    "url": "http://www.hamdata.com/getcall.html?callsign={{{s}}}"
+  },
+  {
+    "bang": "haze",
+    "name": "Haze Guitars",
+    "url": "https://hazeguitars.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "hebwiki",
+    "name": "Hebrew Wikipedia",
+    "url": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "heidi",
+    "name": "Universit\u00e4tsbibliothek Heiedelberg OPAC",
+    "url": "http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?fsubmit=1&query= {{{s}}}"
+  },
+  {
+    "bang": "hendon",
+    "name": "thehendonmob.com",
+    "url": "http://www.thehendonmob.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "hfr",
+    "name": "Forum Hardware.fr",
+    "url": "http://duckduckgo.com/?q=site:linuxfr.org+{{{s}}}"
+  },
+  {
+    "bang": "hillel",
+    "name": "Hillel College Guide",
+    "url": "http://www.hillel.org/college-guide/search#keyword={{{s}}}&radius=10"
+  },
+  {
+    "bang": "hort",
+    "name": "Hortipedia",
+    "url": "http://en.hortipedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "hsw",
+    "name": "HowStuffWorks",
+    "url": "http://computer.howstuffworks.com/search.php?terms={{{s}}}"
+  },
+  {
+    "bang": "hxb",
+    "name": "Hoaxbuster",
+    "url": "http://www.hoaxbuster.com/search/node/{{{s}}}%20type%3Aarticle"
+  },
+  {
+    "bang": "hymnary",
+    "name": "Hymnary.org",
+    "url": "https://hymnary.org/search?qu={{{s}}}"
+  },
+  {
+    "bang": "ibd",
+    "name": "Investor's business daily",
+    "url": "https://research.investors.com/stock-quotes/nasdaq-apple-inc-{{{s}}}.htm?fromsearch=1"
+  },
+  {
+    "bang": "ibiblio",
+    "name": "ibiblio",
+    "url": "http://www.ibiblio.org/gsearch/?cx=006345117986368989313%3Ar2fkn4tcz5i&cof=FORID%3A11&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "inat",
+    "name": "iNaturalist",
+    "url": "https://www.inaturalist.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "infogalactic",
+    "name": "Infogalactic",
+    "url": "http://infogalactic.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "infog",
+    "name": "infogalactic.com",
+    "url": "https://infogalactic.com/info/{{{s}}}"
+  },
+  {
+    "bang": "ips",
+    "name": "Interpersonal Skills",
+    "url": "https://interpersonal.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "isaca",
+    "name": "ISACA.org",
+    "url": "http://www.isaca.org/Search/Pages/DefaultResults.aspx?k=Test&s={{{s}}}"
+  },
+  {
+    "bang": "itwiki",
+    "name": "Italian Wikipedia",
+    "url": "https://it.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "iukb",
+    "name": "Indiana University Knowledge Base",
+    "url": "https://kb.iu.edu/search?q={{{s}}}"
+  },
+  {
+    "bang": "iwiki",
+    "name": "The iPhone Wiki",
+    "url": "https://www.theiphonewiki.com/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "jawb",
+    "name": "Japanese Wikibooks",
+    "url": "https://ja.wikibooks.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "jawiki",
+    "name": "Japanese Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/{{{s}}} "
+  },
+  {
+    "bang": "jawp",
+    "name": "Japanese Wikipedia",
+    "url": "https://ja.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "jawq",
+    "name": "Japanese Wikiquote",
+    "url": "https://ja.wikiquote.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "jaws",
+    "name": "Japanese Wikisource",
+    "url": "https://ja.wikisource.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "jawt",
+    "name": "Japanese Wiktionary",
+    "url": "https://ja.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "jawv",
+    "name": "Japanese Wikiversity",
+    "url": "https://ja.wikiversity.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "jeopardy",
+    "name": "J! Archive",
+    "url": "http://www.j-archive.com/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "jlse",
+    "name": "Japanese Language Stack Exchange",
+    "url": "http://japanese.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "kasperskymal",
+    "name": "Securelist Malware info",
+    "url": "https://www.securelist.com/en/descriptions?words={{{s}}}&behavior=&Search=Search&search_type=1"
+  },
+  {
+    "bang": "kbbi",
+    "name": "Kamus Besar Bahasa Indonesia",
+    "url": "https://kbbi.kemdikbud.go.id/entri/{{{s}}}"
+  },
+  {
+    "bang": "kcls",
+    "name": "King County Library System",
+    "url": "http://kcls.bibliocommons.com/search?t=smart&search_category=keyword&q={{{s}}}&commit=Search"
+  },
+  {
+    "bang": "lapl",
+    "name": "Los Angeles Public Library",
+    "url": "https://ls2pac.lapl.org/?section=search&term={{{s}}}"
+  },
+  {
+    "bang": "lccn",
+    "name": "Library of Congress LCCN search",
+    "url": "https://lccn.loc.gov/{{{s}}}"
+  },
+  {
+    "bang": "leafly",
+    "name": "Leafly",
+    "url": "https://www.leafly.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ledict",
+    "name": "Le Dictionnaire",
+    "url": "http://www.le-dictionnaire.com/resultats.php?mot={{{s}}}"
+  },
+  {
+    "bang": "leop",
+    "name": "Leo",
+    "url": "http://dict.leo.org/ptde/?lp=ende&lang=de&searchLoc=0&cmpType=relaxed&sectHdr=on&spellToler=&search={{{s}}}"
+  },
+  {
+    "bang": "librewiki",
+    "name": "LibreWiki",
+    "url": "https://librewiki.net/index.php?title=%ED%8A%B9%EC%88%98%3A%EA%B2%80%EC%83%89&search={{{s}}}"
+  },
+  {
+    "bang": "lifehack",
+    "name": "Lifehacker",
+    "url": "http://lifehacker.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "lmec",
+    "name": "Leventhal Map & Education Center Digital Collections",
+    "url": "https://collections.leventhalmap.org/search?&q={{{s}}}"
+  },
+  {
+    "bang": "lugat\u0131m",
+    "name": "Kubbealt\u0131 Lugati",
+    "url": "http://lugatim.com/s/{{{s}}}"
+  },
+  {
+    "bang": "maany",
+    "name": "Almaany",
+    "url": "http://www.almaany.com/ar/dict/ar-en/{{{s}}}"
+  },
+  {
+    "bang": "maoridictionary",
+    "name": "M\u0101ori Dictionary",
+    "url": "http://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords={{{s}}}"
+  },
+  {
+    "bang": "matl",
+    "name": "MatWeb",
+    "url": "http://www.matweb.com/search/QuickText.aspx?SearchText={{{s}}}"
+  },
+  {
+    "bang": "matweb",
+    "name": "MatWeb",
+    "url": "http://www.matweb.com/search/QuickText.aspx?SearchText={{{s}}}"
+  },
+  {
+    "bang": "matw",
+    "name": "MatWeb",
+    "url": "http://www.matweb.com/search/QuickText.aspx?SearchText={{{s}}}"
+  },
+  {
+    "bang": "mcwd",
+    "name": "Minecraft Wiki Deutsch",
+    "url": "http://minecraft-de.gamepedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "md5",
+    "name": "MD5 reverse lookup",
+    "url": "http://md5.gromweb.com/?md5={{{s}}}"
+  },
+  {
+    "bang": "mediabias",
+    "name": "Media Bias/Fact Check",
+    "url": "https://mediabiasfactcheck.com/?s={{{s}}}"
+  },
+  {
+    "bang": "mediainfo",
+    "name": "media.info",
+    "url": "http://media.info/search?s={{{s}}}"
+  },
+  {
+    "bang": "meritbadge",
+    "name": "MeritBadgeDotOrg",
+    "url": "http://meritbadge.org/wiki/index.php/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "metade",
+    "name": "de.Metapedia.org",
+    "url": "https://de.metapedia.org/m/index.php?search={{{s}}}&title=Spezial%3ASuche"
+  },
+  {
+    "bang": "multcolib",
+    "name": "Multnomah County Library",
+    "url": "https://multcolib.org/search/site/{{{s}}}"
+  },
+  {
+    "bang": "mweb",
+    "name": "Merriam-Webster",
+    "url": "https://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "bang": "naeb",
+    "name": "Native American Ethnobotany",
+    "url": "http://naeb.brit.org/uses/search/?string={{{s}}}"
+  },
+  {
+    "bang": "namu",
+    "name": "namuwiki",
+    "url": "https://namu.wiki/go/{{{s}}}"
+  },
+  {
+    "bang": "ndb",
+    "name": "Deutsche Biographie (NDB/ADB)",
+    "url": "https://www.deutsche-biographie.de/search?name={{{s}}}&kat=ndbadb&beruf=&orte=&geburtsjahr=&todesjahr=&gnd=&st=erw&facets=&cf=10&number=0&ot=&sl=[]&sort="
+  },
+  {
+    "bang": "ndl",
+    "name": "National Diet Library Online",
+    "url": "https://ndlonline.ndl.go.jp/#!/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "nes",
+    "name": "Nationalencyklopedin",
+    "url": "http://www.ne.se/sok?q={{{s}}}"
+  },
+  {
+    "bang": "neyzen",
+    "name": "Neyzen.com",
+    "url": "http://www.neyzen.com/aramasonuc.html?q={{{s}}}"
+  },
+  {
+    "bang": "nielsen",
+    "name": "Nielsen",
+    "url": "https://www.nielsen.com/us/en/search.html?q={{{s}}}&sp_cs=UTF-8"
+  },
+  {
+    "bang": "niice",
+    "name": "niice.co",
+    "url": "http://niice.co/?search={{{s}}}"
+  },
+  {
+    "bang": "nla",
+    "name": "National Library of Australia Catalogue",
+    "url": "http://catalogue.nla.gov.au/Search/Home?lookfor={{{s}}}"
+  },
+  {
+    "bang": "nlwi",
+    "name": "Dutch Wikipedia",
+    "url": "https://nl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "nlw",
+    "name": "Nolife-Wiki",
+    "url": "http://nolife-wiki.fr/index.php?title=Sp\u00e9cial%3ARecherche&go=Lire&search={{{s}}}"
+  },
+  {
+    "bang": "nordicnames",
+    "name": "Nordic Names Wiki",
+    "url": "https://www.nordicnames.de/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "bang": "notevil",
+    "name": "not Evil",
+    "url": "http://hss3uro2hsxfogfq.onion/index.php?q={{{s}}}"
+  },
+  {
+    "bang": "npmtrends",
+    "name": "NPM Trends",
+    "url": "https://www.npmtrends.com/{{{s}}}"
+  },
+  {
+    "bang": "numista",
+    "name": "Numista",
+    "url": "https://en.numista.com/catalogue/index.php?r={{{s}}}&mode=simplifie&p=1"
+  },
+  {
+    "bang": "nypl",
+    "name": "New York Public Library",
+    "url": "https://browse.nypl.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng"
+  },
+  {
+    "bang": "nyse",
+    "name": "New York Stock Exchange",
+    "url": "https://www.nyse.com/quote/XNYS:{{{s}}}"
+  },
+  {
+    "bang": "oba",
+    "name": "Online Books (Authors)",
+    "url": "http://onlinebooks.library.upenn.edu/webbin/book/search?author={{{s}}}&amode=words"
+  },
+  {
+    "bang": "oi",
+    "name": "Oxford Index",
+    "url": "http://oxfordindex.oup.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "oxfordref",
+    "name": "Oxford Reference",
+    "url": "http://www.oxfordreference.com/search?siteToSearch=aup&q={{{s}}}"
+  },
+  {
+    "bang": "patheos",
+    "name": "Patheos",
+    "url": "https://www.patheos.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "pedigree",
+    "name": "Pedigree Database",
+    "url": "http://www.pedigreedatabase.com/search.html?q={{{s}}} "
+  },
+  {
+    "bang": "phone",
+    "name": "whitepages",
+    "url": "http://www.whitepages.com/phone/{{{s}}} "
+  },
+  {
+    "bang": "pk",
+    "name": "Peekier",
+    "url": "https://peekier.com/#!{{{s}}}"
+  },
+  {
+    "bang": "pmi",
+    "name": "Project Management Institute",
+    "url": "https://search.pmi.org/default.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "pnw",
+    "name": "psychonaut wiki",
+    "url": "https://psychonautwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "psiram",
+    "name": "Psiram",
+    "url": "https://www.psiram.com/de/index.php?title=Spezial%3ASuche&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "psy",
+    "name": "PsychonautWiki",
+    "url": "https://psychonautwiki.org/w/index.php?search={{{s}}}&title=Special:Search"
+  },
+  {
+    "bang": "pwiki",
+    "name": "PsychonautWiki",
+    "url": "https://psychonautwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "pwp",
+    "name": "Persian Wikipedia",
+    "url": "https://fa.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "quandl",
+    "name": "Quandl",
+    "url": "https://www.quandl.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "quoteinvestigator",
+    "name": "Quote Investigator",
+    "url": "https://quoteinvestigator.com/?s={{{s}}}"
+  },
+  {
+    "bang": "rationalwiki",
+    "name": "RationalWiki",
+    "url": "http://rationalwiki.org/w/index.php?search={{{s}}}&button=&title=Special:Search&go=Go"
+  },
+  {
+    "bang": "reasonator",
+    "name": "Reasonator",
+    "url": "http://tools.wmflabs.org/reasonator/?find={{{s}}}"
+  },
+  {
+    "bang": "ref",
+    "name": "Reference.com",
+    "url": "http://www.reference.com/web?q={{{s}}}"
+  },
+  {
+    "bang": "repeater",
+    "name": "Repeater Book",
+    "url": "https://www.repeaterbook.com/repeaters/keyword.php?func=result&keyword={{{s}}}"
+  },
+  {
+    "bang": "reta-vortaro",
+    "name": "Reta Vortaro",
+    "url": "http://www.reta-vortaro.de/cgi-bin/sercxu.pl?sercxata={{{s}}}&kadroj=1"
+  },
+  {
+    "bang": "rigveda",
+    "name": "Rigveda Wiki",
+    "url": "https://rigvedawiki.net/r1/wiki.php/{{{s}}}"
+  },
+  {
+    "bang": "rigvedawiki",
+    "name": "Rigveda Wiki",
+    "url": "http://rigvedawiki.net/r1/wiki.php/{{{s}}}"
+  },
+  {
+    "bang": "ris",
+    "name": "RIS",
+    "url": "https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Gesamtabfrage&SearchInAsylGH=False&SearchInAvn=False&SearchInAvsv=False&SearchInBegut=False&SearchInBgblAlt=False&SearchInBgblAuth=False&SearchInBgblPdf=False&SearchInBks=False&SearchInBundesnormen=False&SearchInDok=False&SearchInDsk=False&SearchInErlaesse=False&SearchInGbk=False&SearchInGemeinderecht=False&SearchInJustiz=False&SearchInBvwg=False&SearchInLvwg=False&SearchInLgbl=False&SearchInLgblNO=False&SearchInLgblAuth=False&SearchInLrBgld=False&SearchInLrK=False&SearchInLrNO=False&SearchInLrOO=False&SearchInLrSbg=False&SearchInLrStmk=False&SearchInLrT=False&SearchInLrVbg=False&SearchInLrW=False&SearchInNormenliste=False&SearchInPvak=False&SearchInRegV=False&SearchInUbas=False&SearchInUmse=False&SearchInUvs=False&SearchInVerg=False&SearchInVfgh=False&SearchInVwgh=False&ImRisSeit=Undefined&ResultPageSize=100&Suchworte={{{s}}}&Position=1"
+  },
+  {
+    "bang": "ritchiespecs",
+    "name": "RitchieSpecs",
+    "url": "https://www.ritchiespecs.com/results/{{{s}}}"
+  },
+  {
+    "bang": "rostr",
+    "name": "Disney Rostr",
+    "url": "https://rostr.disney.com/search_results?query={{{s}}}"
+  },
+  {
+    "bang": "rsk",
+    "name": "refseek",
+    "url": "https://www.refseek.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ruwiki",
+    "name": "Russian Wikipedia (\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f)",
+    "url": "https://ru.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "rxp",
+    "name": "Ruxpert",
+    "url": "http://ruxpert.ru/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "sccl",
+    "name": "Sana Clara County Library District",
+    "url": "https://sccl.bibliocommons.com/search/?t=smart&searchOpt=catalogue&q= {{{s}}}&search_category=keyword"
+  },
+  {
+    "bang": "se.w",
+    "name": "Simple English Wikipedia (short bang)",
+    "url": "https://simple.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "skepdic",
+    "name": "The Skeptic's Dictionary",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:skepdic.com"
+  },
+  {
+    "bang": "skindeep",
+    "name": "Skin Deep Cosmetics Database",
+    "url": "http://www.ewg.org/skindeep/search.php?query={{{s}}}"
+  },
+  {
+    "bang": "slcl",
+    "name": "St. Louis County Library",
+    "url": "https://www.slcl.org/bento/search/{{{s}}}"
+  },
+  {
+    "bang": "sndocs",
+    "name": "ServiceNow Product Docs",
+    "url": "https://docs.servicenow.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "spanslang",
+    "name": "Speaking Latino",
+    "url": "http://www.speakinglatino.com/?s={{{s}}}&advanced=0&search_type=&posts_country=&posts_category=&words_country=&words_category=&words_letter=CHOOSE+A+STARTING+LETTER&all_country=&all_letter=CHOOSE+A+STARTING+LETTER"
+  },
+  {
+    "bang": "speakers",
+    "name": "Speakers Associates",
+    "url": "https://www.speakersassociates.com/search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "bang": "splc",
+    "name": "The Southern Poverty Law Center",
+    "url": "https://www.splcenter.org/resources?keyword={{{s}}}"
+  },
+  {
+    "bang": "springer",
+    "name": "Springer Link",
+    "url": "http://link.springer.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "ssbno",
+    "name": "Statistisk Sentralby - Statistics Norway",
+    "url": "https://www.ssb.no/sok?sok= {{{s}}}"
+  },
+  {
+    "bang": "ssch",
+    "name": "SemanticScholar",
+    "url": "https://www.semanticscholar.org/search?q={{{s}}}&sort=relevance&ae=false"
+  },
+  {
+    "bang": "sslang",
+    "name": "Speaking Latino",
+    "url": "http://www.speakinglatino.com/?s={{{s}}}&advanced=0&search_type=&posts_country=&posts_category=&words_country=&words_category=&words_letter=CHOOSE+A+STARTING+LETTER&all_country=&all_letter=CHOOSE+A+STARTING+LETTER"
+  },
+  {
+    "bang": "ss",
+    "name": "SurreySearch",
+    "url": "https://surrey-primotc.hosted.exlibrisgroup.com/primo-explore/search?vl(freeText0)={{{s}}}&fn=search&vid=44SUR_VU1&tab=default_tab&query=any,contains,{{{s}}}&search_scope=default_scope"
+  },
+  {
+    "bang": "sst",
+    "name": "Steam Stash",
+    "url": "https://csgostash.com/google-search?q={{{s}}}"
+  },
+  {
+    "bang": "statista",
+    "name": "Statista",
+    "url": "https://www.statista.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "straightdope",
+    "name": "Straight Dope",
+    "url": "http://www.straightdope.com/columns/search?query={{{s}}}&action=search"
+  },
+  {
+    "bang": "sw",
+    "name": "Simple English Wikipedia",
+    "url": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "termania",
+    "name": "Termania",
+    "url": "http://www.termania.net/iskanje?query={{{s}}}&SearchIn=All"
+  },
+  {
+    "bang": "tewiki",
+    "name": "Telugu Wikipedia",
+    "url": "https://te.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "thai",
+    "name": "thai-language.com",
+    "url": "http://www.thai-language.com/default.aspx?search={{{s}}}"
+  },
+  {
+    "bang": "top",
+    "name": "Techopedia",
+    "url": "https://www.techopedia.com/search?q={{{s}}}&section=all"
+  },
+  {
+    "bang": "tref",
+    "name": "Thesaurus at Reference.com",
+    "url": "http://www.thesaurus.com/browse/{{{s}}}"
+  },
+  {
+    "bang": "tryggehandel",
+    "name": "Trygg E-Handel",
+    "url": "https://www.tryggehandel.se/?s={{{s}}}"
+  },
+  {
+    "bang": "tureng",
+    "name": "Tureng",
+    "url": "http://tureng.com/tr/turkce-ingilizce/{{{s}}}"
+  },
+  {
+    "bang": "twitche",
+    "name": "https://twitchemotes.com",
+    "url": "https://twitchemotes.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "ubhd",
+    "name": "Universit\u00e4tsbibliothek Heidelberg",
+    "url": "http://www.ub.uni-heidelberg.de/suche/suche.html?cx=009778813800417314295%3Af3s5sfjqeck&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Suche"
+  },
+  {
+    "bang": "ujc",
+    "name": "Internetov\u00e1 jazykov\u00e1 p\u0159\u00edru\u010dka",
+    "url": "http://prirucka.ujc.cas.cz/?slovo={{{s}}}&Hledej=Hledej"
+  },
+  {
+    "bang": "unescowhc",
+    "name": "UNESCO World Heritage Centre",
+    "url": "http://whc.unesco.org/en/search/?criteria={{{s}}}"
+  },
+  {
+    "bang": "unityans",
+    "name": "Unity3D answers",
+    "url": "http://unity3d.com/search?refinement=answers&gq={{{s}}} "
+  },
+  {
+    "bang": "upc",
+    "name": "UPC Database",
+    "url": "http://www.upcdatabase.com/item/{{{s}}}"
+  },
+  {
+    "bang": "urlquery",
+    "name": "Urlquery",
+    "url": "http://urlquery.net/search.php?q={{{s}}}&type=string&max=50"
+  },
+  {
+    "bang": "usd2cop",
+    "name": "Xe.com",
+    "url": "http://www.xe.com/currencyconverter/convert/?From=USD&To=COP&Amount={{{s}}}"
+  },
+  {
+    "bang": "usd2eur",
+    "name": "Xe.com",
+    "url": "http://www.xe.com/currencyconverter/convert/?From=USD&To=EUR&Amount={{{s}}}"
+  },
+  {
+    "bang": "usda",
+    "name": "USDA Food Composition Database",
+    "url": "https://ndb.nal.usda.gov/ndb/search/list?SYNCHRONIZER_TOKEN=f84a82f2-08ef-411f-a08f-2ae87edece78&SYNCHRONIZER_URI=%2Fndb%2Fsearch%2Flist&qt=&qlookup={{{s}}}&ds=&manu="
+  },
+  {
+    "bang": "vakblog",
+    "name": "Vakblog",
+    "url": "http://rsnijders.info/vakblog/?s={{{s}}} "
+  },
+  {
+    "bang": "versus",
+    "name": "Versus",
+    "url": "https://versus.com/en/{{{s}}}"
+  },
+  {
+    "bang": "viaf",
+    "name": "VIAF (Virtual Internet Authority File)",
+    "url": "http://viaf.org/viaf/search?query=local.names+all+%22{{{s}}}%22&stylesheet=/viaf/xsl/results.xsl&sortKeys=holdingscount&maximumRecords=100"
+  },
+  {
+    "bang": "vikipedio",
+    "name": "Vikipedio (Esperanto Wikipedia)",
+    "url": "https://eo.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "vikipedi",
+    "name": "Vikipedi (Turkish Wikipedia)",
+    "url": "https://tr.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "vin",
+    "name": "Decode This!",
+    "url": "http://www.decodethis.com/VINdecoder/65/vin/{{{s}}}"
+  },
+  {
+    "bang": "vo",
+    "name": "Esperanta Vikipedio",
+    "url": "https://eo.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "vschart",
+    "name": "vsChart.com",
+    "url": "http://vschart.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "vsg",
+    "name": "Value Stock Guide",
+    "url": "http://valuestockguide.com/?s={{{s}}}"
+  },
+  {
+    "bang": "w2fr",
+    "name": "WIKI2 Fr",
+    "url": "https://fr.wiki2.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "w2",
+    "name": "WIKI2",
+    "url": "https://en.wiki2.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wan",
+    "name": "Wikipedia (AN)",
+    "url": "https://an.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3AMirar"
+  },
+  {
+    "bang": "war",
+    "name": "Wikipedia (AR)",
+    "url": "https://ar.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wbg",
+    "name": "Wikipedia (BG)",
+    "url": "https://bg.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wcm",
+    "name": "WhoCallsMe",
+    "url": "http://whocallsme.com/nb/search.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "wcu",
+    "name": "Who Called Us",
+    "url": "http://whocalled.us/lookup/{{{s}}}"
+  },
+  {
+    "bang": "wde",
+    "name": "Wikipedia (DE)",
+    "url": "https://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wdg",
+    "name": "wikipedia.org Band Discography",
+    "url": "http://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography&go=Go"
+  },
+  {
+    "bang": "wdk",
+    "name": "Wikipedia (DK)",
+    "url": "https://da.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "webo",
+    "name": "Webopedia",
+    "url": "https://www.webopedia.com/sgsearch/results?q={{{s}}}"
+  },
+  {
+    "bang": "weixin",
+    "name": "weixin",
+    "url": "https://weixin.sogou.com/weixin?type=2&query={{{s}}}"
+  },
+  {
+    "bang": "w-es",
+    "name": "Wikipedia in Spanish",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "we",
+    "name": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wfa",
+    "name": "Persian Wikipedia",
+    "url": "https://fa.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wfy",
+    "name": "Frisian Wikipedia",
+    "url": "https://fy.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wga",
+    "name": "Irish Wikipedia",
+    "url": "https://ga.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "whnl",
+    "name": "wikiHow Dutch",
+    "url": "https://nl.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "bang": "wi-fi",
+    "name": "Wikipedia-FI",
+    "url": "http://fi.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "wikidata",
+    "name": "Wikidata",
+    "url": "https://www.wikidata.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "bang": "wikide",
+    "name": "Wikipedia",
+    "url": "http://de.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "wikien",
+    "name": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/w/index.php?search={{{s}}}&title=Special:Search"
+  },
+  {
+    "bang": "wikies",
+    "name": "Wikipedia (Spanish)",
+    "url": "https://es.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikihow",
+    "name": "wikiHow",
+    "url": "https://www.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "bang": "wikiid",
+    "name": "Wikipedia Bahasa Indonesia",
+    "url": "https://id.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "wikiru",
+    "name": "ru.wikipedia.org",
+    "url": "https://ru.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wiki-vn",
+    "name": "Wikipedia Vietnamese",
+    "url": "https://vi.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wikiwand",
+    "name": "WikiWand",
+    "url": "http://www.wikiwand.com/en/{{{s}}}"
+  },
+  {
+    "bang": "wisedir",
+    "name": "Wise Directory",
+    "url": "http://www.wisemarketplace.org/k:{{{s}}}"
+  },
+  {
+    "bang": "wis",
+    "name": "Wikipedia IS",
+    "url": "https://is.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "witpl",
+    "name": "wiktionary pl",
+    "url": "https://pl.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wi",
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "wj",
+    "name": "Wikipedia in Japanese",
+    "url": "https://ja.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wkan",
+    "name": "Wikisage nl",
+    "url": "http://nl.wikisage.org/w/index.php?search={{{s}}}&title=Speciaal%3AZoeken&go=OK"
+  },
+  {
+    "bang": "wkk",
+    "name": "Kazakh Wikipedia",
+    "url": "https://kk.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wkm",
+    "name": "Wikipedia Mobile",
+    "url": "https://en.m.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wkn",
+    "name": "Kannada Wikipedia",
+    "url": "https://kn.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wla",
+    "name": "Latin Wikipedia",
+    "url": "http://la.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "bang": "wlt",
+    "name": "Vikipedija (Wikipedia LT)",
+    "url": "https://lt.wikipedia.org/w/?search={{{s}}}"
+  },
+  {
+    "bang": "wmt",
+    "name": "Maltese Wikipedia",
+    "url": "http://mt.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wmy",
+    "name": "Wikipedia Myanmar",
+    "url": "https://my.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "bang": "wnl",
+    "name": "Wikipedia (NL)",
+    "url": "https://nl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "woodmac",
+    "name": "Wood Mackenzie",
+    "url": "https://www.woodmac.com/store/search/?q={{{s}}}"
+  },
+  {
+    "bang": "worldcatm",
+    "name": "WorldCat Mobile Web",
+    "url": "http://worldcatmobile.org/?q={{{s}}}"
+  },
+  {
+    "bang": "wpdev",
+    "name": "WordPress Code Reference",
+    "url": "https://developer.wordpress.org/?s={{{s}}}"
+  },
+  {
+    "bang": "wqes",
+    "name": "Wikiquote Espa\u00f1ol",
+    "url": "https://es.wikiquote.org/w/?search={{{s}}}"
+  },
+  {
+    "bang": "wqpl",
+    "name": "Wikiquote Polish",
+    "url": "https://pl.wikiquote.org/w/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejd\u017a"
+  },
+  {
+    "bang": "wq",
+    "name": "WikiQuote",
+    "url": "https://en.wikiquote.org/w/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "wrs",
+    "name": "WordReference English-Spanish",
+    "url": "http://www.wordreference.com/es/translation.asp?tranword={{{s}}}"
+  },
+  {
+    "bang": "w.ru",
+    "name": "Russian Wikipedia",
+    "url": "https://ru.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wsde",
+    "name": "Wikisource Deutsch",
+    "url": "https://de.wikisource.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wse",
+    "name": "Wikipedia \u2013 Friddje diehtos\u00e1tnegirji",
+    "url": "http://se.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wsfr",
+    "name": "Wikisource (FR)",
+    "url": "https://fr.wikisource.org/w/index.php?search={{{s}}}&title=Sp%C3%A9cial%3ARecherche&go=Lire"
+  },
+  {
+    "bang": "wsimple",
+    "name": "Wikipedia (Simple English)",
+    "url": "https://simple.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wsi",
+    "name": "Slovenian Wikipedia ",
+    "url": "https://sl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "wszh",
+    "name": "Wikisource (ZH)",
+    "url": "https://zh.wikisource.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wtr",
+    "name": "Vikipedi (Turkish Wikipedia)",
+    "url": "https://tr.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "wtt",
+    "name": "Wikipedia Tatar",
+    "url": "https://tt.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "bang": "wwde",
+    "name": "Wikiwand in Deutsch",
+    "url": "https://www.wikiwand.com/de/{{{s}}}"
+  },
+  {
+    "bang": "wwen",
+    "name": "Wikiwand in english",
+    "url": "http://www.wikiwand.com/en/{{{s}}}"
+  },
+  {
+    "bang": "wwes",
+    "name": "WikiWand en Espa\u00f1ol",
+    "url": "http://www.wikiwand.com/es/{{{s}}}"
+  },
+  {
+    "bang": "wwf",
+    "name": "WWF",
+    "url": "https://www.worldwildlife.org/search?cx=003443374396369277624%3Av3nraqhmeyk&ie=UTF-8&x={{{s}}}&sa="
+  },
+  {
+    "bang": "wwnl",
+    "name": "WikiWand in Dutch",
+    "url": "http://www.wikiwand.com/nl/{{{s}}}"
+  },
+  {
+    "bang": "ww",
+    "name": "Wikiwand",
+    "url": "https://www.wikiwand.com/en/{{{s}}}"
+  },
+  {
+    "bang": "www",
+    "name": "PublicWWW",
+    "url": "https://publicwww.com/websites/{{{s}}}"
+  },
+  {
+    "bang": "xfe",
+    "name": "IBM X-Force Exchange",
+    "url": "https://exchange.xforce.ibmcloud.com/search/{{{s}}}"
+  },
+  {
+    "bang": "xt",
+    "name": "xTuple",
+    "url": "https://xtupleuniversity.xtuple.com/search/node/{{{s}}}"
+  },
+  {
+    "bang": "yahoojdic",
+    "name": "Yahoo Search Japan",
+    "url": "http://dic.search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "bang": "yth",
+    "name": "Youtube History",
+    "url": "https://www.youtube.com/feed/history?query={{{s}}}"
+  },
+  {
+    "bang": "zanran",
+    "name": "Zanran",
+    "url": "http://www.zanran.com/q/?search={{{s}}}"
+  }
+]

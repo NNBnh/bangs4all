@@ -1,0 +1,562 @@
+[
+  {
+    "bang": "abn",
+    "name": "ABN Lookup",
+    "url": "http://abr.business.gov.au/Search.aspx?SearchText={{{s}}}"
+  },
+  {
+    "bang": "abshire",
+    "name": "Aberdeenshire council",
+    "url": "http://aberdeenshire.gov.uk/search?search={{{s}}}"
+  },
+  {
+    "bang": "accc",
+    "name": "Australian Competition and Consumer Commission",
+    "url": "https://www.accc.gov.au/site-search/{{{s}}}"
+  },
+  {
+    "bang": "afpubs",
+    "name": "U.S. Air Force Forms and Publications",
+    "url": "http://www.e-publishing.af.mil/index.asp?txtSearchWord={{{s}}}&rdoFormPub=rdoPub"
+  },
+  {
+    "bang": "agricola",
+    "name": "AGRICOLA",
+    "url": "https://agricola.nal.usda.gov/vwebv/search?searchArg={{{s}}}&searchCode=GKEY%5E&setLimit=1&recCount=10&searchType=1&page.search.search.button=Search"
+  },
+  {
+    "bang": "alberta",
+    "name": "Government of Alberta",
+    "url": "https://www.alberta.ca/search-results.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "anarchistlib",
+    "name": "The Anarchist Library",
+    "url": "http://theanarchistlibrary.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "ausgov",
+    "name": "australia.gov.au",
+    "url": "http://australia.gov.au/search?collection=gov_all&coverage=all&num_ranks=3&extra_all_num_ranks=3&form=simple&query={{{s}}}"
+  },
+  {
+    "bang": "ballot",
+    "name": "ballotpedia.org",
+    "url": "https://ballotpedia.org/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "bcspca",
+    "name": "BC SPCA",
+    "url": "http://www.spca.bc.ca/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "bivol",
+    "name": "bivol.bg",
+    "url": "https://search.bivol.bg/?q={{{s}}}#results"
+  },
+  {
+    "bang": "bpb",
+    "name": "Bundeszentrale f\u00fcr politische Bildung",
+    "url": "http://www.bpb.de/suche/?suchwort={{{s}}}&suchen=Suchen"
+  },
+  {
+    "bang": "businessgovau",
+    "name": "Business.gov.au",
+    "url": "https://www.business.gov.au/search?q={{{s}}}"
+  },
+  {
+    "bang": "buycott",
+    "name": "Buycott",
+    "url": "http://www.buycott.com/search/all?query={{{s}}}"
+  },
+  {
+    "bang": "cabq",
+    "name": "City of Albuquerque",
+    "url": "http://www.cabq.gov/searchresults?q={{{s}}}"
+  },
+  {
+    "bang": "cgp",
+    "name": "Catalog of Government Publications",
+    "url": "http://catalog.gpo.gov/F?func=find-b&find_code=WRD&request={{{s}}}"
+  },
+  {
+    "bang": "ch",
+    "name": "Chequeado",
+    "url": "http://chequeado.com/?s={{{s}}}"
+  },
+  {
+    "bang": "chichester",
+    "name": "Chichester District Council",
+    "url": "http://www.chichester.gov.uk/article/23353/Search?q={{{s}}}"
+  },
+  {
+    "bang": "confranks",
+    "name": "Conference Ranks",
+    "url": "http://www.conferenceranks.com/?searchall={{{s}}}"
+  },
+  {
+    "bang": "congress",
+    "name": "Congress",
+    "url": "https://www.congress.gov/search?q={%22source%22%3A%22legislation%22%2C%22search%22%3A%22{{{s}}}%22}"
+  },
+  {
+    "bang": "d66",
+    "name": "D66",
+    "url": "https://d66.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "dailymed",
+    "name": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query={{{s}}}"
+  },
+  {
+    "bang": "datagouv",
+    "name": "DataGouv",
+    "url": "https://www.data.gouv.fr/fr/search/?q={{{s}}}"
+  },
+  {
+    "bang": "datagovau",
+    "name": "Australia Government Datasets",
+    "url": "http://data.gov.au/dataset?q={{{s}}}"
+  },
+  {
+    "bang": "datagov",
+    "name": "Data.Gov",
+    "url": "http://catalog.data.gov/dataset?q={{{s}}}&sort=score+desc%2C+name+asc"
+  },
+  {
+    "bang": "datavicgov",
+    "name": "Victorian Government Datasets",
+    "url": "https://www.data.vic.gov.au/data/dataset?q={{{s}}}"
+  },
+  {
+    "bang": "dtg",
+    "name": "data.gouv.fr",
+    "url": "https://www.data.gouv.fr/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ecolo",
+    "name": "ECOLO",
+    "url": "http://www.ecolo.be/spip.php?recherche={{{s}}}&page=recherche"
+  },
+  {
+    "bang": "edgar",
+    "name": "EDGAR",
+    "url": "http://www.sec.gov/cgi-bin/browse-edgar?company={{{s}}}&CIK=&filenum=&State=&SIC=&owner=include&action=getcompany"
+  },
+  {
+    "bang": "edgart",
+    "name": "Edgar",
+    "url": "http://www.sec.gov/cgi-bin/browse-edgar?company=&match=&CIK={{{s}}}&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany"
+  },
+  {
+    "bang": "ema",
+    "name": "European Medicines Agency",
+    "url": "http://www.ema.europa.eu/ema/index.jsp?curl=pages%2Fincludes%2Fmedicines%2Fmedicines_landing_page.jsp&searchkwByEnter=true&quickSearch={{{s}}}"
+  },
+  {
+    "bang": "energystar",
+    "name": "Energy Star",
+    "url": "http://essearch.energystar.gov/search?query={{{s}}}&affiliate=www.energystar.gov"
+  },
+  {
+    "bang": "entrez",
+    "name": "Entrez",
+    "url": "http://www.ncbi.nlm.nih.gov/sites/gquery?term={{{s}}}"
+  },
+  {
+    "bang": "epa",
+    "name": "US Environmental Protection Agency",
+    "url": "http://nlquery.epa.gov/epasearch/epasearch?querytext={{{s}}}&fld=&areaname=&typeofsearch=epa&areacontacts=http%3A%2F%2Fwww.epa.gov%2Fepahome%2Fcomments.htm&areasearchurl=&result_template=epafiles_default.xsl&filter=sample4filt.hts&x=0&y=0"
+  },
+  {
+    "bang": "eporeg",
+    "name": "European Patent Register",
+    "url": "https://register.epo.org/smartSearch?searchMode=smart&query={{{s}}}"
+  },
+  {
+    "bang": "eric",
+    "name": "Education Resources Information Center",
+    "url": "https://eric.ed.gov/?q={{{s}}}"
+  },
+  {
+    "bang": "espacenet",
+    "name": "Espacenet",
+    "url": "https://worldwide.espacenet.com/searchResults?ST=singleline&query={{{s}}}&Submit=Search"
+  },
+  {
+    "bang": "fda",
+    "name": "FDA",
+    "url": "https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=fda&query={{{s}}}&commit=Search"
+  },
+  {
+    "bang": "fedreg",
+    "name": "Federal Register",
+    "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D={{{s}}}"
+  },
+  {
+    "bang": "fee",
+    "name": "Foundation for Economic Education (FEE)",
+    "url": "https://fee.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "flis",
+    "name": "Military Part Lookup",
+    "url": "http://www.webflis.us//webflis.aspx?All={{{s}}}"
+  },
+  {
+    "bang": "gcba",
+    "name": "Gobierno de la Ciudad de Buenos Aires",
+    "url": "http://www.buenosaires.gob.ar/bweb/search?keys={{{s}}}"
+  },
+  {
+    "bang": "govimages",
+    "name": "US Government Image Search",
+    "url": "https://search.usa.gov/search/images?affiliate=usagov&query={{{s}}}"
+  },
+  {
+    "bang": "govtrack",
+    "name": "govtrack.us",
+    "url": "http://www.govtrack.us/search?q={{{s}}}"
+  },
+  {
+    "bang": "gov.uk",
+    "name": "GOV.UK",
+    "url": "https://www.gov.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "govuk",
+    "name": "GOV.UK",
+    "url": "https://www.gov.uk/search?q= {{{s}}}"
+  },
+  {
+    "bang": "gov",
+    "name": "US Government Search",
+    "url": "https://search.usa.gov/search?affiliate=usagov&query={{{s}}}"
+  },
+  {
+    "bang": "hansard",
+    "name": "Hansard (UK Parliament)",
+    "url": "https://hansard.parliament.uk/search?searchTerm={{{s}}}"
+  },
+  {
+    "bang": "heritage",
+    "name": "Heritage Foundation",
+    "url": "https://www.heritage.org/search?contains={{{s}}}"
+  },
+  {
+    "bang": "ibge",
+    "name": "IBGE",
+    "url": "https://www.ibge.gov.br/busca.html?searchword={{{s}}}&searchphrase=all"
+  },
+  {
+    "bang": "irs",
+    "name": "IRS",
+    "url": "http://search.irs.gov/search?q={{{s}}}&proxystylesheet=irs_portals_frontend"
+  },
+  {
+    "bang": "joinup",
+    "name": "Joinup",
+    "url": "https://joinup.ec.europa.eu/search?keys={{{s}}}"
+  },
+  {
+    "bang": "jpl",
+    "name": "NASA Jet Propulsion Laboratory",
+    "url": "https://www.jpl.nasa.gov/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "kerjasama",
+    "name": "Bagian Kerjasama Kota Bandung",
+    "url": "http://kerjasama.bandung.go.id/?s={{{s}}}"
+  },
+  {
+    "bang": "knf",
+    "name": "Komisja Nadzoru Finansowego PL",
+    "url": "https://www.knf.gov.pl/wyniki_wyszukiwania?searchText={{{s}}}&publicationId=18&sortType=accuracy"
+  },
+  {
+    "bang": "kvk",
+    "name": "Kamer van Koophandel",
+    "url": "http://www.kvk.nl/orderstraat/bedrijf-kiezen/?q={{{s}}}"
+  },
+  {
+    "bang": "lac",
+    "name": "Library and Archives Canada Collection Search",
+    "url": "http://www.bac-lac.gc.ca/eng/collectionsearch/Pages/collectionsearch.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "laec",
+    "name": "LAEC.fr \u2013 Le programme de Jean-Luc M\u00e9lenchon en ligne \u2013 L'Avenir En Commun",
+    "url": "https://laec.fr/recherche?termes={{{s}}}"
+  },
+  {
+    "bang": "libdems",
+    "name": "Liberal Democrats (UK)",
+    "url": "http://www.libdems.org.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "lipad",
+    "name": "Linked Parliamentary Data: Canadian Hansard Dataset",
+    "url": "https://www.lipad.ca/search/?q={{{s}}}"
+  },
+  {
+    "bang": "loc",
+    "name": "Library of Congress Catalog (loc.gov)",
+    "url": "https://www.loc.gov/search/?q={{{s}}} "
+  },
+  {
+    "bang": "ls",
+    "name": "LittleSis",
+    "url": "http://littlesis.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "mises",
+    "name": "Mises Institute",
+    "url": "https://mises.org/search/site/{{{s}}}"
+  },
+  {
+    "bang": "myfl",
+    "name": "MyFlorida.com",
+    "url": "http://www.myflorida.com/search_results.html?q={{{s}}}#gsc.tab=0&gsc.q=dmv&gsc.page=1"
+  },
+  {
+    "bang": "mygovscot",
+    "name": "mygov.scot",
+    "url": "https://www.mygov.scot/search?q={{{s}}}&cat=sitesearch"
+  },
+  {
+    "bang": "nasa",
+    "name": "NASA",
+    "url": "https://nasasearch.nasa.gov/search?query={{{s}}}&affiliate=nasa&utf8=%E2%9C%93"
+  },
+  {
+    "bang": "niif",
+    "name": "NIIF Institute",
+    "url": "http://www.niif.hu/search/node/{{{s}}}"
+  },
+  {
+    "bang": "nmlegis",
+    "name": "New Mexico Legislature",
+    "url": "https://nmlegis.gov/?q={{{s}}}"
+  },
+  {
+    "bang": "nnumber",
+    "name": "FAA Aircraft Registry",
+    "url": "http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt={{{s}}}"
+  },
+  {
+    "bang": "nosdeputes",
+    "name": "NosD\u00e9put\u00e9s.Fr",
+    "url": "https://www.nosdeputes.fr/recherche/{{{s}}}"
+  },
+  {
+    "bang": "npat",
+    "name": "Nationalparks Austria Datenzentrum ",
+    "url": "http://www.parcs.at/npa/mmd_data_by.php?q={{{s}}}&btnG=Suche+starten&searchval=30000"
+  },
+  {
+    "bang": "nswgov",
+    "name": "New South Wales Government",
+    "url": "https://www.nsw.gov.au/search-google/?Search={{{s}}}"
+  },
+  {
+    "bang": "ntrs",
+    "name": "Nasa technical reports server",
+    "url": "https://ntrs.nasa.gov/?Ntt={{{s}}}&Ntx=mode matchallpartial&Nm=123|Collection|NASA STI||17|Collection|NACA"
+  },
+  {
+    "bang": "odeu",
+    "name": "European Open Data Portal",
+    "url": "https://data.europa.eu/euodp/en/data/dataset?q={{{s}}}"
+  },
+  {
+    "bang": "ons",
+    "name": "Office for National Statistics",
+    "url": "https://www.ons.gov.uk/search?q={{{s}}}"
+  },
+  {
+    "bang": "openparl",
+    "name": "openparliament.ca",
+    "url": "https://openparliament.ca/search/?q={{{s}}}"
+  },
+  {
+    "bang": "opensecrets",
+    "name": "OpenSecrets.org",
+    "url": "http://www.opensecrets.org/usearch/?q={{{s}}}"
+  },
+  {
+    "bang": "openthebox",
+    "name": "Openthebox",
+    "url": "https://openthebox.be/search?q={{{s}}}&v=t"
+  },
+  {
+    "bang": "or",
+    "name": "Obchodn\u00ed rejst\u0159\u00edk \u2013 Ministerstvo spravedlnosti \u010cesk\u00e9 republiky",
+    "url": "https://or.justice.cz/ias/ui/rejstrik-$firma?jenPlatne=PLATNE&nazev={{{s}}}&polozek=50&typHledani=STARTS_WITH"
+  },
+  {
+    "bang": "oslo",
+    "name": "Oslo kommune",
+    "url": "https://www.oslo.kommune.no/sokeresultater/?q={{{s}}}"
+  },
+  {
+    "bang": "ott",
+    "name": "ottawa.ca",
+    "url": "https://ottawa.ca/en/search?searchfield={{{s}}}"
+  },
+  {
+    "bang": "patft",
+    "name": "US Patent Database Search",
+    "url": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&OS=&RS=%22{{{s}}}%22&Query=%22{{{s}}}%22&TD=&Srch1=%22{{{s}}}%22&NextList1=xxx"
+  },
+  {
+    "bang": "pcoo",
+    "name": "Presidential Communications Operations Office",
+    "url": "https://pcoo.gov.ph/?s={{{s}}}"
+  },
+  {
+    "bang": "pgri",
+    "name": "pgri",
+    "url": "http://www.pgri.or.id/?s={{{s}}}"
+  },
+  {
+    "bang": "piratenwiki",
+    "name": "Wiki der Piratenpartei Deutschland",
+    "url": "https://wiki.piratenpartei.de/Spezial:Suche?search={{{s}}}&fulltext=Suchen"
+  },
+  {
+    "bang": "puid",
+    "name": "PRONOM technical registry (The National Archives)",
+    "url": "http://nationalarchives.gov.uk/PRONOM/{{{s}}}"
+  },
+  {
+    "bang": "riksdagen",
+    "name": "Riksdagen.se",
+    "url": "https://www.riksdagen.se/sv/global/sok/?q={{{s}}}&st=1"
+  },
+  {
+    "bang": "sba",
+    "name": "SBA",
+    "url": "https://www.sba.gov/search/?q={{{s}}}"
+  },
+  {
+    "bang": "scben",
+    "name": "Statistics Sweden",
+    "url": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query={{{s}}}"
+  },
+  {
+    "bang": "scb",
+    "name": "Statistiska centralbyr\u00e5n",
+    "url": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query={{{s}}}"
+  },
+  {
+    "bang": "sec",
+    "name": "SEC.gov",
+    "url": "https://secsearch.sec.gov/search?utf8=%3F&affiliate=secsearch&query={{{s}}}"
+  },
+  {
+    "bang": "servicepublic",
+    "name": "service-public.fr",
+    "url": "https://www.service-public.fr/particuliers/recherche?keyword={{{s}}}"
+  },
+  {
+    "bang": "sourcewatch",
+    "name": "SourceWatch",
+    "url": "http://www.sourcewatch.org/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "sra",
+    "name": "SRA",
+    "url": "http://www.ncbi.nlm.nih.gov/sra/?term={{{s}}}"
+  },
+  {
+    "bang": "stf",
+    "name": "Supremo Tribunal Federal",
+    "url": "http://portal.stf.jus.br/processos/listarProcessos.asp?classe=&numeroProcesso={{{s}}}"
+  },
+  {
+    "bang": "sumc",
+    "name": "Shared-Use Mobility Center (SUMC) Mobility on Demand Learning Center",
+    "url": "https://learn.sharedusemobilitycenter.org/search/?keyword={{{s}}}"
+  },
+  {
+    "bang": "tga",
+    "name": "Theraputic Goods Administration",
+    "url": "https://search.tga.gov.au/s/search.html?collection=tga-websites-web&query={{{s}}}&op=Search"
+  },
+  {
+    "bang": "theyworkforyou",
+    "name": "TheyWorkForYou",
+    "url": "http://www.theyworkforyou.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "tna",
+    "name": "The National Archives Discovery",
+    "url": "http://discovery.nationalarchives.gov.uk/results/r?_q={{{s}}}"
+  },
+  {
+    "bang": "twfy",
+    "name": "TheyWorkForYou",
+    "url": "http://www.theyworkforyou.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ukgovpeti",
+    "name": "Petitions UK Government and Parliament",
+    "url": "https://petition.parliament.uk/petitions?q={{{s}}}"
+  },
+  {
+    "bang": "ukparl",
+    "name": "UK Parliament (Official Site)",
+    "url": "http://www.parliament.uk/search/results/?q={{{s}}}"
+  },
+  {
+    "bang": "ukp",
+    "name": "UK Parliament",
+    "url": "http://www.parliament.uk/search/results/?q={{{s}}}"
+  },
+  {
+    "bang": "usaspending",
+    "name": "usaspending.gov",
+    "url": "http://www.usaspending.gov/search?form_fields=%7B%22search_term%22%3A%22{{{s}}}%22%7D"
+  },
+  {
+    "bang": "usa",
+    "name": "USA.gov",
+    "url": "https://search.usa.gov/search?utf8=\u2713&affiliate=usagov&query={{{s}}}"
+  },
+  {
+    "bang": "usmint",
+    "name": "The United States Mint",
+    "url": "http://search.usmint.gov/search?affiliate=usmint.gov&formFocused=0&query={{{s}}}"
+  },
+  {
+    "bang": "utleg",
+    "name": "Utah State Legislature",
+    "url": "http://le.utah.gov/solrsearch.jsp?request={{{s}}}"
+  },
+  {
+    "bang": "vicgovau",
+    "name": "Victorian Government",
+    "url": "https://www.vic.gov.au/search?q={{{s}}}"
+  },
+  {
+    "bang": "vicgov",
+    "name": "Victorian Government",
+    "url": "https://www.vic.gov.au/search?q={{{s}}}"
+  },
+  {
+    "bang": "voterly",
+    "name": "Voterly",
+    "url": "https://voterly.com/search/politicians?q={{{s}}}"
+  },
+  {
+    "bang": "wdtk",
+    "name": "What Do They Know",
+    "url": "https://www.whatdotheyknow.com/search/{{{s}}}/all"
+  },
+  {
+    "bang": "wl",
+    "name": "WikiLeaks",
+    "url": "https://search.wikileaks.org/?q={{{s}}}"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "bang": "89.9",
+    "name": "89.9 LightFM",
+    "url": "https://www.lightfm.com.au/?s={{{s}}}"
+  },
+  {
+    "bang": "at40",
+    "name": "American Top 40",
+    "url": "http://www.at40.com/?q={{{s}}}"
+  },
+  {
+    "bang": "fculture",
+    "name": "France Culture",
+    "url": "https://www.franceculture.fr/recherche?q={{{s}}}"
+  },
+  {
+    "bang": "fip",
+    "name": "Fip Radio",
+    "url": "https://www.fip.fr/player/{{{s}}}"
+  },
+  {
+    "bang": "fm4",
+    "name": "http://fm4.orf.at",
+    "url": "http://fm4.orf.at/search?q={{{s}}}&sort=date_desc&submit.x=0&submit.y=0"
+  },
+  {
+    "bang": "frisky",
+    "name": "FRISKY Radio",
+    "url": "https://www.friskyradio.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "iplayerradio",
+    "name": "BBC iPlayer Radio",
+    "url": "http://www.bbc.co.uk/radio/programmes/a-z/by/{{{s}}}/player"
+  },
+  {
+    "bang": "l365",
+    "name": "Live365",
+    "url": "http://www.live365.com/cgi-bin/directory.cgi?searchdesc={{{s}}}"
+  },
+  {
+    "bang": "lightfm",
+    "name": "LightFM",
+    "url": "https://www.lightfm.com.au/?s={{{s}}}"
+  },
+  {
+    "bang": "nrkr",
+    "name": "NRK Radio",
+    "url": "http://radio.nrk.no/sok?q={{{s}}}"
+  },
+  {
+    "bang": "nts",
+    "name": "NTS",
+    "url": "https://www.nts.live/find?q={{{s}}}&type=all"
+  },
+  {
+    "bang": "pandora",
+    "name": "Pandora",
+    "url": "https://www.pandora.com/search/{{{s}}}/all"
+  },
+  {
+    "bang": "pndr",
+    "name": "Pandora",
+    "url": "https://www.pandora.com/search/{{{s}}}"
+  },
+  {
+    "bang": "rcf",
+    "name": "RCF, Radio Chr\u00e9tienne Francophone",
+    "url": "https://rcf.fr/rechercher/{{{s}}}"
+  },
+  {
+    "bang": "rfs",
+    "name": "Radio Free Satan",
+    "url": "http://www.radiofreesatan.com/?s={{{s}}}&submit=Submit"
+  },
+  {
+    "bang": "ti",
+    "name": "TuneIn Radio",
+    "url": "http://tunein.com/search/?query={{{s}}}"
+  },
+  {
+    "bang": "ultimate-guitar",
+    "name": "Ultimate Guitar",
+    "url": "http://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "bang": "z100",
+    "name": "Z100",
+    "url": "http://www.z100.com/main.html/?q={{{s}}}"
+  }
+]

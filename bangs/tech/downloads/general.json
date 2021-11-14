@@ -1,0 +1,252 @@
+[
+  {
+    "bang": "360app",
+    "name": "360androidapp",
+    "url": "https://www.360androidapp.com/{{{s}}}"
+  },
+  {
+    "bang": "a2",
+    "name": "AlternativeTo.net",
+    "url": "http://alternativeto.net/browse/search/?q={{{s}}}&ignoreExactMatch=true"
+  },
+  {
+    "bang": "advgta",
+    "name": "Advanced GTA",
+    "url": "https://advancedgta.com/?s={{{s}}}"
+  },
+  {
+    "bang": "afh",
+    "name": "Android File Host",
+    "url": "https://androidfilehost.com/?w=search&s={{{s}}}"
+  },
+  {
+    "bang": "aminet",
+    "name": "Aminet",
+    "url": "http://aminet.net/search?query={{{s}}}"
+  },
+  {
+    "bang": "appbrain",
+    "name": "AppBrain",
+    "url": "http://www.appbrain.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "appnr",
+    "name": "appnr",
+    "url": "http://appnr.com/search/{{{s}}}"
+  },
+  {
+    "bang": "appshopper",
+    "name": "Appshopper",
+    "url": "http://appshopper.com/search/?search={{{s}}}"
+  },
+  {
+    "bang": "cad",
+    "name": "CADdetails",
+    "url": "https://www.caddetails.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "c",
+    "name": "CNET",
+    "url": "http://www.cnet.com/1770-5_1-0.html?query={{{s}}}"
+  },
+  {
+    "bang": "ce",
+    "name": "Cheat Engine Forums",
+    "url": "http://forum.cheatengine.org/search.php?q={{{s}}}"
+  },
+  {
+    "bang": "conda",
+    "name": "https://anaconda.org",
+    "url": "https://anaconda.org/search?q={{{s}}}"
+  },
+  {
+    "bang": "fhub",
+    "name": "FossHub",
+    "url": "https://www.fosshub.com/search/{{{s}}}"
+  },
+  {
+    "bang": "filefacts",
+    "name": "Filefacts",
+    "url": "http://www.filefacts.net/search.php?ext={{{s}}}"
+  },
+  {
+    "bang": "fnd",
+    "name": "fnd",
+    "url": "https://fnd.io/#/us/search?mediaType=all&term={{{s}}}"
+  },
+  {
+    "bang": "fontsq",
+    "name": "Fontsquirrel ",
+    "url": "http://www.fontsquirrel.com/fonts/list/find_fonts?q[term]={{{s}}}&q[search_check]=Y"
+  },
+  {
+    "bang": "fosshub",
+    "name": "FossHub",
+    "url": "https://www.fosshub.com/search/{{{s}}}"
+  },
+  {
+    "bang": "free-theme-download",
+    "name": "free-theme-download.com",
+    "url": "https://free-theme-download.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "ftu",
+    "name": "FreeTutorials.Us",
+    "url": "https://www.freetutorials.us/?s={{{s}}}"
+  },
+  {
+    "bang": "geonorge",
+    "name": "GeoNorge",
+    "url": "https://kartkatalog.geonorge.no/search?text={{{s}}}"
+  },
+  {
+    "bang": "hpsupport",
+    "name": "HP Support",
+    "url": "http://www.support.hp.com/us-en/search?q={{{s}}}&filter="
+  },
+  {
+    "bang": "kokothemes",
+    "name": "KOKOThemes",
+    "url": "https://www.kokothemes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "kubadownload",
+    "name": "KubaDownload",
+    "url": "https://kubadownload.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "lcc",
+    "name": "Let\u2019s CC",
+    "url": "http://eng.letscc.net/?t=all&k={{{s}}}"
+  },
+  {
+    "bang": "linuxtracker",
+    "name": "Linux Tracker",
+    "url": "http://linuxtracker.org/index.php?page=torrents&search={{{s}}}"
+  },
+  {
+    "bang": "magiskmod",
+    "name": "Magisk modules repo",
+    "url": "https://github.com/Magisk-Modules-Repo?&q={{{s}}}"
+  },
+  {
+    "bang": "nativeinstruments",
+    "name": "Native Instruments User Library",
+    "url": "https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/all/all/all/all/{{{s}}}/latest/1/all/?q={{{s}}}&t=userlib"
+  },
+  {
+    "bang": "nirsoft",
+    "name": "Nirsoft",
+    "url": "http://www.nirsoft.net/search_freeware_result_new.html?cx=partner-pub-5286073190998405%3A5399172980&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=nirsoft.net%2F&ref=google.com%2F"
+  },
+  {
+    "bang": "nixpkg",
+    "name": "NixOS Packages",
+    "url": "https://nixos.org/nixos/packages.html?query={{{s}}}"
+  },
+  {
+    "bang": "nounproject",
+    "name": "The Noun Project",
+    "url": "http://thenounproject.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "offliberty",
+    "name": "Offliberty",
+    "url": "http://offliberty.com/#{{{s}}}"
+  },
+  {
+    "bang": "oldapps",
+    "name": "OldApps.com",
+    "url": "http://www.oldapps.com/betasearch.php?cx=007779823686351122034%3Ai7o_lb6edjm&cof=FORID%3A9&ie=UTF-8&q={{{s}}}&siteurl="
+  },
+  {
+    "bang": "prusa",
+    "name": "Prusa Printers",
+    "url": "https://www.prusaprinters.org/search/all?q={{{s}}}"
+  },
+  {
+    "bang": "reaktor",
+    "name": "Native Instruments User Library",
+    "url": "https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/all/all/all/all/{{{s}}}/latest/1/all/?q={{{s}}}&t=userlib"
+  },
+  {
+    "bang": "rm",
+    "name": "Gurusfirmware",
+    "url": "http://www.gurusrom.net/search/term={{{s}}}"
+  },
+  {
+    "bang": "siri",
+    "name": "Should I remove It?",
+    "url": "http://www.shouldiremoveit.com/programs.aspx?q={{{s}}}"
+  },
+  {
+    "bang": "taringa",
+    "name": "Taringa!",
+    "url": "http://www.taringa.net/buscar/?q={{{s}}}&"
+  },
+  {
+    "bang": "tema18",
+    "name": "Tema18 blog",
+    "url": "https://tema18.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ter",
+    "name": "TYPO3 Extension repository",
+    "url": "https://extensions.typo3.org/?L=0&id=1&tx_solr[q]={{{s}}}"
+  },
+  {
+    "bang": "tf3d",
+    "name": "Free3d",
+    "url": "https://free3d.com/3d-models/{{{s}}}"
+  },
+  {
+    "bang": "thingy",
+    "name": "Thingiverse",
+    "url": "https://www.thingiverse.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "tlib",
+    "name": "ToolsLib",
+    "url": "https://toolslib.net/search/projects/?q={{{s}}}"
+  },
+  {
+    "bang": "toolslib",
+    "name": "ToolsLib",
+    "url": "https://toolslib.net/search/projects/?q={{{s}}}"
+  },
+  {
+    "bang": "ts",
+    "name": "TurboSquid",
+    "url": "http://www.turbosquid.com/Search/Index.cfm?keyword={{{s}}}"
+  },
+  {
+    "bang": "userstyles",
+    "name": "Userstyles",
+    "url": "http://userstyles.org/styles/browse/all/{{{s}}}"
+  },
+  {
+    "bang": "vagrant",
+    "name": "Vagrant Cloud",
+    "url": "https://app.vagrantup.com/boxes/search?q={{{s}}}"
+  },
+  {
+    "bang": "vst4free",
+    "name": "VST 4 FREE",
+    "url": "http://www.vst4free.com/index.php?s_keywords={{{s}}}&s_name=1&s_kind=1&s_sent2=1&Submit=Search"
+  },
+  {
+    "bang": "vulnhub",
+    "name": "Vulnhub",
+    "url": "https://www.vulnhub.com/?q={{{s}}}&sort=date-asc&type=vm"
+  },
+  {
+    "bang": "wpp",
+    "name": "WordPress Plugin Directory",
+    "url": "https://wordpress.org/plugins/search/{{{s}}}"
+  },
+  {
+    "bang": "yarn",
+    "name": "Yarn",
+    "url": "https://yarnpkg.com/en/packages?q={{{s}}}"
+  }
+]

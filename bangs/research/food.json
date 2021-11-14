@@ -1,0 +1,622 @@
+[
+  {
+    "bang": "11870",
+    "name": "11870",
+    "url": "http://11870.com/konsulto?q={{{s}}}"
+  },
+  {
+    "bang": "52",
+    "name": "Food52",
+    "url": "http://food52.com/recipes/search?q={{{s}}}"
+  },
+  {
+    "bang": "750g",
+    "name": "750g",
+    "url": "https://www.750g.com/recherche.htm?search={{{s}}}"
+  },
+  {
+    "bang": "allerhande",
+    "name": "Allerhande",
+    "url": "https://www.ah.nl/allerhande/recepten-zoeken?Ntt={{{s}}}"
+  },
+  {
+    "bang": "allrecipes",
+    "name": "Allrecipes",
+    "url": "http://allrecipes.com/search/results/?wt={{{s}}}"
+  },
+  {
+    "bang": "americastestkitchen",
+    "name": "AmericasTestKitchen",
+    "url": "http://americastestkitchen.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ar",
+    "name": "all recipes",
+    "url": "http://allrecipes.com/search/default.aspx?qt=k&wt={{{s}}}&rt=r&origin=Recipe%20Search%20Results"
+  },
+  {
+    "bang": "astray",
+    "name": "Astray Recipes",
+    "url": "http://www.astray.com/recipes/?search={{{s}}}"
+  },
+  {
+    "bang": "atk",
+    "name": "America's Test Kitchen",
+    "url": "https://www.americastestkitchen.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "atlaspiv",
+    "name": "Atlas piv",
+    "url": "http://www.atlaspiv.cz/?beername={{{s}}} "
+  },
+  {
+    "bang": "barnivore",
+    "name": "Barnivore",
+    "url": "http://www.barnivore.com/search?keyword={{{s}}}"
+  },
+  {
+    "bang": "bartender",
+    "name": "Webtender",
+    "url": "http://www.webtender.com/cgi-bin/search?name={{{s}}}&show=15&verbose=on"
+  },
+  {
+    "bang": "bbcgf",
+    "name": "BBC Good Food",
+    "url": "http://www.bbcgoodfood.com/search/recipes?query={{{s}}}"
+  },
+  {
+    "bang": "bbqpb",
+    "name": "BBQ Pit Boys",
+    "url": "https://bbqpitboys.com/?s={{{s}}}&post_type=post"
+  },
+  {
+    "bang": "beeradvocate",
+    "name": "BeerAdvocate",
+    "url": "https://www.beeradvocate.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "bevvy",
+    "name": "Bevvy",
+    "url": "https://bevvy.co/search?q={{{s}}}"
+  },
+  {
+    "bang": "bigoven",
+    "name": "BigOven",
+    "url": "http://www.bigoven.com/recipes/{{{s}}}/best"
+  },
+  {
+    "bang": "budgetbytes",
+    "name": "Budget Bytes",
+    "url": "http://www.budgetbytes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "cals",
+    "name": "Calorie Count",
+    "url": "https://www.caloriecount.com/search/foods?searchpro={{{s}}}"
+  },
+  {
+    "bang": "carbs",
+    "name": "Calorie King",
+    "url": "http://www.calorieking.com.au/foods/search.php?keywords={{{s}}}&showresults=yes&go=Search"
+  },
+  {
+    "bang": "ccook",
+    "name": "CyberCook",
+    "url": "http://www.cybercook.com.br/receitas/{{{s}}}"
+  },
+  {
+    "bang": "cheese",
+    "name": "Cheese",
+    "url": "http://www.cheese.com/?q={{{s}}}"
+  },
+  {
+    "bang": "chefkochvegan",
+    "name": "Chefkoch.de Vegan",
+    "url": "http://www.chefkoch.de/rs/s0t57/{{{s}}}/Vegan-Rezepte.html"
+  },
+  {
+    "bang": "chow",
+    "name": "Chowhound",
+    "url": "http://www.chow.com/search?type=Topic&from_date=1+year+ago&query={{{s}}}"
+  },
+  {
+    "bang": "ck",
+    "name": "Chefkoch.de",
+    "url": "http://www.chefkoch.de/rs/scr/s0/{{{s}}}/Rezepte.html"
+  },
+  {
+    "bang": "cktl",
+    "name": "1001cocktails",
+    "url": "http://www.1001cocktails.com/cocktails/rechercheCocktailsNom.php?mot={{{s}}}"
+  },
+  {
+    "bang": "cook",
+    "name": "Cooks.com",
+    "url": "http://www.cooks.com/?/q={{{s}}}"
+  },
+  {
+    "bang": "cooking",
+    "name": "NYT Cooking",
+    "url": "https://cooking.nytimes.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cookpad",
+    "name": "Cookpad",
+    "url": "http://cookpad.com/search/{{{s}}}"
+  },
+  {
+    "bang": "cooksc",
+    "name": "Cook's Country",
+    "url": "http://www.cookscountry.com/search/?type=&q={{{s}}}"
+  },
+  {
+    "bang": "cooks",
+    "name": "Cooks.com",
+    "url": "http://www.cooks.com/rec/search?q={{{s}}}"
+  },
+  {
+    "bang": "cooksi",
+    "name": "Cook's Illustrated",
+    "url": "http://www.cooksillustrated.com/search/results.asp?query={{{s}}}"
+  },
+  {
+    "bang": "crocker",
+    "name": "Betty Crocker",
+    "url": "https://www.bettycrocker.com/search?term={{{s}}} "
+  },
+  {
+    "bang": "culy",
+    "name": "Culy",
+    "url": "http://www.culy.nl/?s={{{s}}}"
+  },
+  {
+    "bang": "delectable",
+    "name": "Delectable",
+    "url": "https://delectable.com/search/{{{s}}}"
+  },
+  {
+    "bang": "dfa",
+    "name": "Dog Food Advisor",
+    "url": "https://www.dogfoodadvisor.com/?s={{{s}}}"
+  },
+  {
+    "bang": "dstr",
+    "name": "Don't Sweat The Recipe",
+    "url": "https://dontsweattherecipe.com/?s={{{s}}}"
+  },
+  {
+    "bang": "eatbydate",
+    "name": "Eat By Date",
+    "url": "http://eatbydate.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "eattender",
+    "name": "Eat Tender",
+    "url": "http://eattender.com/recipes/search?q={{{s}}}"
+  },
+  {
+    "bang": "ebd",
+    "name": "Eat By Date",
+    "url": "http://www.eatbydate.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "epicurious",
+    "name": "Epicurious",
+    "url": "http://www.epicurious.com/tools/searchresults?search={{{s}}}&x=0&y=0"
+  },
+  {
+    "bang": "etw",
+    "name": "Eat The Weeds",
+    "url": "http://www.eattheweeds.com/?s={{{s}}}"
+  },
+  {
+    "bang": "eut",
+    "name": "Essen und Trinken",
+    "url": "https://www.essen-und-trinken.de/suche#site=eut&category=Rezept&query={{{s}}}&page=1&sorting=relevance"
+  },
+  {
+    "bang": "fatsecret",
+    "name": "FatSecret",
+    "url": "https://www.fatsecret.com/calories-nutrition/search?q={{{s}}}"
+  },
+  {
+    "bang": "fddb",
+    "name": "fddb.info",
+    "url": "http://fddb.info/db/de/suche/?udd=0&cat=site-de&search={{{s}}}"
+  },
+  {
+    "bang": "fettrechner",
+    "name": "Fettrechner",
+    "url": "http://www.fettrechner.de/cgi-bin/kalorientabelle.pl?t=temsearch&sort=BEZEICHNUNG&f=*RUBRIK%2C*SUCHBEGRIFFE%2C*BEZEICHNUNG%2C*HERSTELLER&f1=HERSTELLER&start=1&dif=50&c={{{s}}}"
+  },
+  {
+    "bang": "finecooking",
+    "name": "FIne Cooking",
+    "url": "http://www.finecooking.com/?s={{{s}}}"
+  },
+  {
+    "bang": "finelien",
+    "name": "Fineli English",
+    "url": "https://fineli.fi/fineli/en/elintarvikkeet?q={{{s}}}"
+  },
+  {
+    "bang": "fineli",
+    "name": "Fineli",
+    "url": "https://fineli.fi/fineli/fi/elintarvikkeet?q={{{s}}}"
+  },
+  {
+    "bang": "finelisv",
+    "name": "Fineli Swedish",
+    "url": "https://fineli.fi/fineli/sv/elintarvikkeet?q={{{s}}}"
+  },
+  {
+    "bang": "fn",
+    "name": "foodnetwork.com",
+    "url": "https://www.foodnetwork.com/search/{{{s}}}-"
+  },
+  {
+    "bang": "fooby",
+    "name": "Fooby",
+    "url": "https://fooby.ch/de/suche.html?query={{{s}}}&treffertyp=rezepte"
+  },
+  {
+    "bang": "food",
+    "name": "Food.com",
+    "url": "http://www.food.com/recipe-finder/all/{{{s}}}"
+  },
+  {
+    "bang": "foodsubs",
+    "name": "Cook's Thesaurus",
+    "url": "http://search.freefind.com/find.html?id=81296093&pageid=r&query={{{s}}}"
+  },
+  {
+    "bang": "foody",
+    "name": "foody.vn",
+    "url": "https://www.foody.vn/ho-chi-minh/dia-diem?q={{{s}}}&ss=header_search_form"
+  },
+  {
+    "bang": "forkd",
+    "name": "Forkd",
+    "url": "http://forkd.com/recipe/search?q={{{s}}}"
+  },
+  {
+    "bang": "frida",
+    "name": "Frida fooddata.dk",
+    "url": "https://frida.fooddata.dk/food/search?lang=en&q={{{s}}}"
+  },
+  {
+    "bang": "fsarating",
+    "name": "Food Standards Agency - Food Hygiene Ratings ",
+    "url": "http://ratings.food.gov.uk/enhanced-search/en-GB/{{{s}}}/%5E/alpha/0/%5E/%5E/1/1/10"
+  },
+  {
+    "bang": "fwcj",
+    "name": "FoowWishes",
+    "url": "https://foodwishes.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "gbc",
+    "name": "Great British Chefs",
+    "url": "https://www.greatbritishchefs.com/search2#?pi=1&ps=48&st={{{s}}}&orderby="
+  },
+  {
+    "bang": "glutenfreerecipebox",
+    "name": "Carla\u2019s Gluten Free Recipe Box",
+    "url": "https://glutenfreerecipebox.com/?s={{{s}}}"
+  },
+  {
+    "bang": "gonutss",
+    "name": "gonutss.com",
+    "url": "https://www.gonutss.com/s?q={{{s}}}"
+  },
+  {
+    "bang": "goodfoodau",
+    "name": "Good Food Australia recipes",
+    "url": "https://www.goodfood.com.au/search?text={{{s}}}&type=recipe"
+  },
+  {
+    "bang": "gzric",
+    "name": "Giallo Zafferano",
+    "url": "http://www.giallozafferano.it/ricerca-ricette/{{{s}}} "
+  },
+  {
+    "bang": "happycow",
+    "name": "HappyCow",
+    "url": "https://www.happycow.net/searchmap?lat=&lng=&location={{{s}}}"
+  },
+  {
+    "bang": "hhc",
+    "name": "Hexagon Hot Chocolate",
+    "url": "https://hexagonhotchocolate.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hppid",
+    "name": "Healthy++ ID",
+    "url": "https://id.healthyplusplus.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "hrv",
+    "name": "HotelRestoVisio",
+    "url": "http://www.restovisio.com/search?sq={{{s}}}"
+  },
+  {
+    "bang": "iens",
+    "name": "IENS",
+    "url": "http://www.iens.nl/restaurant?q={{{s}}}"
+  },
+  {
+    "bang": "jamie",
+    "name": "Jamie Oliver",
+    "url": "https://www.jamieoliver.com/search/?s={{{s}}}"
+  },
+  {
+    "bang": "jocb",
+    "name": "Just One Cookbook",
+    "url": "https://www.justonecookbook.com/?s={{{s}}}"
+  },
+  {
+    "bang": "kitchenstories",
+    "name": "Kitchen Stories",
+    "url": "https://kitchenstories.io/en/search?search={{{s}}}"
+  },
+  {
+    "bang": "kochwiki",
+    "name": "Koch-Wiki",
+    "url": "https://www.kochwiki.org/w/index.php?search={{{s}}}&go=Seite"
+  },
+  {
+    "bang": "kotikokki",
+    "name": "Kotikokki",
+    "url": "https://www.kotikokki.net/reseptit/?freeText={{{s}}}"
+  },
+  {
+    "bang": "kulinarian",
+    "name": "kulinarian",
+    "url": "https://www.kulinarian.com/recipe/search?q={{{s}}}"
+  },
+  {
+    "bang": "lafourchette",
+    "name": "lafourchette",
+    "url": "https://www.lafourchette.com/search-refine/{{{s}}}"
+  },
+  {
+    "bang": "marmiton",
+    "name": "Marmiton",
+    "url": "http://www.marmiton.org/recettes/recherche.aspx?aqt={{{s}}}"
+  },
+  {
+    "bang": "mbc",
+    "name": "mybeercellar",
+    "url": "https://www.mybeercellar.com/?search={{{s}}}"
+  },
+  {
+    "bang": "menupages",
+    "name": "MenuPages",
+    "url": "http://www.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mixer",
+    "name": "DrinksMixer",
+    "url": "http://www.drinksmixer.com/search/?q={{{s}}}&d=1&p=1"
+  },
+  {
+    "bang": "mpbo",
+    "name": "MenuPages",
+    "url": "http://boston.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mpch",
+    "name": "MenuPages",
+    "url": "http://chicago.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mpdc",
+    "name": "MenuPages",
+    "url": "http://washingtondc.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mpfl",
+    "name": "MenuPages",
+    "url": "http://southflorida.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mpla",
+    "name": "MenuPages",
+    "url": "http://losangeles.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mp",
+    "name": "MenuPages",
+    "url": "http://www.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mpny",
+    "name": "MenuPages",
+    "url": "http://www.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mpph",
+    "name": "MenuPages",
+    "url": "http://philadelphia.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "mpsf",
+    "name": "MenuPages",
+    "url": "http://sanfrancisco.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines"
+  },
+  {
+    "bang": "myrec",
+    "name": "http://www.myrecipes.com",
+    "url": "http://www.myrecipes.com/search/site/{{{s}}}"
+  },
+  {
+    "bang": "nomnom",
+    "name": "Nom Nom Paleo",
+    "url": "https://nomnompaleo.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ntx",
+    "name": "Nutritionix",
+    "url": "https://www.nutritionix.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "nutridata",
+    "name": "nutritiondata",
+    "url": "http://nutritiondata.self.com/foods-{{{s}}}000000000000000000000.html"
+  },
+  {
+    "bang": "nytc",
+    "name": "New York Times Cooking",
+    "url": "http://cooking.nytimes.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "off",
+    "name": "OpenFoodFacts World",
+    "url": "http://world.openfoodfacts.org/cgi/search.pl?search_terms={{{s}}}"
+  },
+  {
+    "bang": "open",
+    "name": "Yelp Open Search",
+    "url": "http://www.yelp.com/search?find_desc=&ns=1#start=0&open_now=2510"
+  },
+  {
+    "bang": "openrice",
+    "name": "OpenRice",
+    "url": "http://www.openrice.com/zh/hongkong/restaurant/sr1.htm?tc=sr1quick&s=1&region=0&inputstrwhat={{{s}}}&inputstrwhere="
+  },
+  {
+    "bang": "paleoleap",
+    "name": "Paleo Leap",
+    "url": "http://paleoleap.com/?s={{{s}}}"
+  },
+  {
+    "bang": "paleo",
+    "name": "Paleo Hacks",
+    "url": "https://www.paleohacks.com/searches?utf8=%E2%9C%93&query={{{s}}}&commit=Search"
+  },
+  {
+    "bang": "pc",
+    "name": "President's Choice",
+    "url": "http://www.presidentschoice.ca/en_CA/search-page.query@{{{s}}}.html"
+  },
+  {
+    "bang": "pepperplate",
+    "name": "Pepperplate",
+    "url": "http://www.pepperplate.com/search/?text={{{s}}}"
+  },
+  {
+    "bang": "poycp",
+    "name": "Put on Your Cake Pants",
+    "url": "http://putonyourcakepants.com/?s={{{s}}}"
+  },
+  {
+    "bang": "ratebeer",
+    "name": "RateBeer",
+    "url": "https://www.ratebeer.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "rcfr",
+    "name": "Ricardo Cuisine",
+    "url": "https://www.ricardocuisine.com/recherche/mot-cle/{{{s}}}"
+  },
+  {
+    "bang": "recettesqc",
+    "name": "Recettes du Qu\u00e9bec",
+    "url": "https://www.recettes.qc.ca/recettes/recherche?search[query]={{{s}}}&search[sort]="
+  },
+  {
+    "bang": "recipe",
+    "name": "Allrecipes",
+    "url": "http://allrecipes.com/search/default.aspx?qt=k&wt={{{s}}}"
+  },
+  {
+    "bang": "recipes",
+    "name": "Allrecipes",
+    "url": "http://allrecipes.com/search/default.aspx?qt=k&rt=r&pqt=k&ms=0&fo=0&wt={{{s}}}"
+  },
+  {
+    "bang": "restofr",
+    "name": "RestoFR",
+    "url": "http://www.resto.fr/business/search?searchbox=true&businessTypeId=1&fullText={{{s}}}"
+  },
+  {
+    "bang": "seriouseats",
+    "name": "Serious Eats",
+    "url": "http://www.seriouseats.com/search?term={{{s}}}&site=all"
+  },
+  {
+    "bang": "simpl",
+    "name": "Simply Recipes",
+    "url": "https://www.simplyrecipes.com/?s={{{s}}}"
+  },
+  {
+    "bang": "smitten",
+    "name": "Smitten Kitchen",
+    "url": "https://smittenkitchen.com/?s={{{s}}}"
+  },
+  {
+    "bang": "smulweb",
+    "name": "Smulweb",
+    "url": "http://www.smulweb.nl/recepten/{{{s}}}"
+  },
+  {
+    "bang": "spoonacular",
+    "name": "spoonacular",
+    "url": "https://spoonacular.com/{{{s}}}"
+  },
+  {
+    "bang": "tasteline",
+    "name": "Tasteline",
+    "url": "http://www.tasteline.com/ReceptSok/{{{s}}}"
+  },
+  {
+    "bang": "traeger",
+    "name": "Traeger Pellet Grill Recipes",
+    "url": "https://www.traegergrills.com/recipes?types=RecipeDetail&term={{{s}}}"
+  },
+  {
+    "bang": "tudogostoso",
+    "name": "Tudo Gostoso",
+    "url": "http://www.tudogostoso.com.br/busca?q={{{s}}}"
+  },
+  {
+    "bang": "vivino",
+    "name": "Vivino",
+    "url": "https://www.vivino.com/search/wines?q={{{s}}}"
+  },
+  {
+    "bang": "wapf",
+    "name": "Weston A Price Foundation",
+    "url": "https://www.westonaprice.org/?s={{{s}}}"
+  },
+  {
+    "bang": "whfoods",
+    "name": "The World's Healthiest Foods",
+    "url": "http://whfoods.org/sitesearch.php?sstr={{{s}}}&how=1"
+  },
+  {
+    "bang": "wikicook",
+    "name": "Wiki Cookbook",
+    "url": "https://en.wikibooks.org/wiki/Special:Search?search={{{s}}}&prefix=Cookbook%3A&fulltext=Search+Cookbook&fulltext=Search"
+  },
+  {
+    "bang": "yelpsd",
+    "name": "Yelp San Diego",
+    "url": "http://www.yelp.com/search?find_desc={{{s}}}&find_loc=san+diego&ns=1"
+  },
+  {
+    "bang": "yelp",
+    "name": "Yelp",
+    "url": "http://www.yelp.com/search?find_desc={{{s}}}&ns=1&rpp=10&find_loc="
+  },
+  {
+    "bang": "yummly",
+    "name": "Yummly",
+    "url": "http://www.yummly.com/recipes?q={{{s}}}"
+  },
+  {
+    "bang": "yum",
+    "name": "Yummly",
+    "url": "http://www.yummly.com/recipes?q={{{s}}}"
+  }
+]

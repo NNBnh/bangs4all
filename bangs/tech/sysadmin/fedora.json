@@ -1,0 +1,62 @@
+[
+  {
+    "bang": "askfedora",
+    "name": "Ask Fedora",
+    "url": "https://ask.fedoraproject.org/en/questions/scope:all/sort:activity-desc/page:1/query:{{{s}}}"
+  },
+  {
+    "bang": "copr",
+    "name": "Fedora Copr",
+    "url": "http://copr.fedoraproject.org/coprs/fulltext/?fulltext={{{s}}}"
+  },
+  {
+    "bang": "dnf",
+    "name": "DNF Documentation",
+    "url": "https://dnf.readthedocs.io/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "fedkojip",
+    "name": "Fedora: Koji package search",
+    "url": "https://koji.fedoraproject.org/koji/search?match=glob&type=package&terms={{{s}}}"
+  },
+  {
+    "bang": "fedman",
+    "name": "Fedora Manuals",
+    "url": "http://linuxmanpages.net/search.py?q={{{s}}}"
+  },
+  {
+    "bang": "fedora",
+    "name": "Fedora wiki",
+    "url": "https://fedoraproject.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "fedorapkg",
+    "name": "Fedora Package DB",
+    "url": "https://apps.fedoraproject.org/packages/s/{{{s}}}"
+  },
+  {
+    "bang": "fedorawiki",
+    "name": "Fedora Project",
+    "url": "https://fedoraproject.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "fedpack",
+    "name": "Fedora Package Search",
+    "url": "https://apps.fedoraproject.org/packages/s/{{{s}}}"
+  },
+  {
+    "bang": "kojipkg",
+    "name": "Fedora Koji",
+    "url": "http://koji.fedoraproject.org/koji/search?match=glob&type=package&terms={{{s}}}"
+  },
+  {
+    "bang": "rpmfusion",
+    "name": "RPMFusion Packages",
+    "url": "https://admin.rpmfusion.org/pkgdb/packages/{{{s}}}"
+  },
+  {
+    "bang": "rpms",
+    "name": "Fedora Package Sources",
+    "url": "https://src.fedoraproject.org/rpms/{{{s}}}"
+  }
+]

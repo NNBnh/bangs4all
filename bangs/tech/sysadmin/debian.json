@@ -1,0 +1,192 @@
+[
+  {
+    "bang": "bts",
+    "name": "Debian Bug Tracking System",
+    "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug={{{s}}}"
+  },
+  {
+    "bang": "dbts",
+    "name": "Debian Bug Tracking System",
+    "url": "https://bugs.debian.org/{{{s}}}"
+  },
+  {
+    "bang": "dbugs",
+    "name": "Debian Bugs",
+    "url": "http://bugs.debian.org/{{{s}}}"
+  },
+  {
+    "bang": "ddev",
+    "name": "Debian Developer's pkgs overview",
+    "url": "https://qa.debian.org/developer.php?login={{{s}}}"
+  },
+  {
+    "bang": "debbug",
+    "name": "Debian Bugs",
+    "url": "http://bugs.debian.org/{{{s}}}"
+  },
+  {
+    "bang": "debbuildd",
+    "name": "Debian Package Auto-Building",
+    "url": "http://buildd.debian.org/status/package.php?p={{{s}}}"
+  },
+  {
+    "bang": "debcontent",
+    "name": "Debian Packages",
+    "url": "https://packages.debian.org/search?searchon=contents&keywords={{{s}}}&mode=path&suite=unstable&arch=any"
+  },
+  {
+    "bang": "debfiles",
+    "name": "Debian",
+    "url": "https://packages.debian.org/search?searchon=contents&keywords={{{s}}}"
+  },
+  {
+    "bang": "debian",
+    "name": "Debian",
+    "url": "http://search.debian.org/cgi-bin/omega?DB=en&P={{{s}}}"
+  },
+  {
+    "bang": "debianforums",
+    "name": "Debian Forums",
+    "url": "http://forums.debian.net/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "debianizzati",
+    "name": "Forum Debianizzati.org",
+    "url": "http://forum.debianizzati.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "bang": "debman",
+    "name": "Debian Manpages",
+    "url": "https://dyn.manpages.debian.org/jump?q={{{s}}}"
+  },
+  {
+    "bang": "debmla",
+    "name": "Debian mailing list archives",
+    "url": "http://lists.debian.org/debian-{{{s}}}"
+  },
+  {
+    "bang": "debml",
+    "name": "Debian Mailing Lists",
+    "url": "http://lists.debian.org/cgi-bin/search?query={{{s}}}&DEFAULTOP=and&author=&sort=relevance&HITSPERPAGE=10&language=en"
+  },
+  {
+    "bang": "debpc",
+    "name": "Debian Popularity Contest Statistics",
+    "url": "https://qa.debian.org/popcon.php?package={{{s}}}"
+  },
+  {
+    "bang": "debsnap",
+    "name": "snapshot.debian.org",
+    "url": "http://snapshot.debian.org/binary/{{{s}}}"
+  },
+  {
+    "bang": "debtracker",
+    "name": "Debian Package Tracker",
+    "url": "https://tracker.debian.org/search?package_name={{{s}}}"
+  },
+  {
+    "bang": "debwiki",
+    "name": "debian.org",
+    "url": "http://wiki.debian.org/FrontPage?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "bang": "dfiles",
+    "name": "Debian file search",
+    "url": "http://packages.debian.org/search?section=all&arch=any&searchon=contents&keywords={{{s}}} "
+  },
+  {
+    "bang": "dman",
+    "name": "Debian Manual Pages",
+    "url": "https://dyn.manpages.debian.org/jump?q={{{s}}}"
+  },
+  {
+    "bang": "dmo",
+    "name": "Deb-Multimedia",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site%3Adeb-multimedia.org%2Fpool%2F"
+  },
+  {
+    "bang": "dpackages",
+    "name": "Debian Packages",
+    "url": "http://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "dpkg",
+    "name": "Debian Packages",
+    "url": "http://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "bang": "dpmt",
+    "name": "Debian Python Modules Team git repo",
+    "url": "https://anonscm.debian.org/git/python-modules/packages/{{{s}}}.git"
+  },
+  {
+    "bang": "dpts",
+    "name": "Debian Packages",
+    "url": "https://tracker.debian.org/pkg/{{{s}}}"
+  },
+  {
+    "bang": "dsbin",
+    "name": "snapshot.debian.org",
+    "url": "http://snapshot.debian.org/binary/?bin={{{s}}}"
+  },
+  {
+    "bang": "dsource",
+    "name": "Debian Code Search",
+    "url": "https://codesearch.debian.net/search?q={{{s}}}"
+  },
+  {
+    "bang": "dssrc",
+    "name": "snapshot.debian.org",
+    "url": "http://snapshot.debian.org/package/?src={{{s}}}"
+  },
+  {
+    "bang": "dst",
+    "name": "Debian Security Tracker",
+    "url": "https://security-tracker.debian.org/tracker/{{{s}}}"
+  },
+  {
+    "bang": "dtag",
+    "name": "DebTags",
+    "url": "http://debtags.debian.net/search/?q={{{s}}}"
+  },
+  {
+    "bang": "dtr",
+    "name": "Debian Package Tracker",
+    "url": "https://tracker.debian.org/pkg/{{{s}}}"
+  },
+  {
+    "bang": "exploitdb",
+    "name": "exploit-db",
+    "url": "https://www.exploit-db.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "fanch",
+    "name": "Quick Troll Hosted",
+    "url": "http://www.qth.fr/?s={{{s}}}"
+  },
+  {
+    "bang": "linux",
+    "name": "Explicativo Linux",
+    "url": "https://explicativolinux.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "bang": "salsa",
+    "name": "Debian Salsa",
+    "url": "https://salsa.debian.org/search?search={{{s}}}"
+  },
+  {
+    "bang": "tails",
+    "name": "Tails - The Amnesic Incognito Live System",
+    "url": "https://tails.boum.org/ikiwiki.cgi?P={{{s}}}"
+  },
+  {
+    "bang": "tkw",
+    "name": "Thomas-Krenn-Wiki",
+    "url": "https://www.thomas-krenn.com/de/wiki/Spezial:Suchergebnisseite?type=mediawiki_page&q={{{s}}}"
+  },
+  {
+    "bang": "whonix",
+    "name": "Whonix",
+    "url": "http://kkkkkkkkkk63ava6.onion/w/index.php?search={{{s}}}"
+  }
+]

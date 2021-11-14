@@ -1,0 +1,97 @@
+[
+  {
+    "bang": "cakebook",
+    "name": "CakePHP Cakebook 3.x",
+    "url": "https://book.cakephp.org/3.0/en/search.html?check_keywords=yes&area=default&q={{{s}}}"
+  },
+  {
+    "bang": "cake",
+    "name": "CakePHP API",
+    "url": "http://api.cakephp.org/search/{{{s}}}"
+  },
+  {
+    "bang": "japi",
+    "name": "Joomla! API",
+    "url": "https://duckduckgo.com/?q=site%3Aapi.joomla.org+{{{s}}}"
+  },
+  {
+    "bang": "kx",
+    "name": "http://kodexploit.com",
+    "url": "http://kodexploit.com/blog/search?search={{{s}}}"
+  },
+  {
+    "bang": "laracasts",
+    "name": "Laracasts",
+    "url": "https://laracasts.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "laravel",
+    "name": "Laravel",
+    "url": "https://laravel.com/docs/{{{s}}}"
+  },
+  {
+    "bang": "learndev",
+    "name": "PHP Tutorial",
+    "url": "https://php.learndev.info/?q={{{s}}}"
+  },
+  {
+    "bang": "magento",
+    "name": "Magento",
+    "url": "https://magento.com/search/gss/{{{s}}}"
+  },
+  {
+    "bang": "magsx",
+    "name": "http://magento.stackexchange.com",
+    "url": "http://magento.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "packagist",
+    "name": "Packagist",
+    "url": "https://packagist.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pack",
+    "name": "Packagist",
+    "url": "https://packagist.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pecl",
+    "name": "PECL :: The PHP Extension Community Library",
+    "url": "http://pecl.php.net/package-search.php?pkg_name={{{s}}}"
+  },
+  {
+    "bang": "phalcondoc",
+    "name": "Phalcon Docs",
+    "url": "https://cse.google.com/cse?cx=009733439235723428699:lh9ltjgvdz8&q=validation&oq=validation&gs_l=partner.3...77240.79724.1.80133.10.10.0.0.0.0.325.1627.4j2j1j3.10.0.gsnos%2Cn%3D13...0.2495j1017187j10..1ac.1.25.partner..10.0.0.XePJcoeor8s#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1"
+  },
+  {
+    "bang": "phpnet",
+    "name": "PHP.net",
+    "url": "https://secure.php.net/manual-lookup.php?pattern={{{s}}}"
+  },
+  {
+    "bang": "php",
+    "name": "PHP.net",
+    "url": "https://secure.php.net/manual-lookup.php?pattern={{{s}}}"
+  },
+  {
+    "bang": "sf2",
+    "name": "Symfony Framework",
+    "url": "http://symfony.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "smarty",
+    "name": "Smarty",
+    "url": "http://www.smarty.net/search?q={{{s}}}&show=manual-en&x=0&y=0"
+  },
+  {
+    "bang": "yii",
+    "name": "Yii Framework",
+    "url": "http://www.yiiframework.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "zf",
+    "name": "zend framework",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:framework.zend.com"
+  }
+]

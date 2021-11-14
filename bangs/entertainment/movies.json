@@ -1,0 +1,842 @@
+[
+  {
+    "bang": "0bo",
+    "name": "Box Office Mojo",
+    "url": "http://boxofficemojo.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ac",
+    "name": "Allocin\u00e9",
+    "url": "http://www.allocine.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "bang": "allmovie",
+    "name": "AllMovie",
+    "url": "http://allmovie.com/search/all/{{{s}}}"
+  },
+  {
+    "bang": "allo",
+    "name": "Allocin\u00e9",
+    "url": "http://www.allocine.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "bang": "allocine",
+    "name": "Allocine.com",
+    "url": "http://www.allocine.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "bang": "allocin\u00e9",
+    "name": "Allocin\u00e9",
+    "url": "http://www.allocine.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "bang": "anilist",
+    "name": "anilist.co",
+    "url": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search={{{s}}}"
+  },
+  {
+    "bang": "apln",
+    "name": "Animeplanet",
+    "url": "https://www.anime-planet.com/anime/all?name={{{s}}}"
+  },
+  {
+    "bang": "appletrailer",
+    "name": "Apple Trailers",
+    "url": "http://duckduckgo.com/?q=site:trailers.apple.com%20{{{s}}}"
+  },
+  {
+    "bang": "asianwiki",
+    "name": "AsianWiki",
+    "url": "http://asianwiki.com/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "bang": "atom",
+    "name": "Atom Tickets",
+    "url": "https://www.atomtickets.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "av",
+    "name": "A.V. Club",
+    "url": "https://www.avclub.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "avclub",
+    "name": "The A.V. Club",
+    "url": "https://www.avclub.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "bacon",
+    "name": "Oracle of Bacon",
+    "url": "http://oracleofbacon.org/cgi-bin/movielinks?a=Kevin+Bacon&b={{{s}}}"
+  },
+  {
+    "bang": "bbfc",
+    "name": "British Board of Film Classification",
+    "url": "http://www.bbfc.co.uk/search/releases/{{{s}}}"
+  },
+  {
+    "bang": "bcdb",
+    "name": "The Big Cartoon Database",
+    "url": "http://www.bcdb.com/bcdb/search.cgi?query={{{s}}}&amp;bool=and&amp;substring=1"
+  },
+  {
+    "bang": "bfi",
+    "name": "British Film Institute",
+    "url": "https://www.bfi.org.uk/search/search-bfi/{{{s}}}"
+  },
+  {
+    "bang": "bluray",
+    "name": "Blu-ray.com",
+    "url": "http://www.blu-ray.com/search/?quicksearch=1&quicksearch_country=all&quicksearch_keyword={{{s}}}&section=bluraymovies"
+  },
+  {
+    "bang": "bom",
+    "name": "Box Office Mojo",
+    "url": "http://www.boxofficemojo.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "bookmyshow",
+    "name": "BookMY Show",
+    "url": "http://in.bookmyshow.com/search/results/?_s=0.2&search={{{s}}}"
+  },
+  {
+    "bang": "canistream",
+    "name": "Can I Stream It?",
+    "url": "http://www.canistream.it/search/term/{{{s}}}"
+  },
+  {
+    "bang": "canistreamit",
+    "name": "Can I Stream It",
+    "url": "http://www.canistream.it/search/term/{{{s}}}"
+  },
+  {
+    "bang": "canistreammovie",
+    "name": "canistream.it",
+    "url": "http://www.canistream.it/search/movie/{{{s}}}"
+  },
+  {
+    "bang": "cck",
+    "name": "cinemaclock",
+    "url": "http://cinemaclock.com/search?r=bri&m=Vancouver&key={{{s}}} "
+  },
+  {
+    "bang": "cif",
+    "name": "Cinema In Focus",
+    "url": "http://www.cinemainfocus.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cine",
+    "name": "Cinemassacre",
+    "url": "http://cinemassacre.com/?s={{{s}}}&search.x=0&search.y=0"
+  },
+  {
+    "bang": "cinemagay",
+    "name": "CinemaGay",
+    "url": "http://www.cinemagay.it/ricerca.asp?tipo=0&campo={{{s}}}&Submit=Cerca"
+  },
+  {
+    "bang": "cnplx",
+    "name": "Cineplex",
+    "url": "http://www.cineplex.com/search-2015?search-query={{{s}}}"
+  },
+  {
+    "bang": "cric",
+    "name": "Criterion Channel",
+    "url": "https://www.criterionchannel.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "cri",
+    "name": "The Criterion Collection",
+    "url": "https://www.criterion.com/search#stq={{{s}}}"
+  },
+  {
+    "bang": "criticker",
+    "name": "Criticker",
+    "url": "https://www.criticker.com/?search={{{s}}}&type=films"
+  },
+  {
+    "bang": "crs",
+    "name": "Crunchyroll",
+    "url": "http://www.crunchyroll.com/search?from=&q={{{s}}}"
+  },
+  {
+    "bang": "cultureunplugged",
+    "name": "CultureUnplugged.com",
+    "url": "http://www.cultureunplugged.com/festival/gsearch.php?cx=006605354541519765965:qm01kqkdyrq&cof=FORID:10;NB:1&ie=UTF-8&q={{{s}}}&sa.x=0&sa.y=0"
+  },
+  {
+    "bang": "dbm",
+    "name": "Douban Movie",
+    "url": "https://movie.douban.com/subject_search?search_text={{{s}}}"
+  },
+  {
+    "bang": "dbmovie",
+    "name": "Douban",
+    "url": "https://movie.douban.com/subject_search?search_text={{{s}}}&cat=1002"
+  },
+  {
+    "bang": "doubanmovie",
+    "name": "Douban Movie",
+    "url": "https://movie.douban.com/subject_search?search_text={{{s}}}"
+  },
+  {
+    "bang": "dpc",
+    "name": "DVDpasCher",
+    "url": "http://dvdpascher.net/recherche/?q={{{s}}}"
+  },
+  {
+    "bang": "dvdfr",
+    "name": "DVDFr",
+    "url": "http://www.dvdfr.com/search/search.php?produit=all&title={{{s}}}"
+  },
+  {
+    "bang": "ebert",
+    "name": "RogerEbert.com",
+    "url": "https://www.rogerebert.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "empire",
+    "name": "Empire",
+    "url": "http://www.empireonline.com/search/default.asp?search={{{s}}}"
+  },
+  {
+    "bang": "ew",
+    "name": "Entertainment Weekly",
+    "url": "https://duckduckgo.com/?q=site%3Aew.com+{{{s}}}"
+  },
+  {
+    "bang": "faff",
+    "name": "Film Affinity",
+    "url": "http://www.filmaffinity.com/es/search.php?stext={{{s}}} &stype=all"
+  },
+  {
+    "bang": "faf",
+    "name": "Filmaffinity",
+    "url": "http://www.filmaffinity.com/es/advsearch2.php?cx=008177178803676006601%3A6zmc6j5pngs&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}:"
+  },
+  {
+    "bang": "fa",
+    "name": "FilmAffinity",
+    "url": "http://www.filmaffinity.com/es/search.php?stext={{{s}}}&stype=all"
+  },
+  {
+    "bang": "fandango",
+    "name": "Fandango",
+    "url": "http://www.fandango.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "fastube",
+    "name": "Fastu.be",
+    "url": "http://fastu.be/{{{s}}}"
+  },
+  {
+    "bang": "fdb",
+    "name": "Filmov\u00e1 Datab\u00e1ze",
+    "url": "http://www.fdb.cz/vyhledavani.php?co=vsechno&hledat={{{s}}}"
+  },
+  {
+    "bang": "fdbpl",
+    "name": "fdb.pl",
+    "url": "https://fdb.pl/szukaj?utf8=\u2713&query={{{s}}}"
+  },
+  {
+    "bang": "ffc",
+    "name": "Found Footage Critic",
+    "url": "http://foundfootagecritic.com/?s={{{s}}}"
+  },
+  {
+    "bang": "filmaffinityes",
+    "name": "filmaffinity espa\u00f1a",
+    "url": "https://m.filmaffinity.com/es/search.php?stext={{{s}}}"
+  },
+  {
+    "bang": "filmaffinity",
+    "name": "https://www.filmaffinity.com",
+    "url": "https://www.filmaffinity.com/en/search.php?stext={{{s}}}"
+  },
+  {
+    "bang": "filmanic",
+    "name": "Filmanic",
+    "url": "https://filmanic.com/search-for-movies-actors-directors/?q={{{s}}}"
+  },
+  {
+    "bang": "filmart",
+    "name": "FilmArt Gallery",
+    "url": "https://filmartgallery.com/pages/search-results?q={{{s}}}"
+  },
+  {
+    "bang": "filmportal.de",
+    "name": "filmportal.de",
+    "url": "https://www.filmportal.de/search?search_api_fulltext={{{s}}}"
+  },
+  {
+    "bang": "filmracket",
+    "name": "http://filmracket.com",
+    "url": "http://filmracket.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "bang": "films",
+    "name": "FilmsAreCool",
+    "url": "http://www.filmsarecool.com/#search={{{s}}} "
+  },
+  {
+    "bang": "filmstarts",
+    "name": "Filmstarts",
+    "url": "http://www.filmstarts.de/suche/?q={{{s}}}"
+  },
+  {
+    "bang": "filmtvde",
+    "name": "FILM.TV",
+    "url": "https://www.film.tv/google-suchergebnisse.html?cx=partner-pub-3004436243331931%3A1982226405&query={{{s}}}"
+  },
+  {
+    "bang": "filmtv",
+    "name": "FilmTV.it",
+    "url": "http://www.filmtv.it/cerca/?q={{{s}}}"
+  },
+  {
+    "bang": "filmweb",
+    "name": "Filmweb",
+    "url": "http://www.filmweb.pl/search?q={{{s}}}"
+  },
+  {
+    "bang": "findanyfilm",
+    "name": "FindAnyFilm",
+    "url": "http://www.findanyfilm.com/search?term={{{s}}}"
+  },
+  {
+    "bang": "finnkinoen",
+    "name": "Finnkino",
+    "url": "http://www.finnkino.fi/eng/Search/?query={{{s}}}"
+  },
+  {
+    "bang": "finnkino",
+    "name": "Finnkino",
+    "url": "http://www.finnkino.fi/Search?query={{{s}}}"
+  },
+  {
+    "bang": "flickchart",
+    "name": "Flickchart",
+    "url": "http://www.flickchart.com/SearchResults.aspx?s={{{s}}}"
+  },
+  {
+    "bang": "flicks",
+    "name": "Flicks.co.nz",
+    "url": "https://www.flicks.co.nz/search/?q={{{s}}}"
+  },
+  {
+    "bang": "flix",
+    "name": "Flixster",
+    "url": "http://www.flixster.com/search/?search={{{s}}} "
+  },
+  {
+    "bang": "fup",
+    "name": "FilmUP.com",
+    "url": "http://filmup.leonardo.it/cgi-bin/search.cgi?ps=10&fmt=long&sy=0&q={{{s}}}"
+  },
+  {
+    "bang": "fwb",
+    "name": "Filmweb",
+    "url": "https://www.filmweb.pl/search?q={{{s}}}"
+  },
+  {
+    "bang": "goodfilms",
+    "name": "Goodfil.ms",
+    "url": "http://goodfil.ms/search?term={{{s}}}"
+  },
+  {
+    "bang": "gwi",
+    "name": "Gowatchit",
+    "url": "https://gowatchit.com/search?terms={{{s}}}"
+  },
+  {
+    "bang": "harrypotter",
+    "name": "Harry Potter wiki",
+    "url": "http://harrypotter.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "hoh",
+    "name": "Heaven of Horror",
+    "url": "https://www.heavenofhorror.com/?s={{{s}}}"
+  },
+  {
+    "bang": "hotstar",
+    "name": "Hotstar",
+    "url": "http://www.hotstar.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "icheckmovies",
+    "name": "iCheckMovies",
+    "url": "http://www.icheckmovies.com/search/movies/?query={{{s}}}"
+  },
+  {
+    "bang": "icm",
+    "name": "iCheckMovies",
+    "url": "http://www.icheckmovies.com/search/movies/?query={{{s}}}"
+  },
+  {
+    "bang": "imbd",
+    "name": "IMBD",
+    "url": "http://www.imdb.com/find?q={{{s}}}&s=all"
+  },
+  {
+    "bang": "imdba",
+    "name": "IMDb (Internet Movie Database)",
+    "url": "http://www.imdb.com/find?ref_=nv_sr_fn&q={{{s}}}&s=nm"
+  },
+  {
+    "bang": "imdbk",
+    "name": "IMDb Keywords",
+    "url": "http://www.imdb.com/find?s=kw&q={{{s}}}"
+  },
+  {
+    "bang": "imdbm",
+    "name": "IMDb Mobile",
+    "url": "https://m.imdb.com/find?q={{{s}}}"
+  },
+  {
+    "bang": "imdbn",
+    "name": "IMDB name",
+    "url": "http://www.imdb.com/find?s=nm&q={{{s}}}"
+  },
+  {
+    "bang": "imdbp",
+    "name": "IMDB pro",
+    "url": "http://pro-labs.imdb.com/find?q={{{s}}} "
+  },
+  {
+    "bang": "imdbs",
+    "name": "IMDB Showtimes",
+    "url": "http://imdb.com/showtimes/US/{{{s}}}"
+  },
+  {
+    "bang": "imd",
+    "name": "IMDb",
+    "url": "http://www.imdb.com/find?q={{{s}}}+&s=all"
+  },
+  {
+    "bang": "impdb",
+    "name": "Internet Movie Plane Database",
+    "url": "http://impdb.org/index.php?search={{{s}}}"
+  },
+  {
+    "bang": "iw",
+    "name": "instantwatcher",
+    "url": "http://instantwatcher.com/search?content_type=1+2&source=1+2+3&q={{{s}}}"
+  },
+  {
+    "bang": "justwatch",
+    "name": "JustWatch",
+    "url": "https://www.justwatch.com/us/search?q={{{s}}}"
+  },
+  {
+    "bang": "jwi",
+    "name": "JustWatch India",
+    "url": "https://www.justwatch.com/in/search?q={{{s}}}"
+  },
+  {
+    "bang": "kg",
+    "name": "KG-Portal",
+    "url": "http://kg-portal.ru/?search&s_str= {{{s}}}"
+  },
+  {
+    "bang": "kidsinmind",
+    "name": "http://www.kids-in-mind.com",
+    "url": "http://www.kids-in-mind.com/cgi-bin/search/search.pl?q={{{s}}} "
+  },
+  {
+    "bang": "kim",
+    "name": "Kids In Mind",
+    "url": "https://kids-in-mind.com/?s={{{s}}}"
+  },
+  {
+    "bang": "kinderfilmliste",
+    "name": "KinderFilmListe.de",
+    "url": "http://www.kinderfilmliste.de/?suche={{{s}}}"
+  },
+  {
+    "bang": "kodi",
+    "name": "Kodi Wiki",
+    "url": "http://kodi.wiki/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "bang": "kpoisk",
+    "name": "Kinopoisk",
+    "url": "http://www.kinopoisk.ru/index.php?first=no&what=&kp_query={{{s}}}"
+  },
+  {
+    "bang": "laemmle",
+    "name": "Laemmle",
+    "url": "https://www.laemmle.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "lb",
+    "name": "letterboxd",
+    "url": "https://letterboxd.com/search/{{{s}}}"
+  },
+  {
+    "bang": "lbx",
+    "name": "Letterboxd",
+    "url": "https://letterboxd.com/search/{{{s}}}"
+  },
+  {
+    "bang": "lddb",
+    "name": "LaserDisc Database",
+    "url": "http://www.lddb.com/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "letterboxd",
+    "name": "Letterboxd",
+    "url": "http://letterboxd.com/search/films/{{{s}}}"
+  },
+  {
+    "bang": "libreflix",
+    "name": "Libreflix",
+    "url": "https://www.libreflix.org/busca/{{{s}}}"
+  },
+  {
+    "bang": "listal",
+    "name": "Listal",
+    "url": "http://www.listal.com/search/{{{s}}}"
+  },
+  {
+    "bang": "ltr",
+    "name": "Letterboxd",
+    "url": "http://letterboxd.com/search/{{{s}}}"
+  },
+  {
+    "bang": "mal",
+    "name": "My Anime List",
+    "url": "https://myanimelist.net/anime.php?q={{{s}}}"
+  },
+  {
+    "bang": "mcs",
+    "name": "Movie-Censorship.com",
+    "url": "http://www.movie-censorship.com/list.php?s={{{s}}}"
+  },
+  {
+    "bang": "mcu",
+    "name": "Marvel Cinematic Universe wiki",
+    "url": "http://marvelcinematicuniverse.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "bang": "mcv",
+    "name": "MovieCovers",
+    "url": "http://moviecovers.com/multicrit.html?titre={{{s}}}"
+  },
+  {
+    "bang": "mme",
+    "name": "MetroMatinee",
+    "url": "https://metromatinee.com/search/{{{s}}}"
+  },
+  {
+    "bang": "mmi",
+    "name": "My Movies Italia",
+    "url": "http://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca "
+  },
+  {
+    "bang": "mojo",
+    "name": "Box Office Mojo",
+    "url": "http://boxofficemojo.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "mopi",
+    "name": "moviepilot",
+    "url": "https://www.moviepilot.de/suche?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "morbo",
+    "name": "Morbotron",
+    "url": "https://morbotron.com/?q={{{s}}}"
+  },
+  {
+    "bang": "moviefone",
+    "name": "Moviefone",
+    "url": "https://www.moviefone.com/search/{{{s}}}"
+  },
+  {
+    "bang": "movieguide",
+    "name": "MovieGuide",
+    "url": "http://www.movieguide.org/?s={{{s}}}&submit.x=0&submit.y=0&submit=Search&key=hs"
+  },
+  {
+    "bang": "moviemeter",
+    "name": "Movie Meter",
+    "url": "https://www.moviemeter.nl/site/search?q={{{s}}}"
+  },
+  {
+    "bang": "moviepilotm",
+    "name": "Moviepilot Mobile",
+    "url": "http://m.moviepilot.de/suche?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "moviepilot",
+    "name": "Moviepilot",
+    "url": "http://www.moviepilot.de/suche?utf8=\u2713&q={{{s}}}"
+  },
+  {
+    "bang": "movies",
+    "name": "Atom Tickets",
+    "url": "https://www.atomtickets.com/search?query={{{s}}}"
+  },
+  {
+    "bang": "movieweb",
+    "name": "Movie Web",
+    "url": "http://www.movieweb.com/search?search={{{s}}}"
+  },
+  {
+    "bang": "movl",
+    "name": "MovieLens",
+    "url": "https://movielens.org/explore?q={{{s}}}"
+  },
+  {
+    "bang": "mrqe",
+    "name": "the Movie Review Query Engine",
+    "url": "http://www.mrqe.com/search?utf8=%E2%9C%93&q={{{s}}} "
+  },
+  {
+    "bang": "mubi",
+    "name": "Mubi",
+    "url": "http://mubi.com/search/results?cx=016360985607050269103%3Acmmod4epzpo&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "bang": "mym",
+    "name": "MYmovies",
+    "url": "http://www.mymovies.it/database/ricerca/?q={{{s}}}"
+  },
+  {
+    "bang": "mymovies",
+    "name": "MYmovies",
+    "url": "http://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca"
+  },
+  {
+    "bang": "netflixdvd",
+    "name": "Netflix DVD",
+    "url": "https://dvd.netflix.com/Search?v1={{{s}}}"
+  },
+  {
+    "bang": "netflix",
+    "name": "Netflix",
+    "url": "https://www.netflix.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "net",
+    "name": "Netfilx",
+    "url": "https://www.netflix.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "nfb",
+    "name": "National Film Board of Canada",
+    "url": "https://www.nfb.ca/search/#?queryString={{{s}}}&index=0&language=en"
+  },
+  {
+    "bang": "nf",
+    "name": "Netflix",
+    "url": "https://www.netflix.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "ofdb",
+    "name": "Online Film Datenbank",
+    "url": "http://www.ofdb.de/view.php?SText={{{s}}}&Kat=All&page=suchergebnis"
+  },
+  {
+    "bang": "omdb",
+    "name": "Open Media Database",
+    "url": "https://www.omdb.org/search?search%5Btext%5D={{{s}}}"
+  },
+  {
+    "bang": "omelete",
+    "name": "omelete",
+    "url": "https://omelete.uol.com.br/busca/?q={{{s}}}"
+  },
+  {
+    "bang": "pathe",
+    "name": "Pathe",
+    "url": "https://www.pathe.nl/Zoek?q={{{s}}}"
+  },
+  {
+    "bang": "pluggedin",
+    "name": "Plugged In",
+    "url": "https://www.pluggedin.com/search/?q={{{s}}}&i=titles&p=0&l=20&c=%7B%7D"
+  },
+  {
+    "bang": "plug",
+    "name": "pluggedin",
+    "url": "http://www.pluggedin.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "porthu",
+    "name": "PORT.hu",
+    "url": "http://port.hu/kereso?q={{{s}}}"
+  },
+  {
+    "bang": "posterspy",
+    "name": "PosterSpy",
+    "url": "https://posterspy.com/posters/?s={{{s}}}&post_type=poster"
+  },
+  {
+    "bang": "primevideo",
+    "name": "Amazon Prime Video",
+    "url": "https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dprime-instant-video&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "primevideojp",
+    "name": "amazon prime video jp",
+    "url": "https://www.amazon.co.jp/s/?url=search-alias%3Dinstant-video&field-keywords={{{s}}}"
+  },
+  {
+    "bang": "redbox",
+    "name": "RedBox",
+    "url": "http://www.redbox.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "reelviews",
+    "name": "Reelviews",
+    "url": "http://www.reelviews.net/search/{{{s}}}"
+  },
+  {
+    "bang": "rogerebert",
+    "name": "Roger Ebert",
+    "url": "http://www.rogerebert.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "bang": "rottentomato",
+    "name": "Rotten Tomato",
+    "url": "http://www.rottentomatoes.com/search/?search={{{s}}}"
+  },
+  {
+    "bang": "rymf",
+    "name": "Rate Your Music",
+    "url": "https://rateyourmusic.com/search?searchtype=F&searchterm={{{s}}}"
+  },
+  {
+    "bang": "sandiamesa",
+    "name": "Sandia Mesa Animation Studios",
+    "url": "https://sandiamesa.com/?s={{{s}}}"
+  },
+  {
+    "bang": "scarecrow",
+    "name": "Scarecrow Video",
+    "url": "https://www.scarecrow.com/45/search.html?keywords={{{s}}}"
+  },
+  {
+    "bang": "shikimori",
+    "name": "Shikimori",
+    "url": "https://shikimori.org/animes?search={{{s}}}"
+  },
+  {
+    "bang": "shiki",
+    "name": "Shikimori",
+    "url": "https://shikimori.org/animes?search={{{s}}}"
+  },
+  {
+    "bang": "shm",
+    "name": "Shikimori",
+    "url": "https://shikimori.org/animes?search={{{s}}}"
+  },
+  {
+    "bang": "sinemalar",
+    "name": "Sinemalar",
+    "url": "http://www.sinemalar.com/ara/?type=all&page=1&q={{{s}}}"
+  },
+  {
+    "bang": "skystore",
+    "name": "Sky Store",
+    "url": "https://www.skystore.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "swdb",
+    "name": "The Spaghetti Western Database",
+    "url": "http://www.spaghetti-western.net/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "bang": "swwiki",
+    "name": "Wookieepedia",
+    "url": "http://starwars.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "bang": "tcfreview",
+    "name": "The Christian Film Review",
+    "url": "https://www.thechristianfilmreview.com/?s={{{s}}}"
+  },
+  {
+    "bang": "thehdroom",
+    "name": "TheHDRoom",
+    "url": "https://www.thehdroom.com/?s={{{s}}}"
+  },
+  {
+    "bang": "themoviedb",
+    "name": "TheMovieDB.org",
+    "url": "http://www.themoviedb.org/search?query={{{s}}}"
+  },
+  {
+    "bang": "tki",
+    "name": "Trakt IMDb",
+    "url": "https://trakt.tv/search/imdb?query={{{s}}}"
+  },
+  {
+    "bang": "tkm",
+    "name": "Trakt Movies",
+    "url": "http://trakt.tv/search/movies?q={{{s}}}"
+  },
+  {
+    "bang": "toramp",
+    "name": "toramp.com",
+    "url": "http://www.toramp.com/search.php?search={{{s}}}"
+  },
+  {
+    "bang": "traileraddict",
+    "name": "Trailer Addict",
+    "url": "http://www.traileraddict.com/search/{{{s}}}"
+  },
+  {
+    "bang": "trailer",
+    "name": "Trailer Addict",
+    "url": "http://www.traileraddict.com/search.php?sitesearch=www.traileraddict.com&q={{{s}}}"
+  },
+  {
+    "bang": "tunefind",
+    "name": "Tunefind",
+    "url": "https://www.tunefind.com/search/site?q={{{s}}}"
+  },
+  {
+    "bang": "unogs",
+    "name": "uNoGS",
+    "url": "http://unogs.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "ve",
+    "name": "VideoETA",
+    "url": "https://videoeta.com/search?utf8=%E2%9C%93&keywords={{{s}}}"
+  },
+  {
+    "bang": "videodetective",
+    "name": "Video Detective",
+    "url": "http://www.videodetective.com/Search/Results?id={{{s}}}"
+  },
+  {
+    "bang": "vudu",
+    "name": "Vudu",
+    "url": "https://www.vudu.com/content/movies/search?searchString={{{s}}}"
+  },
+  {
+    "bang": "werstreamt",
+    "name": "WerStreamt.es",
+    "url": "https://www.werstreamt.es/filme-serien?q={{{s}}}"
+  },
+  {
+    "bang": "wortvogel",
+    "name": "Wortvogel",
+    "url": "http://wortvogel.de/?s={{{s}}}"
+  },
+  {
+    "bang": "yidio",
+    "name": "Yidio",
+    "url": "http://www.yidio.com/search/entertainment/{{{s}}}/1?find={{{s}}}"
+  },
+  {
+    "bang": "youku",
+    "name": "Youku",
+    "url": "http://www.soku.com/search_video/q_{{{s}}}"
+  }
+]

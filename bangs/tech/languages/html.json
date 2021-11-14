@@ -1,0 +1,87 @@
+[
+  {
+    "bang": "caniuse",
+    "name": "Can I use...",
+    "url": "http://caniuse.com/#search={{{s}}}"
+  },
+  {
+    "bang": "ciu",
+    "name": "Can I use...",
+    "url": "http://caniuse.com/#search={{{s}}}"
+  },
+  {
+    "bang": "css",
+    "name": "CSS",
+    "url": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=css"
+  },
+  {
+    "bang": "html2txt",
+    "name": "Html2Txt",
+    "url": "http://www.w3.org/services/html2txt?url={{{s}}}"
+  },
+  {
+    "bang": "html5d",
+    "name": "HTML5 Doctor",
+    "url": "http://html5doctor.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "htmlbook",
+    "name": "htmlbook.ru",
+    "url": "http://htmlbook.ru/search/?as_q={{{s}}}"
+  },
+  {
+    "bang": "mdnhtml",
+    "name": "Mozilla Developer Network",
+    "url": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=html"
+  },
+  {
+    "bang": "pste",
+    "name": "Pste.eu",
+    "url": "https://pste.eu/?q={{{s}}}"
+  },
+  {
+    "bang": "selfhtml",
+    "name": "SELFHTML",
+    "url": "http://de.selfhtml.org/navigation/suche/index.htm?Suchanfrage={{{s}}}"
+  },
+  {
+    "bang": "selfhtmlwiki",
+    "name": "SELFHTML wiki",
+    "url": "http://wiki.selfhtml.org/wiki/Spezial:Suche?search={{{s}}}"
+  },
+  {
+    "bang": "ustyles",
+    "name": "userstyles.org",
+    "url": "https://userstyles.org/styles/browse?search_terms={{{s}}}"
+  },
+  {
+    "bang": "validatornu",
+    "name": "Validator.nu",
+    "url": "https://validator.nu/?doc={{{s}}}"
+  },
+  {
+    "bang": "w3satt",
+    "name": "W3Schools Tag Attributes",
+    "url": "https://www.w3schools.com/tags/att_{{{s}}}.asp"
+  },
+  {
+    "bang": "w3stag",
+    "name": "W3 Schools Tag",
+    "url": "http://www.w3schools.com/tags/tag_{{{s}}}.asp"
+  },
+  {
+    "bang": "w3s",
+    "name": "w3schools.com",
+    "url": "https://duckduckgo.com/?q={{{s}}}+site:w3schools.com"
+  },
+  {
+    "bang": "webcomponents",
+    "name": "webcomponents.org",
+    "url": "https://www.webcomponents.org/search/{{{s}}}"
+  },
+  {
+    "bang": "webref",
+    "name": "WebReference",
+    "url": "https://webref.ru/search/?s={{{s}}}&cx=partner-pub-0708135098984815%3A9970767379&cof=FORID%3A10&ie=UTF-8"
+  }
+]

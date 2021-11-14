@@ -1,0 +1,277 @@
+[
+  {
+    "bang": "bpoi",
+    "name": "Python Bug Tracker",
+    "url": "https://bugs.python.org/issue{{{s}}}"
+  },
+  {
+    "bang": "bpo",
+    "name": "Python Bug Tracker",
+    "url": "https://bugs.python.org/issue?%40columns=id%2Cactivity%2Ctitle%2Ccreator%2Cassignee%2Cstatus%2Ctype&%40sort=-activity&%40filter=status&%40action=searchid&ignore=file%3Acontent&%40search_text={{{s}}}&submit=search&status=-1%2C1%2C2%2C3"
+  },
+  {
+    "bang": "bs4",
+    "name": "Beautifulsoup",
+    "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "ciupy3",
+    "name": "Can I Use Python 3?",
+    "url": "https://caniusepython3.com/project/{{{s}}}"
+  },
+  {
+    "bang": "dj",
+    "name": "Django documentation",
+    "url": "https://docs.djangoproject.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "djlts",
+    "name": "Django Documentation",
+    "url": "https://docs.djangoproject.com/en/2.2/search/?q={{{s}}}"
+  },
+  {
+    "bang": "djpackages",
+    "name": "Django Packages",
+    "url": "http://djangopackages.com/search/?q={{{s}}}"
+  },
+  {
+    "bang": "drf",
+    "name": "Django REST Framework",
+    "url": "http://www.django-rest-framework.org/?q={{{s}}}"
+  },
+  {
+    "bang": "iris",
+    "name": "http://scitools.org.uk/iris/docs/latest/index.html",
+    "url": "http://scitools.org.uk/iris/docs/latest/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "keras",
+    "name": "Keras Documentation",
+    "url": "https://keras.io/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "matplotlib",
+    "name": "matplotlib",
+    "url": "http://matplotlib.sourceforge.net/search.html?q={{{s}}} "
+  },
+  {
+    "bang": "mpl",
+    "name": "matplotlib",
+    "url": "https://matplotlib.org/search.html?q={{{s}}} "
+  },
+  {
+    "bang": "nltk",
+    "name": "Natural Language ToolKit",
+    "url": "http://www.nltk.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "nukepy",
+    "name": "Nuke Dev Guide",
+    "url": "https://docs.thefoundry.co.uk/products/nuke/developers/80/pythondevguide/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "numpy",
+    "name": "numpy",
+    "url": "http://docs.scipy.org/doc/numpy/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "obspydev",
+    "name": "Obspy documentation of development version",
+    "url": "http://docs.obspy.org/master/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "obspy",
+    "name": "Obspy documentation",
+    "url": "http://docs.obspy.org/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "pandas",
+    "name": "Pandas",
+    "url": "http://pandas.pydata.org/pandas-docs/stable/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "pep",
+    "name": "Python PEP",
+    "url": "http://www.python.org/dev/peps/pep-{{{s}}}"
+  },
+  {
+    "bang": "php2py",
+    "name": "Php2Python",
+    "url": "http://www.php2python.com/wiki/search/?search_term={{{s}}} "
+  },
+  {
+    "bang": "pip",
+    "name": "pip",
+    "url": "https://pypi.python.org/pypi?:action=search&term={{{s}}}&submit=search"
+  },
+  {
+    "bang": "py27",
+    "name": "Python 2.7.10 Documentation",
+    "url": "https://docs.python.org/2.7/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "py2",
+    "name": "Docs Python 2",
+    "url": "https://docs.python.org/2.7/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "py34",
+    "name": "Python Documentation",
+    "url": "https://docs.python.org/3.4/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "py36doc",
+    "name": "Python 3.6 Documentation",
+    "url": "https://docs.python.org/3.6/library/{{{s}}}.html"
+  },
+  {
+    "bang": "py3fr",
+    "name": "Python3 Documentation (French)",
+    "url": "https://docs.python.org/fr/3/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "py3k",
+    "name": "Python 3 Docs",
+    "url": "http://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "py3",
+    "name": "Python3 Documentation",
+    "url": "https://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "pybug",
+    "name": "Python Bug Tracker",
+    "url": "https://bugs.python.org/issue?search_text={{{s}}}"
+  },
+  {
+    "bang": "pylm",
+    "name": "PyLint Messages",
+    "url": "http://pylint-messages.wikidot.com/messages:{{{s}}}"
+  },
+  {
+    "bang": "pypa",
+    "name": "pypi.org",
+    "url": "https://pypi.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "pypi",
+    "name": "PyPI",
+    "url": "https://pypi.org/search/?q={{{s}}}"
+  },
+  {
+    "bang": "py",
+    "name": "Python",
+    "url": "https://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "pyqt",
+    "name": "PyQt",
+    "url": "http://pyqt.sourceforge.net/Docs/PyQt5/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "pyside2",
+    "name": "Pyside2 Docs",
+    "url": "https://doc-snapshots.qt.io/qtforpython/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "pyside",
+    "name": "PySide",
+    "url": "http://www.pyside.org/docs/pyside/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "pyspark",
+    "name": "PySpark documentation",
+    "url": "https://spark.apache.org/docs/latest/api/python/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "python26",
+    "name": "Python2.6 Docs",
+    "url": "http://docs.python.org/2.6/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "python27",
+    "name": "Python2.7 Docs",
+    "url": "http://docs.python.org/2.7/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "python2",
+    "name": "Python",
+    "url": "https://docs.python.org/2/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "python30",
+    "name": "Python3.0 Docs",
+    "url": "http://docs.python.org/3.0/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "python31",
+    "name": "Python3.1 Docs",
+    "url": "http://docs.python.org/3.1/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "python32",
+    "name": "Python3.2 Docs",
+    "url": "http://docs.python.org/3.2/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "python3",
+    "name": "Python 3",
+    "url": "https://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "pythondev",
+    "name": "Python dev doc",
+    "url": "http://docs.python.org/dev/search.html?q={{{s}}} "
+  },
+  {
+    "bang": "python",
+    "name": "Python",
+    "url": "https://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "bang": "pyvideo",
+    "name": "pyvideo.org",
+    "url": "http://pyvideo.org/search?models=videos.video&q={{{s}}}"
+  },
+  {
+    "bang": "rpy",
+    "name": "https://www.realpython.com",
+    "url": "https://realpython.com/search?q={{{s}}}"
+  },
+  {
+    "bang": "scipy",
+    "name": "SciPy",
+    "url": "http://docs.scipy.org/doc/scipy/reference/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "skimage",
+    "name": "scikit-image",
+    "url": "http://scikit-image.org/docs/dev/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "sns",
+    "name": "seaborn",
+    "url": "http://seaborn.pydata.org/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "sopy",
+    "name": "Stack Overflow Python",
+    "url": "http://stackoverflow.com/search?q=[python]+{{{s}}}"
+  },
+  {
+    "bang": "sqlalchemy",
+    "name": "SQL Alchemy Docs",
+    "url": "http://www.sqlalchemy.org/docs/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "bang": "tensorflow",
+    "name": "TensorFlow",
+    "url": "https://www.tensorflow.org/s/results/?q={{{s}}}"
+  },
+  {
+    "bang": "tflow",
+    "name": "Tensorflow",
+    "url": "https://www.tensorflow.org/s/results/?q={{{s}}} "
+  }
+]
